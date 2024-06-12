@@ -1,0 +1,28 @@
+[
+    {
+        "uuid": "8c3252d8-60a2-420e-916a-6e5ea48aa823",
+        "userDefinedKey": "7ee4dc8c-acc6-4a34-c464-e3b6a158c11e",
+        "concept": "Ophiuroidea",
+        "height": 197,
+        "observer": "yolov5",
+        "width": 249,
+        "x": 64,
+        "y": 227,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:31.335Z"
+    },
+    {
+        "uuid": "c4a4d35f-4e2f-4b47-8a40-8450f7ac37cd",
+        "userDefinedKey": "ef1a09aa-b535-4133-be64-e3b6a158c11e",
+        "concept": "Careproctus ovigerus",
+        "height": 305,
+        "observer": "lonny",
+        "width": 177,
+        "x": 477,
+        "y": 62,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:31.335Z"
+    }
+]

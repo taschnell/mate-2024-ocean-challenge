@@ -1,0 +1,80 @@
+[
+    {
+        "uuid": "850b419e-94af-4944-8321-82afc3c4cc18",
+        "userDefinedKey": "fe3d445b-a2d8-4d40-3961-3c720e58c11e",
+        "concept": "Peniagone",
+        "height": 66,
+        "observer": "yolov5",
+        "width": 81,
+        "x": 678,
+        "y": 730,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:34.171Z"
+    },
+    {
+        "uuid": "9533db8c-5573-4a48-b035-f0aec45134ea",
+        "userDefinedKey": "01ee1044-268b-4fcb-3d61-3c720e58c11e",
+        "concept": "Elpidia",
+        "height": 68,
+        "observer": "yolov5",
+        "width": 64,
+        "x": 1080,
+        "y": 698,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:34.171Z"
+    },
+    {
+        "uuid": "3f0ca10d-02b9-4443-84e4-42a931c42bec",
+        "userDefinedKey": "6b9fc53b-42c4-4795-4361-3c720e58c11e",
+        "concept": "Peniagone",
+        "height": 131,
+        "observer": "yolov5",
+        "width": 76,
+        "x": 423,
+        "y": 209,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:34.171Z"
+    },
+    {
+        "uuid": "28529795-b4df-4d1f-b005-3be39333a19c",
+        "userDefinedKey": "eb32b569-c49f-4cfd-4161-3c720e58c11e",
+        "concept": "Peniagone",
+        "height": 50,
+        "observer": "yolov5",
+        "width": 82,
+        "x": 638,
+        "y": 323,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:34.171Z"
+    },
+    {
+        "uuid": "dd2467f7-25ef-4ed9-a548-3abb129f6358",
+        "userDefinedKey": "7d807511-c2e5-4a83-3f61-3c720e58c11e",
+        "concept": "Peniagone sp. A",
+        "height": 75,
+        "observer": "gsainz",
+        "width": 47,
+        "x": 1018,
+        "y": 478,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:34.171Z"
+    },
+    {
+        "uuid": "de2bd450-88eb-4e17-b9dc-69de5957fc2b",
+        "userDefinedKey": "ff23573c-76d4-447d-3b61-3c720e58c11e",
+        "concept": "Ophiuroidea",
+        "height": 147,
+        "observer": "yolov5",
+        "width": 197,
+        "x": 101,
+        "y": 420,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:34.171Z"
+    }
+]

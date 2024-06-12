@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "3f7778bc-10dd-490c-857a-9ed23bcf906b",
+        "userDefinedKey": "d6113e93-7213-45db-5666-7a38d0aab61e",
+        "concept": "Sebastolobus",
+        "height": 46,
+        "observer": "master@mbari.org",
+        "width": 39,
+        "x": 294,
+        "y": 209,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:29:17.783Z"
+    },
+    {
+        "uuid": "c4ef47f2-f4b3-4b16-964b-2f0f6b4f6537",
+        "userDefinedKey": "5d8a4c40-3caf-49b1-ff6d-dab3d0aab61e",
+        "concept": "Ophiuroidea",
+        "height": 36,
+        "observer": "master@mbari.org",
+        "width": 52,
+        "x": 359,
+        "y": 250,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:29:17.783Z"
+    },
+    {
+        "uuid": "5bc1f633-1754-4fbd-b058-6dd1755713ae",
+        "userDefinedKey": "7539a142-8bab-43d4-b368-ff74d0aab61e",
+        "concept": "Pannychia moseleyi",
+        "height": 25,
+        "observer": "master@mbari.org",
+        "width": 41,
+        "x": 450,
+        "y": 335,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:29:17.785Z"
+    }
+]

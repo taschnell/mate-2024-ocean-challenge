@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "92b3b9f2-9270-4e72-a2c1-8bd366adc191",
+        "userDefinedKey": "12b96425-e35e-47c8-af60-29d37351bd1e",
+        "concept": "Ophiuroidea",
+        "height": 111,
+        "observer": "gsainz",
+        "width": 130,
+        "x": 604,
+        "y": 691,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:29:39.328Z"
+    },
+    {
+        "uuid": "ce7b1394-8e1c-4245-ad85-3bc9a1a3bf81",
+        "userDefinedKey": "2f24caa7-f929-4e4c-b168-dc2ca86aad1e",
+        "concept": "Peniagone papillata",
+        "height": 154,
+        "observer": "expert-observer",
+        "width": 300,
+        "x": 822,
+        "y": 2,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:29:39.328Z"
+    },
+    {
+        "uuid": "57b127ab-d302-4044-bdbc-1a0eefc8b370",
+        "userDefinedKey": "7f38b71c-1dd3-47ac-f166-161da86aad1e",
+        "concept": "Peniagone sp. A",
+        "height": 179,
+        "observer": "expert-observer",
+        "width": 310,
+        "x": 1232,
+        "y": 398,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:29:39.328Z"
+    }
+]

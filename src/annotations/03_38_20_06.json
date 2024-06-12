@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "319132e9-9fb5-4374-bd2a-6ef74408254d",
+        "userDefinedKey": "72864e2d-78fd-47eb-a96e-7829f01ab61e",
+        "concept": "Ophiuroidea",
+        "height": 83,
+        "observer": "master@mbari.org",
+        "width": 132,
+        "x": 161,
+        "y": 153,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:42:52.846Z"
+    },
+    {
+        "uuid": "2b626f1b-abf9-42db-a545-6f7b3aa81397",
+        "userDefinedKey": "4927e85c-861b-4e16-4a6b-61d5f01ab61e",
+        "concept": "plastic bag",
+        "height": 213,
+        "observer": "master@mbari.org",
+        "width": 524,
+        "x": 112,
+        "y": 4,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:42:52.849Z"
+    },
+    {
+        "uuid": "a4f33ba7-e0f3-4a30-a0dc-4eedab70773a",
+        "userDefinedKey": "57c9e141-3cf0-4cc2-e667-6a93f01ab61e",
+        "concept": "Neptunea-Buccinum Complex",
+        "height": 19,
+        "observer": "master@mbari.org",
+        "width": 34,
+        "x": 601,
+        "y": 71,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:42:52.850Z"
+    }
+]

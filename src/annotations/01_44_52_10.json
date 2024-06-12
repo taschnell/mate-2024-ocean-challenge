@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "1bf5a7de-ac45-4223-9b32-12a1b039f094",
+        "userDefinedKey": "7fd47ea0-3299-48bc-5a6e-f7452ef0b31e",
+        "concept": "Calyptogena extenta",
+        "height": 133,
+        "observer": "master@mbari.org",
+        "width": 164,
+        "x": 549,
+        "y": 255,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:35:33.187Z"
+    },
+    {
+        "uuid": "6a1c85f5-9e46-474f-92c6-57c4bc6a560a",
+        "userDefinedKey": "57bcf3c2-eac7-44a3-886f-b4112ef0b31e",
+        "concept": "Calyptogena extenta",
+        "height": 66,
+        "observer": "master@mbari.org",
+        "width": 111,
+        "x": 466,
+        "y": 198,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:35:33.191Z"
+    },
+    {
+        "uuid": "9837dcaa-f1f6-4730-a50d-a043c120d1b6",
+        "userDefinedKey": "68a76306-d53d-4491-6762-82bdbff1bb1e",
+        "concept": "Calyptogena extenta",
+        "height": 107,
+        "observer": "master@mbari.org",
+        "width": 93,
+        "x": 237,
+        "y": 125,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:35:33.192Z"
+    },
+    {
+        "uuid": "2918bcf7-a464-473e-8e59-317dc43f131b",
+        "userDefinedKey": "ce140211-1075-405e-9569-fba02df0b31e",
+        "concept": "Calyptogena extenta",
+        "height": 81,
+        "observer": "master@mbari.org",
+        "width": 147,
+        "x": 550,
+        "y": 213,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:35:33.192Z"
+    },
+    {
+        "uuid": "76607447-c829-4cb3-9652-0a8fb6b83d81",
+        "userDefinedKey": "dc579a74-55c9-446d-1168-e731c0f1bb1e",
+        "concept": "Ophiuroidea",
+        "height": 49,
+        "observer": "master@mbari.org",
+        "width": 106,
+        "x": 200,
+        "y": 341,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:35:33.193Z"
+    }
+]

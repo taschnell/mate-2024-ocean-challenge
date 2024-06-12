@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "22bc0011-a6f8-4b99-b8d1-20224412cf38",
+        "userDefinedKey": "d8ed4ebd-9b3f-4264-c567-a035a158c11e",
+        "concept": "Paelopatides confundens",
+        "height": 37,
+        "observer": "yolov5",
+        "width": 86,
+        "x": 326,
+        "y": 287,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:23:02.505Z"
+    },
+    {
+        "uuid": "b1d17fd1-8012-4082-b617-682bfa11fd0b",
+        "userDefinedKey": "a29a6953-e175-43d7-c167-a035a158c11e",
+        "concept": "Ophiuroidea",
+        "height": 32,
+        "observer": "yolov5",
+        "width": 49,
+        "x": 248,
+        "y": 217,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:23:02.505Z"
+    },
+    {
+        "uuid": "36a406b6-02e6-42a8-8b1e-569c26f5a665",
+        "userDefinedKey": "e2e87a4b-2c33-49a4-c367-a035a158c11e",
+        "concept": "Suction Sampler",
+        "height": 108,
+        "observer": "yolov5",
+        "width": 389,
+        "x": 318,
+        "y": 61,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:23:02.505Z"
+    }
+]

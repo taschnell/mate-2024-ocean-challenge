@@ -1,0 +1,39 @@
+[
+    {
+        "uuid": "8a6a7f32-bd9c-4bce-8ec2-00f5548ca1c1",
+        "concept": "Plexauridae",
+        "height": 898,
+        "width": 1568,
+        "x": 0,
+        "y": 0,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2022-10-31T14:45:51.109Z"
+    },
+    {
+        "uuid": "51823a4f-bb6b-4eb0-a6db-5d29cefee3cd",
+        "concept": "Anthozoa",
+        "height": 899,
+        "width": 488,
+        "x": 1111,
+        "y": 0,
+        "rejected": false,
+        "verified": true,
+        "verifier": "jmferob@gmail.com",
+        "verificationTimestamp": "2023-03-01T19:26:35.992Z",
+        "lastUpdatedTimestamp": "2023-03-01T19:28:11.192Z"
+    },
+    {
+        "uuid": "0e3e5aac-c0e6-4793-89af-6c943cc72e6c",
+        "concept": "Ophiuroidea",
+        "height": 593,
+        "width": 582,
+        "x": 594,
+        "y": 0,
+        "rejected": false,
+        "verified": true,
+        "verifier": "jmferob@gmail.com",
+        "verificationTimestamp": "2023-03-01T19:27:11.533Z",
+        "lastUpdatedTimestamp": "2023-03-01T19:28:11.195Z"
+    }
+]

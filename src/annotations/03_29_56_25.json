@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "f9c29640-99dd-4669-a7e4-8f5fe8e18518",
+        "userDefinedKey": "59f2f9c9-c23f-42ca-be6e-696188d8b81e",
+        "concept": "Pteraster",
+        "height": 57,
+        "observer": "master@mbari.org",
+        "width": 61,
+        "x": 571,
+        "y": 310,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:32:01.342Z"
+    },
+    {
+        "uuid": "4e6885a5-7359-4edb-a101-6796fb110a9c",
+        "userDefinedKey": "5815a8fe-ffe7-4a2f-1965-5ff288d8b81e",
+        "concept": "Ophiuroidea",
+        "height": 35,
+        "observer": "master@mbari.org",
+        "width": 28,
+        "x": 474,
+        "y": 298,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:32:01.343Z"
+    },
+    {
+        "uuid": "6eb0ff19-21f8-4d4a-b379-c07f9295dd81",
+        "userDefinedKey": "ab2b349c-cdf6-4ddc-f268-a32a89d8b81e",
+        "concept": "Cerianthidae",
+        "height": 25,
+        "observer": "master@mbari.org",
+        "width": 24,
+        "x": 213,
+        "y": 271,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:32:01.344Z"
+    },
+    {
+        "uuid": "010197b8-8fa0-4761-aa05-f4bd04b9241c",
+        "userDefinedKey": "542a2f9a-508b-4407-af69-92cf88d8b81e",
+        "concept": "Ophiuroidea",
+        "height": 47,
+        "observer": "master@mbari.org",
+        "width": 42,
+        "x": 325,
+        "y": 412,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:32:01.344Z"
+    }
+]

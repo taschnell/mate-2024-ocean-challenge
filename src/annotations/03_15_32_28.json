@@ -1,0 +1,80 @@
+[
+    {
+        "uuid": "59dac95a-84d5-43f9-a7ad-17c1092a8eb6",
+        "userDefinedKey": "0092b677-7d92-40c7-156e-fcbed2c3aa1e",
+        "concept": "Ophiuroidea",
+        "height": 41,
+        "observer": "master@mbari.org",
+        "width": 67,
+        "x": 234,
+        "y": 415,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T16:49:09.691Z"
+    },
+    {
+        "uuid": "e9cc355d-42be-418d-9b02-a6ef3c500ccb",
+        "userDefinedKey": "e4f29429-026d-41a9-7162-30bfd2c3aa1e",
+        "concept": "Ophiuroidea",
+        "height": 80,
+        "observer": "master@mbari.org",
+        "width": 85,
+        "x": 79,
+        "y": 155,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T16:49:09.694Z"
+    },
+    {
+        "uuid": "1c36ecd2-495d-4fba-993d-0d18ffd32773",
+        "userDefinedKey": "2678dad5-0409-4cb6-ed69-1cbfd2c3aa1e",
+        "concept": "Ophiuroidea",
+        "height": 52,
+        "observer": "master@mbari.org",
+        "width": 80,
+        "x": 22,
+        "y": 288,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T16:49:09.694Z"
+    },
+    {
+        "uuid": "0ffa6ce9-9891-4122-93be-b2cdfe82bbcd",
+        "userDefinedKey": "9546cfab-b2b9-4288-c662-4fbdd2c3aa1e",
+        "concept": "Chionoecetes tanneri",
+        "height": 211,
+        "observer": "master@mbari.org",
+        "width": 199,
+        "x": 125,
+        "y": 191,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T16:49:09.692Z"
+    },
+    {
+        "uuid": "d497538c-cabe-4b2f-ad31-2212ce666152",
+        "userDefinedKey": "3b69763e-b7ef-48a5-896f-0dbfd2c3aa1e",
+        "concept": "Ophiuroidea",
+        "height": 28,
+        "observer": "master@mbari.org",
+        "width": 59,
+        "x": 18,
+        "y": 360,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T16:49:09.693Z"
+    },
+    {
+        "uuid": "03a5671e-f10d-4d2e-81dc-0d160df1e30a",
+        "userDefinedKey": "f313d820-0ece-4630-9165-e9bed2c3aa1e",
+        "concept": "Ophiuroidea",
+        "height": 63,
+        "observer": "master@mbari.org",
+        "width": 84,
+        "x": 567,
+        "y": 139,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T16:49:09.696Z"
+    }
+]
