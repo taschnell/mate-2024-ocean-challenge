@@ -4,7 +4,7 @@ import requests
 import time
 
 
-def download_image(url, filename, image_dir=r"src\images"):
+def download_image(url, filename, image_dir=r"src/images"):
     """
     Returns true if the image is downloaded
     """
@@ -35,7 +35,7 @@ def download_image(url, filename, image_dir=r"src\images"):
         print(f"Error downloading {url}: {e}")
         return False
 
-def anotate_image(filename, boxes, annotations_dir=r"src\annotations"):
+def anotate_image(filename, boxes, annotations_dir=r"src/annotations"):
     filename = f"{filename[:-4]}.json"
 
     filepath = os.path.join(annotations_dir, filename)
@@ -54,7 +54,7 @@ def anotate_image(filename, boxes, annotations_dir=r"src\annotations"):
     return True
 
 
-with open("data\Ophiuroidea.json", "r") as f:
+with open("data/Ophiuroidea.json", "r") as f:
     data = json.load(f)
 
 # Expect 2687 Images this will take a while depending on internet speed ~13 minutes for me
