@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "ac62f1be-d329-4eb5-8be6-422ac9b26ce1",
+        "userDefinedKey": "6a7eddf7-7a9a-400a-e16f-10638aeaa71e",
+        "concept": "Ophiodon elongatus",
+        "height": 128,
+        "observer": "master@mbari.org",
+        "width": 181,
+        "x": 191,
+        "y": 245,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T16:55:40.036Z"
+    },
+    {
+        "uuid": "9ab8c003-c25f-4baf-b5e1-4ee8d1f3ba7c",
+        "userDefinedKey": "21c4c4bf-e9c2-46c9-fe6b-88368beaa71e",
+        "concept": "Ophiuroidea",
+        "height": 43,
+        "observer": "master@mbari.org",
+        "width": 55,
+        "x": 88,
+        "y": 418,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T16:55:40.037Z"
+    },
+    {
+        "uuid": "ab1c038d-10e9-42a0-b11f-f863dfc6ee48",
+        "userDefinedKey": "c86ee04c-168d-43c5-0267-1f198beaa71e",
+        "concept": "Ophiuroidea",
+        "height": 48,
+        "observer": "master@mbari.org",
+        "width": 55,
+        "x": 471,
+        "y": 312,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T16:55:40.038Z"
+    },
+    {
+        "uuid": "6f60ef64-e51b-4bce-ade3-8a54ba6e25f6",
+        "userDefinedKey": "f5dfc390-227a-4fec-ad62-3ddb8aeaa71e",
+        "concept": "Ophiuroidea",
+        "height": 39,
+        "observer": "master@mbari.org",
+        "width": 46,
+        "x": 84,
+        "y": 323,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T16:55:40.037Z"
+    },
+    {
+        "uuid": "9f444ee8-d487-4ff1-912e-35dafd138483",
+        "userDefinedKey": "99e8c3b1-5bbd-4993-2e6d-01fc8aeaa71e",
+        "concept": "Ophiuroidea",
+        "height": 51,
+        "observer": "master@mbari.org",
+        "width": 54,
+        "x": 183,
+        "y": 282,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T16:55:40.036Z"
+    }
+]

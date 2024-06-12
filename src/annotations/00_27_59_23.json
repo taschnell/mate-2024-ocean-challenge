@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "022c53be-f24a-4f1f-a9e7-f38906161fd7",
+        "userDefinedKey": "e73ab66f-f52c-4a59-c464-a63e5258c11e",
+        "concept": "Psolus squamatus",
+        "height": 74,
+        "observer": "yolov5",
+        "width": 81,
+        "x": 429,
+        "y": 111,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:05.409Z"
+    },
+    {
+        "uuid": "a4b4dca9-50f6-4748-98c9-8888cd110d58",
+        "userDefinedKey": "14ea1d4f-e1fd-4d72-c664-a63e5258c11e",
+        "concept": "Pannychia moseleyi",
+        "height": 58,
+        "observer": "yolov5",
+        "width": 144,
+        "x": 536,
+        "y": 869,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:05.409Z"
+    },
+    {
+        "uuid": "ca0a6e9b-e85a-4fd9-aee2-0a10e0ae6a28",
+        "userDefinedKey": "201b4db2-ef8c-4caf-b06d-a33e5258c11e",
+        "concept": "Suction Sampler",
+        "height": 354,
+        "observer": "yolov5",
+        "width": 316,
+        "x": 1601,
+        "y": 464,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:05.409Z"
+    },
+    {
+        "uuid": "0419427e-f702-4ebc-b035-4f2c53e23cf6",
+        "userDefinedKey": "78ddf42b-f0d8-4d65-b26d-a33e5258c11e",
+        "concept": "Ophiuroidea",
+        "height": 90,
+        "observer": "yolov5",
+        "width": 115,
+        "x": 1399,
+        "y": 695,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:05.409Z"
+    }
+]

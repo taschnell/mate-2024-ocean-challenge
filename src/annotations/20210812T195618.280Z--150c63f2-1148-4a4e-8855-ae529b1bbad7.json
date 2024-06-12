@@ -1,0 +1,80 @@
+[
+    {
+        "uuid": "43041ddd-5dbf-4c6c-9e21-f1571bd7df60",
+        "userDefinedKey": "76407b42-ed0f-40a9-536c-e3e1ddccda1e",
+        "concept": "Ophiuroidea",
+        "height": 80,
+        "observer": "lonny",
+        "width": 102,
+        "x": 957,
+        "y": 411,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:13.462Z"
+    },
+    {
+        "uuid": "4755f72c-c42f-48d4-8c6f-f561dd529a2c",
+        "userDefinedKey": "f8e0513e-b8df-4803-516c-e3e1ddccda1e",
+        "concept": "Ophiuroidea",
+        "height": 76,
+        "observer": "lonny",
+        "width": 89,
+        "x": 680,
+        "y": 607,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:13.462Z"
+    },
+    {
+        "uuid": "2a0fb606-57b2-4f05-bb26-8adc90fa0eda",
+        "userDefinedKey": "4010a3e4-071d-4977-576c-e3e1ddccda1e",
+        "concept": "Crinoidea",
+        "height": 75,
+        "observer": "lonny",
+        "width": 71,
+        "x": 1149,
+        "y": 742,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:13.462Z"
+    },
+    {
+        "uuid": "d521d6f9-ba0c-4616-80bd-b1fa90c1a9b0",
+        "userDefinedKey": "f0bb654b-9e14-4d08-556c-e3e1ddccda1e",
+        "concept": "Ophiuroidea",
+        "height": 60,
+        "observer": "lonny",
+        "width": 73,
+        "x": 260,
+        "y": 913,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:13.462Z"
+    },
+    {
+        "uuid": "f0b1ae17-991d-4c3c-87b1-e398c575b135",
+        "userDefinedKey": "14b59582-e0db-4fa7-596c-e3e1ddccda1e",
+        "concept": "Ophiuroidea",
+        "height": 69,
+        "observer": "lonny",
+        "width": 46,
+        "x": 1874,
+        "y": 1008,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:13.462Z"
+    },
+    {
+        "uuid": "60412c58-32db-4bfc-ae4b-47697c0c4b0b",
+        "userDefinedKey": "c510fbd4-75b4-4cff-4f6c-e3e1ddccda1e",
+        "concept": "Caridea",
+        "height": 42,
+        "observer": "lonny",
+        "width": 79,
+        "x": 267,
+        "y": 120,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:13.462Z"
+    }
+]

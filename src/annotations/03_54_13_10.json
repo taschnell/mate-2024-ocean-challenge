@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "f0589aea-2246-4341-a9a3-b0364a7d948f",
+        "userDefinedKey": "351a6b12-adb6-4961-3c63-5b233a58c11e",
+        "concept": "Coryphaenoides",
+        "height": 242,
+        "observer": "yolov5",
+        "width": 358,
+        "x": 119,
+        "y": 836,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:23:02.521Z"
+    },
+    {
+        "uuid": "c7c05e62-8d59-4e14-bb3d-193cdd978316",
+        "userDefinedKey": "a92d0e89-3753-4f55-b868-f9223a58c11e",
+        "concept": "Ophiuroidea",
+        "height": 33,
+        "observer": "yolov5",
+        "width": 37,
+        "x": 1237,
+        "y": 437,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:23:02.521Z"
+    },
+    {
+        "uuid": "c48385e7-1093-4f9d-96f6-f6fe8e82afb3",
+        "userDefinedKey": "5b4f92ba-835b-4a90-3a63-5b233a58c11e",
+        "concept": "Liponema brevicorne",
+        "height": 70,
+        "observer": "yolov5",
+        "width": 77,
+        "x": 652,
+        "y": 750,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:23:02.521Z"
+    }
+]

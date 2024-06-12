@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "14588794-6c54-4658-b552-7c5fee3ee846",
+        "userDefinedKey": "73a3eca2-f3d0-4cb6-0f63-f20cbd3eb11e",
+        "concept": "Lycenchelys",
+        "height": 142,
+        "observer": "linda",
+        "width": 126,
+        "x": 824,
+        "y": 704,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:28:07.753Z"
+    },
+    {
+        "uuid": "67b3aadd-98d8-4250-876d-b3dc20ffbfba",
+        "userDefinedKey": "629b5091-4271-4ae0-7b62-4068bd3eb11e",
+        "concept": "Galatheidae",
+        "height": 62,
+        "observer": "lonny",
+        "width": 67,
+        "x": 1166,
+        "y": 780,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:28:07.753Z"
+    },
+    {
+        "uuid": "2baf09af-70ef-4232-add4-eeb77453e6fb",
+        "userDefinedKey": "1af8d04f-88a7-4dd1-5367-bbf8bd3eb11e",
+        "concept": "Ophiuroidea",
+        "height": 240,
+        "observer": "lonny",
+        "width": 244,
+        "x": 1260,
+        "y": 432,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:28:07.753Z"
+    }
+]

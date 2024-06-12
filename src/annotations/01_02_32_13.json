@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "350c1112-95df-4db0-bef6-f5b5867e0e2e",
+        "userDefinedKey": "23ecdc8f-d532-43fc-e961-20da3558c11e",
+        "concept": "Ophiuroidea",
+        "height": 148,
+        "observer": "yolov5",
+        "width": 128,
+        "x": 0,
+        "y": 191,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:31.250Z"
+    },
+    {
+        "uuid": "0fb0083e-7275-4425-aa85-21a25170c45d",
+        "userDefinedKey": "a393dc49-2563-44fe-fb6b-97da3558c11e",
+        "concept": "Scotoplanes",
+        "height": 91,
+        "observer": "yolov5",
+        "width": 123,
+        "x": 1386,
+        "y": 310,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:31.250Z"
+    },
+    {
+        "uuid": "0413707e-987e-459e-8c2c-25a33bc9da79",
+        "userDefinedKey": "fc0043c3-f6fc-48c9-e761-20da3558c11e",
+        "concept": "Ophiuroidea",
+        "height": 204,
+        "observer": "yolov5",
+        "width": 343,
+        "x": 223,
+        "y": 821,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:31.250Z"
+    },
+    {
+        "uuid": "6bbbe915-98e0-4876-91da-306299ebdc68",
+        "userDefinedKey": "17c7e4fa-0841-4f96-ff6b-97da3558c11e",
+        "concept": "Scotoplanes",
+        "height": 321,
+        "observer": "yolov5",
+        "width": 496,
+        "x": 833,
+        "y": 338,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:31.250Z"
+    },
+    {
+        "uuid": "7bbfa3bb-b787-4d1e-acfd-08205adbee49",
+        "userDefinedKey": "7303fa4c-a51c-4bdd-fd6b-97da3558c11e",
+        "concept": "Scotoplanes",
+        "height": 233,
+        "observer": "yolov5",
+        "width": 434,
+        "x": 1426,
+        "y": 5,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:31.250Z"
+    }
+]

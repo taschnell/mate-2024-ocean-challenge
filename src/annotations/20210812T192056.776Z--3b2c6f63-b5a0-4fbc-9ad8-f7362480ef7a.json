@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "0b9305d8-3c1a-4a74-8ebf-a6db8857d26d",
+        "userDefinedKey": "be027395-1285-40e6-6b64-e5a900ccda1e",
+        "concept": "Ophiuroidea",
+        "height": 118,
+        "observer": "lonny",
+        "width": 125,
+        "x": 396,
+        "y": 307,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:19.600Z"
+    },
+    {
+        "uuid": "8ec9c672-146e-416b-9876-e6692a1a6afe",
+        "userDefinedKey": "91e5081c-64fe-4110-6764-e5a900ccda1e",
+        "concept": "Munnopsidae",
+        "height": 122,
+        "observer": "lonny",
+        "width": 121,
+        "x": 1799,
+        "y": 316,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:19.600Z"
+    },
+    {
+        "uuid": "654f7959-894a-4222-a444-fe2c8d59a9dd",
+        "userDefinedKey": "72825245-b964-4eed-6564-e5a900ccda1e",
+        "concept": "Crinoidea",
+        "height": 167,
+        "observer": "lonny",
+        "width": 142,
+        "x": 1522,
+        "y": 547,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:19.600Z"
+    },
+    {
+        "uuid": "5c16019c-14db-452d-90aa-c464881f196b",
+        "userDefinedKey": "c03d6689-444f-4312-6364-e5a900ccda1e",
+        "concept": "Cerianthidae",
+        "height": 103,
+        "observer": "lonny",
+        "width": 122,
+        "x": 31,
+        "y": 457,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:19.600Z"
+    },
+    {
+        "uuid": "56c46b97-5b9f-429a-88d2-89ff7ccbba05",
+        "userDefinedKey": "a4b4f670-6507-4351-6964-e5a900ccda1e",
+        "concept": "Ophiuroidea",
+        "height": 121,
+        "observer": "lonny",
+        "width": 149,
+        "x": 216,
+        "y": 699,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:19.600Z"
+    }
+]

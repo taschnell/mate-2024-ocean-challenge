@@ -1,0 +1,80 @@
+[
+    {
+        "uuid": "3d66efe1-c1c4-4a0a-b261-28eddcef5840",
+        "userDefinedKey": "12e21cb2-b351-4d23-a76b-3de336a6d11e",
+        "concept": "Paragorgia arborea",
+        "height": 139,
+        "observer": "linda",
+        "width": 164,
+        "x": 958,
+        "y": 160,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:08.411Z"
+    },
+    {
+        "uuid": "cb08f2d0-cf2a-42d6-acff-630f2f150bbb",
+        "userDefinedKey": "98157334-8e8c-404a-1e6d-545bf0a7d11e",
+        "concept": "Ophiuroidea",
+        "height": 92,
+        "observer": "linda",
+        "width": 52,
+        "x": 851,
+        "y": 482,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:08.411Z"
+    },
+    {
+        "uuid": "50ab8483-5610-4755-b638-15e55c22b249",
+        "userDefinedKey": "1b5409fd-3f8e-4ba6-426f-93117558c11e",
+        "concept": "Parastenella",
+        "height": 589,
+        "observer": "yolov5",
+        "width": 608,
+        "x": 591,
+        "y": 236,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:08.411Z"
+    },
+    {
+        "uuid": "9594da87-199e-4774-8c2f-0f87c402e5aa",
+        "userDefinedKey": "a9234bce-3e15-49bf-3c6f-93117558c11e",
+        "concept": "Munida",
+        "height": 125,
+        "observer": "lonny",
+        "width": 73,
+        "x": 1847,
+        "y": 853,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:08.411Z"
+    },
+    {
+        "uuid": "aae1bf00-9b47-435a-ad65-eb1d9f6a6da2",
+        "userDefinedKey": "59b5c9c7-665f-4a6d-3e6f-93117558c11e",
+        "concept": "Heteropolypus ritteri",
+        "height": 124,
+        "observer": "yolov5",
+        "width": 51,
+        "x": 1869,
+        "y": 277,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:08.411Z"
+    },
+    {
+        "uuid": "82afa53c-9eb4-4ead-ae55-efb44d8ff6d4",
+        "userDefinedKey": "eede3d79-620d-4a22-366f-93117558c11e",
+        "concept": "Ophiuroidea",
+        "height": 96,
+        "observer": "lonny",
+        "width": 84,
+        "x": 622,
+        "y": 332,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:08.411Z"
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "uuid": "883cba44-6b77-4af0-80e1-309fc0755199",
+        "userDefinedKey": "9088b923-f228-494d-9267-b4e1a9c3aa1e",
+        "concept": "Bathyraja microtrachys",
+        "height": 334,
+        "observer": "master@mbari.org",
+        "width": 658,
+        "x": 2,
+        "y": 73,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T16:49:12.777Z"
+    },
+    {
+        "uuid": "4ac0e2c7-d878-4b2f-83cc-b5c5e5f237d4",
+        "userDefinedKey": "a328c823-d9ac-42fb-966c-49e3a9c3aa1e",
+        "concept": "Ophiuroidea",
+        "height": 59,
+        "observer": "master@mbari.org",
+        "width": 108,
+        "x": 580,
+        "y": 1,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T16:49:12.793Z"
+    }
+]

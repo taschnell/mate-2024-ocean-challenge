@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "6de43fc3-571c-4e06-bb3a-47e8289a3fc8",
+        "userDefinedKey": "7ba51f24-16d7-4bbb-6566-db0b0cccda1e",
+        "concept": "Ophiuroidea",
+        "height": 124,
+        "observer": "lonny",
+        "width": 170,
+        "x": 1703,
+        "y": 11,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:26.067Z"
+    },
+    {
+        "uuid": "cd12ea4f-be2d-4792-ae30-04f905fd903a",
+        "userDefinedKey": "9139a881-b362-42a3-6366-db0b0cccda1e",
+        "concept": "Munnopsidae",
+        "height": 112,
+        "observer": "lonny",
+        "width": 96,
+        "x": 882,
+        "y": 832,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:26.067Z"
+    },
+    {
+        "uuid": "941c01f9-08cf-4e75-b193-81446efe71a6",
+        "userDefinedKey": "c70b03ec-d95c-4e32-6766-db0b0cccda1e",
+        "concept": "Tromikosoma panamense",
+        "height": 397,
+        "observer": "lonny",
+        "width": 422,
+        "x": 899,
+        "y": 378,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:26.067Z"
+    }
+]

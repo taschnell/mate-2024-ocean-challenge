@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "bf64ec3c-7b72-4bb3-886f-dba31f776048",
+        "userDefinedKey": "637b17cc-3be7-48f8-d065-f963ced7da1e",
+        "concept": "Ophiuroidea",
+        "height": 105,
+        "observer": "lonny",
+        "width": 134,
+        "x": 107,
+        "y": 384,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.677Z"
+    },
+    {
+        "uuid": "61285828-5f51-47b6-b55e-2d44e96a5932",
+        "userDefinedKey": "799daf1a-e1c4-44f5-cc65-f963ced7da1e",
+        "concept": "Ophiuroidea",
+        "height": 105,
+        "observer": "lonny",
+        "width": 137,
+        "x": 1594,
+        "y": 382,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.677Z"
+    },
+    {
+        "uuid": "1f31b8b7-5867-4b15-a2a1-c14aa5f4bfce",
+        "userDefinedKey": "b0216014-29aa-4e5a-ae61-751a217a318e",
+        "concept": "Caridea",
+        "height": 88,
+        "observer": "lonny",
+        "width": 73,
+        "x": 861,
+        "y": 642,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.677Z"
+    },
+    {
+        "uuid": "88ae7aad-0d86-41b1-9f2c-f6b31ef74bf2",
+        "userDefinedKey": "a5f3aebc-ed11-4bf4-ce65-f963ced7da1e",
+        "concept": "Ophiuroidea",
+        "height": 80,
+        "observer": "lonny",
+        "width": 81,
+        "x": 952,
+        "y": 280,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.677Z"
+    }
+]

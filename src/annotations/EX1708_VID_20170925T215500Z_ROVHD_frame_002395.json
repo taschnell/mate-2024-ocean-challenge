@@ -1,0 +1,35 @@
+[
+    {
+        "uuid": "956fef11-f2dc-4cb7-92ac-d117512be4a3",
+        "concept": "Comatulida",
+        "height": 110,
+        "width": 120,
+        "x": 1573,
+        "y": 454,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-30T14:50:04.009Z"
+    },
+    {
+        "uuid": "b9182c59-2984-468c-b717-b36c15486af5",
+        "concept": "Comatulida",
+        "height": 66,
+        "width": 88,
+        "x": 1030,
+        "y": 103,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-30T14:50:04.009Z"
+    },
+    {
+        "uuid": "c9094be6-9068-4a22-84d6-8c2088159736",
+        "concept": "Ophiuroidea",
+        "height": 105,
+        "width": 125,
+        "x": 379,
+        "y": 922,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-30T14:50:04.010Z"
+    }
+]

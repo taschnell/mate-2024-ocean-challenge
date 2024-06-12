@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "89715e77-d7a4-4bd0-abce-4cd664d9e0c6",
+        "userDefinedKey": "4d4c1937-cdb4-40b6-7368-33914e58c11e",
+        "concept": "Brisaster",
+        "height": 125,
+        "observer": "gsainz",
+        "width": 116,
+        "x": 1671,
+        "y": 502,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:02.619Z"
+    },
+    {
+        "uuid": "4edd387e-7a7c-487c-8431-809c6b6f89a8",
+        "userDefinedKey": "93ff227c-d7bf-47d2-7768-33914e58c11e",
+        "concept": "Ophiuroidea",
+        "height": 296,
+        "observer": "gsainz",
+        "width": 291,
+        "x": 262,
+        "y": 650,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:02.619Z"
+    },
+    {
+        "uuid": "02e90f7b-7fb2-4820-9b57-3d7f5aed28cd",
+        "userDefinedKey": "e46f8938-4e45-48dd-7b68-33914e58c11e",
+        "concept": "Ophiuroidea",
+        "height": 148,
+        "observer": "lonny",
+        "width": 140,
+        "x": 832,
+        "y": 308,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:02.619Z"
+    },
+    {
+        "uuid": "639d7da0-98a6-4b3b-96d4-dc50d5cd8409",
+        "userDefinedKey": "10a29246-d0a1-48e8-7f68-33914e58c11e",
+        "concept": "Caridea",
+        "height": 74,
+        "observer": "yolov5",
+        "width": 100,
+        "x": 634,
+        "y": 730,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:02.619Z"
+    }
+]

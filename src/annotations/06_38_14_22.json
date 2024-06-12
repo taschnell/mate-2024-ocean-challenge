@@ -1,0 +1,93 @@
+[
+    {
+        "uuid": "757b0fca-428e-45d9-a619-1486986e6df6",
+        "userDefinedKey": "c86bbc0f-7ef4-4e92-b869-ced97458c11e",
+        "concept": "Asteroidea",
+        "height": 48,
+        "observer": "yolov5",
+        "width": 61,
+        "x": 1041,
+        "y": 351,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:00.471Z"
+    },
+    {
+        "uuid": "7343407c-9dfa-4577-94c6-79333373d37f",
+        "userDefinedKey": "0394ffac-0207-4bf2-bc69-ced97458c11e",
+        "concept": "Ophiuroidea",
+        "height": 104,
+        "observer": "yolov5",
+        "width": 111,
+        "x": 998,
+        "y": 960,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:00.471Z"
+    },
+    {
+        "uuid": "d3499fb6-5ea9-4f83-a183-053221c09bc7",
+        "userDefinedKey": "0ec11c57-b654-4b17-ba69-ced97458c11e",
+        "concept": "Asteroidea",
+        "height": 40,
+        "observer": "yolov5",
+        "width": 45,
+        "x": 1211,
+        "y": 377,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:00.471Z"
+    },
+    {
+        "uuid": "eb88cd7f-77db-46e3-8f07-e72ed37ff836",
+        "userDefinedKey": "489c0322-7d55-4113-c069-ced97458c11e",
+        "concept": "Heteropolypus ritteri",
+        "height": 92,
+        "observer": "yolov5",
+        "width": 95,
+        "x": 556,
+        "y": 972,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:00.471Z"
+    },
+    {
+        "uuid": "54e65023-1d9d-4025-85ff-01c42fe9029b",
+        "userDefinedKey": "2577d22a-149a-4ddd-b669-ced97458c11e",
+        "concept": "Asteroidea",
+        "height": 41,
+        "observer": "yolov5",
+        "width": 53,
+        "x": 683,
+        "y": 404,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:00.471Z"
+    },
+    {
+        "uuid": "e4d73df7-6efb-47ea-8f11-f33911b307ef",
+        "userDefinedKey": "6bd9cbdf-ce82-401c-c269-ced97458c11e",
+        "concept": "Sebastolobus",
+        "height": 88,
+        "observer": "yolov5",
+        "width": 118,
+        "x": 1730,
+        "y": 536,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:00.472Z"
+    },
+    {
+        "uuid": "97ac6518-1d4b-48e4-ab50-6e3de8aa90e4",
+        "userDefinedKey": "117fbb65-d229-4f86-b469-ced97458c11e",
+        "concept": "Asteroidea",
+        "height": 45,
+        "observer": "yolov5",
+        "width": 56,
+        "x": 349,
+        "y": 559,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:00.472Z"
+    }
+]

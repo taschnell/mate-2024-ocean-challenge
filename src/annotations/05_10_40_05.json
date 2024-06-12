@@ -1,0 +1,28 @@
+[
+    {
+        "uuid": "2073d3e2-ace9-404c-8cd5-3da6c0fd074a",
+        "userDefinedKey": "87304ffd-ccbd-428d-9d66-5d684e58c11e",
+        "concept": "Caridea",
+        "height": 132,
+        "observer": "yolov5",
+        "width": 62,
+        "x": 1008,
+        "y": 690,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:02.822Z"
+    },
+    {
+        "uuid": "af29bafe-5138-4eb5-9904-7eba12a68b2d",
+        "userDefinedKey": "0f442e4d-66ad-4e64-9f66-5d684e58c11e",
+        "concept": "Ophiuroidea",
+        "height": 98,
+        "observer": "yolov5",
+        "width": 111,
+        "x": 1467,
+        "y": 412,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:02.822Z"
+    }
+]

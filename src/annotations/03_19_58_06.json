@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "95d5c19e-e868-40c2-bc5a-93da66e2ed8d",
+        "userDefinedKey": "a8e94496-72fe-4d3e-2865-8b542a58c11e",
+        "concept": "Asteronyx",
+        "height": 152,
+        "observer": "yolov5",
+        "width": 381,
+        "x": 110,
+        "y": 192,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:26.166Z"
+    },
+    {
+        "uuid": "6b3e4a55-e9c4-473a-9725-3dde93a8fb89",
+        "userDefinedKey": "783313c5-68f6-4a17-2465-8b542a58c11e",
+        "concept": "Ophiuroidea",
+        "height": 124,
+        "observer": "yolov5",
+        "width": 347,
+        "x": 112,
+        "y": 188,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:26.166Z"
+    },
+    {
+        "uuid": "ca96f38c-b2b1-41d9-836b-66585e1244c1",
+        "userDefinedKey": "de2d11b7-8f02-4e33-2665-8b542a58c11e",
+        "concept": "Scotoplanes",
+        "height": 40,
+        "observer": "yolov5",
+        "width": 33,
+        "x": 0,
+        "y": 95,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:26.166Z"
+    }
+]

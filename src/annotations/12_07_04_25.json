@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "8bfb1e6a-c2a1-459f-9614-e2415ccef8f2",
+        "userDefinedKey": "06bda10d-99bb-4396-4d66-2ac47a58c11e",
+        "concept": "Scleractinia",
+        "height": 72,
+        "observer": "yolov5",
+        "width": 61,
+        "x": 0,
+        "y": 444,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:23:02.425Z"
+    },
+    {
+        "uuid": "1e9c31da-4a1d-411d-990f-2044fef2d927",
+        "userDefinedKey": "776f2a12-a977-416e-4b66-2ac47a58c11e",
+        "concept": "Ophiuroidea",
+        "height": 80,
+        "observer": "yolov5",
+        "width": 114,
+        "x": 1588,
+        "y": 309,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:23:02.425Z"
+    },
+    {
+        "uuid": "24e66589-5534-4f34-9011-3fbe1e359709",
+        "userDefinedKey": "a4a0d82e-e018-4574-5166-2ac47a58c11e",
+        "concept": "Ophiuroidea",
+        "height": 291,
+        "observer": "yolov5",
+        "width": 188,
+        "x": 468,
+        "y": 729,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:23:02.425Z"
+    },
+    {
+        "uuid": "5f37a9fe-2563-4c87-92ce-f0becce6fbdc",
+        "userDefinedKey": "735552bf-0f8b-4584-4f66-2ac47a58c11e",
+        "concept": "Culeolus barryi",
+        "height": 655,
+        "observer": "gsainz",
+        "width": 487,
+        "x": 609,
+        "y": 348,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:23:02.425Z"
+    },
+    {
+        "uuid": "9b4b1214-4cae-4e8f-b040-2ceea4de108b",
+        "userDefinedKey": "554b8845-cc5f-41ea-5366-2ac47a58c11e",
+        "concept": "Ophiuroidea",
+        "height": 181,
+        "observer": "gsainz",
+        "width": 208,
+        "x": 1711,
+        "y": 405,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:23:02.425Z"
+    }
+]

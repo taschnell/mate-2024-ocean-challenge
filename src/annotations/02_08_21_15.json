@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "e157ed77-a09c-4813-a087-0f8e737231ec",
+        "userDefinedKey": "e5558897-40db-49e9-966c-c2c68099b31e",
+        "concept": "Ophiuroidea",
+        "height": 85,
+        "observer": "gsainz",
+        "width": 99,
+        "x": 1064,
+        "y": 327,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:19:35.306Z"
+    },
+    {
+        "uuid": "5df684bc-f007-43e3-a4af-d0178ea27855",
+        "userDefinedKey": "264c7a55-a82a-4493-c161-047c8199b31e",
+        "concept": "Ophiuroidea",
+        "height": 133,
+        "observer": "gsainz",
+        "width": 186,
+        "x": 965,
+        "y": 824,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:19:35.306Z"
+    },
+    {
+        "uuid": "0f1f63c7-cf45-435b-a621-8eb45f0ecd51",
+        "userDefinedKey": "44627b2d-f3f8-487f-386c-748f7fc5aa1e",
+        "concept": "Strongylocentrotus fragilis",
+        "height": 69,
+        "observer": "schlin",
+        "width": 72,
+        "x": 936,
+        "y": 437,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:19:35.306Z"
+    }
+]

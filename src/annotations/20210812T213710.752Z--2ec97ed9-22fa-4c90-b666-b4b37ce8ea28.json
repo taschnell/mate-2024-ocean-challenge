@@ -1,0 +1,28 @@
+[
+    {
+        "uuid": "663dae8e-ce6e-4868-9f74-a0d08ca1145b",
+        "userDefinedKey": "b702583c-643a-4383-226e-f86c0fd8da1e",
+        "concept": "Ophiuroidea",
+        "height": 119,
+        "observer": "lonny",
+        "width": 147,
+        "x": 592,
+        "y": 172,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:30.518Z"
+    },
+    {
+        "uuid": "b2c4fb57-b580-4dfd-89f9-f257af444d28",
+        "userDefinedKey": "5a47cb28-f74f-41c0-246e-f86c0fd8da1e",
+        "concept": "Peniagone",
+        "height": 243,
+        "observer": "lonny",
+        "width": 58,
+        "x": 0,
+        "y": 448,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:30.518Z"
+    }
+]

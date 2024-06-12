@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "6f2df16d-3793-4451-8382-f6172c6f3be4",
+        "userDefinedKey": "c0802608-d56f-44b9-d469-d3653c58c11e",
+        "concept": "Primnoidae",
+        "height": 709,
+        "observer": "lonny",
+        "width": 524,
+        "x": 894,
+        "y": 227,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:13.437Z"
+    },
+    {
+        "uuid": "4cca161f-44e2-497b-a74d-a19d2c2a9ff7",
+        "userDefinedKey": "b8ba0f41-c533-472d-d269-d3653c58c11e",
+        "concept": "Crinoidea",
+        "height": 173,
+        "observer": "gsainz",
+        "width": 254,
+        "x": 434,
+        "y": 2,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:13.437Z"
+    },
+    {
+        "uuid": "b5b3f1d2-5625-495d-a623-2a64a688ba78",
+        "userDefinedKey": "9411e210-c3f9-46cb-7e61-04653c58c11e",
+        "concept": "Gastropoda",
+        "height": 59,
+        "observer": "yolov5",
+        "width": 49,
+        "x": 966,
+        "y": 250,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:13.437Z"
+    },
+    {
+        "uuid": "a3f6d96f-a42a-4c31-aa69-c7dbbf8b4603",
+        "userDefinedKey": "51ccdca0-6395-4d96-d669-d3653c58c11e",
+        "concept": "Pandalus amplus",
+        "height": 127,
+        "observer": "yolov5",
+        "width": 169,
+        "x": 350,
+        "y": 91,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:13.437Z"
+    },
+    {
+        "uuid": "df32a6b5-93f7-4207-b21d-faa839a56fd0",
+        "userDefinedKey": "cc9391e3-3212-4cc9-d069-d3653c58c11e",
+        "concept": "Ophiuroidea",
+        "height": 90,
+        "observer": "yolov5",
+        "width": 98,
+        "x": 136,
+        "y": 277,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:13.437Z"
+    }
+]

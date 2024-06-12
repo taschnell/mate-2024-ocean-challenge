@@ -1,0 +1,35 @@
+[
+    {
+        "uuid": "8fb240d9-552e-418b-b5ae-66d065d2bf76",
+        "concept": "Paragorgia",
+        "height": 689,
+        "width": 1018,
+        "x": 482,
+        "y": 203,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2022-10-31T14:45:53.085Z"
+    },
+    {
+        "uuid": "4a69b190-42d7-4d0a-bfe3-e3f12f3ba8a9",
+        "concept": "Ophiuroidea",
+        "height": 210,
+        "width": 336,
+        "x": 929,
+        "y": 420,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2022-10-31T14:45:53.085Z"
+    },
+    {
+        "uuid": "bcc0db14-9560-4023-a514-040d79191b33",
+        "concept": "Ophiuroidea",
+        "height": 148,
+        "width": 229,
+        "x": 803,
+        "y": 224,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2022-10-31T14:45:53.085Z"
+    }
+]

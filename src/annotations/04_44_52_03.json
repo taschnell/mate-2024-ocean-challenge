@@ -1,0 +1,28 @@
+[
+    {
+        "uuid": "0ecf894c-7125-437a-9c5d-a5ff3252d911",
+        "userDefinedKey": "e08ae2ac-afa6-4e65-d763-e7f84d2fbd1e",
+        "concept": "Bathydorus laevis pseudospinosus",
+        "height": 59,
+        "observer": "ClarieLM",
+        "width": 57,
+        "x": 1107,
+        "y": 525,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:21:31.314Z"
+    },
+    {
+        "uuid": "732f4c47-c133-4bba-9ce3-0000ab95dd8d",
+        "userDefinedKey": "b5b4bc11-7fa0-420a-ae62-73c34d2fbd1e",
+        "concept": "Ophiuroidea",
+        "height": 173,
+        "observer": "linda",
+        "width": 188,
+        "x": 471,
+        "y": 517,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:21:31.314Z"
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "f7fef8a8-3d45-4576-a488-b1cda8ac194e",
+        "userDefinedKey": "e009d161-4dd6-48e8-0467-20304e58c11e",
+        "concept": "Moloha faxoni",
+        "height": 109,
+        "observer": "gsainz",
+        "width": 113,
+        "x": 616,
+        "y": 405,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:30.594Z"
+    },
+    {
+        "uuid": "c0f6d985-bfb2-44c4-8a93-30e342bff217",
+        "userDefinedKey": "5d48c552-9834-4f41-0267-20304e58c11e",
+        "concept": "Ophiuroidea",
+        "height": 109,
+        "observer": "yolov5",
+        "width": 111,
+        "x": 1448,
+        "y": 714,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:30.594Z"
+    },
+    {
+        "uuid": "4134584c-fdce-48cf-bdfe-03fe5809883b",
+        "userDefinedKey": "1387d211-0bf4-454a-0067-20304e58c11e",
+        "concept": "Branchiocerianthus imperator",
+        "height": 78,
+        "observer": "lonny",
+        "width": 99,
+        "x": 443,
+        "y": 680,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:30.594Z"
+    }
+]

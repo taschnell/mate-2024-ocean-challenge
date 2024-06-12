@@ -1,0 +1,28 @@
+[
+    {
+        "uuid": "43df0e1a-c77d-477f-b79b-2e987c712f2c",
+        "userDefinedKey": "0c9721ad-45bd-4207-5363-71bfa158c11e",
+        "concept": "Ophiuroidea",
+        "height": 161,
+        "observer": "yolov5",
+        "width": 301,
+        "x": 278,
+        "y": 230,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:02.878Z"
+    },
+    {
+        "uuid": "e7faa0cd-b46f-410d-b3ee-90b37af685b0",
+        "userDefinedKey": "759f39e2-d5e4-453d-dc66-47545e8fd41e",
+        "concept": "Zoarcidae",
+        "height": 42,
+        "observer": "linda",
+        "width": 88,
+        "x": 276,
+        "y": 239,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:02.878Z"
+    }
+]

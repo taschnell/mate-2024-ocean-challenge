@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "4ec63436-cd55-47b9-a9b8-3fe732fe0013",
+        "userDefinedKey": "6f09b587-8ce6-41a9-2c69-fb803b58c11e",
+        "concept": "Holothuroidea",
+        "height": 145,
+        "observer": "yolov5",
+        "width": 153,
+        "x": 1698,
+        "y": 665,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:16.223Z"
+    },
+    {
+        "uuid": "fcfb52fe-49b5-47ec-af2f-e3718e3cd6b7",
+        "userDefinedKey": "84bbb78e-7c42-44e6-2869-fb803b58c11e",
+        "concept": "Ophiuroidea",
+        "height": 109,
+        "observer": "yolov5",
+        "width": 146,
+        "x": 537,
+        "y": 688,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:16.223Z"
+    },
+    {
+        "uuid": "abc0b3e6-8fcd-47be-a3ed-2a7dc5690a61",
+        "userDefinedKey": "ef7f5919-e05c-4c6c-2669-fb803b58c11e",
+        "concept": "Ophiuroidea",
+        "height": 162,
+        "observer": "yolov5",
+        "width": 170,
+        "x": 880,
+        "y": 38,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:16.223Z"
+    },
+    {
+        "uuid": "cab159a1-2cd2-448f-8b3a-0b19fc2403f5",
+        "userDefinedKey": "b29699c8-5acf-444f-2a69-fb803b58c11e",
+        "concept": "Graneledone boreopacifica",
+        "height": 371,
+        "observer": "gsainz",
+        "width": 379,
+        "x": 789,
+        "y": 180,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:16.223Z"
+    },
+    {
+        "uuid": "5c367700-22f7-4c0d-bd48-a012f8e23319",
+        "userDefinedKey": "55377fb4-cf11-41b6-2469-fb803b58c11e",
+        "concept": "Ophiuroidea",
+        "height": 98,
+        "observer": "yolov5",
+        "width": 143,
+        "x": 1590,
+        "y": 204,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:16.223Z"
+    }
+]

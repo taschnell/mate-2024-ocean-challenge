@@ -1,0 +1,80 @@
+[
+    {
+        "uuid": "2033cee0-008d-4791-b841-c9038aa56004",
+        "userDefinedKey": "4a4822cb-77c3-46bd-556b-d0595158c11e",
+        "concept": "Staurocalyptus",
+        "height": 446,
+        "observer": "gsainz",
+        "width": 391,
+        "x": 1149,
+        "y": 53,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:31.007Z"
+    },
+    {
+        "uuid": "b1348d2b-849a-4301-9567-d2d96cdb1141",
+        "userDefinedKey": "eb8ac93c-f533-417c-ee6f-e80d6881d11e",
+        "concept": "Ophiuroidea",
+        "height": 149,
+        "observer": "linda",
+        "width": 109,
+        "x": 292,
+        "y": 303,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:31.007Z"
+    },
+    {
+        "uuid": "4f811d28-ce8a-4fb8-9104-3115c5a27197",
+        "userDefinedKey": "2c4c7376-1d65-4624-5e65-85c86781d11e",
+        "concept": "Plesionika sp. A",
+        "height": 53,
+        "observer": "linda",
+        "width": 152,
+        "x": 1461,
+        "y": 952,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:31.007Z"
+    },
+    {
+        "uuid": "258128f2-f520-420b-ac19-08f4951f431e",
+        "userDefinedKey": "7543e09a-ce9e-40c7-5f6c-c1585158c11e",
+        "concept": "Porifera",
+        "height": 86,
+        "observer": "yolov5",
+        "width": 79,
+        "x": 1085,
+        "y": 541,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:31.007Z"
+    },
+    {
+        "uuid": "422abd7b-ab56-488c-bbf9-195411ebd18d",
+        "userDefinedKey": "5c625f8e-eaa9-4871-8168-776c6881d11e",
+        "concept": "Staurocalyptus",
+        "height": 232,
+        "observer": "yolov5",
+        "width": 399,
+        "x": 707,
+        "y": 1,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:31.007Z"
+    },
+    {
+        "uuid": "12a655e6-e7e2-4908-8edd-8387ae698cdf",
+        "userDefinedKey": "f914c91d-c832-42da-616c-c1585158c11e",
+        "concept": "Staurocalyptus",
+        "height": 177,
+        "observer": "gsainz",
+        "width": 142,
+        "x": 1574,
+        "y": 622,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:31.007Z"
+    }
+]

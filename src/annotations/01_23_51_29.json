@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "24ddffae-fe1d-4dde-aa7f-97ae066319e6",
+        "userDefinedKey": "66e6be5e-3705-4fb5-8765-9d057f58c11e",
+        "concept": "Sebastolobus",
+        "height": 145,
+        "observer": "yolov5",
+        "width": 113,
+        "x": 1807,
+        "y": 597,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:19.821Z"
+    },
+    {
+        "uuid": "e3b74a9f-3345-433a-81af-86f3837da776",
+        "userDefinedKey": "2d275a1b-6b10-4848-8365-9d057f58c11e",
+        "concept": "Ophiuroidea",
+        "height": 33,
+        "observer": "yolov5",
+        "width": 45,
+        "x": 1723,
+        "y": 549,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:19.821Z"
+    },
+    {
+        "uuid": "763b9a1a-964c-43fa-abdd-3987d0ea5bd3",
+        "userDefinedKey": "438ba940-16c9-4704-8965-9d057f58c11e",
+        "concept": "Ophiuroidea",
+        "height": 65,
+        "observer": "yolov5",
+        "width": 85,
+        "x": 1803,
+        "y": 313,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:19.821Z"
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "2a2b5011-1829-483a-995c-5a2db501b42b",
+        "userDefinedKey": "a7ec406a-0af9-4ee5-736d-a15aa112aa1e",
+        "concept": "Microstomus pacificus",
+        "height": 173,
+        "observer": "linda",
+        "width": 189,
+        "x": 1445,
+        "y": 465,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:27:24.331Z"
+    },
+    {
+        "uuid": "0b368460-5552-49ce-a282-cf070eff115b",
+        "userDefinedKey": "ba0dd382-72d1-44d9-ac62-13a4a112aa1e",
+        "concept": "Lycodes diapterus",
+        "height": 138,
+        "observer": "linda",
+        "width": 113,
+        "x": 1279,
+        "y": 408,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:27:24.331Z"
+    },
+    {
+        "uuid": "ceca133b-b5ff-4ad0-a956-fc606d5918e5",
+        "userDefinedKey": "a26e8b61-98b9-48ce-ad67-fb7ba112aa1e",
+        "concept": "Microstomus pacificus",
+        "height": 179,
+        "observer": "linda",
+        "width": 192,
+        "x": 1432,
+        "y": 664,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:27:24.331Z"
+    },
+    {
+        "uuid": "03ea2643-87cf-4aae-81ef-eced68af38b9",
+        "userDefinedKey": "71cd95e0-3ee1-404d-5a6c-d01dd37bb11e",
+        "concept": "Ophiuroidea",
+        "height": 152,
+        "observer": "lonny",
+        "width": 163,
+        "x": 741,
+        "y": 826,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:27:24.331Z"
+    }
+]

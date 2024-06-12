@@ -1,0 +1,80 @@
+[
+    {
+        "uuid": "ee71c0a0-314b-4c96-b569-54b1aa714fee",
+        "userDefinedKey": "d12d1e59-050c-4ee5-9d62-e5931dc5aa1e",
+        "concept": "Keratoisis",
+        "height": 569,
+        "observer": "master@mbari.org",
+        "width": 1249,
+        "x": 1,
+        "y": 1,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:45:29.816Z"
+    },
+    {
+        "uuid": "7c7c95f9-1db7-4029-a9db-03fe6297192f",
+        "userDefinedKey": "38933d68-9249-41fd-1068-b8911dc5aa1e",
+        "concept": "Sebastolobus",
+        "height": 102,
+        "observer": "master@mbari.org",
+        "width": 161,
+        "x": 1198,
+        "y": 256,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:45:29.822Z"
+    },
+    {
+        "uuid": "15d83013-abea-420f-a1d0-62cd47bd332e",
+        "userDefinedKey": "8760b2da-fe6d-4e86-f56a-a5931dc5aa1e",
+        "concept": "Ophiuroidea",
+        "height": 62,
+        "observer": "master@mbari.org",
+        "width": 58,
+        "x": 1341,
+        "y": 537,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:45:29.822Z"
+    },
+    {
+        "uuid": "93a84d51-0b56-4818-af73-eb9a7e15b04b",
+        "userDefinedKey": "9c5ee66f-4a08-4d32-3d6c-63931dc5aa1e",
+        "concept": "Ophiuroidea",
+        "height": 60,
+        "observer": "master@mbari.org",
+        "width": 52,
+        "x": 1720,
+        "y": 376,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:45:29.825Z"
+    },
+    {
+        "uuid": "723ab482-9aec-4bce-9935-518d53c5cc00",
+        "userDefinedKey": "a4cb187f-6171-4969-216f-85931dc5aa1e",
+        "concept": "Ophiuroidea",
+        "height": 49,
+        "observer": "master@mbari.org",
+        "width": 42,
+        "x": 1877,
+        "y": 70,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:45:29.824Z"
+    },
+    {
+        "uuid": "6ccfbb4e-7975-4e0b-8463-e88883e6baf4",
+        "userDefinedKey": "f22a3a7f-61df-4636-b96f-c2931dc5aa1e",
+        "concept": "Hippasteria",
+        "height": 68,
+        "observer": "master@mbari.org",
+        "width": 44,
+        "x": 1043,
+        "y": 395,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:45:29.828Z"
+    }
+]

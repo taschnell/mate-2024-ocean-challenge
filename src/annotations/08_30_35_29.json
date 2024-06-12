@@ -1,0 +1,28 @@
+[
+    {
+        "uuid": "84f97e17-9489-436c-a743-559b6eab8960",
+        "userDefinedKey": "0f03ebeb-c158-4d05-0b60-041c3f58c11e",
+        "concept": "Isidella",
+        "height": 951,
+        "observer": "lonny",
+        "width": 570,
+        "x": 679,
+        "y": 1,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:46.751Z"
+    },
+    {
+        "uuid": "8041aa87-8d48-4035-824c-dc9a8c37f62f",
+        "userDefinedKey": "b21e182e-9378-40e2-0960-041c3f58c11e",
+        "concept": "Ophiuroidea",
+        "height": 72,
+        "observer": "yolov5",
+        "width": 106,
+        "x": 1764,
+        "y": 913,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:46.751Z"
+    }
+]

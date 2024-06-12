@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "11c68151-389d-40c6-8e69-3d99afff52b3",
+        "userDefinedKey": "e53bbfc2-e76c-4e38-0366-85479bc3aa1e",
+        "concept": "Ophiuroidea",
+        "height": 41,
+        "observer": "master@mbari.org",
+        "width": 39,
+        "x": 135,
+        "y": 321,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T16:52:56.725Z"
+    },
+    {
+        "uuid": "db0d4bfd-875c-4f3b-bbb9-a9490e4eec37",
+        "userDefinedKey": "05b8f612-15a5-49f8-3b6c-b3479bc3aa1e",
+        "concept": "Ophiuroidea",
+        "height": 32,
+        "observer": "master@mbari.org",
+        "width": 48,
+        "x": 209,
+        "y": 302,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T16:52:56.725Z"
+    },
+    {
+        "uuid": "662665a2-4685-44b2-966e-e379ede5334c",
+        "userDefinedKey": "33f343e0-1e1e-4d91-9765-9b479bc3aa1e",
+        "concept": "Ophiuroidea",
+        "height": 45,
+        "observer": "master@mbari.org",
+        "width": 38,
+        "x": 96,
+        "y": 348,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T16:52:56.734Z"
+    },
+    {
+        "uuid": "55b26096-b81f-4c9d-a219-6bf135506832",
+        "userDefinedKey": "a144152f-1ebf-48e2-4f69-6a479bc3aa1e",
+        "concept": "Ophiuroidea",
+        "height": 33,
+        "observer": "master@mbari.org",
+        "width": 42,
+        "x": 49,
+        "y": 266,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T16:52:56.733Z"
+    },
+    {
+        "uuid": "8e5684c6-462d-4a3b-859e-636324359b06",
+        "userDefinedKey": "34cf6f0a-6b1c-442e-d467-e1459bc3aa1e",
+        "concept": "Bathyraja kincaidii",
+        "height": 73,
+        "observer": "master@mbari.org",
+        "width": 124,
+        "x": 214,
+        "y": 339,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T16:52:56.741Z"
+    }
+]

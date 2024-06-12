@@ -1,0 +1,80 @@
+[
+    {
+        "uuid": "a3ea8e5f-0de2-44e6-afc5-5dc2a15f073f",
+        "userDefinedKey": "7a29b52b-a2b7-4b6e-816e-36a21361ad1e",
+        "concept": "Peniagone sp. A",
+        "height": 147,
+        "observer": "expert-observer",
+        "width": 91,
+        "x": 2,
+        "y": 237,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:30:03.366Z"
+    },
+    {
+        "uuid": "afa504dd-d09e-4929-8422-5109aab39f21",
+        "userDefinedKey": "1bea3af8-ec2a-46d7-d066-3bb61361ad1e",
+        "concept": "Cystechinus loveni",
+        "height": 64,
+        "observer": "expert-observer",
+        "width": 62,
+        "x": 1054,
+        "y": 206,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:30:03.366Z"
+    },
+    {
+        "uuid": "c50bdb8a-e4c5-4126-a073-0c64578b3df0",
+        "userDefinedKey": "e41a1d6f-411a-4e3b-3363-91053ee3bc1e",
+        "concept": "Ophiuroidea",
+        "height": 94,
+        "observer": "gsainz",
+        "width": 117,
+        "x": 1354,
+        "y": 507,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:30:03.366Z"
+    },
+    {
+        "uuid": "a4b51602-051a-49f1-80ce-5ffbf54901bf",
+        "userDefinedKey": "1aae041b-0d37-4112-2c62-2c831361ad1e",
+        "concept": "Scotoplanes globosa",
+        "height": 205,
+        "observer": "expert-observer",
+        "width": 295,
+        "x": 1394,
+        "y": 19,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:30:03.366Z"
+    },
+    {
+        "uuid": "b46b7564-316f-4d4e-a20c-2a3b1e7c1009",
+        "userDefinedKey": "8b1d8769-3999-46b9-ea60-a8893de3bc1e",
+        "concept": "Polychaeta tube",
+        "height": 85,
+        "observer": "gsainz",
+        "width": 142,
+        "x": 88,
+        "y": 734,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:30:03.366Z"
+    },
+    {
+        "uuid": "21317400-17b5-4e35-beb8-81fd98e6e82a",
+        "userDefinedKey": "1b548f2f-f14f-4de4-5a64-fb901361ad1e",
+        "concept": "Peniagone sp. A",
+        "height": 204,
+        "observer": "expert-observer",
+        "width": 141,
+        "x": 1588,
+        "y": 536,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:30:03.366Z"
+    }
+]

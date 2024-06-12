@@ -1,0 +1,80 @@
+[
+    {
+        "uuid": "72dfb14f-39f5-471e-85ec-df582e6c2609",
+        "userDefinedKey": "46b9a24b-6e28-4415-4c6c-b39139d9da1e",
+        "concept": "Ophiuroidea",
+        "height": 63,
+        "observer": "lonny",
+        "width": 73,
+        "x": 424,
+        "y": 727,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:30.612Z"
+    },
+    {
+        "uuid": "15aee833-fd8f-4bd0-b4d0-cd235baca87a",
+        "userDefinedKey": "b9fca370-4d5e-490a-6463-b69139d9da1e",
+        "concept": "Ophiuroidea",
+        "height": 49,
+        "observer": "lonny",
+        "width": 59,
+        "x": 1068,
+        "y": 548,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:30.612Z"
+    },
+    {
+        "uuid": "0382f710-6162-4403-a560-2f7ab46a7678",
+        "userDefinedKey": "b61ee75f-8b99-4645-6263-b69139d9da1e",
+        "concept": "Ophiuroidea",
+        "height": 48,
+        "observer": "lonny",
+        "width": 55,
+        "x": 326,
+        "y": 603,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:30.612Z"
+    },
+    {
+        "uuid": "68c4f1ef-9d00-4522-967f-33c8ebffda9f",
+        "userDefinedKey": "b989389d-7c40-43e6-4e6c-b39139d9da1e",
+        "concept": "Ophiuroidea",
+        "height": 58,
+        "observer": "lonny",
+        "width": 63,
+        "x": 556,
+        "y": 600,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:30.612Z"
+    },
+    {
+        "uuid": "090a71ad-fa36-4432-9a23-06d59bf4876a",
+        "userDefinedKey": "018b1d93-d5c6-4255-506c-b39139d9da1e",
+        "concept": "Ophiuroidea",
+        "height": 49,
+        "observer": "lonny",
+        "width": 57,
+        "x": 1199,
+        "y": 892,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:30.612Z"
+    },
+    {
+        "uuid": "82f29e24-7b9d-4c29-bbc9-382522d48be9",
+        "userDefinedKey": "82f51bfa-442d-4188-6663-b69139d9da1e",
+        "concept": "Tromikosoma panamense",
+        "height": 98,
+        "observer": "lonny",
+        "width": 130,
+        "x": 74,
+        "y": 483,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:30.612Z"
+    }
+]

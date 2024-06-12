@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "b7cd212a-49f1-44c4-8b08-4e596281486d",
+        "userDefinedKey": "32386129-b9fc-42cb-ca62-d67d4f58c11e",
+        "concept": "Asteroidea",
+        "height": 77,
+        "observer": "yolov5",
+        "width": 75,
+        "x": 1655,
+        "y": 347,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:07.844Z"
+    },
+    {
+        "uuid": "d42a66c4-322c-4e84-a65c-134896456c10",
+        "userDefinedKey": "53edb260-c7cd-41df-c462-d67d4f58c11e",
+        "concept": "Ophiuroidea",
+        "height": 72,
+        "observer": "yolov5",
+        "width": 82,
+        "x": 724,
+        "y": 83,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:07.844Z"
+    },
+    {
+        "uuid": "c44e146e-4889-4a3f-bf3b-d3e2b2ad4e5f",
+        "userDefinedKey": "be46180d-f15e-42a1-c862-d67d4f58c11e",
+        "concept": "Asteroidea",
+        "height": 97,
+        "observer": "yolov5",
+        "width": 93,
+        "x": 1247,
+        "y": 629,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:07.844Z"
+    },
+    {
+        "uuid": "c19929e3-52ee-45cb-8fb1-d2cec75299fc",
+        "userDefinedKey": "347fee92-7bb7-47cd-c662-d67d4f58c11e",
+        "concept": "Asteroidea",
+        "height": 116,
+        "observer": "yolov5",
+        "width": 69,
+        "x": 889,
+        "y": 819,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:07.844Z"
+    }
+]

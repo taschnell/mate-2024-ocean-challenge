@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "3a5639a6-1ed5-4ba7-ac5f-8093ad2b0226",
+        "userDefinedKey": "7cc2eb1c-d32d-485b-0668-ac453b58c11e",
+        "concept": "Primnoidae",
+        "height": 717,
+        "observer": "lonny",
+        "width": 499,
+        "x": 925,
+        "y": 223,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:40.659Z"
+    },
+    {
+        "uuid": "5ec0cca4-8a7f-40bd-929c-205562507b98",
+        "userDefinedKey": "caf0b772-85e7-4506-0e68-ac453b58c11e",
+        "concept": "Ophiuroidea",
+        "height": 108,
+        "observer": "yolov5",
+        "width": 167,
+        "x": 75,
+        "y": 262,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:40.659Z"
+    },
+    {
+        "uuid": "f397fcb3-62bd-44c8-9484-9aa3e4981305",
+        "userDefinedKey": "107a782b-8632-4640-1068-ac453b58c11e",
+        "concept": "Crinoidea",
+        "height": 160,
+        "observer": "yolov5",
+        "width": 226,
+        "x": 429,
+        "y": 5,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:40.659Z"
+    },
+    {
+        "uuid": "b73d3e9d-b41e-405c-ab64-6399a9add51f",
+        "userDefinedKey": "905c6c7e-0d22-4f28-1468-ac453b58c11e",
+        "concept": "Pandalus amplus",
+        "height": 132,
+        "observer": "yolov5",
+        "width": 204,
+        "x": 365,
+        "y": 77,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:40.659Z"
+    }
+]

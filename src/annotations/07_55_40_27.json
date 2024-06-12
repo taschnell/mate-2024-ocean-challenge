@@ -1,0 +1,28 @@
+[
+    {
+        "uuid": "bd1585d9-b797-4390-96d1-765bc41ab114",
+        "userDefinedKey": "8e05c98a-94a6-4c1b-da68-16265158c11e",
+        "concept": "Ophiuroidea",
+        "height": 63,
+        "observer": "yolov5",
+        "width": 49,
+        "x": 1196,
+        "y": 735,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:31.400Z"
+    },
+    {
+        "uuid": "50bd662a-cc23-4a87-a945-0668b653c2a7",
+        "userDefinedKey": "31d3613c-be4d-49a5-de68-16265158c11e",
+        "concept": "Porifera",
+        "height": 100,
+        "observer": "yolov5",
+        "width": 80,
+        "x": 1181,
+        "y": 655,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:31.400Z"
+    }
+]

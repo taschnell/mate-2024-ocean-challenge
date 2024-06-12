@@ -1,0 +1,28 @@
+[
+    {
+        "uuid": "5965f69b-9a88-45d0-bf73-54687283cef0",
+        "userDefinedKey": "e7f77695-996c-4dc0-bf6d-f68d88fea81e",
+        "concept": "Umbellula sp. 2",
+        "height": 30,
+        "observer": "master@mbari.org",
+        "width": 57,
+        "x": 254,
+        "y": 228,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:47:05.007Z"
+    },
+    {
+        "uuid": "3d36ab33-be2c-4e72-a5e6-8b5ded122dd7",
+        "userDefinedKey": "47f6b145-4371-49c5-296d-f0f388fea81e",
+        "concept": "Ophiuroidea",
+        "height": 53,
+        "observer": "master@mbari.org",
+        "width": 60,
+        "x": 441,
+        "y": 308,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:47:05.006Z"
+    }
+]

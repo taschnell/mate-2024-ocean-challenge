@@ -1,0 +1,80 @@
+[
+    {
+        "uuid": "dbd4b5a6-91cc-4ff9-8e7a-605747bc073f",
+        "userDefinedKey": "2c26c0cd-18fe-46c5-796f-76614f58c11e",
+        "concept": "Gastropoda",
+        "height": 47,
+        "observer": "yolov5",
+        "width": 67,
+        "x": 141,
+        "y": 169,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:00.573Z"
+    },
+    {
+        "uuid": "e2278331-6d5b-4244-ac31-e11821fdff82",
+        "userDefinedKey": "bcdf413f-0170-4254-756f-76614f58c11e",
+        "concept": "Asteroidea",
+        "height": 272,
+        "observer": "yolov5",
+        "width": 316,
+        "x": 1287,
+        "y": 559,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:00.573Z"
+    },
+    {
+        "uuid": "3aa9bda0-0816-492d-b8f4-93ca2fd88965",
+        "userDefinedKey": "1ef14ca8-5ced-4d6a-7d6f-76614f58c11e",
+        "concept": "Ophiuroidea",
+        "height": 129,
+        "observer": "yolov5",
+        "width": 121,
+        "x": 871,
+        "y": 638,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:00.573Z"
+    },
+    {
+        "uuid": "bafdd6ab-3509-4aee-9bf9-9308c8fe6a71",
+        "userDefinedKey": "f032d4bc-a9c5-4f86-7b6f-76614f58c11e",
+        "concept": "Gastropoda",
+        "height": 82,
+        "observer": "yolov5",
+        "width": 74,
+        "x": 245,
+        "y": 811,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:00.573Z"
+    },
+    {
+        "uuid": "4a909ba9-d0cd-45f9-91b4-6e9987efa792",
+        "userDefinedKey": "bb0b0846-20f6-4362-836f-76614f58c11e",
+        "concept": "Cherublemma emmelas",
+        "height": 518,
+        "observer": "lonny",
+        "width": 946,
+        "x": 181,
+        "y": 112,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:00.573Z"
+    },
+    {
+        "uuid": "f47abc3d-256d-42d9-a834-b53986f50822",
+        "userDefinedKey": "18767100-d9f6-4212-776f-76614f58c11e",
+        "concept": "Psolidae",
+        "height": 182,
+        "observer": "gsainz",
+        "width": 284,
+        "x": 1488,
+        "y": 702,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:00.573Z"
+    }
+]

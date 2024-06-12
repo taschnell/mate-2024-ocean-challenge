@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "68a15170-f255-489b-8de8-25b98d7b95dc",
+        "userDefinedKey": "ec68217b-cacf-44b4-fa62-e8bda158c11e",
+        "concept": "LRJ complex",
+        "height": 22,
+        "observer": "yolov5",
+        "width": 27,
+        "x": 606,
+        "y": 253,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:30.331Z"
+    },
+    {
+        "uuid": "3360af28-23e1-42af-8df8-827e7ca67560",
+        "userDefinedKey": "f21b1fc5-76da-43d9-fe62-e8bda158c11e",
+        "concept": "Ophiuroidea",
+        "height": 117,
+        "observer": "yolov5",
+        "width": 215,
+        "x": 237,
+        "y": 109,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:30.331Z"
+    },
+    {
+        "uuid": "2bb82686-846f-4601-b256-a7d445347141",
+        "userDefinedKey": "dc743d05-e9fd-481f-fc62-e8bda158c11e",
+        "concept": "Pennatulacea",
+        "height": 35,
+        "observer": "yolov5",
+        "width": 13,
+        "x": 658,
+        "y": 163,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:30.331Z"
+    }
+]

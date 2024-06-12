@@ -1,0 +1,80 @@
+[
+    {
+        "uuid": "a9315a88-a2a9-46a9-bb86-f15b7fa19da4",
+        "userDefinedKey": "b4053e9b-7a0f-4925-bf61-f9512be8d11e",
+        "concept": "Crinoidea",
+        "height": 221,
+        "observer": "gsainz",
+        "width": 213,
+        "x": 706,
+        "y": 850,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:00.323Z"
+    },
+    {
+        "uuid": "7eb7fa25-3190-43eb-b7d5-2f69adab79d9",
+        "userDefinedKey": "36e576de-cbe8-4c35-c361-770a3a58c11e",
+        "concept": "Graneledone boreopacifica",
+        "height": 319,
+        "observer": "gsainz",
+        "width": 309,
+        "x": 561,
+        "y": 48,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:00.323Z"
+    },
+    {
+        "uuid": "deb0f926-11b4-4d3a-bc25-ff100d706bc0",
+        "userDefinedKey": "ad0cc490-1afb-46e2-bf61-770a3a58c11e",
+        "concept": "Ophiuroidea",
+        "height": 90,
+        "observer": "yolov5",
+        "width": 63,
+        "x": 1856,
+        "y": 904,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:00.323Z"
+    },
+    {
+        "uuid": "94c76fbc-f208-4a74-a81e-3786e477756c",
+        "userDefinedKey": "418e29db-5a3f-4764-c161-770a3a58c11e",
+        "concept": "Tunicata",
+        "height": 58,
+        "observer": "yolov5",
+        "width": 59,
+        "x": 940,
+        "y": 538,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:00.323Z"
+    },
+    {
+        "uuid": "d704a77c-f434-4a3f-98b0-1772c5f3db39",
+        "userDefinedKey": "3d971232-5b1b-4b85-7763-2e0b3a58c11e",
+        "concept": "Graneledone boreopacifica",
+        "height": 439,
+        "observer": "gsainz",
+        "width": 363,
+        "x": 166,
+        "y": 432,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:00.323Z"
+    },
+    {
+        "uuid": "fe967dbd-4dbd-423a-b9d1-39c4ec118560",
+        "userDefinedKey": "356b4a21-7a6a-4c66-d461-efd4a01bd11e",
+        "concept": "Tunicata",
+        "height": 119,
+        "observer": "yolov5",
+        "width": 92,
+        "x": 1062,
+        "y": 676,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:00.323Z"
+    }
+]

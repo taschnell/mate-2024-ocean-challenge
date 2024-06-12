@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "4c6f558b-0846-4ab3-9592-f397913cd687",
+        "userDefinedKey": "75fe70c6-e8bc-46c4-7565-dca48658c11e",
+        "concept": "Isididae",
+        "height": 321,
+        "observer": "yolov5",
+        "width": 829,
+        "x": 1091,
+        "y": 391,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:12:51.838Z"
+    },
+    {
+        "uuid": "69635fe8-a7ff-44d5-8f1f-03d6f5348183",
+        "userDefinedKey": "d652e343-3ff9-4d4b-d16a-27a48658c11e",
+        "concept": "manipulator",
+        "height": 528,
+        "observer": "lonny",
+        "width": 803,
+        "x": 917,
+        "y": 2,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:12:51.838Z"
+    },
+    {
+        "uuid": "d4f1f92e-2829-4a67-aa33-f877c93508d8",
+        "userDefinedKey": "0e7e1131-73e5-4d01-d36a-27a48658c11e",
+        "concept": "Ophiuroidea",
+        "height": 52,
+        "observer": "yolov5",
+        "width": 74,
+        "x": 705,
+        "y": 574,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:12:51.838Z"
+    }
+]

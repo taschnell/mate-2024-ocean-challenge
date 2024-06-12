@@ -1,0 +1,93 @@
+[
+    {
+        "uuid": "27a3d1c0-1023-4980-97c6-86f0db0071b0",
+        "userDefinedKey": "63ca2fa8-7212-44b4-c063-6f554e58c11e",
+        "concept": "Ophiuroidea",
+        "height": 115,
+        "observer": "gsainz",
+        "width": 119,
+        "x": 654,
+        "y": 769,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:33.293Z"
+    },
+    {
+        "uuid": "88286d5d-a836-4af2-bf84-6fe0f0a73080",
+        "userDefinedKey": "a6567a2e-c14c-48c7-ce63-6f554e58c11e",
+        "concept": "Heterocarpus sp. 1",
+        "height": 122,
+        "observer": "gsainz",
+        "width": 164,
+        "x": 1503,
+        "y": 4,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:33.293Z"
+    },
+    {
+        "uuid": "aaede187-acc4-416b-a48e-365f01df35bf",
+        "userDefinedKey": "1c8d5bbd-e8cb-450f-d263-6f554e58c11e",
+        "concept": "Porifera",
+        "height": 572,
+        "observer": "yolov5",
+        "width": 380,
+        "x": 1139,
+        "y": 10,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:33.293Z"
+    },
+    {
+        "uuid": "67583c05-90de-4976-804b-b5e938a4a342",
+        "userDefinedKey": "041b0c58-7726-49b1-c863-6f554e58c11e",
+        "concept": "Decapoda",
+        "height": 236,
+        "observer": "lonny",
+        "width": 189,
+        "x": 813,
+        "y": 437,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:33.293Z"
+    },
+    {
+        "uuid": "e48111c2-7e7d-4cfa-b5ab-ab24e970fec0",
+        "userDefinedKey": "430cfd05-ae1d-4356-d063-6f554e58c11e",
+        "concept": "Ophiuroidea",
+        "height": 142,
+        "observer": "yolov5",
+        "width": 119,
+        "x": 218,
+        "y": 37,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:33.293Z"
+    },
+    {
+        "uuid": "42bcf928-e479-46d2-91e0-ad075f2d66e2",
+        "userDefinedKey": "209577b0-3242-4e70-be63-6f554e58c11e",
+        "concept": "Heterocarpus sp. 1",
+        "height": 106,
+        "observer": "lonny",
+        "width": 63,
+        "x": 1077,
+        "y": 264,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:33.293Z"
+    },
+    {
+        "uuid": "d6df8672-af4f-4105-ae3a-14c6b423f744",
+        "userDefinedKey": "52f1a6fb-3460-432e-a961-a80da710d41e",
+        "concept": "Heterocarpus sp. 1",
+        "height": 72,
+        "observer": "gsainz",
+        "width": 140,
+        "x": 1383,
+        "y": 445,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:33.293Z"
+    }
+]

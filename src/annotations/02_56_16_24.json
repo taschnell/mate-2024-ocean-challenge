@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "f15eaf9e-8bb2-4645-9015-d2158c926e7a",
+        "userDefinedKey": "66c14b92-b0b0-4aa3-fc60-db585458c11e",
+        "concept": "Ophiuroidea",
+        "height": 75,
+        "observer": "yolov5",
+        "width": 72,
+        "x": 0,
+        "y": 448,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:12:50.452Z"
+    },
+    {
+        "uuid": "122fb532-3239-496d-9dec-2a7d7ae960bc",
+        "userDefinedKey": "e4ec02ae-f6ef-42eb-fe60-db585458c11e",
+        "concept": "Pandalus amplus",
+        "height": 55,
+        "observer": "yolov5",
+        "width": 113,
+        "x": 812,
+        "y": 652,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:12:50.452Z"
+    },
+    {
+        "uuid": "7bf3c08b-39e1-48b8-a790-6cea9a22dbc8",
+        "userDefinedKey": "a7a0a8c0-b754-4857-0261-db585458c11e",
+        "concept": "Pandalus amplus",
+        "height": 132,
+        "observer": "yolov5",
+        "width": 107,
+        "x": 810,
+        "y": 171,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:12:50.452Z"
+    },
+    {
+        "uuid": "232743b1-355e-4f24-9d5c-1c2a308cc23a",
+        "userDefinedKey": "522d3b43-3e3b-41be-0461-db585458c11e",
+        "concept": "Psolus squamatus",
+        "height": 279,
+        "observer": "yolov5",
+        "width": 330,
+        "x": 214,
+        "y": 293,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:12:50.452Z"
+    }
+]

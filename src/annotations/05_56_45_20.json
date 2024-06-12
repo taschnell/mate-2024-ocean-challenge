@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "1024b5db-4016-4dce-8b55-f67a35d62184",
+        "userDefinedKey": "a3c5c368-8209-47b8-a165-3a6316ded31e",
+        "concept": "Neoloricata",
+        "height": 48,
+        "observer": "linda",
+        "width": 109,
+        "x": 1520,
+        "y": 322,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:22:01.744Z"
+    },
+    {
+        "uuid": "fd862034-69c5-4206-9456-9502bcf84d08",
+        "userDefinedKey": "63c0eee1-e1c4-4d69-e16a-bc8f4f58c11e",
+        "concept": "Hexactinellida",
+        "height": 699,
+        "observer": "gsainz",
+        "width": 694,
+        "x": 481,
+        "y": 168,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:22:01.744Z"
+    },
+    {
+        "uuid": "9bd8b556-5726-48c5-95c7-7d0b7bd5f2cf",
+        "userDefinedKey": "8a1156f8-c1cc-4449-da65-cddb70ebd31e",
+        "concept": "Porifera",
+        "height": 221,
+        "observer": "linda",
+        "width": 255,
+        "x": 1237,
+        "y": 6,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:22:01.744Z"
+    },
+    {
+        "uuid": "c6cbda4d-096c-4535-9dec-b02852092192",
+        "userDefinedKey": "9a87bad6-303e-426c-fa6a-8ae415ded31e",
+        "concept": "Ophiuroidea",
+        "height": 204,
+        "observer": "linda",
+        "width": 166,
+        "x": 486,
+        "y": 558,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:22:01.744Z"
+    }
+]

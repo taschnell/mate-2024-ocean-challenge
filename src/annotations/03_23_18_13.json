@@ -1,0 +1,28 @@
+[
+    {
+        "uuid": "01dd92b6-a141-439e-be2e-3e8166262db8",
+        "userDefinedKey": "f4d8973d-1621-43c7-ca64-82bfa158c11e",
+        "concept": "Ophiuroidea",
+        "height": 49,
+        "observer": "yolov5",
+        "width": 104,
+        "x": 381,
+        "y": 140,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.821Z"
+    },
+    {
+        "uuid": "573cd9b8-67d7-4cf8-bd12-4d4081e9e374",
+        "userDefinedKey": "58e876ad-891b-4adf-b86d-7fbfa158c11e",
+        "concept": "Push Corer",
+        "height": 93,
+        "observer": "lonny",
+        "width": 68,
+        "x": 387,
+        "y": 184,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.821Z"
+    }
+]

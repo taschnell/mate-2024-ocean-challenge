@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "49c22efd-e99a-4713-9d97-a8fd555f4589",
+        "userDefinedKey": "6d676ad8-517d-4bfa-3b6b-b8198258c11e",
+        "concept": "Hippasteria",
+        "height": 159,
+        "observer": "yolov5",
+        "width": 106,
+        "x": 0,
+        "y": 22,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:19.952Z"
+    },
+    {
+        "uuid": "6446aa29-cd05-4df7-80e1-55b2c0da696e",
+        "userDefinedKey": "3e1bd46d-795d-4bfe-376b-b8198258c11e",
+        "concept": "Tunicata",
+        "height": 140,
+        "observer": "yolov5",
+        "width": 138,
+        "x": 783,
+        "y": 884,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:19.952Z"
+    },
+    {
+        "uuid": "5d354e86-3f62-4722-a418-ad290ff79b91",
+        "userDefinedKey": "59c7b688-b597-410f-356b-b8198258c11e",
+        "concept": "Culeolus",
+        "height": 322,
+        "observer": "lonny",
+        "width": 317,
+        "x": 769,
+        "y": 233,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:19.952Z"
+    },
+    {
+        "uuid": "68264110-3747-4f31-b6dc-4408da732334",
+        "userDefinedKey": "11014931-79e7-4c2a-396b-b8198258c11e",
+        "concept": "Ophiuroidea",
+        "height": 91,
+        "observer": "yolov5",
+        "width": 104,
+        "x": 930,
+        "y": 983,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:19.952Z"
+    }
+]

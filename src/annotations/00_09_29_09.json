@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "12a641a6-7aac-4bc9-bc60-d93eba61b508",
+        "userDefinedKey": "abfd9ffe-8c49-4226-b161-32624158c11e",
+        "concept": "Ophiuroidea",
+        "height": 85,
+        "observer": "yolov5",
+        "width": 122,
+        "x": 213,
+        "y": 991,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:41.552Z"
+    },
+    {
+        "uuid": "de2e40f4-fb55-4b1f-b902-65e8c304f574",
+        "userDefinedKey": "fe25aa18-ff1d-4447-af61-32624158c11e",
+        "concept": "Ophiuroidea",
+        "height": 69,
+        "observer": "yolov5",
+        "width": 74,
+        "x": 153,
+        "y": 1005,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:41.552Z"
+    },
+    {
+        "uuid": "d012340b-5022-4531-a0e5-489ed27ecfa6",
+        "userDefinedKey": "51efc355-8c1f-432f-b561-32624158c11e",
+        "concept": "Plesionika",
+        "height": 66,
+        "observer": "lonny",
+        "width": 131,
+        "x": 1157,
+        "y": 986,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:41.552Z"
+    },
+    {
+        "uuid": "a661f6ee-a009-4c5e-b67d-997887abff67",
+        "userDefinedKey": "4fe1aaed-39f7-46c4-c767-34624158c11e",
+        "concept": "Coryphaenoides",
+        "height": 266,
+        "observer": "yolov5",
+        "width": 768,
+        "x": 250,
+        "y": 367,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:41.552Z"
+    }
+]

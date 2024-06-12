@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "92423463-dc01-4537-b768-b9ded3ad9865",
+        "userDefinedKey": "72dd1e04-9251-46cc-b86a-61637b58c11e",
+        "concept": "Actinopterygii",
+        "height": 196,
+        "observer": "lonny",
+        "width": 121,
+        "x": 558,
+        "y": 854,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:22:32.243Z"
+    },
+    {
+        "uuid": "1b335db1-8aed-4e3c-b504-2713892e4ff8",
+        "userDefinedKey": "edc3235c-38d4-4a9f-b66a-61637b58c11e",
+        "concept": "Ophiuroidea",
+        "height": 124,
+        "observer": "yolov5",
+        "width": 103,
+        "x": 1006,
+        "y": 14,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:22:32.243Z"
+    },
+    {
+        "uuid": "671a75f6-a3bb-4436-8233-c00913e80d96",
+        "userDefinedKey": "09124303-b784-4e48-bc6a-61637b58c11e",
+        "concept": "Ophiuroidea",
+        "height": 60,
+        "observer": "yolov5",
+        "width": 65,
+        "x": 1135,
+        "y": 538,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:22:32.243Z"
+    },
+    {
+        "uuid": "2e4fbb18-efbe-467a-bcea-886e16a9636a",
+        "userDefinedKey": "73f1aa1b-947c-4b8a-be6a-61637b58c11e",
+        "concept": "Asteroidea",
+        "height": 90,
+        "observer": "yolov5",
+        "width": 170,
+        "x": 1529,
+        "y": 756,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:22:32.243Z"
+    }
+]

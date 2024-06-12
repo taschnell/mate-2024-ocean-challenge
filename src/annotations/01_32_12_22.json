@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "2d51b5db-177f-4046-824e-9d9736576f72",
+        "userDefinedKey": "c5e20927-2347-4f5a-ce65-92b5a158c11e",
+        "concept": "LRJ complex",
+        "height": 16,
+        "observer": "yolov5",
+        "width": 18,
+        "x": 593,
+        "y": 151,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:08.443Z"
+    },
+    {
+        "uuid": "44b8bc0d-682f-4449-a1d4-9bb23826c145",
+        "userDefinedKey": "e58db202-2199-4411-e06c-94b5a158c11e",
+        "concept": "Pennatulacea",
+        "height": 35,
+        "observer": "yolov5",
+        "width": 19,
+        "x": 531,
+        "y": 307,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:08.443Z"
+    },
+    {
+        "uuid": "1644fb7f-9a6e-4d88-acc8-88bc2ad04080",
+        "userDefinedKey": "4840fd61-cc5b-40ea-e46c-94b5a158c11e",
+        "concept": "Macrouridae",
+        "height": 151,
+        "observer": "gsainz",
+        "width": 99,
+        "x": 615,
+        "y": 61,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:08.443Z"
+    },
+    {
+        "uuid": "01a2dda1-8f70-4dc6-b7f8-daf16c7c0382",
+        "userDefinedKey": "c615d71e-0fb4-44fb-e26c-94b5a158c11e",
+        "concept": "Ophiuroidea",
+        "height": 111,
+        "observer": "yolov5",
+        "width": 212,
+        "x": 38,
+        "y": 237,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:08.443Z"
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "10817d04-0759-451e-84e3-ce02d5f4fb83",
+        "userDefinedKey": "0bf22724-ae30-4902-a96e-d272fbd6da1e",
+        "concept": "Ophiuroidea",
+        "height": 51,
+        "observer": "lonny",
+        "width": 58,
+        "x": 994,
+        "y": 751,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:08.226Z"
+    },
+    {
+        "uuid": "4a219102-5843-4d31-93c6-746957067a6d",
+        "userDefinedKey": "0ecceff3-f6e9-499d-a76e-d272fbd6da1e",
+        "concept": "Brisingida",
+        "height": 122,
+        "observer": "lonny",
+        "width": 116,
+        "x": 1467,
+        "y": 845,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:08.226Z"
+    },
+    {
+        "uuid": "3f0e9be9-4889-4bb0-b991-c8a196ac1983",
+        "userDefinedKey": "b6d94f4c-703f-4d51-af6e-d272fbd6da1e",
+        "concept": "Tromikosoma panamense",
+        "height": 51,
+        "observer": "lonny",
+        "width": 63,
+        "x": 970,
+        "y": 144,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:08.226Z"
+    },
+    {
+        "uuid": "18940989-7dc3-48f7-862c-15d4619eeddb",
+        "userDefinedKey": "7d2387ff-5fd3-4fc2-ab6e-d272fbd6da1e",
+        "concept": "Ophiuroidea",
+        "height": 55,
+        "observer": "lonny",
+        "width": 70,
+        "x": 930,
+        "y": 821,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:08.226Z"
+    },
+    {
+        "uuid": "5fbe766a-b372-4bc8-9fe8-3870bbb46878",
+        "userDefinedKey": "85193f5a-f9b8-422e-ad6e-d272fbd6da1e",
+        "concept": "Ophiuroidea",
+        "height": 55,
+        "observer": "lonny",
+        "width": 60,
+        "x": 1077,
+        "y": 1022,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:08.226Z"
+    }
+]

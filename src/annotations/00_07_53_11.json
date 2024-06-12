@@ -1,0 +1,80 @@
+[
+    {
+        "uuid": "6c6e8498-aa99-4448-87c8-7cf6839b0606",
+        "userDefinedKey": "0b43887e-238b-488c-1c67-a63f3358c11e",
+        "concept": "Ophiuroidea",
+        "height": 34,
+        "observer": "yolov5",
+        "width": 38,
+        "x": 26,
+        "y": 158,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:13.477Z"
+    },
+    {
+        "uuid": "6c6d209e-45ad-4d96-a3de-c102300ff0b2",
+        "userDefinedKey": "89c9344f-741d-43a9-1e66-8e403358c11e",
+        "concept": "Sebastolobus",
+        "height": 48,
+        "observer": "yolov5",
+        "width": 77,
+        "x": 317,
+        "y": 154,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:13.477Z"
+    },
+    {
+        "uuid": "eba826ec-a9c5-452b-9534-cd6bb02221aa",
+        "userDefinedKey": "c446b138-04b2-4234-2667-a63f3358c11e",
+        "concept": "Paragorgia",
+        "height": 149,
+        "observer": "yolov5",
+        "width": 182,
+        "x": 299,
+        "y": 201,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:13.477Z"
+    },
+    {
+        "uuid": "5d5f01de-0beb-4c5b-a216-044b29de8417",
+        "userDefinedKey": "916c6480-d6a9-4010-2067-a63f3358c11e",
+        "concept": "Ophiuroidea",
+        "height": 32,
+        "observer": "yolov5",
+        "width": 34,
+        "x": 51,
+        "y": 180,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:13.477Z"
+    },
+    {
+        "uuid": "f0d2850a-f55f-482a-b55f-95e92a1f4287",
+        "userDefinedKey": "d76ec363-a37f-4786-2467-a63f3358c11e",
+        "concept": "Tunicata",
+        "height": 19,
+        "observer": "yolov5",
+        "width": 24,
+        "x": 565,
+        "y": 261,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:13.477Z"
+    },
+    {
+        "uuid": "30714264-107e-45ee-bcc3-028c53218592",
+        "userDefinedKey": "327916e3-1735-40a8-1c66-8e403358c11e",
+        "concept": "Paralomis multispina",
+        "height": 205,
+        "observer": "yolov5",
+        "width": 179,
+        "x": 190,
+        "y": 111,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:13.477Z"
+    }
+]

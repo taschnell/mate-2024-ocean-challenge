@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "9198c5b3-44e2-45d9-836f-7f38e360fa7d",
+        "userDefinedKey": "edf60766-1811-4930-0365-a404a058c11e",
+        "concept": "Ophiuroidea",
+        "height": 71,
+        "observer": "yolov5",
+        "width": 105,
+        "x": 311,
+        "y": 274,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:02.554Z"
+    },
+    {
+        "uuid": "fe02aadc-2ed3-4cbd-8934-8faefa0653b4",
+        "userDefinedKey": "5aae203d-5225-4c2d-0965-a404a058c11e",
+        "concept": "Suction Sampler",
+        "height": 136,
+        "observer": "yolov5",
+        "width": 239,
+        "x": 480,
+        "y": 224,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:02.554Z"
+    },
+    {
+        "uuid": "c57cfb48-867e-4ca1-9fd8-4cddb3db7175",
+        "userDefinedKey": "6ec823ec-0b06-44ba-0765-a404a058c11e",
+        "concept": "manipulator",
+        "height": 252,
+        "observer": "lonny",
+        "width": 225,
+        "x": 382,
+        "y": 69,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:02.554Z"
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "f3f66435-118c-4c38-90bc-d36c99f28a72",
+        "userDefinedKey": "3b9afddc-623f-48a1-9f64-7d4a4c62b81e",
+        "concept": "manipulator",
+        "height": 291,
+        "observer": "gsainz",
+        "width": 333,
+        "x": 1342,
+        "y": 88,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:26:21.145Z"
+    },
+    {
+        "uuid": "7abc11c9-188b-4b2f-9530-0341a8cd9355",
+        "userDefinedKey": "7da798d1-6a8b-4f55-976a-87994c62b81e",
+        "concept": "Ophiuroidea",
+        "height": 57,
+        "observer": "gsainz",
+        "width": 62,
+        "x": 1133,
+        "y": 514,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:26:21.145Z"
+    },
+    {
+        "uuid": "2418e567-7c3a-4ca9-99f0-1a7b6d6495eb",
+        "userDefinedKey": "cbfdbb2e-4233-4885-e663-bdd44b62b81e",
+        "concept": "Ophiuroidea",
+        "height": 120,
+        "observer": "gsainz",
+        "width": 95,
+        "x": 243,
+        "y": 885,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:26:21.145Z"
+    },
+    {
+        "uuid": "6997b345-2529-4a58-a0f8-732346089af5",
+        "userDefinedKey": "5282d14d-021b-4a8c-3962-a8784c62b81e",
+        "concept": "Ophiuroidea",
+        "height": 110,
+        "observer": "gsainz",
+        "width": 118,
+        "x": 1395,
+        "y": 442,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:26:21.145Z"
+    },
+    {
+        "uuid": "88f558a4-0c5e-4443-89b7-d3ae083a4e00",
+        "userDefinedKey": "c4354551-2471-4c99-0864-65fa4a62b81e",
+        "concept": "Hyalonema (Corynonema) populiferum",
+        "height": 409,
+        "observer": "lonny",
+        "width": 609,
+        "x": 699,
+        "y": 492,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:26:21.145Z"
+    }
+]

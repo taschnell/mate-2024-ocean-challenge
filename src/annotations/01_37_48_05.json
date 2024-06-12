@@ -1,0 +1,80 @@
+[
+    {
+        "uuid": "24ca6512-21b1-4f1f-a62f-67c39467129a",
+        "userDefinedKey": "8cf7413a-d5bc-4588-a16d-57c12ba7aa1e",
+        "concept": "Abyssocucumis abyssorum",
+        "height": 159,
+        "observer": "schlin",
+        "width": 154,
+        "x": 878,
+        "y": 523,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:27:24.332Z"
+    },
+    {
+        "uuid": "82c34f3f-75e9-495b-a710-5f465baa5e90",
+        "userDefinedKey": "e6472364-32b9-462c-d46c-a3fd9af4aa1e",
+        "concept": "Ophiuroidea",
+        "height": 141,
+        "observer": "schlin",
+        "width": 107,
+        "x": 1181,
+        "y": 688,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:27:24.333Z"
+    },
+    {
+        "uuid": "11af57be-e518-46a3-a9b8-baa486e9c396",
+        "userDefinedKey": "f1055ec5-df07-4e6f-b66c-8cec9af4aa1e",
+        "concept": "Ophiuroidea",
+        "height": 203,
+        "observer": "schlin",
+        "width": 289,
+        "x": 1253,
+        "y": 858,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:27:24.333Z"
+    },
+    {
+        "uuid": "1f57fb91-fdfd-404b-b981-84faed949ffe",
+        "userDefinedKey": "06d99b17-a8f1-4f5a-f769-cc109bf4aa1e",
+        "concept": "Ophiuroidea",
+        "height": 197,
+        "observer": "schlin",
+        "width": 241,
+        "x": 1511,
+        "y": 700,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:27:24.333Z"
+    },
+    {
+        "uuid": "55cdd105-21c4-4e65-b498-c09e8d43cdb0",
+        "userDefinedKey": "266ac4ca-f152-4aba-3562-70269bf4aa1e",
+        "concept": "Ophiuroidea",
+        "height": 122,
+        "observer": "schlin",
+        "width": 215,
+        "x": 1112,
+        "y": 65,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:27:24.333Z"
+    },
+    {
+        "uuid": "62c3d6f9-dff2-4756-aaa7-3984808b75bc",
+        "userDefinedKey": "645f7e5e-5a4a-400f-4664-1dcb9af4aa1e",
+        "concept": "Ophiuroidea",
+        "height": 177,
+        "observer": "schlin",
+        "width": 322,
+        "x": 87,
+        "y": 405,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:27:24.333Z"
+    }
+]

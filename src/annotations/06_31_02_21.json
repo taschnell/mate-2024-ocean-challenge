@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "b578a32b-385d-4001-b38a-2e309dfd3011",
+        "userDefinedKey": "20c53993-fd27-452e-7166-717d3f58c11e",
+        "concept": "Ophiuroidea",
+        "height": 49,
+        "observer": "yolov5",
+        "width": 42,
+        "x": 1368,
+        "y": 1024,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:05.466Z"
+    },
+    {
+        "uuid": "f79b480a-d0b0-477e-9ac1-49bc2a2ddf21",
+        "userDefinedKey": "efae62ef-d9da-4d00-6f65-148209a8d41e",
+        "concept": "Isidella tentaculum",
+        "height": 667,
+        "observer": "linda",
+        "width": 511,
+        "x": 696,
+        "y": 208,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:05.466Z"
+    },
+    {
+        "uuid": "83fddbd4-6666-41cf-97b1-1157b8a051f2",
+        "userDefinedKey": "d9ef3055-4af7-4a22-7366-717d3f58c11e",
+        "concept": "Tunicata",
+        "height": 29,
+        "observer": "yolov5",
+        "width": 35,
+        "x": 851,
+        "y": 1034,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:05.466Z"
+    },
+    {
+        "uuid": "cdfcb6c3-dcfe-46bb-b6d1-171b711545eb",
+        "userDefinedKey": "aeb272c2-213b-4a10-7566-717d3f58c11e",
+        "concept": "Coryphaenoides",
+        "height": 249,
+        "observer": "yolov5",
+        "width": 207,
+        "x": 293,
+        "y": 829,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:05.466Z"
+    },
+    {
+        "uuid": "84092965-6046-4f95-870f-a4a26effb0cf",
+        "userDefinedKey": "ec545b5f-290e-47fa-6f66-717d3f58c11e",
+        "concept": "Crinoidea",
+        "height": 54,
+        "observer": "yolov5",
+        "width": 68,
+        "x": 267,
+        "y": 725,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:05.466Z"
+    }
+]

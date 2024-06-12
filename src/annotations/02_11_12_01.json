@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "ffe24433-f4fe-481d-9211-2d6e437580eb",
+        "userDefinedKey": "74b054e4-754d-40aa-ba67-44805158c11e",
+        "concept": "Asteroidea",
+        "height": 130,
+        "observer": "yolov5",
+        "width": 159,
+        "x": 1249,
+        "y": 3,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:40.564Z"
+    },
+    {
+        "uuid": "10750ac4-5df9-4306-a0c7-f5d59720090e",
+        "userDefinedKey": "ce68c224-ec6b-4066-b667-44805158c11e",
+        "concept": "Ophiuroidea",
+        "height": 136,
+        "observer": "yolov5",
+        "width": 145,
+        "x": 516,
+        "y": 863,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:40.564Z"
+    },
+    {
+        "uuid": "0d295781-e7c5-4768-8b05-f00c62db3f7a",
+        "userDefinedKey": "3fe38f9d-f608-4692-b867-44805158c11e",
+        "concept": "Parmaturus xaniurus",
+        "height": 747,
+        "observer": "gsainz",
+        "width": 577,
+        "x": 809,
+        "y": 201,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:40.564Z"
+    }
+]

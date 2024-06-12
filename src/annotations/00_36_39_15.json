@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "cd1f7ef6-23b1-4092-b899-fffdaaef2524",
+        "userDefinedKey": "b4d489fc-264b-4a2d-0f67-5d436ec5aa1e",
+        "concept": "Strongylocentrotus fragilis",
+        "height": 131,
+        "observer": "svonthun",
+        "width": 152,
+        "x": 1331,
+        "y": 491,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:18:57.511Z"
+    },
+    {
+        "uuid": "42c9aad9-7a5f-4370-8f90-793a49beb4cd",
+        "userDefinedKey": "625bd1e6-7b57-4413-d667-b8dd3d40b31e",
+        "concept": "Suction Sampler",
+        "height": 370,
+        "observer": "gsainz",
+        "width": 751,
+        "x": 694,
+        "y": 244,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:18:57.511Z"
+    },
+    {
+        "uuid": "ad43318c-2a76-4e4d-b003-775b5e601808",
+        "userDefinedKey": "d9d5f371-4fd2-44b5-fc65-eacec109b41e",
+        "concept": "Ophiuroidea",
+        "height": 149,
+        "observer": "gsainz",
+        "width": 153,
+        "x": 124,
+        "y": 897,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:18:57.511Z"
+    },
+    {
+        "uuid": "51411ea6-ceed-47d2-836f-6feaa88284bd",
+        "userDefinedKey": "920874b4-ec83-4f2d-5d6c-4125c109b41e",
+        "concept": "Ophiuroidea",
+        "height": 134,
+        "observer": "gsainz",
+        "width": 149,
+        "x": 575,
+        "y": 849,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:18:57.511Z"
+    }
+]

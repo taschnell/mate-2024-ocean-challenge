@@ -1,0 +1,80 @@
+[
+    {
+        "uuid": "98f72c6d-8074-4b5f-b7ca-7c437d1834a6",
+        "userDefinedKey": "4fe6d1b0-4dee-493e-2f6c-c9e93858c11e",
+        "concept": "Isididae",
+        "height": 313,
+        "observer": "yolov5",
+        "width": 410,
+        "x": 632,
+        "y": 754,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:26.138Z"
+    },
+    {
+        "uuid": "a8c13d4b-b4e7-41df-bca6-7a0436a75437",
+        "userDefinedKey": "4f79f360-d584-4407-336c-c9e93858c11e",
+        "concept": "Coryphaenoides",
+        "height": 255,
+        "observer": "yolov5",
+        "width": 577,
+        "x": 1335,
+        "y": 68,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:26.138Z"
+    },
+    {
+        "uuid": "94c8c4b9-065f-4984-adfe-017717e8531d",
+        "userDefinedKey": "f51c5adf-8723-4cdb-316c-c9e93858c11e",
+        "concept": "Isididae",
+        "height": 482,
+        "observer": "yolov5",
+        "width": 480,
+        "x": 427,
+        "y": 0,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:26.139Z"
+    },
+    {
+        "uuid": "a82645ec-0383-4a01-82f9-e5d679f867ff",
+        "userDefinedKey": "2da6e0eb-b12c-46f2-2d6c-c9e93858c11e",
+        "concept": "Crinoidea",
+        "height": 164,
+        "observer": "yolov5",
+        "width": 187,
+        "x": 816,
+        "y": 293,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:26.139Z"
+    },
+    {
+        "uuid": "d7119956-6260-48d7-9570-b2bb52dd4c89",
+        "userDefinedKey": "3fb15fa9-002f-49c7-cb6e-45e93858c11e",
+        "concept": "Paragorgia arborea",
+        "height": 192,
+        "observer": "yolov5",
+        "width": 188,
+        "x": 1732,
+        "y": 585,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:26.139Z"
+    },
+    {
+        "uuid": "4ae81461-2c0d-4540-ab57-712bf2f604ed",
+        "userDefinedKey": "aa34c1aa-d670-4516-c96e-45e93858c11e",
+        "concept": "Ophiuroidea",
+        "height": 94,
+        "observer": "lonny",
+        "width": 106,
+        "x": 1415,
+        "y": 689,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:26.139Z"
+    }
+]

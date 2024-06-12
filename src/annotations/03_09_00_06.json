@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "019f2e3b-b3f3-408b-8e7b-9e73e707b72e",
+        "userDefinedKey": "77f7740c-9016-481e-226b-385e5158c11e",
+        "concept": "Ophiuroidea",
+        "height": 105,
+        "observer": "yolov5",
+        "width": 130,
+        "x": 583,
+        "y": 733,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:30.704Z"
+    },
+    {
+        "uuid": "a3a8ef31-e3ea-432b-ac3b-4c948efb63a4",
+        "userDefinedKey": "a79c1687-f484-46bf-1e6b-385e5158c11e",
+        "concept": "Ophiuroidea",
+        "height": 59,
+        "observer": "yolov5",
+        "width": 60,
+        "x": 336,
+        "y": 283,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:30.704Z"
+    },
+    {
+        "uuid": "9ec2bbc2-9887-47ec-8733-a32b6e9f8fd3",
+        "userDefinedKey": "0aea6d5b-dc94-4324-246b-385e5158c11e",
+        "concept": "Terebellidae",
+        "height": 56,
+        "observer": "gsainz",
+        "width": 63,
+        "x": 629,
+        "y": 505,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:30.704Z"
+    },
+    {
+        "uuid": "ec5e1a57-4552-4c98-8680-4ac05e27b27a",
+        "userDefinedKey": "8ccd5293-16a8-4e61-206b-385e5158c11e",
+        "concept": "Swiftia simplex",
+        "height": 156,
+        "observer": "yolov5",
+        "width": 51,
+        "x": 0,
+        "y": 743,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:30.704Z"
+    }
+]

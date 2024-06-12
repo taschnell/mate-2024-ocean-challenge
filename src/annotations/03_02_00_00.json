@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "1e812f00-7819-452a-abf5-20175ccade29",
+        "userDefinedKey": "4067345e-44de-4793-5e65-40644058c11e",
+        "concept": "Isidella tentaculum",
+        "height": 563,
+        "observer": "yolov5",
+        "width": 397,
+        "x": 901,
+        "y": 0,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:36.281Z"
+    },
+    {
+        "uuid": "62c368cc-4033-4ca1-bf7c-1b174d80e753",
+        "userDefinedKey": "38be2e94-526d-4da4-5c65-40644058c11e",
+        "concept": "Tunicata",
+        "height": 90,
+        "observer": "yolov5",
+        "width": 105,
+        "x": 1250,
+        "y": 444,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:36.282Z"
+    },
+    {
+        "uuid": "3aa168fd-092b-4b21-a944-e269d1b38a5a",
+        "userDefinedKey": "661072d4-ff86-4071-5465-40644058c11e",
+        "concept": "Ophiuroidea",
+        "height": 94,
+        "observer": "yolov5",
+        "width": 105,
+        "x": 606,
+        "y": 928,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:36.282Z"
+    }
+]

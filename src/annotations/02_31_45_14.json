@@ -1,0 +1,28 @@
+[
+    {
+        "uuid": "1cf212f0-b84d-4ef1-bfcf-3364b5b8f26f",
+        "userDefinedKey": "bb8431b4-e643-4ab9-be6a-4c605358c11e",
+        "concept": "Ceriantharia sp. 1",
+        "height": 183,
+        "observer": "gsainz",
+        "width": 185,
+        "x": 998,
+        "y": 386,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:05.294Z"
+    },
+    {
+        "uuid": "64b935f6-d8df-4a83-a3d7-51a49b0004af",
+        "userDefinedKey": "410106eb-0e4c-487a-bc6a-4c605358c11e",
+        "concept": "Ophiuroidea",
+        "height": 104,
+        "observer": "yolov5",
+        "width": 140,
+        "x": 288,
+        "y": 857,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:05.294Z"
+    }
+]

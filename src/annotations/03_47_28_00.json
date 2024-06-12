@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "1404ce58-c33d-43ad-84c3-4ae9b98a0dd2",
+        "userDefinedKey": "90c87901-4d6c-4ee1-af67-df8b5358c11e",
+        "concept": "Ophiuroidea",
+        "height": 50,
+        "observer": "yolov5",
+        "width": 71,
+        "x": 1499,
+        "y": 443,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:22:32.425Z"
+    },
+    {
+        "uuid": "a499c636-c98c-4f7d-a63f-9177e0870159",
+        "userDefinedKey": "5070ef6f-57aa-4b0c-b367-df8b5358c11e",
+        "concept": "Ophiuroidea",
+        "height": 65,
+        "observer": "yolov5",
+        "width": 76,
+        "x": 813,
+        "y": 976,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:22:32.425Z"
+    },
+    {
+        "uuid": "d9099692-9e75-4210-84d2-5f439e156da3",
+        "userDefinedKey": "eeaed973-41f6-4cd2-b567-df8b5358c11e",
+        "concept": "Paralomis",
+        "height": 101,
+        "observer": "yolov5",
+        "width": 124,
+        "x": 1047,
+        "y": 438,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:22:32.425Z"
+    }
+]

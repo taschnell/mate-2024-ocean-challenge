@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "2a697be7-854b-4095-9da9-794c92bc9d1c",
+        "userDefinedKey": "cdbf7a5e-0119-49bf-4767-579e06b0b61e",
+        "concept": "Harriotta raleighana",
+        "height": 784,
+        "observer": "schlin",
+        "width": 1141,
+        "x": 569,
+        "y": 130,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:22:36.503Z"
+    },
+    {
+        "uuid": "5a805932-5a64-438b-8171-3511591c6ee0",
+        "userDefinedKey": "3490ba60-5ffc-4bc4-5d6e-295007b0b61e",
+        "concept": "Ophiuroidea",
+        "height": 67,
+        "observer": "lonny",
+        "width": 114,
+        "x": 1044,
+        "y": 865,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:22:36.504Z"
+    },
+    {
+        "uuid": "8bcee495-1193-4247-bbd9-603852fbf387",
+        "userDefinedKey": "69970326-9502-4209-ac66-a53107b0b61e",
+        "concept": "Ophiuroidea",
+        "height": 70,
+        "observer": "lonny",
+        "width": 105,
+        "x": 597,
+        "y": 972,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:22:36.504Z"
+    },
+    {
+        "uuid": "a9ee561b-1d99-4590-8a83-1235bf2d53d3",
+        "userDefinedKey": "33bff4d9-852f-4dbb-3b61-d1f806b0b61e",
+        "concept": "Ophiuroidea",
+        "height": 57,
+        "observer": "lonny",
+        "width": 110,
+        "x": 162,
+        "y": 672,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:22:36.504Z"
+    }
+]

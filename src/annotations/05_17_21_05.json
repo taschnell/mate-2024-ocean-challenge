@@ -1,0 +1,93 @@
+[
+    {
+        "uuid": "0e8aa877-de04-45b2-8fe9-09ec172ccc84",
+        "userDefinedKey": "d3f0acce-0d18-437a-3868-d2143a58c11e",
+        "concept": "Porifera",
+        "height": 101,
+        "observer": "yolov5",
+        "width": 197,
+        "x": 1404,
+        "y": 878,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.852Z"
+    },
+    {
+        "uuid": "9baddfeb-b1c3-4a62-9bc6-a5d86d36b045",
+        "userDefinedKey": "81802395-ef41-4799-6f63-f17c0bded01e",
+        "concept": "Saxipendium implicatum",
+        "height": 314,
+        "observer": "lonny",
+        "width": 79,
+        "x": 637,
+        "y": 488,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.852Z"
+    },
+    {
+        "uuid": "c9e08de5-8084-4653-975f-252280338a2a",
+        "userDefinedKey": "5d3a674f-73ee-47c3-7865-0a4e0bded01e",
+        "concept": "Saxipendium implicatum",
+        "height": 104,
+        "observer": "lonny",
+        "width": 69,
+        "x": 1406,
+        "y": 19,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.852Z"
+    },
+    {
+        "uuid": "6bf57237-abb2-4f34-9dbb-f966e5682c9e",
+        "userDefinedKey": "b29edf4e-06f6-4565-2a68-d2143a58c11e",
+        "concept": "Ophiuroidea",
+        "height": 33,
+        "observer": "gsainz",
+        "width": 94,
+        "x": 1153,
+        "y": 204,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.852Z"
+    },
+    {
+        "uuid": "bb21b82b-c87e-4a4a-bfde-7ca3050fe47a",
+        "userDefinedKey": "aecde4d7-6c0e-4b0f-3668-d2143a58c11e",
+        "concept": "Ophiuroidea",
+        "height": 78,
+        "observer": "yolov5",
+        "width": 74,
+        "x": 1428,
+        "y": 277,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.852Z"
+    },
+    {
+        "uuid": "d59b6d98-d5d3-4a7e-a764-65122ef8aa6f",
+        "userDefinedKey": "d120c0e8-eae1-4ed7-2e68-d2143a58c11e",
+        "concept": "Ophiacanthidae",
+        "height": 245,
+        "observer": "lonny",
+        "width": 239,
+        "x": 639,
+        "y": 6,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.852Z"
+    },
+    {
+        "uuid": "c1778f1a-bd5f-48b8-93c1-399353cc838f",
+        "userDefinedKey": "223ce297-6901-4b50-3268-d2143a58c11e",
+        "concept": "Ophiuroidea",
+        "height": 108,
+        "observer": "yolov5",
+        "width": 100,
+        "x": 1773,
+        "y": 938,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.852Z"
+    }
+]

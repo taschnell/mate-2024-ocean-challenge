@@ -1,0 +1,28 @@
+[
+    {
+        "uuid": "d39ef457-1f07-45dc-a424-7189888b5729",
+        "userDefinedKey": "2cd3d208-37b7-40f5-3062-bd23abf9bc1e",
+        "concept": "Benthocodon",
+        "height": 12,
+        "observer": "master@mbari.org",
+        "width": 18,
+        "x": 447,
+        "y": 251,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:45:39.599Z"
+    },
+    {
+        "uuid": "a35f7557-7cc0-4191-8a3d-e8b2ff2af206",
+        "userDefinedKey": "ac537b02-7f1f-4b85-4561-ce85abf9bc1e",
+        "concept": "Ophiuroidea",
+        "height": 30,
+        "observer": "master@mbari.org",
+        "width": 31,
+        "x": 288,
+        "y": 363,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:45:39.607Z"
+    }
+]

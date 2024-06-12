@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "0151213e-5ee6-45b0-8bbe-e8cd69703c07",
+        "userDefinedKey": "e28a2d85-ac22-4405-bb6d-518840d9da1e",
+        "concept": "Ophiuroidea",
+        "height": 54,
+        "observer": "lonny",
+        "width": 61,
+        "x": 532,
+        "y": 833,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:02.601Z"
+    },
+    {
+        "uuid": "6d82fe8d-bef0-49a8-8781-e3411e45cc03",
+        "userDefinedKey": "b8a88bf7-0cc3-42eb-b96d-518840d9da1e",
+        "concept": "Benthopecten",
+        "height": 76,
+        "observer": "lemon",
+        "width": 85,
+        "x": 883,
+        "y": 886,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:02.601Z"
+    },
+    {
+        "uuid": "78468f5f-fd8e-4046-8fd3-4271e01652dd",
+        "userDefinedKey": "67997028-e17d-4bab-b76d-518840d9da1e",
+        "concept": "Coryphaenoides",
+        "height": 120,
+        "observer": "lonny",
+        "width": 71,
+        "x": 1533,
+        "y": 200,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:02.601Z"
+    }
+]

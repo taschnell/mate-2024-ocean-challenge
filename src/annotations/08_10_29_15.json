@@ -1,0 +1,15 @@
+[
+    {
+        "uuid": "88ad4073-173a-4826-a1d8-e528da1ac2d1",
+        "userDefinedKey": "85a58551-fd10-4287-ba66-ccb93a58c11e",
+        "concept": "Ophiuroidea",
+        "height": 105,
+        "observer": "yolov5",
+        "width": 102,
+        "x": 2,
+        "y": 527,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:59.039Z"
+    }
+]

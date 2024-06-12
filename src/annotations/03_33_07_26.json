@@ -1,0 +1,28 @@
+[
+    {
+        "uuid": "35c5bcf2-fd5b-430e-9f6e-45c4bc96b47c",
+        "userDefinedKey": "82210eca-6265-46ee-a36e-9dbc3958c11e",
+        "concept": "Ophiuroidea",
+        "height": 145,
+        "observer": "yolov5",
+        "width": 175,
+        "x": 1002,
+        "y": 285,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:22:32.292Z"
+    },
+    {
+        "uuid": "f966d963-a067-431e-8441-df7aae814889",
+        "userDefinedKey": "b02a302e-76a1-48d0-a56e-9dbc3958c11e",
+        "concept": "Pannychia sp. 1",
+        "height": 189,
+        "observer": "gsainz",
+        "width": 361,
+        "x": 919,
+        "y": 428,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:22:32.292Z"
+    }
+]

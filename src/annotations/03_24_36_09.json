@@ -1,0 +1,28 @@
+[
+    {
+        "uuid": "1a19c314-e316-408c-b3c6-9165f29ed74b",
+        "userDefinedKey": "692e62f0-fe90-4678-e466-fdfc3958c11e",
+        "concept": "Pandalus amplus",
+        "height": 383,
+        "observer": "yolov5",
+        "width": 475,
+        "x": 671,
+        "y": 30,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:23:02.599Z"
+    },
+    {
+        "uuid": "60c3b35e-2731-4062-925d-2c2412b0f9a8",
+        "userDefinedKey": "39a94367-78cb-4a62-e266-fdfc3958c11e",
+        "concept": "Ophiuroidea",
+        "height": 172,
+        "observer": "yolov5",
+        "width": 225,
+        "x": 1514,
+        "y": 773,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:23:02.599Z"
+    }
+]

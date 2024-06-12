@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "a62f3f5d-5479-4471-9229-75eabe05becf",
+        "userDefinedKey": "dfd93fb2-b29d-4ca2-6063-28868ac4b71e",
+        "concept": "Ophiuroidea",
+        "height": 105,
+        "observer": "master@mbari.org",
+        "width": 157,
+        "x": 429,
+        "y": 336,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:37:31.436Z"
+    },
+    {
+        "uuid": "12a935aa-2608-478c-92f4-ab717b16f07b",
+        "userDefinedKey": "c8740448-a6fe-4032-7c6b-4e068ac4b71e",
+        "concept": "Asteroidea",
+        "height": 114,
+        "observer": "master@mbari.org",
+        "width": 171,
+        "x": 541,
+        "y": 180,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:37:31.436Z"
+    },
+    {
+        "uuid": "637b47b5-d98c-4da8-90ec-db68c8c9e2eb",
+        "userDefinedKey": "6a722947-b5b5-4b1a-776f-a3ca8ac4b71e",
+        "concept": "Ophiuroidea",
+        "height": 58,
+        "observer": "master@mbari.org",
+        "width": 87,
+        "x": 167,
+        "y": 417,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:37:31.436Z"
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "309af8a7-c68c-4bed-a278-d583e00b82f2",
+        "userDefinedKey": "fc3ddc4f-b2d0-4275-276c-5f31cda6d41e",
+        "concept": "Culeolus barryi",
+        "height": 334,
+        "observer": "linda",
+        "width": 280,
+        "x": 849,
+        "y": 727,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:12:50.942Z"
+    },
+    {
+        "uuid": "c093dcea-23a4-47ad-8db2-225b318f5c89",
+        "userDefinedKey": "ebdce0cf-ac58-4b78-796d-73587b58c11e",
+        "concept": "Ophiuroidea",
+        "height": 244,
+        "observer": "yolov5",
+        "width": 137,
+        "x": 1712,
+        "y": 336,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:12:50.942Z"
+    },
+    {
+        "uuid": "b4dd9c34-9d88-4b85-b954-a6fd3139cd37",
+        "userDefinedKey": "ee39caa3-9bbf-4349-7b6d-73587b58c11e",
+        "concept": "Ophiuroidea",
+        "height": 296,
+        "observer": "lonny",
+        "width": 240,
+        "x": 1161,
+        "y": 611,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:12:50.942Z"
+    }
+]

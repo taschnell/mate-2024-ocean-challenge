@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "afbf9fe6-4aaf-48f1-80e4-76abfb86b643",
+        "userDefinedKey": "bd0ac6e2-e4eb-468d-5769-a0ac5258c11e",
+        "concept": "Ophiuroidea",
+        "height": 178,
+        "observer": "yolov5",
+        "width": 231,
+        "x": 128,
+        "y": 789,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:22:01.835Z"
+    },
+    {
+        "uuid": "fbf8c2bd-52b4-4bed-91ab-e4798cf19886",
+        "userDefinedKey": "725471d0-512e-4d10-5369-a0ac5258c11e",
+        "concept": "Caridea",
+        "height": 101,
+        "observer": "yolov5",
+        "width": 44,
+        "x": 718,
+        "y": 658,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:22:01.835Z"
+    },
+    {
+        "uuid": "0e441011-a575-455f-8933-5e374fc40efe",
+        "userDefinedKey": "dd58bbc7-3ca0-4f7c-5569-a0ac5258c11e",
+        "concept": "Macrouridae",
+        "height": 91,
+        "observer": "yolov5",
+        "width": 121,
+        "x": 1205,
+        "y": 325,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:22:01.836Z"
+    },
+    {
+        "uuid": "6a6012cd-f36d-4df8-90a3-d81ebb5ad829",
+        "userDefinedKey": "fe180e03-fb42-4450-5169-a0ac5258c11e",
+        "concept": "Actiniaria",
+        "height": 55,
+        "observer": "lonny",
+        "width": 59,
+        "x": 1755,
+        "y": 724,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:22:01.836Z"
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "uuid": "7fd39e3a-3257-4090-88bf-653dc61fa5aa",
+        "userDefinedKey": "b5dadaa1-c49f-4087-f069-3f9f8677d91e",
+        "concept": "Paelopatides confundens",
+        "height": 67,
+        "observer": "lonny",
+        "width": 84,
+        "x": 701,
+        "y": 474,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.513Z"
+    },
+    {
+        "uuid": "7cbf3d3d-7656-427e-970b-7b706dfec787",
+        "userDefinedKey": "f86ac1e5-e042-4211-e869-3f9f8677d91e",
+        "concept": "Brisingida",
+        "height": 105,
+        "observer": "lonny",
+        "width": 153,
+        "x": 162,
+        "y": 663,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.513Z"
+    },
+    {
+        "uuid": "1224e730-6b67-4843-8971-b3e9a6f92179",
+        "userDefinedKey": "481c3016-b976-4037-f269-3f9f8677d91e",
+        "concept": "Pannychia moseleyi",
+        "height": 31,
+        "observer": "lonny",
+        "width": 95,
+        "x": 1190,
+        "y": 176,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.513Z"
+    },
+    {
+        "uuid": "55c4a7dd-8b91-4307-b9c2-3e9f790d531f",
+        "userDefinedKey": "9a98580b-a731-48bc-ea69-3f9f8677d91e",
+        "concept": "Ophiuroidea",
+        "height": 102,
+        "observer": "lonny",
+        "width": 111,
+        "x": 1731,
+        "y": 913,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.513Z"
+    },
+    {
+        "uuid": "1cc858a8-9250-49f0-bd34-fa1a6fa79492",
+        "userDefinedKey": "74a50cf4-c45d-43f9-ec69-3f9f8677d91e",
+        "concept": "Ophiuroidea",
+        "height": 65,
+        "observer": "lonny",
+        "width": 81,
+        "x": 1442,
+        "y": 858,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.513Z"
+    },
+    {
+        "uuid": "a86e403c-928f-4986-bc3f-9baac88d056d",
+        "userDefinedKey": "f6b5e65c-ca8d-44c4-ee69-3f9f8677d91e",
+        "concept": "Ophiuroidea",
+        "height": 52,
+        "observer": "lonny",
+        "width": 61,
+        "x": 1528,
+        "y": 555,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.513Z"
+    }
+]

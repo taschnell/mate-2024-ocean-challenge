@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "edf586f8-8683-4499-9a6c-d0f460e60b9c",
+        "userDefinedKey": "68506e54-000c-4b61-3f67-f8671f58c11e",
+        "concept": "Actiniaria",
+        "height": 33,
+        "observer": "yolov5",
+        "width": 35,
+        "x": 252,
+        "y": 80,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:36.310Z"
+    },
+    {
+        "uuid": "b99fc051-30fb-4fcb-8f35-47c045028a51",
+        "userDefinedKey": "b7baa2b7-0f5c-42d1-3d67-f8671f58c11e",
+        "concept": "Ophiuroidea",
+        "height": 23,
+        "observer": "yolov5",
+        "width": 32,
+        "x": 11,
+        "y": 251,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:36.310Z"
+    },
+    {
+        "uuid": "ec3b3ee7-1bec-48b0-9001-169dfdcdd739",
+        "userDefinedKey": "a0272a3e-96a0-4a60-4167-f8671f58c11e",
+        "concept": "Suction Sampler",
+        "height": 119,
+        "observer": "yolov5",
+        "width": 176,
+        "x": 284,
+        "y": 279,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:36.310Z"
+    }
+]

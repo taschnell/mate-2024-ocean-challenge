@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "14f2deea-f819-487c-8dd1-b5c35b427f58",
+        "userDefinedKey": "ebbe0bf7-164c-45e7-a86c-00523f58c11e",
+        "concept": "Pandalus amplus",
+        "height": 107,
+        "observer": "yolov5",
+        "width": 110,
+        "x": 761,
+        "y": 394,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:19.628Z"
+    },
+    {
+        "uuid": "4e36b760-b925-41f4-b441-4b45ad53455d",
+        "userDefinedKey": "24ad2009-7372-4790-aa6c-00523f58c11e",
+        "concept": "Pandalus amplus",
+        "height": 153,
+        "observer": "yolov5",
+        "width": 235,
+        "x": 237,
+        "y": 202,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:19.628Z"
+    },
+    {
+        "uuid": "c2c88198-c36b-4fed-a2c9-646102c07f70",
+        "userDefinedKey": "d8184250-b466-423d-4660-a4513f58c11e",
+        "concept": "Ophiuroidea",
+        "height": 115,
+        "observer": "yolov5",
+        "width": 79,
+        "x": 1335,
+        "y": 562,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:19.628Z"
+    },
+    {
+        "uuid": "760a0b2f-c79d-49b3-b5af-3b2de745dff6",
+        "userDefinedKey": "7b20f862-6df4-4cae-ac6c-00523f58c11e",
+        "concept": "Hippasteria",
+        "height": 420,
+        "observer": "yolov5",
+        "width": 517,
+        "x": 690,
+        "y": 478,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:19.628Z"
+    }
+]

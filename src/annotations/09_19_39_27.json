@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "8238ca13-f4fb-4fb5-91f6-68dccf53fb4c",
+        "userDefinedKey": "e2331961-0fda-4f29-1066-b8b77a58c11e",
+        "concept": "Suction Sampler",
+        "height": 327,
+        "observer": "yolov5",
+        "width": 714,
+        "x": 324,
+        "y": 359,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:13.769Z"
+    },
+    {
+        "uuid": "28b7ef42-1af3-4528-81a8-36fc338a7212",
+        "userDefinedKey": "88da2edd-475b-4731-0866-b8b77a58c11e",
+        "concept": "Ophiuroidea",
+        "height": 200,
+        "observer": "yolov5",
+        "width": 173,
+        "x": 1334,
+        "y": 821,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:13.769Z"
+    },
+    {
+        "uuid": "9a4495a6-bdb0-40e2-863d-af6b7b329789",
+        "userDefinedKey": "36dfc3f7-94ea-4784-0e66-b8b77a58c11e",
+        "concept": "Ophiuroidea",
+        "height": 70,
+        "observer": "yolov5",
+        "width": 77,
+        "x": 128,
+        "y": 610,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:13.769Z"
+    },
+    {
+        "uuid": "c4478aaf-e4b1-4c45-92f0-46196621eb63",
+        "userDefinedKey": "73a1fc7b-e8ab-454e-0a66-b8b77a58c11e",
+        "concept": "Ophiuroidea",
+        "height": 91,
+        "observer": "yolov5",
+        "width": 117,
+        "x": 1123,
+        "y": 128,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:13.769Z"
+    }
+]

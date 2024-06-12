@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "f7be0b81-9ca2-4d26-87f8-d30d5a2d8d20",
+        "userDefinedKey": "0644f2b1-30fa-4756-f46a-b2ff4097bc1e",
+        "concept": "Ophiuroidea",
+        "height": 104,
+        "observer": "gsainz",
+        "width": 135,
+        "x": 303,
+        "y": 932,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:19:48.063Z"
+    },
+    {
+        "uuid": "c2ddc550-c15e-4508-99c5-f5d1df9bb63e",
+        "userDefinedKey": "89b4645b-93f3-45cb-8961-d7874097bc1e",
+        "concept": "Elpidia sp. A",
+        "height": 89,
+        "observer": "lclary",
+        "width": 87,
+        "x": 61,
+        "y": 446,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:19:48.063Z"
+    },
+    {
+        "uuid": "813f852f-ed60-4ee7-bc95-015d29a81acf",
+        "userDefinedKey": "8a093a11-c84e-4f10-066c-a0824197bc1e",
+        "concept": "Peniagone",
+        "height": 90,
+        "observer": "gsainz",
+        "width": 62,
+        "x": 1266,
+        "y": 282,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:19:48.063Z"
+    },
+    {
+        "uuid": "ca9e3832-48cb-4307-ae9b-732d5d96b7e3",
+        "userDefinedKey": "ba46d840-b614-483a-e16f-0f594097bc1e",
+        "concept": "Elpidia sp. A",
+        "height": 85,
+        "observer": "lclary",
+        "width": 85,
+        "x": 670,
+        "y": 316,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:19:48.063Z"
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "uuid": "41c82d9d-e50f-48d5-8320-55744ceffbcb",
+        "userDefinedKey": "896a565b-1ec0-4a06-d068-11a89f58c11e",
+        "concept": "Crinoidea",
+        "height": 102,
+        "observer": "lonny",
+        "width": 137,
+        "x": 484,
+        "y": 238,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:26.062Z"
+    },
+    {
+        "uuid": "f778b5d8-9560-456b-8838-c881d7222de9",
+        "userDefinedKey": "7e164e3f-2cde-4c5d-9261-cba89f58c11e",
+        "concept": "Ophiuroidea",
+        "height": 61,
+        "observer": "yolov5",
+        "width": 50,
+        "x": 373,
+        "y": 347,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:26.062Z"
+    }
+]

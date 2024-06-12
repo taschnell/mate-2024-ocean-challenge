@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "191689df-b8e2-4d5c-b687-c5e9f549510e",
+        "userDefinedKey": "ba07be11-57a1-4d52-396e-2f993b58c11e",
+        "concept": "Ophiuroidea",
+        "height": 143,
+        "observer": "yolov5",
+        "width": 128,
+        "x": 456,
+        "y": 471,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:23:02.498Z"
+    },
+    {
+        "uuid": "4571d7e9-b59f-4753-86d3-fbd931b33281",
+        "userDefinedKey": "87a3dec8-7b05-4bc3-3d6e-2f993b58c11e",
+        "concept": "Ophiuroidea",
+        "height": 61,
+        "observer": "yolov5",
+        "width": 72,
+        "x": 918,
+        "y": 170,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:23:02.498Z"
+    },
+    {
+        "uuid": "44d31c02-ca76-4329-9da7-c54b66cc83d5",
+        "userDefinedKey": "ca60156d-a94f-49bf-416e-2f993b58c11e",
+        "concept": "Chionoecetes tanneri",
+        "height": 142,
+        "observer": "yolov5",
+        "width": 190,
+        "x": 1224,
+        "y": 89,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:23:02.498Z"
+    },
+    {
+        "uuid": "6557202b-51eb-4e6a-bed0-040ea042abf0",
+        "userDefinedKey": "9357c4ed-55a7-4bc0-3f6e-2f993b58c11e",
+        "concept": "Pycnogonida",
+        "height": 131,
+        "observer": "gsainz",
+        "width": 175,
+        "x": 297,
+        "y": 214,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:23:02.498Z"
+    },
+    {
+        "uuid": "b054c2b6-5125-40c6-94b3-ae590703b1f8",
+        "userDefinedKey": "ba8a23f3-054b-4284-eb6c-62983b58c11e",
+        "concept": "Ophiuroidea",
+        "height": 73,
+        "observer": "yolov5",
+        "width": 60,
+        "x": 950,
+        "y": 27,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:23:02.498Z"
+    }
+]

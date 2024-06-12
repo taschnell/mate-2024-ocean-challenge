@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "4c663e0d-481a-46be-9580-e92a03c96818",
+        "userDefinedKey": "d9781e80-9ecf-4a7f-6467-22aa6558c11e",
+        "concept": "Desmophyllum",
+        "height": 113,
+        "observer": "gsainz",
+        "width": 108,
+        "x": 842,
+        "y": 499,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:22:32.424Z"
+    },
+    {
+        "uuid": "90baa754-29d7-4e7b-bbc6-d46032044c81",
+        "userDefinedKey": "1bc771ed-eb75-43aa-6267-22aa6558c11e",
+        "concept": "Ophiuroidea",
+        "height": 197,
+        "observer": "gsainz",
+        "width": 196,
+        "x": 991,
+        "y": 545,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:22:32.424Z"
+    },
+    {
+        "uuid": "aba5d5f7-23f7-4ab0-a5de-56ed4bb51d9a",
+        "userDefinedKey": "1e582bea-bb54-4603-6667-22aa6558c11e",
+        "concept": "Ophiuroidea",
+        "height": 128,
+        "observer": "yolov5",
+        "width": 139,
+        "x": 357,
+        "y": 861,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:22:32.424Z"
+    }
+]

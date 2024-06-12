@@ -1,0 +1,80 @@
+[
+    {
+        "uuid": "47c2bc6f-a7df-40a4-a607-6f4d8c924eb0",
+        "userDefinedKey": "e967fd8c-7a3a-4701-6b68-78635258c11e",
+        "concept": "Farrea",
+        "height": 120,
+        "observer": "yolov5",
+        "width": 185,
+        "x": 1595,
+        "y": 606,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.500Z"
+    },
+    {
+        "uuid": "39cf1619-5e00-4f16-94d2-b06d0382f8fa",
+        "userDefinedKey": "88d047f3-cac4-4827-6168-78635258c11e",
+        "concept": "Staurocalyptus",
+        "height": 493,
+        "observer": "gsainz",
+        "width": 392,
+        "x": 663,
+        "y": 379,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.500Z"
+    },
+    {
+        "uuid": "633f1783-8e48-46f5-a0dd-f48bca288105",
+        "userDefinedKey": "9a9fc93e-e4b0-48ac-5b68-78635258c11e",
+        "concept": "Ophiuroidea",
+        "height": 122,
+        "observer": "yolov5",
+        "width": 142,
+        "x": 1175,
+        "y": 364,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.500Z"
+    },
+    {
+        "uuid": "4fc7218c-13d6-4d0d-b779-2597b20ba313",
+        "userDefinedKey": "c3861460-3069-42f5-6368-78635258c11e",
+        "concept": "Psolus squamatus",
+        "height": 117,
+        "observer": "yolov5",
+        "width": 107,
+        "x": 1143,
+        "y": 200,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.500Z"
+    },
+    {
+        "uuid": "bba1e218-4de5-4862-bd01-c5f7fbd70154",
+        "userDefinedKey": "b28e7ae1-cbb5-4a99-6768-78635258c11e",
+        "concept": "Acesta",
+        "height": 220,
+        "observer": "lonny",
+        "width": 193,
+        "x": 1268,
+        "y": 57,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.500Z"
+    },
+    {
+        "uuid": "9508f510-14d3-424c-ba98-f7b1db694dc5",
+        "userDefinedKey": "4046fc54-6187-414c-5f68-78635258c11e",
+        "concept": "Farrea",
+        "height": 250,
+        "observer": "yolov5",
+        "width": 114,
+        "x": 0,
+        "y": 169,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.500Z"
+    }
+]

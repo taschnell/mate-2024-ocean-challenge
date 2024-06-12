@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "8c864ec6-90d3-404a-9b3d-a40c8e14fb9a",
+        "userDefinedKey": "0b11c9c5-4e8b-4e59-7b68-75674e58c11e",
+        "concept": "Heterocarpus sp. 1",
+        "height": 300,
+        "observer": "lonny",
+        "width": 423,
+        "x": 173,
+        "y": 330,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.765Z"
+    },
+    {
+        "uuid": "d3195625-ad03-46bf-9d13-fb1281c4a647",
+        "userDefinedKey": "dfeb136c-ba19-431c-7968-75674e58c11e",
+        "concept": "Ophiuroidea",
+        "height": 186,
+        "observer": "yolov5",
+        "width": 206,
+        "x": 1001,
+        "y": 543,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.765Z"
+    },
+    {
+        "uuid": "f7863068-4eaf-41d8-97a0-e604148e2a14",
+        "userDefinedKey": "ac90569f-cbfb-409f-2762-f4664e58c11e",
+        "concept": "Heterocarpus sp. 1",
+        "height": 339,
+        "observer": "gsainz",
+        "width": 352,
+        "x": 506,
+        "y": 718,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.765Z"
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "ba7ffdd5-4852-4b74-8b57-0b9d261e154b",
+        "userDefinedKey": "18771ce7-4000-475e-d863-124c7658c11e",
+        "concept": "Crinoidea",
+        "height": 254,
+        "observer": "gsainz",
+        "width": 311,
+        "x": 1603,
+        "y": 810,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:23:02.370Z"
+    },
+    {
+        "uuid": "790d7f20-583a-478a-b6f5-0b8ee7aabdd2",
+        "userDefinedKey": "654ebc59-4980-438d-d663-124c7658c11e",
+        "concept": "Ophiuroidea",
+        "height": 89,
+        "observer": "yolov5",
+        "width": 145,
+        "x": 1634,
+        "y": 125,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:23:02.370Z"
+    },
+    {
+        "uuid": "b5e0e08d-d4ab-471e-885c-5b91ca24ee6f",
+        "userDefinedKey": "9fb65aaa-3c74-406b-7a6e-c64c7658c11e",
+        "concept": "Heteropolypus ritteri",
+        "height": 161,
+        "observer": "yolov5",
+        "width": 143,
+        "x": 1542,
+        "y": 4,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:23:02.370Z"
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "d4a20a52-d859-45fd-843a-b394105849c3",
+        "userDefinedKey": "d6de70e1-8b31-46e5-e468-58585358c11e",
+        "concept": "Caridea",
+        "height": 318,
+        "observer": "yolov5",
+        "width": 234,
+        "x": 3,
+        "y": 148,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:05.431Z"
+    },
+    {
+        "uuid": "1ccf08e2-f5ad-4074-9fde-686d8105d88f",
+        "userDefinedKey": "a0c032ed-f4de-4cd3-e668-58585358c11e",
+        "concept": "Ophiuroidea",
+        "height": 91,
+        "observer": "yolov5",
+        "width": 103,
+        "x": 1109,
+        "y": 650,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:05.431Z"
+    },
+    {
+        "uuid": "6c85ecf8-e6a1-4fcf-b304-da8db4d11017",
+        "userDefinedKey": "2d5fc92b-19ac-43f1-e868-58585358c11e",
+        "concept": "Decapoda",
+        "height": 269,
+        "observer": "gsainz",
+        "width": 192,
+        "x": 42,
+        "y": 198,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:05.431Z"
+    }
+]

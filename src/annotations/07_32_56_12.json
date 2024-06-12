@@ -1,0 +1,80 @@
+[
+    {
+        "uuid": "cc30894c-d7b0-4319-9560-ce293276c9a5",
+        "userDefinedKey": "a7d3c07c-8f90-4094-df6d-d731a8c3aa1e",
+        "concept": "Ophiuroidea",
+        "height": 35,
+        "observer": "master@mbari.org",
+        "width": 65,
+        "x": 168,
+        "y": 3,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:46:18.319Z"
+    },
+    {
+        "uuid": "ddde5e28-ab76-4f8e-b400-98a5d4418f79",
+        "userDefinedKey": "6731d3ef-376a-4d04-df68-2332a8c3aa1e",
+        "concept": "Ophiuroidea",
+        "height": 63,
+        "observer": "master@mbari.org",
+        "width": 127,
+        "x": 191,
+        "y": 266,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:46:18.329Z"
+    },
+    {
+        "uuid": "c05441d3-3381-4ba5-bfda-294948b31d10",
+        "userDefinedKey": "131c079c-6e75-43d9-a06f-7030a8c3aa1e",
+        "concept": "Bathyraja spinosissima",
+        "height": 354,
+        "observer": "master@mbari.org",
+        "width": 679,
+        "x": 3,
+        "y": 9,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:46:18.327Z"
+    },
+    {
+        "uuid": "dc04f728-cf33-4d9a-91eb-07922e1e08a0",
+        "userDefinedKey": "e7f923ec-271c-4cf7-736d-ed31a8c3aa1e",
+        "concept": "Ophiuroidea",
+        "height": 50,
+        "observer": "master@mbari.org",
+        "width": 54,
+        "x": 124,
+        "y": 2,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:46:18.332Z"
+    },
+    {
+        "uuid": "35c09fa2-9ab6-4989-8a94-9dad4f4999d3",
+        "userDefinedKey": "beed8b9d-2a8b-4c98-e76e-fe31a8c3aa1e",
+        "concept": "Ophiuroidea",
+        "height": 52,
+        "observer": "master@mbari.org",
+        "width": 75,
+        "x": 55,
+        "y": 25,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:46:18.332Z"
+    },
+    {
+        "uuid": "84342c7c-b2cf-42d6-b6c6-4ad1a0111bf3",
+        "userDefinedKey": "2f2c3e05-c217-435a-6b67-1232a8c3aa1e",
+        "concept": "Ophiuroidea",
+        "height": 29,
+        "observer": "master@mbari.org",
+        "width": 74,
+        "x": 642,
+        "y": 336,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:46:18.333Z"
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "uuid": "330f002e-c001-41f8-a474-180bd2f07483",
+        "userDefinedKey": "29b8ee34-4b49-42be-6362-f13b5058c11e",
+        "concept": "Ophiuroidea",
+        "height": 103,
+        "observer": "yolov5",
+        "width": 87,
+        "x": 616,
+        "y": 468,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:12:50.757Z"
+    },
+    {
+        "uuid": "4ccf98e4-e729-49c7-8e90-f0762245535e",
+        "userDefinedKey": "86147b4b-dbb0-427c-5b62-f13b5058c11e",
+        "concept": "Serpulidae",
+        "height": 57,
+        "observer": "yolov5",
+        "width": 69,
+        "x": 762,
+        "y": 1017,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:12:50.757Z"
+    }
+]

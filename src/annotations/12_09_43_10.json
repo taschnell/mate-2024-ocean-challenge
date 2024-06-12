@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "de642d27-2eff-4047-b29b-250bbcb5baf9",
+        "userDefinedKey": "fe6c7e8f-1dd4-4901-6568-bcbc7a58c11e",
+        "concept": "Porifera",
+        "height": 97,
+        "observer": "yolov5",
+        "width": 119,
+        "x": 1060,
+        "y": 981,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:40.523Z"
+    },
+    {
+        "uuid": "ee1d51cc-877b-471c-8ed0-f623585333e5",
+        "userDefinedKey": "40f87f76-13c8-484a-6368-bcbc7a58c11e",
+        "concept": "Porifera",
+        "height": 140,
+        "observer": "yolov5",
+        "width": 146,
+        "x": 217,
+        "y": 900,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:40.524Z"
+    },
+    {
+        "uuid": "b77bfc88-0c7a-44c6-8567-9ebcc9e2452e",
+        "userDefinedKey": "76c8592e-6eca-4af0-7165-38bb7a58c11e",
+        "concept": "Ophiuroidea",
+        "height": 61,
+        "observer": "yolov5",
+        "width": 78,
+        "x": 1381,
+        "y": 308,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:40.524Z"
+    },
+    {
+        "uuid": "de01ec42-bf57-4ce4-b839-3abeb71867a4",
+        "userDefinedKey": "aa6afa83-1205-45cf-6f65-38bb7a58c11e",
+        "concept": "Ophiuroidea",
+        "height": 276,
+        "observer": "yolov5",
+        "width": 186,
+        "x": 694,
+        "y": 602,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:40.524Z"
+    },
+    {
+        "uuid": "432f4bc5-2eec-4c00-a57e-12fa5add350f",
+        "userDefinedKey": "6d2a41f4-d7e6-4130-6768-bcbc7a58c11e",
+        "concept": "Ophiuroidea",
+        "height": 268,
+        "observer": "yolov5",
+        "width": 230,
+        "x": 1,
+        "y": 292,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:40.524Z"
+    }
+]

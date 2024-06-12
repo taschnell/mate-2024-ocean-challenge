@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "f687fb1f-7f87-4ee2-8bae-7c31516df515",
+        "userDefinedKey": "3ece46cc-7c41-4d73-d66a-8763bd7fb61e",
+        "concept": "Bathypterois pectinatus",
+        "height": 79,
+        "observer": "bmejia",
+        "width": 203,
+        "x": 1304,
+        "y": 592,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:29:39.419Z"
+    },
+    {
+        "uuid": "57ae6153-a669-4c5e-b6d2-1e6356d15d20",
+        "userDefinedKey": "c2a98751-cc86-4a2a-e062-9943c37fb61e",
+        "concept": "Ophiuroidea",
+        "height": 94,
+        "observer": "linda",
+        "width": 105,
+        "x": 1470,
+        "y": 543,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:29:39.419Z"
+    },
+    {
+        "uuid": "fc1d73fa-ccf3-4e13-9b05-226d3e746a7c",
+        "userDefinedKey": "cbddb510-45ff-4ad2-fd68-df9bbd7fb61e",
+        "concept": "Ophiuroidea",
+        "height": 92,
+        "observer": "linda",
+        "width": 144,
+        "x": 1471,
+        "y": 428,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:29:39.419Z"
+    }
+]

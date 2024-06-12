@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "e6281338-d6af-4560-8e58-d9bc2cfd5957",
+        "userDefinedKey": "589f89b3-4c5c-423d-986d-f5af243dbc1e",
+        "concept": "Sebastes",
+        "height": 293,
+        "observer": "gsainz",
+        "width": 265,
+        "x": 1592,
+        "y": 294,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:26:41.732Z"
+    },
+    {
+        "uuid": "2fcfcf5f-3209-43c9-a13d-f01e4e5356ae",
+        "userDefinedKey": "05cedce2-8546-4cad-a868-86e518baa91e",
+        "concept": "Liponema brevicorne",
+        "height": 126,
+        "observer": "linda",
+        "width": 137,
+        "x": 1104,
+        "y": 224,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:26:41.732Z"
+    },
+    {
+        "uuid": "2deb25d6-1e2b-4a1d-a59e-5f5cc1910c9c",
+        "userDefinedKey": "b540ca2d-bbd8-431b-5b6d-2e69253dbc1e",
+        "concept": "Porifera",
+        "height": 62,
+        "observer": "gsainz",
+        "width": 67,
+        "x": 1773,
+        "y": 710,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:26:41.732Z"
+    },
+    {
+        "uuid": "b33acf7d-0870-49be-9993-a5faab3d376b",
+        "userDefinedKey": "2d76ac2b-3c90-41bc-de6b-27da253dbc1e",
+        "concept": "Ophiuroidea",
+        "height": 90,
+        "observer": "gsainz",
+        "width": 87,
+        "x": 1720,
+        "y": 156,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:26:41.733Z"
+    },
+    {
+        "uuid": "b40678b2-db0a-4255-beb7-6340d92c98fa",
+        "userDefinedKey": "745b8d86-cc73-4bf8-2a69-8813253dbc1e",
+        "concept": "Asteroidea",
+        "height": 78,
+        "observer": "gsainz",
+        "width": 67,
+        "x": 698,
+        "y": 951,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:26:41.733Z"
+    }
+]

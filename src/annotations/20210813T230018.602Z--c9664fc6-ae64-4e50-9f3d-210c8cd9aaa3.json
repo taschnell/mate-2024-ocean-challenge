@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "156319a6-4959-4540-83e4-05a9e4973ab5",
+        "userDefinedKey": "98168b56-4e32-436b-606f-15eb8477d91e",
+        "concept": "Brisingida",
+        "height": 90,
+        "observer": "lonny",
+        "width": 139,
+        "x": 776,
+        "y": 623,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:33.919Z"
+    },
+    {
+        "uuid": "ca23e670-d1a7-4074-855f-583a4666f828",
+        "userDefinedKey": "2d19f6d2-3b59-46df-5e6f-15eb8477d91e",
+        "concept": "Pannychia moseleyi",
+        "height": 112,
+        "observer": "lonny",
+        "width": 122,
+        "x": 1450,
+        "y": 688,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:33.919Z"
+    },
+    {
+        "uuid": "6b5e3ba6-f1da-4910-9aa4-22c77e770fd8",
+        "userDefinedKey": "65a96b77-3959-484b-5c6f-15eb8477d91e",
+        "concept": "Paelopatides confundens",
+        "height": 91,
+        "observer": "lonny",
+        "width": 69,
+        "x": 690,
+        "y": 680,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:33.919Z"
+    },
+    {
+        "uuid": "4238deba-b40b-492d-bbb5-f20dee8f03d2",
+        "userDefinedKey": "10bc6f4a-1c11-4d0d-5a6f-15eb8477d91e",
+        "concept": "Ophiuroidea",
+        "height": 62,
+        "observer": "lonny",
+        "width": 66,
+        "x": 194,
+        "y": 982,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:33.919Z"
+    }
+]

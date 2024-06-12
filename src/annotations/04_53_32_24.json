@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "79e847c1-de6e-438f-bbcf-2171a346ec9f",
+        "userDefinedKey": "7bfa951b-3dd6-4520-c86f-3d23cfa6b61e",
+        "concept": "Ophiuroidea",
+        "height": 67,
+        "observer": "lonny",
+        "width": 97,
+        "x": 138,
+        "y": 201,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:25:40.097Z"
+    },
+    {
+        "uuid": "251ea854-fcd2-4c0d-a3c6-3dbe6c650712",
+        "userDefinedKey": "685ed68a-1176-45a6-1a6c-afd3cea6b61e",
+        "concept": "Ophiuroidea",
+        "height": 106,
+        "observer": "lonny",
+        "width": 121,
+        "x": 593,
+        "y": 916,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:25:40.097Z"
+    },
+    {
+        "uuid": "c268ffdf-51d2-4e90-ac4b-73d970a039e8",
+        "userDefinedKey": "9908b59f-0634-4ba8-076e-14facea6b61e",
+        "concept": "Ophiuroidea",
+        "height": 81,
+        "observer": "lonny",
+        "width": 90,
+        "x": 1023,
+        "y": 479,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:25:40.097Z"
+    },
+    {
+        "uuid": "52894257-317a-4569-bb00-a72619621403",
+        "userDefinedKey": "f9900fef-7905-43fa-8764-fe9ccea6b61e",
+        "concept": "Ophiuroidea",
+        "height": 85,
+        "observer": "lonny",
+        "width": 97,
+        "x": 363,
+        "y": 755,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:25:40.097Z"
+    },
+    {
+        "uuid": "1dade25c-a379-4edd-97e1-e606a7ab88ee",
+        "userDefinedKey": "31ca7a85-2597-4abd-2469-092acea6b61e",
+        "concept": "Lycenchelys",
+        "height": 34,
+        "observer": "linda",
+        "width": 74,
+        "x": 1060,
+        "y": 868,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:25:40.098Z"
+    }
+]

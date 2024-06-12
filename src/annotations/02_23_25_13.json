@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "27266cb1-d972-451d-82a2-aa2780a11cce",
+        "userDefinedKey": "ee2ccf65-7853-4ad4-3f6c-0add28c5aa1e",
+        "concept": "Porifera",
+        "height": 76,
+        "observer": "expert-observer",
+        "width": 75,
+        "x": 834,
+        "y": 415,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:17:28.600Z"
+    },
+    {
+        "uuid": "a226cb8d-50c6-490c-91c8-36cb0081bfd3",
+        "userDefinedKey": "ed91e856-ebc2-4ac3-c368-abdc28c5aa1e",
+        "concept": "Ophiuroidea",
+        "height": 100,
+        "observer": "expert-observer",
+        "width": 100,
+        "x": 816,
+        "y": 980,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:17:28.600Z"
+    },
+    {
+        "uuid": "35a85db4-4337-4b92-ad1e-053555dca9cd",
+        "userDefinedKey": "939a0449-1fc3-4e79-a76b-cddc28c5aa1e",
+        "concept": "Porifera",
+        "height": 98,
+        "observer": "expert-observer",
+        "width": 87,
+        "x": 1379,
+        "y": 433,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:17:28.600Z"
+    },
+    {
+        "uuid": "6bf35bd2-94a6-49d7-baa6-4ec4e7381e1a",
+        "userDefinedKey": "7cfdb279-ebb4-41a7-c864-81da28c5aa1e",
+        "concept": "Sebastolobus",
+        "height": 158,
+        "observer": "linda",
+        "width": 283,
+        "x": 190,
+        "y": 642,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:17:28.600Z"
+    },
+    {
+        "uuid": "0425ca2f-1ba2-49b0-b3cc-8faf0131e029",
+        "userDefinedKey": "5861ad8b-ffa1-4ecb-7b67-eddc28c5aa1e",
+        "concept": "Porifera",
+        "height": 94,
+        "observer": "expert-observer",
+        "width": 104,
+        "x": 1250,
+        "y": 727,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:17:28.600Z"
+    }
+]

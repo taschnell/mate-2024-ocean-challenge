@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "ab1aa9d3-ba97-45d9-bf34-42b3a5e16f95",
+        "userDefinedKey": "3f080733-6348-4783-126e-e95d3bc5aa1e",
+        "concept": "Psolus squamatus",
+        "height": 145,
+        "observer": "expert-observer",
+        "width": 201,
+        "x": 1,
+        "y": 767,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:29:15.895Z"
+    },
+    {
+        "uuid": "20722296-9ede-4f69-8168-4fced5956bbb",
+        "userDefinedKey": "444898af-431f-4d4f-2666-135e3bc5aa1e",
+        "concept": "Farrea",
+        "height": 427,
+        "observer": "expert-observer",
+        "width": 284,
+        "x": 1636,
+        "y": 1,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:29:15.895Z"
+    },
+    {
+        "uuid": "d34303cc-a721-430c-b297-1c8fc91b446e",
+        "userDefinedKey": "dfd4cd4b-e04d-43f4-e869-175c3bc5aa1e",
+        "concept": "Sebastolobus altivelis",
+        "height": 120,
+        "observer": "linda",
+        "width": 217,
+        "x": 785,
+        "y": 104,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:29:15.895Z"
+    },
+    {
+        "uuid": "a7147fca-55dd-4f3d-b7d9-c67f09e28a5c",
+        "userDefinedKey": "c9266cbc-f798-4f26-9a6a-8a5d3bc5aa1e",
+        "concept": "Ophiuroidea",
+        "height": 51,
+        "observer": "expert-observer",
+        "width": 65,
+        "x": 630,
+        "y": 517,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:29:15.895Z"
+    },
+    {
+        "uuid": "60205bde-f0e0-432c-b663-cd4b8ffaaaf2",
+        "userDefinedKey": "7bb917bb-010a-4501-3e62-ca5d3bc5aa1e",
+        "concept": "Ophiuroidea",
+        "height": 48,
+        "observer": "expert-observer",
+        "width": 52,
+        "x": 683,
+        "y": 819,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:29:15.895Z"
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "cd68b340-ebfa-4baa-980e-c126c64ed85d",
+        "userDefinedKey": "60c7cb8c-da66-4a6c-4d60-c07d7ea0b11e",
+        "concept": "Psolus squamatus",
+        "height": 30,
+        "observer": "master@mbari.org",
+        "width": 27,
+        "x": 417,
+        "y": 154,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T16:47:49.145Z"
+    },
+    {
+        "uuid": "1f4a4a8b-8b8d-40c7-9324-76307e3d8e89",
+        "userDefinedKey": "c62e77f4-b5a0-460b-6e65-67c87ea0b11e",
+        "concept": "Psolus squamatus",
+        "height": 17,
+        "observer": "master@mbari.org",
+        "width": 18,
+        "x": 351,
+        "y": 59,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T16:47:49.151Z"
+    },
+    {
+        "uuid": "dc0aca01-d362-432c-8774-e29fe23630fe",
+        "userDefinedKey": "cb22d98a-88dc-4ff2-8b68-209a7da0b11e",
+        "concept": "Ophiuroidea",
+        "height": 47,
+        "observer": "master@mbari.org",
+        "width": 43,
+        "x": 463,
+        "y": 208,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T16:47:49.153Z"
+    },
+    {
+        "uuid": "ff57da2e-557d-4728-8e94-6c6aac8b1d40",
+        "userDefinedKey": "2e0b65a0-21c3-42e7-5b68-0c6990c5aa1e",
+        "concept": "Strongylocentrotus fragilis",
+        "height": 23,
+        "observer": "master@mbari.org",
+        "width": 21,
+        "x": 288,
+        "y": 206,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T16:47:49.153Z"
+    }
+]

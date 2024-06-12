@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "6a8119de-12c4-4a54-ae0d-cf366608a5a5",
+        "userDefinedKey": "24953b3d-7820-4fdb-b263-6eb77758c11e",
+        "concept": "Galatheoidea",
+        "height": 182,
+        "observer": "FannyGirard",
+        "width": 343,
+        "x": 576,
+        "y": 8,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:08.393Z"
+    },
+    {
+        "uuid": "d1676419-b21b-416d-9051-2f98b455329a",
+        "userDefinedKey": "72748e76-4db9-40e9-b863-6eb77758c11e",
+        "concept": "Paragorgia",
+        "height": 579,
+        "observer": "gsainz",
+        "width": 295,
+        "x": 121,
+        "y": 424,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:08.393Z"
+    },
+    {
+        "uuid": "508874c2-f9e8-4bad-9e02-8da134950777",
+        "userDefinedKey": "0a177603-f003-400b-4c66-1db70a44d11e",
+        "concept": "Chorilia longipes",
+        "height": 278,
+        "observer": "FannyGirard",
+        "width": 256,
+        "x": 1655,
+        "y": 3,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:08.393Z"
+    },
+    {
+        "uuid": "fd9153b1-9811-4602-87a5-423871c6e97d",
+        "userDefinedKey": "7f7666f5-95a6-4a14-a06c-6bb77758c11e",
+        "concept": "Ophiuroidea",
+        "height": 64,
+        "observer": "yolov5",
+        "width": 60,
+        "x": 1649,
+        "y": 834,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:08.393Z"
+    },
+    {
+        "uuid": "7a742931-9ede-4885-9708-8c5b4861df6c",
+        "userDefinedKey": "d9ef628e-067e-43b1-0b6c-5b280c44d11e",
+        "concept": "Chorilia longipes",
+        "height": 273,
+        "observer": "FannyGirard",
+        "width": 265,
+        "x": 1651,
+        "y": 7,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:08.393Z"
+    }
+]

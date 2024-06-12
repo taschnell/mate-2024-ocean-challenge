@@ -1,0 +1,80 @@
+[
+    {
+        "uuid": "28c0b6ad-963a-4992-af08-59b6cf9cd6d6",
+        "userDefinedKey": "161f6a66-e21e-4b27-6261-93fc7c58c11e",
+        "concept": "Ophiuroidea",
+        "height": 82,
+        "observer": "yolov5",
+        "width": 88,
+        "x": 356,
+        "y": 634,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.692Z"
+    },
+    {
+        "uuid": "d13c0740-d151-4f25-8043-c6c6f9e5e443",
+        "userDefinedKey": "ebd563c6-812b-4195-4c6d-94fa7c58c11e",
+        "concept": "Scleractinia",
+        "height": 45,
+        "observer": "gsainz",
+        "width": 42,
+        "x": 591,
+        "y": 696,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.692Z"
+    },
+    {
+        "uuid": "d59b42eb-45fb-42e4-bf60-92da56116d2e",
+        "userDefinedKey": "0f3efd78-8b67-407d-466d-94fa7c58c11e",
+        "concept": "Scleractinia",
+        "height": 32,
+        "observer": "gsainz",
+        "width": 34,
+        "x": 248,
+        "y": 591,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.692Z"
+    },
+    {
+        "uuid": "1390a56d-c837-443b-a52c-dd4c2d774f01",
+        "userDefinedKey": "3d0c553b-ac00-484d-446d-94fa7c58c11e",
+        "concept": "Porifera",
+        "height": 62,
+        "observer": "lonny",
+        "width": 53,
+        "x": 281,
+        "y": 156,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.692Z"
+    },
+    {
+        "uuid": "07f89b58-961e-48e7-8990-c87fabce7bef",
+        "userDefinedKey": "19336930-6719-46a3-4a6d-94fa7c58c11e",
+        "concept": "Asteroidea",
+        "height": 36,
+        "observer": "yolov5",
+        "width": 34,
+        "x": 383,
+        "y": 44,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.692Z"
+    },
+    {
+        "uuid": "692c73a4-0fd3-410a-b91a-7b0099661c17",
+        "userDefinedKey": "c2cce59f-86cb-42aa-486d-94fa7c58c11e",
+        "concept": "Tunicata",
+        "height": 42,
+        "observer": "yolov5",
+        "width": 57,
+        "x": 494,
+        "y": 777,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.692Z"
+    }
+]

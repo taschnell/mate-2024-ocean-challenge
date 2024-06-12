@@ -1,0 +1,80 @@
+[
+    {
+        "uuid": "9b157874-6577-4f7f-8fed-173014c546b2",
+        "userDefinedKey": "61b3ee37-f20e-4dde-1b62-2e9b5158c11e",
+        "concept": "Terebellidae",
+        "height": 92,
+        "observer": "gsainz",
+        "width": 106,
+        "x": 1571,
+        "y": 324,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:41.485Z"
+    },
+    {
+        "uuid": "59b36571-fe90-4bb9-af2d-e28751c9ab57",
+        "userDefinedKey": "6fb268ca-40f8-4116-486f-e3d9e5a7d41e",
+        "concept": "Asteroidea sp. 9",
+        "height": 69,
+        "observer": "linda",
+        "width": 72,
+        "x": 1582,
+        "y": 921,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:41.485Z"
+    },
+    {
+        "uuid": "0cb0a989-545c-4bb3-ba48-d3148259ba58",
+        "userDefinedKey": "623232f3-9209-49f8-1d62-2e9b5158c11e",
+        "concept": "Ophiuroidea",
+        "height": 70,
+        "observer": "yolov5",
+        "width": 66,
+        "x": 795,
+        "y": 963,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:41.485Z"
+    },
+    {
+        "uuid": "b02c0c98-733e-4163-b925-48772fb98c1f",
+        "userDefinedKey": "910c147c-51e4-4848-1f62-2e9b5158c11e",
+        "concept": "Terebellidae",
+        "height": 108,
+        "observer": "lonny",
+        "width": 112,
+        "x": 1246,
+        "y": 612,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:41.485Z"
+    },
+    {
+        "uuid": "7625756b-0d5d-49de-a5ec-ae9e97aace86",
+        "userDefinedKey": "bd799706-1f0e-46ca-cb68-8934e6a7d41e",
+        "concept": "Fissurellidae",
+        "height": 76,
+        "observer": "linda",
+        "width": 58,
+        "x": 1199,
+        "y": 682,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:41.485Z"
+    },
+    {
+        "uuid": "013abe7d-f75a-4df7-89e7-def27e125bf8",
+        "userDefinedKey": "e870470f-91fc-4d40-1362-2e9b5158c11e",
+        "concept": "Terebellidae",
+        "height": 65,
+        "observer": "gsainz",
+        "width": 81,
+        "x": 1165,
+        "y": 509,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:41.485Z"
+    }
+]

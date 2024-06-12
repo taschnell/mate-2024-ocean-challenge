@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "0dc9efec-2bea-4f0b-b6f3-a87c1ef115b4",
+        "userDefinedKey": "2d0d4b17-1daf-41b8-456d-71923b58c11e",
+        "concept": "Ophiuroidea",
+        "height": 94,
+        "observer": "yolov5",
+        "width": 136,
+        "x": 1389,
+        "y": 362,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:59.123Z"
+    },
+    {
+        "uuid": "0eab1035-ad83-40ab-9c1a-26043bab09f5",
+        "userDefinedKey": "0f5ef47c-9205-4f4b-496d-71923b58c11e",
+        "concept": "Ophiuroidea",
+        "height": 147,
+        "observer": "yolov5",
+        "width": 170,
+        "x": 718,
+        "y": 250,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:59.123Z"
+    },
+    {
+        "uuid": "ec37ce7b-6cbe-435f-b648-af486a403e74",
+        "userDefinedKey": "38e1e8d9-2eef-4ad5-4d6d-71923b58c11e",
+        "concept": "Pannychia",
+        "height": 132,
+        "observer": "gsainz",
+        "width": 137,
+        "x": 1539,
+        "y": 772,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:59.123Z"
+    },
+    {
+        "uuid": "6dc0352d-fcfa-428e-96d1-779e3c7513fd",
+        "userDefinedKey": "ce336765-50c7-43fe-476d-71923b58c11e",
+        "concept": "Pannychia",
+        "height": 135,
+        "observer": "gsainz",
+        "width": 152,
+        "x": 1764,
+        "y": 499,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:59.123Z"
+    },
+    {
+        "uuid": "26f33ca8-bd97-4576-8bdc-514964c8aacb",
+        "userDefinedKey": "61777879-c540-4425-4b6d-71923b58c11e",
+        "concept": "Graneledone boreopacifica",
+        "height": 310,
+        "observer": "yolov5",
+        "width": 358,
+        "x": 661,
+        "y": 391,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:59.123Z"
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "eeb5ced5-02b6-4dc4-a063-b41bc2f676e8",
+        "userDefinedKey": "314ea0fb-7427-4d76-8867-48ba6da6b31e",
+        "concept": "Ophiuroidea",
+        "height": 96,
+        "observer": "gsainz",
+        "width": 147,
+        "x": 1378,
+        "y": 753,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:22:03.161Z"
+    },
+    {
+        "uuid": "6fae9c3e-b262-4442-9745-65fa0916097a",
+        "userDefinedKey": "023937e7-59de-4429-d269-e2d06da6b31e",
+        "concept": "Ophiuroidea",
+        "height": 117,
+        "observer": "gsainz",
+        "width": 141,
+        "x": 1356,
+        "y": 857,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:22:03.161Z"
+    },
+    {
+        "uuid": "f5ebecbc-327c-4277-8d0c-e86ef6413713",
+        "userDefinedKey": "d9bada11-19f3-4d74-086e-f8f46da6b31e",
+        "concept": "Ophiuroidea",
+        "height": 77,
+        "observer": "gsainz",
+        "width": 117,
+        "x": 1042,
+        "y": 591,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:22:03.161Z"
+    },
+    {
+        "uuid": "7d56b723-8e5d-45ae-af43-fba68f126ac7",
+        "userDefinedKey": "19677749-ed2e-4603-4b60-78fc6dc5aa1e",
+        "concept": "Strongylocentrotus fragilis",
+        "height": 73,
+        "observer": "svonthun",
+        "width": 73,
+        "x": 968,
+        "y": 830,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:22:03.161Z"
+    },
+    {
+        "uuid": "8fb04c0e-dac6-42b4-89b9-f4ec88585b59",
+        "userDefinedKey": "b8b3eb4c-599a-418e-476b-db846da6b31e",
+        "concept": "Ophiuroidea",
+        "height": 129,
+        "observer": "gsainz",
+        "width": 135,
+        "x": 1106,
+        "y": 828,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:22:03.161Z"
+    }
+]

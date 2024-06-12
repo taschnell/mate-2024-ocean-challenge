@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "5ff8555f-6674-433f-9519-091576e788df",
+        "userDefinedKey": "cbb2771b-1f4b-4a3d-0a67-99504e58c11e",
+        "concept": "Physiculus nematopus-rastrelliger complex",
+        "height": 215,
+        "observer": "lonny",
+        "width": 254,
+        "x": 478,
+        "y": 782,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:30.764Z"
+    },
+    {
+        "uuid": "128ab45c-c7af-4549-b05a-5010de42ec1c",
+        "userDefinedKey": "d1afa2b9-077c-41c8-0467-99504e58c11e",
+        "concept": "Ophiuroidea",
+        "height": 211,
+        "observer": "yolov5",
+        "width": 163,
+        "x": 1757,
+        "y": 189,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:30.764Z"
+    },
+    {
+        "uuid": "5c8b5bcf-4975-46cb-8f80-79f9b655a6ab",
+        "userDefinedKey": "f65f48ba-c2e7-42e9-0867-99504e58c11e",
+        "concept": "Ophiuroidea",
+        "height": 241,
+        "observer": "lonny",
+        "width": 189,
+        "x": 259,
+        "y": 226,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:30.764Z"
+    },
+    {
+        "uuid": "5603a427-d0f7-4a78-abcf-9c1e72eb09ee",
+        "userDefinedKey": "9bd548c1-be14-4cf3-0667-99504e58c11e",
+        "concept": "Ophiuroidea",
+        "height": 75,
+        "observer": "gsainz",
+        "width": 61,
+        "x": 537,
+        "y": 603,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:30.764Z"
+    }
+]

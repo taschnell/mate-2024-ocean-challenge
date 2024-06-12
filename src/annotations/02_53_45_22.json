@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "7c0efd9e-384a-4aa5-a358-2ccdedb4c7ab",
+        "userDefinedKey": "aaac6770-0da8-462a-8361-d23853e4bb1e",
+        "concept": "Ophiuroidea",
+        "height": 93,
+        "observer": "master@mbari.org",
+        "width": 120,
+        "x": 174,
+        "y": 247,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:28:21.099Z"
+    },
+    {
+        "uuid": "f1ea424a-15ee-4e22-ac83-30673bff8d96",
+        "userDefinedKey": "f1231b28-b211-4127-0c6f-3f854fe4bb1e",
+        "concept": "Sicyonis",
+        "height": 55,
+        "observer": "master@mbari.org",
+        "width": 89,
+        "x": 357,
+        "y": 145,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:28:21.102Z"
+    },
+    {
+        "uuid": "1008e8c3-13d8-435c-a0ee-fa556cfb098f",
+        "userDefinedKey": "1ec3cf72-bc3f-4f29-1e62-631552e4bb1e",
+        "concept": "Paelopatides confundens",
+        "height": 45,
+        "observer": "master@mbari.org",
+        "width": 68,
+        "x": 252,
+        "y": 154,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:28:21.100Z"
+    },
+    {
+        "uuid": "0457ca63-e8ff-41b4-bc76-1c8e58ccce39",
+        "userDefinedKey": "e9a94c82-c487-407f-1367-5fd652e4bb1e",
+        "concept": "Paelopatides confundens",
+        "height": 53,
+        "observer": "master@mbari.org",
+        "width": 53,
+        "x": 603,
+        "y": 64,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:28:21.103Z"
+    }
+]

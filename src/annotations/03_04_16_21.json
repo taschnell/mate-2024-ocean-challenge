@@ -1,0 +1,28 @@
+[
+    {
+        "uuid": "7d0e3744-df1a-4d3b-9749-6994726fb0e3",
+        "userDefinedKey": "bdec57a2-0c0f-4aa6-2d68-74f04c58c11e",
+        "concept": "Eknomoliparis chirichignoae",
+        "height": 512,
+        "observer": "lonny",
+        "width": 233,
+        "x": 1057,
+        "y": 562,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:00.296Z"
+    },
+    {
+        "uuid": "4704292f-b0f4-4fc2-a7b8-a0db13401dba",
+        "userDefinedKey": "579c8748-1cd7-4ce6-2f68-74f04c58c11e",
+        "concept": "Ophiuroidea",
+        "height": 124,
+        "observer": "yolov5",
+        "width": 167,
+        "x": 1131,
+        "y": 337,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:00.296Z"
+    }
+]

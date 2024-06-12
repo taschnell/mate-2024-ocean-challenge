@@ -1,0 +1,28 @@
+[
+    {
+        "uuid": "4f8268f5-d898-4163-bc3b-7a06f02b2582",
+        "userDefinedKey": "d62af6e7-e545-4ecf-b368-cd2fe730c21e",
+        "concept": "Ophiuroidea",
+        "height": 99,
+        "observer": "gsainz",
+        "width": 99,
+        "x": 664,
+        "y": 957,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2022-05-24T23:32:36.807Z"
+    },
+    {
+        "uuid": "e2b752b3-1269-490c-bc4f-4a6dead6e66e",
+        "userDefinedKey": "4fff04b8-209d-493d-2368-dad6e630c21e",
+        "concept": "Gonatopsis octopedatus",
+        "height": 396,
+        "observer": "linda",
+        "width": 322,
+        "x": 278,
+        "y": 595,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2022-05-24T23:32:36.808Z"
+    }
+]

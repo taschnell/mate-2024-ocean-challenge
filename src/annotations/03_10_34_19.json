@@ -1,0 +1,28 @@
+[
+    {
+        "uuid": "87e8188d-fd76-4869-852b-2cd6e4963229",
+        "userDefinedKey": "0f2cc5a7-1d45-41ba-8e66-b2415158c11e",
+        "concept": "Pedicellasteridae sp. 2",
+        "height": 198,
+        "observer": "gsainz",
+        "width": 223,
+        "x": 1660,
+        "y": 641,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:22:32.184Z"
+    },
+    {
+        "uuid": "18a43b48-d853-472d-ac07-614d6e54c5e8",
+        "userDefinedKey": "045bcd7e-6a74-4f63-9266-b2415158c11e",
+        "concept": "Ophiuroidea",
+        "height": 134,
+        "observer": "yolov5",
+        "width": 141,
+        "x": 997,
+        "y": 336,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:22:32.184Z"
+    }
+]

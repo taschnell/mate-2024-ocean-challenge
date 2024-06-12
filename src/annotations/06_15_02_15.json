@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "543c1933-b4e5-483c-82d2-c6718f8a7255",
+        "userDefinedKey": "0f04912d-3a0e-4848-256f-a05c3b58c11e",
+        "concept": "Holothuroidea",
+        "height": 93,
+        "observer": "lonny",
+        "width": 102,
+        "x": 586,
+        "y": 293,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:00.241Z"
+    },
+    {
+        "uuid": "631f6577-54b1-4acf-940d-194c61d03204",
+        "userDefinedKey": "3034fc80-2036-433f-216f-a05c3b58c11e",
+        "concept": "Ophiuroidea",
+        "height": 65,
+        "observer": "yolov5",
+        "width": 65,
+        "x": 1394,
+        "y": 253,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:00.241Z"
+    },
+    {
+        "uuid": "a49db174-6a60-4361-8b86-2685134654cb",
+        "userDefinedKey": "5fcbf99f-4085-4245-276f-a05c3b58c11e",
+        "concept": "Isididae",
+        "height": 629,
+        "observer": "yolov5",
+        "width": 263,
+        "x": 1562,
+        "y": 433,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:00.241Z"
+    }
+]

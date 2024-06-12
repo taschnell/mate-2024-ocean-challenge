@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "1bf95689-da63-47e4-8361-5405a75419be",
+        "userDefinedKey": "113c3492-50a9-4e1e-fd61-7a653f58c11e",
+        "concept": "Asbestopluma",
+        "height": 190,
+        "observer": "yolov5",
+        "width": 84,
+        "x": 1415,
+        "y": 303,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:02.722Z"
+    },
+    {
+        "uuid": "93ca91c6-0e85-4452-bb6d-4651ca9f9340",
+        "userDefinedKey": "670952c0-037a-4e98-276b-ac633f58c11e",
+        "concept": "Swiftia kofoidi",
+        "height": 542,
+        "observer": "lonny",
+        "width": 767,
+        "x": 454,
+        "y": 14,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:02.722Z"
+    },
+    {
+        "uuid": "5a3fc96e-967a-4bdf-b9bc-e2dc7a05950b",
+        "userDefinedKey": "509c7747-2121-44c6-256b-ac633f58c11e",
+        "concept": "Porifera",
+        "height": 57,
+        "observer": "yolov5",
+        "width": 61,
+        "x": 32,
+        "y": 561,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:02.722Z"
+    },
+    {
+        "uuid": "cfe7df70-2573-4a3f-bbd6-fc620d33c8e2",
+        "userDefinedKey": "b489a113-c289-480f-ff61-7a653f58c11e",
+        "concept": "Ophiuroidea",
+        "height": 150,
+        "observer": "yolov5",
+        "width": 147,
+        "x": 1457,
+        "y": 675,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:02.722Z"
+    }
+]

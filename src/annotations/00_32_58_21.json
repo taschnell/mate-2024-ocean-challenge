@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "021b94f3-a084-4015-bd1a-77e6ec955d8c",
+        "userDefinedKey": "9547cd43-3b11-472e-d560-d9647f6cb71e",
+        "concept": "Ophiuroidea",
+        "height": 76,
+        "observer": "master@mbari.org",
+        "width": 93,
+        "x": 4,
+        "y": 160,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:36:35.347Z"
+    },
+    {
+        "uuid": "9a73e7ba-c439-46c1-b788-bdf7bf262fb4",
+        "userDefinedKey": "758cb681-448b-4fe1-006e-be897f6cb71e",
+        "concept": "Ophiuroidea",
+        "height": 65,
+        "observer": "master@mbari.org",
+        "width": 85,
+        "x": 458,
+        "y": 102,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:36:35.347Z"
+    },
+    {
+        "uuid": "60d8c552-cf78-48a6-8638-50c8a29c834e",
+        "userDefinedKey": "a4f16282-7fbc-4ec5-876b-c6d47e6cb71e",
+        "concept": "Ophiuroidea",
+        "height": 76,
+        "observer": "master@mbari.org",
+        "width": 93,
+        "x": 466,
+        "y": 243,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:36:35.347Z"
+    },
+    {
+        "uuid": "0585603c-acdf-4c46-b902-a1f262f9000a",
+        "userDefinedKey": "d4db5b3c-2bb3-4419-1f6c-e2757e6cb71e",
+        "concept": "Suction Sampler",
+        "height": 130,
+        "observer": "master@mbari.org",
+        "width": 165,
+        "x": 183,
+        "y": 32,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:36:35.350Z"
+    }
+]

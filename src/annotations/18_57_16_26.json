@@ -1,0 +1,28 @@
+[
+    {
+        "uuid": "c806d0dd-1b68-4d48-8b86-c28280f74d08",
+        "userDefinedKey": "3cf9eebb-3eb7-4864-156f-bee67a58c11e",
+        "concept": "Ophiuroidea",
+        "height": 39,
+        "observer": "yolov5",
+        "width": 51,
+        "x": 1782,
+        "y": 878,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:02.810Z"
+    },
+    {
+        "uuid": "43d7d0a5-030b-4621-82dc-b64d8587f812",
+        "userDefinedKey": "a45793a1-e7df-4896-196f-bee67a58c11e",
+        "concept": "Corallium",
+        "height": 295,
+        "observer": "gsainz",
+        "width": 432,
+        "x": 273,
+        "y": 242,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:02.810Z"
+    }
+]

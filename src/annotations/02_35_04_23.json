@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "85b157c2-b19e-4ef8-aacc-85269f4601be",
+        "userDefinedKey": "fc0a584e-b060-4ee2-0463-651a3d58c11e",
+        "concept": "Galatheoidea",
+        "height": 105,
+        "observer": "gsainz",
+        "width": 117,
+        "x": 879,
+        "y": 781,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:02.691Z"
+    },
+    {
+        "uuid": "742b21c0-7d7f-4644-92bd-500c965684d1",
+        "userDefinedKey": "b541272e-b029-450f-0263-651a3d58c11e",
+        "concept": "Galatheoidea",
+        "height": 100,
+        "observer": "yolov5",
+        "width": 138,
+        "x": 1095,
+        "y": 895,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:02.691Z"
+    },
+    {
+        "uuid": "78c9a6dc-cd12-4bdd-ad4a-d26c8a5234e6",
+        "userDefinedKey": "4686f12f-d95e-4303-fc62-651a3d58c11e",
+        "concept": "Galatheoidea",
+        "height": 84,
+        "observer": "yolov5",
+        "width": 96,
+        "x": 236,
+        "y": 454,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:02.691Z"
+    },
+    {
+        "uuid": "7808afbd-e6cb-4d33-8264-d440dae850cf",
+        "userDefinedKey": "a597bb36-8b0c-4dd8-d662-121a3d58c11e",
+        "concept": "Ophiuroidea",
+        "height": 197,
+        "observer": "yolov5",
+        "width": 187,
+        "x": 1597,
+        "y": 568,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:02.691Z"
+    }
+]

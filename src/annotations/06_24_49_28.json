@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "eedc59d4-978b-47dd-8522-9b1f480cedd1",
+        "userDefinedKey": "253f6c2b-5691-4d98-1767-cf999877b81e",
+        "concept": "Oneirophanta mutabilis complex",
+        "height": 233,
+        "observer": "linda",
+        "width": 305,
+        "x": 408,
+        "y": 392,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:16:17.122Z"
+    },
+    {
+        "uuid": "789c9c7f-573f-4bc0-9fa3-a5e2872c8cb5",
+        "userDefinedKey": "f5e05046-d94e-4a52-986b-51509a77b81e",
+        "concept": "Ophiuroidea",
+        "height": 108,
+        "observer": "gsainz",
+        "width": 153,
+        "x": 491,
+        "y": 953,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:16:17.122Z"
+    },
+    {
+        "uuid": "c083cf2b-c7fc-4980-b959-e3b3f0e64dda",
+        "userDefinedKey": "a525183f-da45-40eb-d866-2d3f9977b81e",
+        "concept": "Elpidia sp. A",
+        "height": 118,
+        "observer": "gsainz",
+        "width": 128,
+        "x": 1027,
+        "y": 780,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:16:17.122Z"
+    },
+    {
+        "uuid": "6eace1ad-6ca3-4c80-bc44-2df118cf8dff",
+        "userDefinedKey": "c4618923-a53b-476f-6366-c20e9977b81e",
+        "concept": "Elpidia sp. A",
+        "height": 97,
+        "observer": "gsainz",
+        "width": 105,
+        "x": 1248,
+        "y": 480,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:16:17.122Z"
+    },
+    {
+        "uuid": "6a800424-84c2-4cd0-a3fe-af70c538e521",
+        "userDefinedKey": "d5337921-52fa-4020-4a6a-90e59977b81e",
+        "concept": "Hexacorallia",
+        "height": 89,
+        "observer": "gsainz",
+        "width": 88,
+        "x": 851,
+        "y": 171,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:16:17.122Z"
+    }
+]

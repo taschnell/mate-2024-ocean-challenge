@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "32871f92-8f95-4acb-aaaf-d0f72643a943",
+        "userDefinedKey": "d8b8da0e-eb37-4078-dc6c-93834577d91e",
+        "concept": "Munnopsidae",
+        "height": 106,
+        "observer": "lonny",
+        "width": 101,
+        "x": 889,
+        "y": 492,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:13.709Z"
+    },
+    {
+        "uuid": "916d73d6-fe5a-48ab-8e0b-3b60a7c6f627",
+        "userDefinedKey": "b7794117-247a-4f7c-de6c-93834577d91e",
+        "concept": "Ophiuroidea",
+        "height": 114,
+        "observer": "lonny",
+        "width": 206,
+        "x": 1018,
+        "y": 0,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:13.709Z"
+    },
+    {
+        "uuid": "4b95498b-9e48-40a8-90f0-e17dd044909e",
+        "userDefinedKey": "3b2696b6-2b72-44e4-ca65-91834577d91e",
+        "concept": "Munnopsidae",
+        "height": 83,
+        "observer": "lonny",
+        "width": 70,
+        "x": 1838,
+        "y": 952,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:13.709Z"
+    },
+    {
+        "uuid": "9a6866fe-ac94-47c6-9fe1-c1ac5e74bbdf",
+        "userDefinedKey": "09961647-29c3-4556-e06c-93834577d91e",
+        "concept": "Pannychia moseleyi",
+        "height": 271,
+        "observer": "lonny",
+        "width": 238,
+        "x": 0,
+        "y": 435,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:13.709Z"
+    }
+]

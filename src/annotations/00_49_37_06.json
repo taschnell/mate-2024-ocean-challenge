@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "25f52366-7f3a-4322-a171-6b3f030d30bd",
+        "userDefinedKey": "e439f7ee-7254-4654-c068-b3ac4262bd1e",
+        "concept": "Scotoplanes sp. A",
+        "height": 88,
+        "observer": "linda",
+        "width": 77,
+        "x": 572,
+        "y": 550,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:24:04.919Z"
+    },
+    {
+        "uuid": "292f3403-8181-4ece-94ed-e2495229c66c",
+        "userDefinedKey": "3e89cf24-ce47-4092-6261-d2354362bd1e",
+        "concept": "Ophiuroidea",
+        "height": 120,
+        "observer": "gsainz",
+        "width": 95,
+        "x": 597,
+        "y": 949,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:24:04.919Z"
+    },
+    {
+        "uuid": "323ddda0-d8e6-4a22-b439-d20721632f9c",
+        "userDefinedKey": "c6743c2a-779d-4ce5-8a62-fd914262bd1e",
+        "concept": "Scotoplanes sp. A",
+        "height": 71,
+        "observer": "linda",
+        "width": 76,
+        "x": 407,
+        "y": 141,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:24:04.919Z"
+    },
+    {
+        "uuid": "f60ddb32-2834-4de8-a20c-a1448f1d7c6f",
+        "userDefinedKey": "6ce026fa-ab65-45d3-9c6d-52cb4262bd1e",
+        "concept": "Scotoplanes sp. A",
+        "height": 116,
+        "observer": "linda",
+        "width": 87,
+        "x": 1707,
+        "y": 762,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:24:04.919Z"
+    },
+    {
+        "uuid": "e2903629-054e-490a-9750-385062985944",
+        "userDefinedKey": "1863ccce-0a75-4560-0b6f-1fe84262bd1e",
+        "concept": "Scotoplanes sp. A",
+        "height": 70,
+        "observer": "linda",
+        "width": 49,
+        "x": 1038,
+        "y": 709,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:24:04.919Z"
+    }
+]

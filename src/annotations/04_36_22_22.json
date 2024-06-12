@@ -1,0 +1,80 @@
+[
+    {
+        "uuid": "618392a0-c699-4165-8317-066835c9c9d4",
+        "userDefinedKey": "263f943d-12cb-4d2a-af60-fe4b3a58c11e",
+        "concept": "Asbestopluma",
+        "height": 94,
+        "observer": "yolov5",
+        "width": 132,
+        "x": 1788,
+        "y": 144,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:07.829Z"
+    },
+    {
+        "uuid": "ad51e885-b706-4434-aaf6-292be327ac8d",
+        "userDefinedKey": "9dbd4702-9793-4d44-4d6e-18e9dc1bd11e",
+        "concept": "Primnoidae",
+        "height": 188,
+        "observer": "matteo",
+        "width": 317,
+        "x": 573,
+        "y": 686,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:07.829Z"
+    },
+    {
+        "uuid": "9433b44a-86d2-47d3-81bb-0478335771e2",
+        "userDefinedKey": "e74d1822-a075-499b-a760-fe4b3a58c11e",
+        "concept": "Ophiuroidea",
+        "height": 98,
+        "observer": "yolov5",
+        "width": 99,
+        "x": 1042,
+        "y": 152,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:07.829Z"
+    },
+    {
+        "uuid": "4a0f79b9-4892-423e-a287-2de9449dd284",
+        "userDefinedKey": "d48244f1-9a19-4317-a160-0d4d3a58c11e",
+        "concept": "Graneledone boreopacifica",
+        "height": 396,
+        "observer": "yolov5",
+        "width": 257,
+        "x": 535,
+        "y": 72,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:07.829Z"
+    },
+    {
+        "uuid": "9513be3d-6850-4aa9-849d-d48ce3b60c1d",
+        "userDefinedKey": "6786afe9-756c-404f-a560-fe4b3a58c11e",
+        "concept": "Ophiuroidea",
+        "height": 142,
+        "observer": "yolov5",
+        "width": 122,
+        "x": 135,
+        "y": 90,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:07.829Z"
+    },
+    {
+        "uuid": "653de9c9-19af-486b-a1d8-0d1e0f7cd92f",
+        "userDefinedKey": "01e8a35c-0da4-4431-ab60-fe4b3a58c11e",
+        "concept": "Ophiuroidea",
+        "height": 72,
+        "observer": "yolov5",
+        "width": 73,
+        "x": 313,
+        "y": 745,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:07.829Z"
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "49b6703b-9fe1-4617-b7e3-ebf7598bea42",
+        "userDefinedKey": "f8dfb40b-8ebb-4c49-4560-4e81e820b71e",
+        "concept": "Ophiuroidea",
+        "height": 45,
+        "observer": "gsainz",
+        "width": 60,
+        "x": 503,
+        "y": 879,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:18:10.831Z"
+    },
+    {
+        "uuid": "c55fb050-e12a-4de5-ac91-183be2537ead",
+        "userDefinedKey": "9c1c9285-2e10-4da2-146e-6948e720b71e",
+        "concept": "Paelopatides confundens",
+        "height": 83,
+        "observer": "schlin",
+        "width": 85,
+        "x": 306,
+        "y": 849,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:18:10.831Z"
+    },
+    {
+        "uuid": "84f0bb4c-407d-402a-9396-6ff1b811770f",
+        "userDefinedKey": "338db233-b590-4cbe-bc6e-ca51e820b71e",
+        "concept": "Ophiuroidea",
+        "height": 44,
+        "observer": "gsainz",
+        "width": 58,
+        "x": 683,
+        "y": 951,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:18:10.831Z"
+    },
+    {
+        "uuid": "475dc089-9def-4367-9214-318899840e65",
+        "userDefinedKey": "d96b037c-8ca5-4c99-ce6c-59f4e920b71e",
+        "concept": "Actiniaria",
+        "height": 42,
+        "observer": "gsainz",
+        "width": 46,
+        "x": 286,
+        "y": 706,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:18:10.831Z"
+    },
+    {
+        "uuid": "fae2a604-fe65-41d8-8852-a9fe0b92a3b7",
+        "userDefinedKey": "82b46216-e7f2-458f-2564-82a0e820b71e",
+        "concept": "Ophiuroidea",
+        "height": 49,
+        "observer": "gsainz",
+        "width": 50,
+        "x": 1314,
+        "y": 896,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:18:10.831Z"
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "uuid": "9af3b92e-1880-4bbf-a818-86fd33829f42",
+        "userDefinedKey": "e595b7fd-25f6-455f-cd65-88ac05cab61e",
+        "concept": "Macrouridae",
+        "height": 94,
+        "observer": "ndgallo",
+        "width": 65,
+        "x": 1494,
+        "y": 580,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:17:01.622Z"
+    },
+    {
+        "uuid": "d378c1ab-43d1-4306-9604-75df0a4ee3c0",
+        "userDefinedKey": "0b4a20a3-9eb3-4c31-ef62-002506cab61e",
+        "concept": "Ophiuroidea",
+        "height": 78,
+        "observer": "gsainz",
+        "width": 87,
+        "x": 1058,
+        "y": 223,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:17:01.623Z"
+    }
+]

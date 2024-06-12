@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "28f6034d-1a28-4da4-9fd6-b74f404e238a",
+        "userDefinedKey": "b0fb2562-8249-47c7-316e-e647bf39bd1e",
+        "concept": "Benthocodon",
+        "height": 42,
+        "observer": "gsainz",
+        "width": 35,
+        "x": 1796,
+        "y": 446,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:21:31.094Z"
+    },
+    {
+        "uuid": "f7789b86-e29e-4331-8b69-16e02d4f32f6",
+        "userDefinedKey": "1e5cf91e-3ea5-4459-616c-9df7bf39bd1e",
+        "concept": "Peniagone sp. 1",
+        "height": 57,
+        "observer": "linda",
+        "width": 84,
+        "x": 812,
+        "y": 492,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:21:31.094Z"
+    },
+    {
+        "uuid": "5b7a7a3c-41ef-4f36-97e3-4fd29f84fa31",
+        "userDefinedKey": "af1ef900-8498-4929-e76f-f64fc039bd1e",
+        "concept": "Ophiuroidea",
+        "height": 99,
+        "observer": "gsainz",
+        "width": 63,
+        "x": 1029,
+        "y": 921,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:21:31.094Z"
+    }
+]

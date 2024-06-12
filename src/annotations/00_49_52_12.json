@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "6d2999c4-5549-479c-9a1c-ec8d97d9dad7",
+        "userDefinedKey": "e5e04d47-cff3-4fad-5d6f-d00f6458c11e",
+        "concept": "Paralomis multispina",
+        "height": 419,
+        "observer": "yolov5",
+        "width": 178,
+        "x": 0,
+        "y": 487,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:31.066Z"
+    },
+    {
+        "uuid": "b347897e-3cac-452e-b1cf-e6cb43d924fa",
+        "userDefinedKey": "68903df2-a892-4f31-596f-d00f6458c11e",
+        "concept": "Lillipathes",
+        "height": 499,
+        "observer": "lonny",
+        "width": 635,
+        "x": 584,
+        "y": 367,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:31.066Z"
+    },
+    {
+        "uuid": "8766d276-b9ec-4fac-99b5-669d92d3e3b6",
+        "userDefinedKey": "5e569151-1d92-43a2-556f-d00f6458c11e",
+        "concept": "Ophiuroidea",
+        "height": 47,
+        "observer": "yolov5",
+        "width": 52,
+        "x": 1387,
+        "y": 333,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:31.066Z"
+    },
+    {
+        "uuid": "71c24fdc-74e0-49ca-9fa0-6c405264dd59",
+        "userDefinedKey": "3c80fa7f-60ff-4d95-576f-d00f6458c11e",
+        "concept": "Ophiuroidea",
+        "height": 51,
+        "observer": "yolov5",
+        "width": 56,
+        "x": 1375,
+        "y": 212,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:31.066Z"
+    },
+    {
+        "uuid": "28d79a30-f110-4c73-99e0-f1112a8cf95c",
+        "userDefinedKey": "dad9add4-00b3-4b0e-5f6f-d00f6458c11e",
+        "concept": "Actiniaria",
+        "height": 284,
+        "observer": "yolov5",
+        "width": 286,
+        "x": 409,
+        "y": 687,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:31.066Z"
+    }
+]

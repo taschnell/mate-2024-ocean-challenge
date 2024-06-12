@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "4e9dd35b-f866-4410-b627-a627d2e42c0d",
+        "userDefinedKey": "1846d4b4-ff6f-4dca-2f69-4675a369d41e",
+        "concept": "Caridea",
+        "height": 81,
+        "observer": "linda",
+        "width": 102,
+        "x": 1315,
+        "y": 603,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:22:01.892Z"
+    },
+    {
+        "uuid": "9c5386de-bbd5-4089-a188-74d8b3fe2a4a",
+        "userDefinedKey": "9dd4efd0-ae55-417c-fe66-86459a8ed41e",
+        "concept": "Pectinidae",
+        "height": 57,
+        "observer": "linda",
+        "width": 65,
+        "x": 956,
+        "y": 462,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:22:01.892Z"
+    },
+    {
+        "uuid": "20fe85aa-bd40-405e-9bc4-afe9a319c88a",
+        "userDefinedKey": "c144e4d0-2b13-4e83-6e65-88d3a269d41e",
+        "concept": "Heterocarpus sp. 1",
+        "height": 127,
+        "observer": "linda",
+        "width": 146,
+        "x": 679,
+        "y": 876,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:22:01.892Z"
+    },
+    {
+        "uuid": "0a4ea745-d9a8-44e1-b414-eb153e74df37",
+        "userDefinedKey": "7b8cbd29-138a-4818-416d-e1955258c11e",
+        "concept": "Ophiuroidea",
+        "height": 287,
+        "observer": "yolov5",
+        "width": 353,
+        "x": 1270,
+        "y": 247,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:22:01.892Z"
+    }
+]

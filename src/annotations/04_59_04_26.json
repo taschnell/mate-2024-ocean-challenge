@@ -1,0 +1,28 @@
+[
+    {
+        "uuid": "7980f95a-bbde-4e11-bf6a-badf6d360351",
+        "userDefinedKey": "64bbcdbc-daf8-4034-d467-ebee4c58c11e",
+        "concept": "Holothuroidea",
+        "height": 395,
+        "observer": "gsainz",
+        "width": 656,
+        "x": 943,
+        "y": 678,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:05.382Z"
+    },
+    {
+        "uuid": "d550f97a-82b1-4164-9e94-82da30a97b80",
+        "userDefinedKey": "14d7d557-7f2c-443a-d667-ebee4c58c11e",
+        "concept": "Ophiuroidea",
+        "height": 208,
+        "observer": "yolov5",
+        "width": 219,
+        "x": 364,
+        "y": 108,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:05.382Z"
+    }
+]

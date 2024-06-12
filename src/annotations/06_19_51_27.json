@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "76e0c3d4-4802-461f-bc58-5dcaea35d977",
+        "userDefinedKey": "f8b4f739-44f8-4bcb-7a65-44664e58c11e",
+        "concept": "Ophiuroidea",
+        "height": 269,
+        "observer": "lonny",
+        "width": 353,
+        "x": 489,
+        "y": 503,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.632Z"
+    },
+    {
+        "uuid": "ca94e7f9-38f4-4c61-b52f-16b0e7da8ff5",
+        "userDefinedKey": "4df7097c-afe5-4409-0e67-a8664e58c11e",
+        "concept": "Physiculus nematopus-rastrelliger complex",
+        "height": 230,
+        "observer": "lonny",
+        "width": 210,
+        "x": 512,
+        "y": 798,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.632Z"
+    },
+    {
+        "uuid": "724cb71d-1449-4889-9eee-a64e3732b087",
+        "userDefinedKey": "0a7ef57f-eea7-4a71-1067-a8664e58c11e",
+        "concept": "Ophiuroidea",
+        "height": 241,
+        "observer": "lonny",
+        "width": 260,
+        "x": 1234,
+        "y": 49,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.632Z"
+    },
+    {
+        "uuid": "cb7966d0-031d-408d-8090-0bd7e1547316",
+        "userDefinedKey": "dcc384d9-eb2a-40c0-0c67-a8664e58c11e",
+        "concept": "Ophiuroidea",
+        "height": 234,
+        "observer": "lonny",
+        "width": 221,
+        "x": 234,
+        "y": 220,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.632Z"
+    },
+    {
+        "uuid": "2df218e3-7e47-42fa-94bb-da7472923421",
+        "userDefinedKey": "c5c4de9c-bae0-45ce-1267-a8664e58c11e",
+        "concept": "Pectinidae",
+        "height": 67,
+        "observer": "lonny",
+        "width": 73,
+        "x": 1721,
+        "y": 506,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.632Z"
+    }
+]

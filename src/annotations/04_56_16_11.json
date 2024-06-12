@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "c268bece-5370-4ebe-8bd8-a63abe31550d",
+        "userDefinedKey": "04612a91-45e7-4d08-cc64-21354058c11e",
+        "concept": "Farrea",
+        "height": 113,
+        "observer": "yolov5",
+        "width": 169,
+        "x": 104,
+        "y": 374,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:41.674Z"
+    },
+    {
+        "uuid": "4789489d-a0fa-4637-8be3-d73d306ed22b",
+        "userDefinedKey": "1c0d66eb-a229-4c3b-ca64-21354058c11e",
+        "concept": "Ophiuroidea",
+        "height": 150,
+        "observer": "yolov5",
+        "width": 131,
+        "x": 72,
+        "y": 258,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:41.674Z"
+    },
+    {
+        "uuid": "eeacaf9d-f164-4bc9-a57f-c3e9ef1447ad",
+        "userDefinedKey": "0bc3b033-641b-42d7-ce64-21354058c11e",
+        "concept": "Hippasteria",
+        "height": 437,
+        "observer": "yolov5",
+        "width": 478,
+        "x": 1077,
+        "y": 12,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:41.674Z"
+    }
+]

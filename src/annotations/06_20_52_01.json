@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "926bb6ad-c016-4ca8-bc23-f738c5f1df56",
+        "userDefinedKey": "6b7ca2f7-96cd-4480-2c66-09654e58c11e",
+        "concept": "Ophiacanthidae",
+        "height": 456,
+        "observer": "lonny",
+        "width": 257,
+        "x": 0,
+        "y": 13,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:46.860Z"
+    },
+    {
+        "uuid": "0ea7510b-bbc2-4a69-aaa8-a23ee38f630f",
+        "userDefinedKey": "08e77b4f-a41c-4b2c-3066-09654e58c11e",
+        "concept": "Ophiuroidea",
+        "height": 197,
+        "observer": "yolov5",
+        "width": 324,
+        "x": 413,
+        "y": 879,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:46.860Z"
+    },
+    {
+        "uuid": "58e29d31-ab40-4993-9664-f1e36efa6e8a",
+        "userDefinedKey": "76e56ce2-736c-4d24-2e66-09654e58c11e",
+        "concept": "Suction Sampler",
+        "height": 585,
+        "observer": "yolov5",
+        "width": 666,
+        "x": 556,
+        "y": 7,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:46.860Z"
+    }
+]

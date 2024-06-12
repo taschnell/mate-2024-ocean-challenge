@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "d4fdc404-6ee1-4550-844d-a64f2b1fdc9e",
+        "userDefinedKey": "17b6ce3d-97f3-4024-fb6d-5fb14dd9da1e",
+        "concept": "Benthopecten",
+        "height": 80,
+        "observer": "lemon",
+        "width": 112,
+        "x": 3,
+        "y": 357,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:08.562Z"
+    },
+    {
+        "uuid": "4205c363-b8ad-448f-8acb-4fb462c9ab43",
+        "userDefinedKey": "51530aec-fd7e-4cf1-fd6d-5fb14dd9da1e",
+        "concept": "Ophiuroidea",
+        "height": 54,
+        "observer": "lonny",
+        "width": 64,
+        "x": 714,
+        "y": 719,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:08.562Z"
+    },
+    {
+        "uuid": "7b822413-447d-44df-9f16-302127c21baf",
+        "userDefinedKey": "6864cf79-0a95-4ab3-f96d-5fb14dd9da1e",
+        "concept": "Asteroidea",
+        "height": 47,
+        "observer": "lonny",
+        "width": 57,
+        "x": 644,
+        "y": 245,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:08.562Z"
+    }
+]

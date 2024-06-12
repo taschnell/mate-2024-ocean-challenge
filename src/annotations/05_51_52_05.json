@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "330a692c-ff29-4dd0-875d-450d36a1e5ac",
+        "userDefinedKey": "e9c0494d-b8eb-44c9-7267-c50b9de9b21e",
+        "concept": "Ophiuroidea",
+        "height": 244,
+        "observer": "gsainz",
+        "width": 250,
+        "x": 983,
+        "y": 821,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:19:35.294Z"
+    },
+    {
+        "uuid": "f16a0836-6851-493c-844b-a686a50753d1",
+        "userDefinedKey": "22132b18-4a77-42aa-f460-634290c5aa1e",
+        "concept": "Strongylocentrotus fragilis",
+        "height": 127,
+        "observer": "schlin",
+        "width": 149,
+        "x": 870,
+        "y": 371,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:19:35.294Z"
+    },
+    {
+        "uuid": "569eccd1-4b8c-46d7-990a-0df59abaceca",
+        "userDefinedKey": "2a363869-e292-43ff-9160-01129ce9b21e",
+        "concept": "Lycodes diapterus",
+        "height": 162,
+        "observer": "gsainz",
+        "width": 332,
+        "x": 1105,
+        "y": 465,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:19:35.294Z"
+    },
+    {
+        "uuid": "e46c24c6-bb6e-48e9-b0fe-fa83c1919eba",
+        "userDefinedKey": "d1602298-c2ce-4419-0b6e-91d29ce9b21e",
+        "concept": "Ophiuroidea",
+        "height": 174,
+        "observer": "gsainz",
+        "width": 266,
+        "x": 210,
+        "y": 462,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:19:35.295Z"
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "2f89def1-7a37-4c98-b962-57f9f0093e9e",
+        "userDefinedKey": "059f801e-4b99-45b9-406d-c914ad16b41e",
+        "concept": "Ophiuroidea",
+        "height": 168,
+        "observer": "gsainz",
+        "width": 146,
+        "x": 1515,
+        "y": 841,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:15:48.553Z"
+    },
+    {
+        "uuid": "93aeecc3-c1f5-4412-b4a3-b670ddac8ed0",
+        "userDefinedKey": "5c6fce4c-2267-4b89-a060-9b72ae16b41e",
+        "concept": "Rathbunaster californicus",
+        "height": 72,
+        "observer": "gsainz",
+        "width": 108,
+        "x": 1200,
+        "y": 118,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:15:48.553Z"
+    },
+    {
+        "uuid": "7e618e0a-527c-4a4d-abbf-c6211e53689b",
+        "userDefinedKey": "3b6bf7b7-0769-4d6e-b269-0038ae16b41e",
+        "concept": "Rathbunaster californicus",
+        "height": 58,
+        "observer": "gsainz",
+        "width": 89,
+        "x": 646,
+        "y": 98,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:15:48.553Z"
+    },
+    {
+        "uuid": "aa6e08cb-3722-4bcd-baba-d1520b50114d",
+        "userDefinedKey": "0ed1cc92-0534-435b-5f6f-d675ac16b41e",
+        "concept": "Octopus rubescens",
+        "height": 55,
+        "observer": "linda",
+        "width": 58,
+        "x": 1209,
+        "y": 696,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:15:48.553Z"
+    }
+]

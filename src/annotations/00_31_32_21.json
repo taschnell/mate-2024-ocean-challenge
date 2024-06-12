@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "97321e77-8438-49d0-bd6d-a59442b333f2",
+        "userDefinedKey": "b957bf75-b01f-41ff-c465-62e22a58c11e",
+        "concept": "Pennatulacea",
+        "height": 130,
+        "observer": "gsainz",
+        "width": 38,
+        "x": 70,
+        "y": 947,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:30.381Z"
+    },
+    {
+        "uuid": "dea07d62-0c78-4e20-a24e-28a3e56f727a",
+        "userDefinedKey": "665bbcf5-9770-4ce8-c665-62e22a58c11e",
+        "concept": "Ophiuroidea",
+        "height": 82,
+        "observer": "yolov5",
+        "width": 97,
+        "x": 1303,
+        "y": 858,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:30.385Z"
+    },
+    {
+        "uuid": "fbe9f1c5-3ac0-4240-904f-6dbb38df16db",
+        "userDefinedKey": "23b917c5-74eb-4edf-c865-62e22a58c11e",
+        "concept": "Scotoplanes",
+        "height": 318,
+        "observer": "yolov5",
+        "width": 225,
+        "x": 666,
+        "y": 353,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:30.385Z"
+    }
+]

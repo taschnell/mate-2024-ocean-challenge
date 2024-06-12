@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "1f8d07ba-5c50-4be1-8788-4a864cf3a8dc",
+        "userDefinedKey": "b6835935-f31c-44c1-4d6f-3e625158c11e",
+        "concept": "Asteroidea",
+        "height": 71,
+        "observer": "yolov5",
+        "width": 75,
+        "x": 1527,
+        "y": 835,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:25.957Z"
+    },
+    {
+        "uuid": "456a18c0-685c-4db5-abb8-4f59c56f27c8",
+        "userDefinedKey": "3f1e0b00-895b-4069-4f6f-3e625158c11e",
+        "concept": "Asteroidea",
+        "height": 159,
+        "observer": "yolov5",
+        "width": 172,
+        "x": 1550,
+        "y": 584,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:25.957Z"
+    },
+    {
+        "uuid": "d2dce987-603f-4a6b-aae1-db60e8542f04",
+        "userDefinedKey": "7e8bb41a-c284-49b3-456f-3e625158c11e",
+        "concept": "Asteroidea",
+        "height": 69,
+        "observer": "yolov5",
+        "width": 74,
+        "x": 615,
+        "y": 742,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:25.957Z"
+    },
+    {
+        "uuid": "577b2126-ddd1-435c-903e-b705746ce0d0",
+        "userDefinedKey": "175f67c7-20b1-4fc8-496f-3e625158c11e",
+        "concept": "Ophiuroidea",
+        "height": 74,
+        "observer": "yolov5",
+        "width": 77,
+        "x": 1151,
+        "y": 70,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:25.957Z"
+    },
+    {
+        "uuid": "863541b9-b1f8-45e4-86bf-27c6e93f2b4c",
+        "userDefinedKey": "2226bfb7-d4c3-448a-4b6f-3e625158c11e",
+        "concept": "Parmaturus xaniurus",
+        "height": 795,
+        "observer": "lonny",
+        "width": 621,
+        "x": 484,
+        "y": 265,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:25.957Z"
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "d63c020e-3ab1-463f-a596-18cab428ea46",
+        "userDefinedKey": "aab63889-d9e6-481e-8a67-d9ec3858c11e",
+        "concept": "Isidella tentaculum",
+        "height": 1075,
+        "observer": "gsainz",
+        "width": 525,
+        "x": 578,
+        "y": 0,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:46.849Z"
+    },
+    {
+        "uuid": "36a6845e-5ca7-4234-baf4-80b4bcd4dbda",
+        "userDefinedKey": "0dcad123-9e0e-4185-8867-d9ec3858c11e",
+        "concept": "Ophiuroidea",
+        "height": 106,
+        "observer": "yolov5",
+        "width": 125,
+        "x": 1126,
+        "y": 116,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:46.849Z"
+    },
+    {
+        "uuid": "65f15c39-62d5-42f9-83aa-b31f66bc7de4",
+        "userDefinedKey": "348264d9-2317-4e7c-8e67-d9ec3858c11e",
+        "concept": "Psolus squamatus",
+        "height": 271,
+        "observer": "yolov5",
+        "width": 249,
+        "x": 413,
+        "y": 110,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:46.849Z"
+    }
+]

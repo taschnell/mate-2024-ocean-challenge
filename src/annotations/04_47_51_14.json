@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "f85f761c-ccc4-44a7-9ece-e60cc4695463",
+        "userDefinedKey": "e7fee1c6-760b-45de-f167-0314a57fb61e",
+        "concept": "Macrouridae",
+        "height": 88,
+        "observer": "lonny",
+        "width": 69,
+        "x": 1200,
+        "y": 2,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:32:08.962Z"
+    },
+    {
+        "uuid": "4025a451-1ae4-47ee-b085-fdaaa9224968",
+        "userDefinedKey": "08ca5329-1d57-492f-2962-e1c2a57fb61e",
+        "concept": "Ophiuroidea",
+        "height": 60,
+        "observer": "lonny",
+        "width": 71,
+        "x": 1101,
+        "y": 266,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:32:08.962Z"
+    },
+    {
+        "uuid": "c6fefe26-7264-488a-9b4e-50e6e02ae887",
+        "userDefinedKey": "3f93a2fe-9927-467a-5765-918ca57fb61e",
+        "concept": "Ophiuroidea",
+        "height": 77,
+        "observer": "lonny",
+        "width": 97,
+        "x": 153,
+        "y": 365,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:32:08.962Z"
+    },
+    {
+        "uuid": "455cd463-acdd-4a23-b3b1-8cf16c8a88e2",
+        "userDefinedKey": "6970db68-e605-46b8-326a-b1f0a57fb61e",
+        "concept": "Ophiuroidea",
+        "height": 83,
+        "observer": "lonny",
+        "width": 109,
+        "x": 380,
+        "y": 663,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:32:08.962Z"
+    },
+    {
+        "uuid": "9406e2c1-5f07-4ec1-906c-87e9ceaa0f06",
+        "userDefinedKey": "0573a0a6-ac8d-44b0-5f69-534ea47fb61e",
+        "concept": "Bathypterois pectinatus",
+        "height": 67,
+        "observer": "ndgallo",
+        "width": 72,
+        "x": 404,
+        "y": 600,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:32:08.962Z"
+    }
+]

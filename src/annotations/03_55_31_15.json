@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "845f6e30-4370-4f4a-8da5-f5224430f87a",
+        "userDefinedKey": "750bd5ed-45db-4131-fd62-51c73958c11e",
+        "concept": "Ophiuroidea",
+        "height": 36,
+        "observer": "yolov5",
+        "width": 38,
+        "x": 1029,
+        "y": 863,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:23:02.200Z"
+    },
+    {
+        "uuid": "81b0a577-602d-4fdd-957a-841fe8f37e49",
+        "userDefinedKey": "16da1334-ff04-4cdf-0363-51c73958c11e",
+        "concept": "Coryphaenoides",
+        "height": 156,
+        "observer": "gsainz",
+        "width": 408,
+        "x": 842,
+        "y": 498,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:23:02.200Z"
+    },
+    {
+        "uuid": "26820f07-cac0-48a0-bfc3-08231b7bfb0e",
+        "userDefinedKey": "01b683ed-b64d-4678-0163-51c73958c11e",
+        "concept": "Asteroidea",
+        "height": 26,
+        "observer": "yolov5",
+        "width": 35,
+        "x": 929,
+        "y": 88,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:23:02.200Z"
+    },
+    {
+        "uuid": "ed8f24f8-5336-42b5-8f40-df1842e1c3e9",
+        "userDefinedKey": "f68aa725-2109-4a7f-ff62-51c73958c11e",
+        "concept": "Ophiuroidea",
+        "height": 39,
+        "observer": "yolov5",
+        "width": 41,
+        "x": 1360,
+        "y": 917,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:23:02.200Z"
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "610ee49c-12d1-480e-b2f6-2e0c67ad730b",
+        "userDefinedKey": "f97e8fa2-0edd-46f0-7864-cd6f3c58c11e",
+        "concept": "Holothuroidea",
+        "height": 55,
+        "observer": "yolov5",
+        "width": 40,
+        "x": 1005,
+        "y": 412,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:46.702Z"
+    },
+    {
+        "uuid": "d7dd9a71-08af-4ac1-8443-e249589caf73",
+        "userDefinedKey": "103edc39-820f-4e96-a26e-822d23e6d11e",
+        "concept": "Coryphaenoides acrolepis-filifer complex",
+        "height": 191,
+        "observer": "eburton",
+        "width": 102,
+        "x": 349,
+        "y": 660,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:46.702Z"
+    },
+    {
+        "uuid": "05f487af-40ef-4acd-9dcb-ad2c2811ce1b",
+        "userDefinedKey": "42a46a95-2f6f-4fed-7464-cd6f3c58c11e",
+        "concept": "Holothuroidea",
+        "height": 46,
+        "observer": "yolov5",
+        "width": 39,
+        "x": 1161,
+        "y": 553,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:46.702Z"
+    },
+    {
+        "uuid": "407f09b6-ba91-4624-83d6-80faf33dcc09",
+        "userDefinedKey": "3c57b275-714a-4ff7-7264-cd6f3c58c11e",
+        "concept": "Crinoidea",
+        "height": 122,
+        "observer": "yolov5",
+        "width": 72,
+        "x": 1848,
+        "y": 668,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:46.702Z"
+    },
+    {
+        "uuid": "cf3074f1-4359-4e26-a8cf-1c0996bc86b0",
+        "userDefinedKey": "7a052601-e76d-43d2-7064-cd6f3c58c11e",
+        "concept": "Ophiuroidea",
+        "height": 39,
+        "observer": "yolov5",
+        "width": 48,
+        "x": 1702,
+        "y": 240,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:46.702Z"
+    }
+]

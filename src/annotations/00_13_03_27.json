@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "e89dbef3-0e5c-4965-ae9c-27c8113687fe",
+        "userDefinedKey": "fbdb55cd-b95b-4333-d260-2d483358c11e",
+        "concept": "Hormathiidae",
+        "height": 27,
+        "observer": "lonny",
+        "width": 29,
+        "x": 162,
+        "y": 67,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:19.894Z"
+    },
+    {
+        "uuid": "f55b7870-9220-4f7e-97d8-a6ec4095c819",
+        "userDefinedKey": "9a430a0c-b0a9-4278-c860-2d483358c11e",
+        "concept": "Ophiuroidea",
+        "height": 21,
+        "observer": "yolov5",
+        "width": 26,
+        "x": 543,
+        "y": 165,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:19.894Z"
+    },
+    {
+        "uuid": "64253d1d-2f5a-4307-9273-d16cef64eec6",
+        "userDefinedKey": "9033229f-d68e-4be1-ce60-2d483358c11e",
+        "concept": "Hormathiidae",
+        "height": 30,
+        "observer": "lonny",
+        "width": 35,
+        "x": 433,
+        "y": 88,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:19.894Z"
+    },
+    {
+        "uuid": "b7c7309b-671b-4534-ab58-2d207027e1d5",
+        "userDefinedKey": "ee0591c1-25dc-47a0-d060-2d483358c11e",
+        "concept": "Ophiuroidea",
+        "height": 20,
+        "observer": "yolov5",
+        "width": 24,
+        "x": 551,
+        "y": 240,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:19.894Z"
+    },
+    {
+        "uuid": "57b5efbd-858b-409d-b715-f2e24bf9aa21",
+        "userDefinedKey": "f48df338-72b7-466d-cc60-2d483358c11e",
+        "concept": "Actiniaria",
+        "height": 20,
+        "observer": "yolov5",
+        "width": 37,
+        "x": 252,
+        "y": 62,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:19.894Z"
+    }
+]

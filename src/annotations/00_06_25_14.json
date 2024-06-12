@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "677fbb4e-7d6c-41fe-a2d3-2b01941050fb",
+        "userDefinedKey": "e70e8497-15f2-4b4d-646a-2b363358c11e",
+        "concept": "Ophiuroidea",
+        "height": 27,
+        "observer": "yolov5",
+        "width": 35,
+        "x": 232,
+        "y": 130,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:22:32.220Z"
+    },
+    {
+        "uuid": "b5948526-437d-4401-ae67-ceacbe7d5cd3",
+        "userDefinedKey": "872a0a00-1bec-4f88-1168-6cc8c18ed41e",
+        "concept": "Paralomis",
+        "height": 165,
+        "observer": "lonny",
+        "width": 230,
+        "x": 181,
+        "y": 205,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:22:32.220Z"
+    },
+    {
+        "uuid": "d7d6f9cc-92bf-4ef3-b431-a3df6311e35f",
+        "userDefinedKey": "7c3c1df2-c527-4c92-e06f-f9f5c08ed41e",
+        "concept": "Paralomis verrilli",
+        "height": 78,
+        "observer": "lonny",
+        "width": 114,
+        "x": 251,
+        "y": 252,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:22:32.220Z"
+    },
+    {
+        "uuid": "9f72d43d-e80c-4728-9426-667001eee3a7",
+        "userDefinedKey": "652ea174-e2dc-47b4-6a6a-2b363358c11e",
+        "concept": "Ceriantharia",
+        "height": 30,
+        "observer": "yolov5",
+        "width": 39,
+        "x": 506,
+        "y": 256,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:22:32.220Z"
+    }
+]

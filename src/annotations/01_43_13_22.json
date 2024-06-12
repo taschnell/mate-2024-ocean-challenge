@@ -1,0 +1,93 @@
+[
+    {
+        "uuid": "625ff23b-7b2f-4844-9a4c-4c0b1e13d42b",
+        "userDefinedKey": "8d4ebf63-631d-42aa-9e66-34811f58c11e",
+        "concept": "Actiniaria",
+        "height": 46,
+        "observer": "yolov5",
+        "width": 54,
+        "x": 1297,
+        "y": 92,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:40.487Z"
+    },
+    {
+        "uuid": "5d87bf40-a9e6-48eb-99d5-913d763fdc9f",
+        "userDefinedKey": "78e65d79-95f0-4a40-9666-34811f58c11e",
+        "concept": "Actiniaria",
+        "height": 56,
+        "observer": "yolov5",
+        "width": 56,
+        "x": 562,
+        "y": 306,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:40.487Z"
+    },
+    {
+        "uuid": "23b025e7-d541-44b0-a53c-44c3b76d4771",
+        "userDefinedKey": "1342ff5d-de90-46f1-a266-34811f58c11e",
+        "concept": "Sebastolobus",
+        "height": 57,
+        "observer": "yolov5",
+        "width": 41,
+        "x": 1560,
+        "y": 83,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:40.487Z"
+    },
+    {
+        "uuid": "4cbabaa9-cefb-4f6d-a54c-a5d0b5a446f9",
+        "userDefinedKey": "a2ad638b-d27a-46cf-a066-34811f58c11e",
+        "concept": "Funiculina-Balticina complex",
+        "height": 113,
+        "observer": "lonny",
+        "width": 100,
+        "x": 1363,
+        "y": 0,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:40.487Z"
+    },
+    {
+        "uuid": "abcaee81-32fd-4d69-ab89-a70c4b047b96",
+        "userDefinedKey": "763fcb1e-f08c-4053-9a66-34811f58c11e",
+        "concept": "Isosicyonis",
+        "height": 44,
+        "observer": "yolov5",
+        "width": 43,
+        "x": 1344,
+        "y": 91,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:40.487Z"
+    },
+    {
+        "uuid": "6cdd9f4a-a2f7-4b8a-83b5-a829c4ee5291",
+        "userDefinedKey": "1e813152-227e-4b5b-9866-34811f58c11e",
+        "concept": "Isosicyonis",
+        "height": 46,
+        "observer": "yolov5",
+        "width": 66,
+        "x": 1299,
+        "y": 92,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:40.487Z"
+    },
+    {
+        "uuid": "a0a3e1ce-dff7-44d8-8922-66a2efd7b150",
+        "userDefinedKey": "5d388f1a-1b01-4a82-9c66-34811f58c11e",
+        "concept": "Ophiuroidea",
+        "height": 52,
+        "observer": "yolov5",
+        "width": 62,
+        "x": 46,
+        "y": 743,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:40.487Z"
+    }
+]

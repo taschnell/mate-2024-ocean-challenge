@@ -1,0 +1,28 @@
+[
+    {
+        "uuid": "dde1215d-979d-40d7-b44d-212d4dcc4aa0",
+        "userDefinedKey": "fc9df818-b7c3-4a6c-176e-e0914e58c11e",
+        "concept": "Octopodidae",
+        "height": 516,
+        "observer": "gsainz",
+        "width": 514,
+        "x": 501,
+        "y": 347,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:34.179Z"
+    },
+    {
+        "uuid": "94c5de2d-9afd-4924-8e40-cb7ce0f31c3f",
+        "userDefinedKey": "8b86a8fc-aaec-451a-156e-e0914e58c11e",
+        "concept": "Ophiuroidea",
+        "height": 131,
+        "observer": "lonny",
+        "width": 90,
+        "x": 1265,
+        "y": 137,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:34.179Z"
+    }
+]

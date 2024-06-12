@@ -1,0 +1,28 @@
+[
+    {
+        "uuid": "5a96c0ff-847a-4968-a4cc-844dfb353ace",
+        "userDefinedKey": "10807d17-b9bb-423a-006c-4eae83b8a91e",
+        "concept": "Liponema brevicorne",
+        "height": 176,
+        "observer": "linda",
+        "width": 236,
+        "x": 457,
+        "y": 454,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:22:19.696Z"
+    },
+    {
+        "uuid": "09b95cae-b7da-44d8-9ba7-c5a78ed44183",
+        "userDefinedKey": "9efe934c-9e8c-458f-9b6d-67296230bc1e",
+        "concept": "Ophiuroidea",
+        "height": 56,
+        "observer": "gsainz",
+        "width": 55,
+        "x": 282,
+        "y": 505,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:22:19.696Z"
+    }
+]

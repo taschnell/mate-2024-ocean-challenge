@@ -1,0 +1,80 @@
+[
+    {
+        "uuid": "66e5c1aa-56f8-4a9a-a28a-7c0343265401",
+        "userDefinedKey": "8fdfb2ac-6d60-4724-dc62-25117228bb1e",
+        "concept": "Pectinidae",
+        "height": 88,
+        "observer": "gsainz",
+        "width": 104,
+        "x": 279,
+        "y": 661,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:24:42.003Z"
+    },
+    {
+        "uuid": "f3ca5644-8779-4a9e-b298-8ce9f788439f",
+        "userDefinedKey": "8ffc5590-22d3-4170-4669-65617228bb1e",
+        "concept": "Pectinidae",
+        "height": 97,
+        "observer": "gsainz",
+        "width": 88,
+        "x": 667,
+        "y": 67,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:24:42.003Z"
+    },
+    {
+        "uuid": "a0923bdc-9ec6-4af9-845e-ceeb1c0d6e8b",
+        "userDefinedKey": "c3984c31-8651-4395-a56e-4e237128bb1e",
+        "concept": "Actinernus",
+        "height": 264,
+        "observer": "svonthun",
+        "width": 295,
+        "x": 131,
+        "y": 291,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:24:42.004Z"
+    },
+    {
+        "uuid": "b75486d2-3c3e-4101-8931-38d1d9d2ac5b",
+        "userDefinedKey": "f1a6f567-3a95-49ea-2c63-b04c7128bb1e",
+        "concept": "Actinernus",
+        "height": 270,
+        "observer": "svonthun",
+        "width": 439,
+        "x": 519,
+        "y": 675,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:24:42.004Z"
+    },
+    {
+        "uuid": "8db45f93-c2d1-42bb-b348-a911e98f80e3",
+        "userDefinedKey": "75d0f289-3e1b-43a5-2262-945895c4aa1e",
+        "concept": "Pannychia moseleyi",
+        "height": 539,
+        "observer": "svonthun",
+        "width": 500,
+        "x": 1188,
+        "y": 121,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:24:42.004Z"
+    },
+    {
+        "uuid": "007973bc-fb94-4499-ae63-be83a18a138b",
+        "userDefinedKey": "65f7d7b3-0e23-4e43-3e65-e9c37228bb1e",
+        "concept": "Ophiuroidea",
+        "height": 49,
+        "observer": "gsainz",
+        "width": 52,
+        "x": 781,
+        "y": 365,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:24:42.004Z"
+    }
+]

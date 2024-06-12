@@ -1,0 +1,28 @@
+[
+    {
+        "uuid": "46df9ef7-a6b1-4abe-bb36-7b2eee35a5ef",
+        "userDefinedKey": "4f56abdb-e01f-46e1-946e-04659a4abc1e",
+        "concept": "Ophiuroidea",
+        "height": 99,
+        "observer": "gsainz",
+        "width": 79,
+        "x": 559,
+        "y": 182,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:15:48.358Z"
+    },
+    {
+        "uuid": "e0928d3a-f9d1-4770-a090-88589ea81f52",
+        "userDefinedKey": "c9338449-5ddd-457f-ed62-9a54994abc1e",
+        "concept": "Iosactis vagabunda",
+        "height": 382,
+        "observer": "linda",
+        "width": 492,
+        "x": 1166,
+        "y": 539,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:15:48.359Z"
+    }
+]

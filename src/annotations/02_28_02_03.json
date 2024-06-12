@@ -1,0 +1,93 @@
+[
+    {
+        "uuid": "f94c45bc-84d4-420d-80bf-8609341d8112",
+        "userDefinedKey": "668cd62b-dc1b-4dc9-2467-caffa196bc1e",
+        "concept": "Amphipoda",
+        "height": 80,
+        "observer": "linda",
+        "width": 31,
+        "x": 1394,
+        "y": 344,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:15:59.186Z"
+    },
+    {
+        "uuid": "29b81c82-92ff-49ca-bb14-32ac2f7c52e5",
+        "userDefinedKey": "dbadf1a3-06e2-4ebd-6b67-b53aa296bc1e",
+        "concept": "Lyssacinosida sp. 1",
+        "height": 110,
+        "observer": "linda",
+        "width": 81,
+        "x": 655,
+        "y": 627,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:15:59.186Z"
+    },
+    {
+        "uuid": "67fc433e-ee0d-40e0-919a-ebb0d669e34c",
+        "userDefinedKey": "b20fbf80-2869-4f6f-cd6f-e3f8a296bc1e",
+        "concept": "Polychaeta tube",
+        "height": 58,
+        "observer": "gsainz",
+        "width": 44,
+        "x": 227,
+        "y": 942,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:15:59.186Z"
+    },
+    {
+        "uuid": "1784a2be-e156-47ba-adae-212d030ccd55",
+        "userDefinedKey": "b4a4919b-2c08-407d-056d-7a72a296bc1e",
+        "concept": "Lyssacinosida sp. 1",
+        "height": 222,
+        "observer": "linda",
+        "width": 223,
+        "x": 729,
+        "y": 545,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:15:59.186Z"
+    },
+    {
+        "uuid": "f092ac15-cdd6-4344-9075-baff6a48a3b6",
+        "userDefinedKey": "b45a2e46-8a29-4ba5-5566-e860a396bc1e",
+        "concept": "Polychaeta tube",
+        "height": 31,
+        "observer": "gsainz",
+        "width": 88,
+        "x": 1103,
+        "y": 104,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:15:59.186Z"
+    },
+    {
+        "uuid": "abd319bd-e55b-4730-9d57-831eab778df6",
+        "userDefinedKey": "e6aab24c-96f0-42fe-5463-a5c5a196bc1e",
+        "concept": "Ophiuroidea",
+        "height": 66,
+        "observer": "linda",
+        "width": 97,
+        "x": 828,
+        "y": 678,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:15:59.186Z"
+    },
+    {
+        "uuid": "0c703aab-fda8-434a-af12-50b55ea5e386",
+        "userDefinedKey": "59539ccc-c96d-4ff5-ea6c-e57ba196bc1e",
+        "concept": "Benthocodon pedunculata",
+        "height": 66,
+        "observer": "linda",
+        "width": 74,
+        "x": 1535,
+        "y": 160,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:15:59.186Z"
+    }
+]

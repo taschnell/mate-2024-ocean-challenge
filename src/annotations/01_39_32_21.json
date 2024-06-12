@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "540a1e6d-5966-47ee-8c18-3ab089368e1d",
+        "userDefinedKey": "2bff6458-6bc5-49da-3b64-1b6f6658c11e",
+        "concept": "Ophiuroidea",
+        "height": 70,
+        "observer": "gsainz",
+        "width": 67,
+        "x": 1361,
+        "y": 976,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:59.071Z"
+    },
+    {
+        "uuid": "7f9f6a7f-e623-4e9a-a355-7079780f9d86",
+        "userDefinedKey": "29e19bfa-4a25-417d-3f64-1b6f6658c11e",
+        "concept": "Ophiuroidea",
+        "height": 196,
+        "observer": "gsainz",
+        "width": 209,
+        "x": 1082,
+        "y": 774,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:59.071Z"
+    },
+    {
+        "uuid": "2aed353d-287b-4c08-8113-a68f8232de00",
+        "userDefinedKey": "a94f6149-a479-4669-f16c-e3706658c11e",
+        "concept": "Rathbunaster californicus",
+        "height": 178,
+        "observer": "yolov5",
+        "width": 577,
+        "x": 943,
+        "y": 8,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:59.071Z"
+    }
+]

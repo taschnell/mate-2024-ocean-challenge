@@ -1,0 +1,80 @@
+[
+    {
+        "uuid": "d89ea452-5aae-43b8-a9de-f0c0f9ce0393",
+        "userDefinedKey": "08d4ab6b-d7bf-445d-c663-bfb4cec3aa1e",
+        "concept": "Echiura",
+        "height": 134,
+        "observer": "expert-observer",
+        "width": 203,
+        "x": 1626,
+        "y": 615,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:23:10.075Z"
+    },
+    {
+        "uuid": "e620c266-862d-41c3-9410-f62f7f1398e4",
+        "userDefinedKey": "7b21d63b-07e5-4a37-6264-fcb4cec3aa1e",
+        "concept": "Ophiuroidea",
+        "height": 77,
+        "observer": "expert-observer",
+        "width": 81,
+        "x": 1031,
+        "y": 57,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:23:10.075Z"
+    },
+    {
+        "uuid": "f488b8ac-c182-401b-bc40-52bbbd04c130",
+        "userDefinedKey": "af8e1b85-4627-46dc-5a63-d5b4cec3aa1e",
+        "concept": "Ophiuroidea",
+        "height": 99,
+        "observer": "expert-observer",
+        "width": 109,
+        "x": 628,
+        "y": 86,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:23:10.075Z"
+    },
+    {
+        "uuid": "f811c736-df3c-4552-98d5-57b8d875394c",
+        "userDefinedKey": "d6ae080c-9fb8-4702-cf68-27b3cec3aa1e",
+        "concept": "Chionoecetes tanneri",
+        "height": 142,
+        "observer": "linda",
+        "width": 166,
+        "x": 662,
+        "y": 254,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:23:10.076Z"
+    },
+    {
+        "uuid": "884e6428-a047-4fda-b36b-990923f40f20",
+        "userDefinedKey": "3715ba44-4190-4499-d665-0db5cec3aa1e",
+        "concept": "Echiura",
+        "height": 117,
+        "observer": "expert-observer",
+        "width": 107,
+        "x": 927,
+        "y": 637,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:23:10.076Z"
+    },
+    {
+        "uuid": "2f0d4fb2-c8a8-4df8-b91f-d198cdbec3c3",
+        "userDefinedKey": "f2da5032-254f-4872-de6b-e8b4cec3aa1e",
+        "concept": "Ophiuroidea",
+        "height": 109,
+        "observer": "expert-observer",
+        "width": 113,
+        "x": 1528,
+        "y": 281,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:23:10.076Z"
+    }
+]

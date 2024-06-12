@@ -1,0 +1,93 @@
+[
+    {
+        "uuid": "287302c4-be43-4626-89fd-bcc154804bd8",
+        "userDefinedKey": "e51152ca-0169-4e1b-5f6d-7a226458c11e",
+        "concept": "Ophiuroidea",
+        "height": 89,
+        "observer": "yolov5",
+        "width": 90,
+        "x": 82,
+        "y": 163,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:33.467Z"
+    },
+    {
+        "uuid": "2dac2a78-9d2d-42d1-a27e-c6ad6aeb6117",
+        "userDefinedKey": "c222b43f-458f-481b-636d-7a226458c11e",
+        "concept": "Ophiuroidea",
+        "height": 83,
+        "observer": "yolov5",
+        "width": 94,
+        "x": 391,
+        "y": 768,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:33.467Z"
+    },
+    {
+        "uuid": "778a19d8-dc69-4d92-9bf0-2bda8341ec98",
+        "userDefinedKey": "e408a397-d75b-47b5-6b6d-7a226458c11e",
+        "concept": "Actiniaria",
+        "height": 349,
+        "observer": "yolov5",
+        "width": 537,
+        "x": 393,
+        "y": 731,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:33.467Z"
+    },
+    {
+        "uuid": "95bdf52e-0887-4824-8145-c951e9c83864",
+        "userDefinedKey": "7b21b177-09e7-49bb-5069-517a4a87d31e",
+        "concept": "Lillipathes",
+        "height": 990,
+        "observer": "linda",
+        "width": 1165,
+        "x": 746,
+        "y": 6,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:33.467Z"
+    },
+    {
+        "uuid": "c53dc610-6405-4bf1-b929-15543e9e4335",
+        "userDefinedKey": "ec2550ad-df9d-42cb-616d-7a226458c11e",
+        "concept": "Ophiuroidea",
+        "height": 83,
+        "observer": "yolov5",
+        "width": 83,
+        "x": 787,
+        "y": 92,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:33.467Z"
+    },
+    {
+        "uuid": "3b657134-5432-4a22-a983-e3c792d97967",
+        "userDefinedKey": "de24c0ff-aaff-4a5e-676d-7a226458c11e",
+        "concept": "Paralomis multispina",
+        "height": 387,
+        "observer": "lonny",
+        "width": 319,
+        "x": 0,
+        "y": 691,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:33.467Z"
+    },
+    {
+        "uuid": "7567c7d3-dfeb-45fb-877d-bdce16a889ce",
+        "userDefinedKey": "923a35ab-1d20-440a-6d6d-7a226458c11e",
+        "concept": "Ophiuroidea",
+        "height": 89,
+        "observer": "yolov5",
+        "width": 90,
+        "x": 582,
+        "y": 396,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:33.467Z"
+    }
+]

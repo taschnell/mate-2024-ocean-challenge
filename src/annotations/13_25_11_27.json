@@ -1,0 +1,80 @@
+[
+    {
+        "uuid": "85340ccd-0b82-46c8-ab12-f1447a0e7f3d",
+        "userDefinedKey": "19c2b288-5c1b-47cb-4664-3d987a58c11e",
+        "concept": "Crinoidea",
+        "height": 188,
+        "observer": "yolov5",
+        "width": 236,
+        "x": 1281,
+        "y": 496,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:22:32.296Z"
+    },
+    {
+        "uuid": "c6b8d22b-e3d5-4ba0-9113-24ed67a17173",
+        "userDefinedKey": "65514119-853b-48af-606b-3f987a58c11e",
+        "concept": "Porifera",
+        "height": 82,
+        "observer": "yolov5",
+        "width": 93,
+        "x": 1598,
+        "y": 460,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:22:32.296Z"
+    },
+    {
+        "uuid": "93fa64b6-c182-4ba3-9775-053a922d1648",
+        "userDefinedKey": "9d96e840-3b7e-4dd6-646b-3f987a58c11e",
+        "concept": "Crinoidea",
+        "height": 266,
+        "observer": "yolov5",
+        "width": 276,
+        "x": 7,
+        "y": 42,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:22:32.296Z"
+    },
+    {
+        "uuid": "66ffc349-fdf1-4acf-a5c6-8d2810c1028f",
+        "userDefinedKey": "6571889f-fd1a-4664-866d-519b7a58c11e",
+        "concept": "Crinoidea",
+        "height": 195,
+        "observer": "yolov5",
+        "width": 196,
+        "x": 1724,
+        "y": 674,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:22:32.296Z"
+    },
+    {
+        "uuid": "6cd98ddf-339c-4d2a-96b3-1e7f22cc10c4",
+        "userDefinedKey": "5a13483f-2b03-4045-4464-3d987a58c11e",
+        "concept": "Cnemidocarpa",
+        "height": 45,
+        "observer": "yolov5",
+        "width": 43,
+        "x": 237,
+        "y": 974,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:22:32.296Z"
+    },
+    {
+        "uuid": "23981b51-28e0-4807-8b82-59790163e3a9",
+        "userDefinedKey": "11bf56d7-004d-43f2-5c6b-3f987a58c11e",
+        "concept": "Ophiuroidea",
+        "height": 77,
+        "observer": "yolov5",
+        "width": 79,
+        "x": 1589,
+        "y": 781,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:22:32.296Z"
+    }
+]

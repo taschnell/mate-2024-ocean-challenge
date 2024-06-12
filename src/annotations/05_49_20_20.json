@@ -1,0 +1,93 @@
+[
+    {
+        "uuid": "28eeb907-27e8-4878-8222-c91c069747f1",
+        "userDefinedKey": "d5e35e5c-86b5-492f-0264-caa16558c11e",
+        "concept": "Crinoidea",
+        "height": 190,
+        "observer": "yolov5",
+        "width": 206,
+        "x": 1612,
+        "y": 531,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:07.580Z"
+    },
+    {
+        "uuid": "37e48afc-0f52-4416-a491-8171f4c34dca",
+        "userDefinedKey": "4bf697cf-f3af-4866-fe63-caa16558c11e",
+        "concept": "Ophiuroidea",
+        "height": 70,
+        "observer": "yolov5",
+        "width": 71,
+        "x": 1783,
+        "y": 813,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:07.580Z"
+    },
+    {
+        "uuid": "1e485d7a-e98e-4758-ad5d-b549ede1ae08",
+        "userDefinedKey": "eb880a76-e523-4cc4-146b-cca16558c11e",
+        "concept": "Crinoidea",
+        "height": 139,
+        "observer": "yolov5",
+        "width": 172,
+        "x": 1745,
+        "y": 506,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:07.580Z"
+    },
+    {
+        "uuid": "d1cb65d9-0e75-4e2a-ac7b-455d5e3f2e7e",
+        "userDefinedKey": "d35b9f86-634e-483c-fc63-caa16558c11e",
+        "concept": "Actiniaria",
+        "height": 49,
+        "observer": "yolov5",
+        "width": 56,
+        "x": 1775,
+        "y": 665,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:07.584Z"
+    },
+    {
+        "uuid": "5ad1081c-4d2a-40e7-be09-a6ebbc1ceba9",
+        "userDefinedKey": "32677dce-8fc2-4f94-0064-caa16558c11e",
+        "concept": "Lillipathes",
+        "height": 441,
+        "observer": "lonny",
+        "width": 375,
+        "x": 827,
+        "y": 347,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:07.584Z"
+    },
+    {
+        "uuid": "e40a4ea6-9361-4a79-8660-0ec9da642f6a",
+        "userDefinedKey": "141187b4-aa00-4608-9a65-1fa16558c11e",
+        "concept": "Actiniaria",
+        "height": 76,
+        "observer": "yolov5",
+        "width": 84,
+        "x": 1674,
+        "y": 270,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:07.584Z"
+    },
+    {
+        "uuid": "744f2011-3d29-45e2-9ca3-25a60063989b",
+        "userDefinedKey": "f2bc2350-5f9b-4708-166b-cca16558c11e",
+        "concept": "Holothuroidea",
+        "height": 89,
+        "observer": "yolov5",
+        "width": 109,
+        "x": 1672,
+        "y": 103,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:07.584Z"
+    }
+]

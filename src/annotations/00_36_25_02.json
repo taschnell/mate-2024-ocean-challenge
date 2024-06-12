@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "7ab9e638-ce05-4162-80c7-dae9671aa39e",
+        "userDefinedKey": "10ba7230-270d-4ab7-e66f-9e0b3658c11e",
+        "concept": "Ophiuroidea",
+        "height": 67,
+        "observer": "yolov5",
+        "width": 98,
+        "x": 826,
+        "y": 1005,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:22:32.339Z"
+    },
+    {
+        "uuid": "4f5f6aef-1ae7-49a8-9e14-dfb2a973539e",
+        "userDefinedKey": "2c2573d4-01bf-48bb-ea6f-9e0b3658c11e",
+        "concept": "Funiculina",
+        "height": 207,
+        "observer": "yolov5",
+        "width": 360,
+        "x": 8,
+        "y": 636,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:22:32.339Z"
+    },
+    {
+        "uuid": "6a51af91-0c07-41f9-ad6b-a13f4adbab56",
+        "userDefinedKey": "37b6c483-8755-430a-ec6f-9e0b3658c11e",
+        "concept": "Scotoplanes",
+        "height": 209,
+        "observer": "yolov5",
+        "width": 284,
+        "x": 792,
+        "y": 577,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:22:32.339Z"
+    }
+]

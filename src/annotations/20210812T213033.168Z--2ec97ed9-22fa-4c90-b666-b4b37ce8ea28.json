@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "c5c89b07-3cf7-47b9-bd21-b20fde83fe0f",
+        "userDefinedKey": "89b4751d-d3c8-45a7-abed-af322868e456",
+        "concept": "Culeolus",
+        "height": 246,
+        "observer": "lonny",
+        "width": 161,
+        "x": 1207,
+        "y": 415,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:33.381Z"
+    },
+    {
+        "uuid": "e8e4d3eb-dfeb-407e-919c-8795f51d405f",
+        "userDefinedKey": "b56ef0ad-6f14-4acb-a365-1fcec4d7da1e",
+        "concept": "Ophiuroidea",
+        "height": 135,
+        "observer": "lonny",
+        "width": 176,
+        "x": 1367,
+        "y": 632,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:33.381Z"
+    },
+    {
+        "uuid": "91d70a82-6867-4f33-a123-f7af14232b5d",
+        "userDefinedKey": "bc579d04-ca8a-4629-a165-1fcec4d7da1e",
+        "concept": "Ophiuroidea",
+        "height": 132,
+        "observer": "lonny",
+        "width": 167,
+        "x": 659,
+        "y": 500,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:33.381Z"
+    },
+    {
+        "uuid": "36c30cf2-a1b4-4f11-8357-a1cbd3c8b279",
+        "userDefinedKey": "6963c956-78b8-45eb-9f65-1fcec4d7da1e",
+        "concept": "Ceriantharia",
+        "height": 87,
+        "observer": "lonny",
+        "width": 124,
+        "x": 44,
+        "y": 558,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:33.381Z"
+    }
+]

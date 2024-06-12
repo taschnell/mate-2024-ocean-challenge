@@ -1,0 +1,93 @@
+[
+    {
+        "uuid": "e527cd5c-c9e8-4b01-9231-823403be8da1",
+        "userDefinedKey": "73247fbf-77a5-4e84-1768-5dc21e93bd1e",
+        "concept": "Ophiuroidea",
+        "height": 131,
+        "observer": "gsainz",
+        "width": 177,
+        "x": 1424,
+        "y": 636,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:18:00.268Z"
+    },
+    {
+        "uuid": "07844394-ef7c-45df-af07-305202d8c782",
+        "userDefinedKey": "2e912261-ca10-4b9e-e567-88721e93bd1e",
+        "concept": "Liparidae",
+        "height": 121,
+        "observer": "linda",
+        "width": 112,
+        "x": 904,
+        "y": 680,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:18:00.268Z"
+    },
+    {
+        "uuid": "500b1882-dbba-4c72-9485-4b10fbd58679",
+        "userDefinedKey": "7945c3dc-58c5-42ef-3866-3ddd1e93bd1e",
+        "concept": "Ophiuroidea",
+        "height": 96,
+        "observer": "gsainz",
+        "width": 185,
+        "x": 1640,
+        "y": 485,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:18:00.268Z"
+    },
+    {
+        "uuid": "59ebdf50-c31c-4359-8b28-06cc95b4dba9",
+        "userDefinedKey": "6facf94c-a353-426d-be64-25011f93bd1e",
+        "concept": "Ophiuroidea",
+        "height": 149,
+        "observer": "gsainz",
+        "width": 182,
+        "x": 960,
+        "y": 775,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:18:00.268Z"
+    },
+    {
+        "uuid": "510d8b9e-06cb-43b0-bf09-69a8aa8172a5",
+        "userDefinedKey": "28b0ff2d-1574-4172-7665-3f3a1e93bd1e",
+        "concept": "Ophiuroidea",
+        "height": 127,
+        "observer": "gsainz",
+        "width": 132,
+        "x": 176,
+        "y": 689,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:18:00.268Z"
+    },
+    {
+        "uuid": "a17b4e45-6eee-438c-875a-2f69e7b9e542",
+        "userDefinedKey": "902183e9-2e04-4e8c-a66d-4d9c1e93bd1e",
+        "concept": "Ophiuroidea",
+        "height": 107,
+        "observer": "gsainz",
+        "width": 157,
+        "x": 137,
+        "y": 305,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:18:00.268Z"
+    },
+    {
+        "uuid": "6af51476-195f-4d42-bccb-743d033d59cf",
+        "userDefinedKey": "44122966-eba3-4f80-0762-d7ee1d93bd1e",
+        "concept": "Scotoplanes sp. A",
+        "height": 82,
+        "observer": "linda",
+        "width": 120,
+        "x": 419,
+        "y": 584,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:18:00.269Z"
+    }
+]

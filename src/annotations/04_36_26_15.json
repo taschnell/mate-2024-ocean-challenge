@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "8475faad-5283-4f3e-8765-57063e823fc3",
+        "userDefinedKey": "f0ee25d0-b4f4-405c-3666-40713c58c11e",
+        "concept": "Ophiuroidea",
+        "height": 98,
+        "observer": "yolov5",
+        "width": 110,
+        "x": 1097,
+        "y": 166,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:40.487Z"
+    },
+    {
+        "uuid": "e337f562-ee5e-4d2d-bc11-6bf8d72798d0",
+        "userDefinedKey": "1627e0a2-a5e0-4c06-3c66-40713c58c11e",
+        "concept": "Ophiuroidea",
+        "height": 82,
+        "observer": "yolov5",
+        "width": 78,
+        "x": 296,
+        "y": 808,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:40.487Z"
+    },
+    {
+        "uuid": "cbf32d22-fda0-42df-a41b-722fde200723",
+        "userDefinedKey": "45bf13cf-7017-435a-3866-40713c58c11e",
+        "concept": "Ophiuroidea",
+        "height": 154,
+        "observer": "yolov5",
+        "width": 131,
+        "x": 118,
+        "y": 106,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:40.487Z"
+    },
+    {
+        "uuid": "eb2b4586-a405-400e-8abc-874cd0f20526",
+        "userDefinedKey": "12978437-ac88-4dd2-3e66-40713c58c11e",
+        "concept": "Graneledone boreopacifica",
+        "height": 439,
+        "observer": "gsainz",
+        "width": 316,
+        "x": 532,
+        "y": 66,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:40.487Z"
+    },
+    {
+        "uuid": "e987eaa0-42a3-4176-97fd-84b92e4af656",
+        "userDefinedKey": "7394e6c6-3583-4aaf-3a66-40713c58c11e",
+        "concept": "Ophiuroidea",
+        "height": 165,
+        "observer": "yolov5",
+        "width": 156,
+        "x": 1186,
+        "y": 18,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:40.487Z"
+    }
+]

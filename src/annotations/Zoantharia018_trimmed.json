@@ -1,0 +1,52 @@
+[
+    {
+        "uuid": "73b6dfb1-0f37-4182-a8a8-2735336699db",
+        "concept": "Parazoanthidae",
+        "height": 679,
+        "width": 338,
+        "x": 565,
+        "y": 0,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2022-10-31T14:45:51.236Z"
+    },
+    {
+        "uuid": "1b678fa0-08d1-4e60-b830-0273765e94de",
+        "concept": "Anthozoa",
+        "height": 897,
+        "width": 793,
+        "x": 0,
+        "y": 0,
+        "rejected": false,
+        "verified": true,
+        "verifier": "jmferob@gmail.com",
+        "verificationTimestamp": "2023-03-18T01:39:23.555Z",
+        "lastUpdatedTimestamp": "2023-03-18T01:39:39.962Z"
+    },
+    {
+        "uuid": "8df46264-2d91-48ce-a81d-98165f0e1e72",
+        "concept": "Ophiuroidea",
+        "height": 217,
+        "width": 76,
+        "x": 52,
+        "y": 65,
+        "rejected": false,
+        "verified": true,
+        "verifier": "jmferob@gmail.com",
+        "verificationTimestamp": "2023-03-18T01:38:57.696Z",
+        "lastUpdatedTimestamp": "2023-03-18T01:39:39.963Z"
+    },
+    {
+        "uuid": "4df3cb2f-79c9-446d-bf56-7d0016a464e0",
+        "concept": "Opiuroidea",
+        "height": 385,
+        "width": 234,
+        "x": 109,
+        "y": 514,
+        "rejected": false,
+        "verified": true,
+        "verifier": "jmferob@gmail.com",
+        "verificationTimestamp": "2023-03-18T01:38:37.298Z",
+        "lastUpdatedTimestamp": "2023-03-18T01:39:39.965Z"
+    }
+]

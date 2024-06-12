@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "884c3506-13ce-4230-88f6-f68ea2f5df29",
+        "userDefinedKey": "8ad78c98-ed0d-4a94-066b-97179714b71e",
+        "concept": "Ophiuroidea",
+        "height": 83,
+        "observer": "gsainz",
+        "width": 90,
+        "x": 862,
+        "y": 988,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:26:41.522Z"
+    },
+    {
+        "uuid": "e25819d9-b1b3-4536-b9b7-326e496efb08",
+        "userDefinedKey": "df6abac8-fb9f-4de6-8763-02568667b61e",
+        "concept": "Psychrolutes phrictus",
+        "height": 490,
+        "observer": "docricketts",
+        "width": 933,
+        "x": 93,
+        "y": 355,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:26:41.522Z"
+    },
+    {
+        "uuid": "8e5cd233-b1b9-4293-adaf-c83acb81431a",
+        "userDefinedKey": "6ca2a618-a8f8-4442-2163-11a69614b71e",
+        "concept": "Holothuroidea",
+        "height": 61,
+        "observer": "gsainz",
+        "width": 136,
+        "x": 1416,
+        "y": 211,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:26:41.522Z"
+    },
+    {
+        "uuid": "8e617979-6d7a-41ac-8c64-6c8e4962ba5f",
+        "userDefinedKey": "27d92aa9-23cf-4b13-a163-85b68667b61e",
+        "concept": "Coryphaenoides",
+        "height": 219,
+        "observer": "lonny",
+        "width": 502,
+        "x": 1408,
+        "y": 614,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:26:41.523Z"
+    }
+]

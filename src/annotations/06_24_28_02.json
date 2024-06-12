@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "c1e963fb-5792-4241-b82e-53b3dee39eed",
+        "userDefinedKey": "8601c62c-6581-4024-6766-d61c5158c11e",
+        "concept": "Ophiuroidea",
+        "height": 106,
+        "observer": "yolov5",
+        "width": 108,
+        "x": 335,
+        "y": 103,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:41.209Z"
+    },
+    {
+        "uuid": "62657b9a-366e-462b-8ee7-51ef79915764",
+        "userDefinedKey": "ffd633da-440c-4992-6566-d61c5158c11e",
+        "concept": "Galatheoidea",
+        "height": 46,
+        "observer": "yolov5",
+        "width": 70,
+        "x": 1691,
+        "y": 22,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:41.209Z"
+    },
+    {
+        "uuid": "3287acc7-b903-44de-988a-d05625fb128a",
+        "userDefinedKey": "312536a0-6601-4e83-6966-d61c5158c11e",
+        "concept": "Delectopecten",
+        "height": 46,
+        "observer": "gsainz",
+        "width": 45,
+        "x": 289,
+        "y": 516,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:41.209Z"
+    },
+    {
+        "uuid": "b3fbfae6-c71c-4e7b-84a1-a5deaba2b882",
+        "userDefinedKey": "54194fc9-4f8a-47e0-6b66-d61c5158c11e",
+        "concept": "Cancridae sp. 1",
+        "height": 547,
+        "observer": "gsainz",
+        "width": 675,
+        "x": 499,
+        "y": 527,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:41.209Z"
+    }
+]

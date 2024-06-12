@@ -1,0 +1,80 @@
+[
+    {
+        "uuid": "38884a8f-c136-424d-be09-52e35e36aa3a",
+        "userDefinedKey": "637ae4bd-99ed-461f-0862-aa875958c11e",
+        "concept": "Caridea",
+        "height": 84,
+        "observer": "yolov5",
+        "width": 62,
+        "x": 1858,
+        "y": 937,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:41.426Z"
+    },
+    {
+        "uuid": "532760c5-3c12-4f18-b9df-7b203b9fe830",
+        "userDefinedKey": "5693859d-9f32-4cc2-0c62-aa875958c11e",
+        "concept": "Zoantharia",
+        "height": 38,
+        "observer": "yolov5",
+        "width": 36,
+        "x": 974,
+        "y": 614,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:41.426Z"
+    },
+    {
+        "uuid": "fed64271-9a66-4b16-9b1f-8375a2bbe6f0",
+        "userDefinedKey": "4a04f202-3f62-4677-1062-aa875958c11e",
+        "concept": "Zoantharia",
+        "height": 38,
+        "observer": "yolov5",
+        "width": 31,
+        "x": 986,
+        "y": 535,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:41.426Z"
+    },
+    {
+        "uuid": "de5557a4-b7ef-43d8-b6ad-9ddb10fc8aff",
+        "userDefinedKey": "f6a0b7ff-c446-4fe0-1462-aa875958c11e",
+        "concept": "Ophiuroidea",
+        "height": 148,
+        "observer": "yolov5",
+        "width": 159,
+        "x": 1755,
+        "y": 574,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:41.426Z"
+    },
+    {
+        "uuid": "1974fe6c-4a0d-41e4-9e60-052f3f214183",
+        "userDefinedKey": "d49bd865-335e-47b4-0a62-aa875958c11e",
+        "concept": "Zoantharia",
+        "height": 30,
+        "observer": "yolov5",
+        "width": 31,
+        "x": 1073,
+        "y": 411,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:41.426Z"
+    },
+    {
+        "uuid": "cd7e16c3-a3ac-45d9-84bb-4a43b3a8fdc0",
+        "userDefinedKey": "ae4e276d-0c55-4212-0e62-aa875958c11e",
+        "concept": "Zoantharia",
+        "height": 33,
+        "observer": "yolov5",
+        "width": 30,
+        "x": 895,
+        "y": 629,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:41.426Z"
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "58a7ad76-82fe-44f5-9756-109e3d4db8b1",
+        "userDefinedKey": "a23fd8fa-ab25-43dc-486b-c2e98108d31e",
+        "concept": "Cladorhizidae",
+        "height": 973,
+        "observer": "linda",
+        "width": 242,
+        "x": 491,
+        "y": 24,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:30.342Z"
+    },
+    {
+        "uuid": "e54dee87-3915-4106-b170-33f1d06bf25f",
+        "userDefinedKey": "7f47e6be-3fb5-4f82-cf61-e87b4158c11e",
+        "concept": "Ophiuroidea",
+        "height": 157,
+        "observer": "gsainz",
+        "width": 139,
+        "x": 552,
+        "y": 584,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:30.342Z"
+    },
+    {
+        "uuid": "6960f0a4-9267-4f5d-b6c6-981ff330d963",
+        "userDefinedKey": "36cf47d0-b7a5-4db0-cb61-e87b4158c11e",
+        "concept": "Ophiuroidea",
+        "height": 124,
+        "observer": "yolov5",
+        "width": 122,
+        "x": 509,
+        "y": 399,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:30.345Z"
+    }
+]

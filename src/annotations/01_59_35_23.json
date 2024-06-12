@@ -1,0 +1,80 @@
+[
+    {
+        "uuid": "7832c06c-39fb-46fd-bf69-e0562a47da19",
+        "userDefinedKey": "7e29defe-c872-42f7-6966-c1f46458c11e",
+        "concept": "Akoya platinum",
+        "height": 38,
+        "observer": "yolov5",
+        "width": 40,
+        "x": 1652,
+        "y": 314,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.821Z"
+    },
+    {
+        "uuid": "2d716ff0-02ca-4ec2-bc42-4716760c7f24",
+        "userDefinedKey": "a97f4b29-cd41-4b6c-6566-c1f46458c11e",
+        "concept": "Ophiuroidea",
+        "height": 117,
+        "observer": "yolov5",
+        "width": 104,
+        "x": 1816,
+        "y": 900,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.821Z"
+    },
+    {
+        "uuid": "27f55bc1-d018-4158-bbc6-243781b17574",
+        "userDefinedKey": "23d71a9f-4631-4049-6766-c1f46458c11e",
+        "concept": "Ophiuroidea",
+        "height": 58,
+        "observer": "yolov5",
+        "width": 74,
+        "x": 1497,
+        "y": 1015,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.821Z"
+    },
+    {
+        "uuid": "3f620486-3d5f-45d6-ba5f-4cbf703d9a4f",
+        "userDefinedKey": "78d6c73f-29af-457b-6f66-c1f46458c11e",
+        "concept": "Dipsacaster",
+        "height": 304,
+        "observer": "gsainz",
+        "width": 446,
+        "x": 191,
+        "y": 639,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.821Z"
+    },
+    {
+        "uuid": "93d2daa2-9878-4e8d-bf62-07c9ace70a83",
+        "userDefinedKey": "899d3c82-3022-4ab0-6b66-c1f46458c11e",
+        "concept": "Asteroidea",
+        "height": 64,
+        "observer": "yolov5",
+        "width": 80,
+        "x": 844,
+        "y": 479,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.821Z"
+    },
+    {
+        "uuid": "077a1650-2800-4bde-a34b-dd620f4ac295",
+        "userDefinedKey": "35c0f983-1fda-41c5-6d66-c1f46458c11e",
+        "concept": "Psolus squamatus",
+        "height": 255,
+        "observer": "yolov5",
+        "width": 273,
+        "x": 802,
+        "y": 58,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.821Z"
+    }
+]

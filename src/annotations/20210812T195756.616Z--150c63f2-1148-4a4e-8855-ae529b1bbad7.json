@@ -1,0 +1,80 @@
+[
+    {
+        "uuid": "739deff3-f5ee-47d4-ab35-157860ab4f31",
+        "userDefinedKey": "9566c705-83ae-4cb1-8b60-587de8ccda1e",
+        "concept": "Tromikosoma panamense",
+        "height": 102,
+        "observer": "lonny",
+        "width": 128,
+        "x": 297,
+        "y": 511,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:13.387Z"
+    },
+    {
+        "uuid": "2cb02d1d-9d5e-416e-822b-3bab76c90653",
+        "userDefinedKey": "d1d59459-e8e3-42ac-8560-587de8ccda1e",
+        "concept": "Ophiuroidea",
+        "height": 77,
+        "observer": "lonny",
+        "width": 99,
+        "x": 263,
+        "y": 824,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:13.387Z"
+    },
+    {
+        "uuid": "3ba75f0d-8866-4240-ab2a-26f661b26bbd",
+        "userDefinedKey": "b72a0ca8-596f-4d76-8160-587de8ccda1e",
+        "concept": "Mysida",
+        "height": 31,
+        "observer": "lonny",
+        "width": 62,
+        "x": 412,
+        "y": 713,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:13.387Z"
+    },
+    {
+        "uuid": "a0b074d1-4035-4422-a71f-9479b6519d78",
+        "userDefinedKey": "f58bfa95-976c-46e9-8360-587de8ccda1e",
+        "concept": "Ophiuroidea",
+        "height": 83,
+        "observer": "lonny",
+        "width": 91,
+        "x": 542,
+        "y": 767,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:13.387Z"
+    },
+    {
+        "uuid": "0d25e10c-7861-4a64-a5b6-cdec0b6c30be",
+        "userDefinedKey": "a42b6f68-2e7b-489a-8760-587de8ccda1e",
+        "concept": "Ophiuroidea",
+        "height": 60,
+        "observer": "lonny",
+        "width": 73,
+        "x": 638,
+        "y": 66,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:13.387Z"
+    },
+    {
+        "uuid": "19a13699-d16e-4c69-b3f4-489992934d68",
+        "userDefinedKey": "29655793-a5c9-49f7-8960-587de8ccda1e",
+        "concept": "Ophiuroidea",
+        "height": 58,
+        "observer": "lonny",
+        "width": 73,
+        "x": 449,
+        "y": 454,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:13.387Z"
+    }
+]

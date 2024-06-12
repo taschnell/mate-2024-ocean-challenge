@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "b694ae6d-db05-4342-8983-b4f4a83b385e",
+        "userDefinedKey": "1853e625-d814-4b04-c362-a2806a58c11e",
+        "concept": "Ophiuroidea",
+        "height": 85,
+        "observer": "yolov5",
+        "width": 91,
+        "x": 371,
+        "y": 754,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:23:19.807Z"
+    },
+    {
+        "uuid": "c9d9fe18-a8a9-4bc6-9f07-29c5b5f6cf02",
+        "userDefinedKey": "9ebb6ce3-e9de-4297-c562-a2806a58c11e",
+        "concept": "Porifera",
+        "height": 428,
+        "observer": "yolov5",
+        "width": 376,
+        "x": 906,
+        "y": 518,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:23:19.807Z"
+    },
+    {
+        "uuid": "213f2da1-634a-499f-9696-f18f2b1e2913",
+        "userDefinedKey": "3b2876f8-1e29-4f53-c162-a2806a58c11e",
+        "concept": "Thenea muricata",
+        "height": 137,
+        "observer": "lonny",
+        "width": 156,
+        "x": 811,
+        "y": 108,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:23:19.807Z"
+    }
+]

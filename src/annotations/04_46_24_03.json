@@ -1,0 +1,28 @@
+[
+    {
+        "uuid": "ffdee8bd-7929-4ab6-8125-a0812854ad87",
+        "userDefinedKey": "eee1c54d-c260-45e6-7b67-d8cddc7bb11e",
+        "concept": "Ophiuroidea",
+        "height": 127,
+        "observer": "lonny",
+        "width": 196,
+        "x": 502,
+        "y": 184,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:28:08.062Z"
+    },
+    {
+        "uuid": "5587b6f7-9a07-4f48-9225-88f35f5784f4",
+        "userDefinedKey": "b752b58f-6dfa-4786-2c60-7272dc7bb11e",
+        "concept": "Lycodes diapterus",
+        "height": 204,
+        "observer": "linda",
+        "width": 203,
+        "x": 977,
+        "y": 720,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:28:08.062Z"
+    }
+]

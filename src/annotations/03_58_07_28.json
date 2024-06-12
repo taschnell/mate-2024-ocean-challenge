@@ -1,0 +1,93 @@
+[
+    {
+        "uuid": "dd439e3a-7c2d-4271-a6f3-db3c3b8ad221",
+        "userDefinedKey": "db835fe1-73b8-4fcb-c06a-904a6958c11e",
+        "concept": "Cnemidocarpa",
+        "height": 62,
+        "observer": "yolov5",
+        "width": 45,
+        "x": 549,
+        "y": 260,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:46.607Z"
+    },
+    {
+        "uuid": "ef72da3c-b82d-4e1d-ae3f-8c1fd46853a0",
+        "userDefinedKey": "2d2e9ddd-145a-4869-c86a-904a6958c11e",
+        "concept": "Crinoidea",
+        "height": 288,
+        "observer": "gsainz",
+        "width": 285,
+        "x": 1,
+        "y": 791,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:46.607Z"
+    },
+    {
+        "uuid": "42273c1c-3464-4d8b-84ec-4ad4ffbe02cb",
+        "userDefinedKey": "a193f9cd-b7ac-4e8c-bc6a-904a6958c11e",
+        "concept": "Ophiuroidea",
+        "height": 66,
+        "observer": "yolov5",
+        "width": 68,
+        "x": 657,
+        "y": 903,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:46.607Z"
+    },
+    {
+        "uuid": "fcd38873-9211-42e2-b031-3a75e6a32c7d",
+        "userDefinedKey": "93875838-a4a2-491a-c66a-904a6958c11e",
+        "concept": "Swiftia kofoidi",
+        "height": 135,
+        "observer": "yolov5",
+        "width": 270,
+        "x": 1503,
+        "y": 619,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:46.607Z"
+    },
+    {
+        "uuid": "f1e38425-c638-4348-8269-8a34c3982376",
+        "userDefinedKey": "0cfb20d3-2092-480e-ca6a-904a6958c11e",
+        "concept": "Anoplopoma fimbria",
+        "height": 684,
+        "observer": "lonny",
+        "width": 910,
+        "x": 263,
+        "y": 276,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:46.607Z"
+    },
+    {
+        "uuid": "96921e3a-92db-4cf6-b707-f0b345557ca2",
+        "userDefinedKey": "aec74a80-f390-465b-c46a-904a6958c11e",
+        "concept": "Ophiuroidea",
+        "height": 115,
+        "observer": "yolov5",
+        "width": 141,
+        "x": 259,
+        "y": 343,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:46.607Z"
+    },
+    {
+        "uuid": "3ce44cc4-5c42-4d87-a64c-dc9559691e93",
+        "userDefinedKey": "e1cd7548-5d5b-4bc4-ba6a-904a6958c11e",
+        "concept": "Porifera",
+        "height": 63,
+        "observer": "yolov5",
+        "width": 59,
+        "x": 600,
+        "y": 395,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:46.607Z"
+    }
+]

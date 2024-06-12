@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "de06fb90-46f1-4f9f-a81c-d40402637577",
+        "userDefinedKey": "de4f62bc-c431-47a7-3364-28597d58c11e",
+        "concept": "Lithodidae",
+        "height": 610,
+        "observer": "gsainz",
+        "width": 1105,
+        "x": 14,
+        "y": 463,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:13.576Z"
+    },
+    {
+        "uuid": "ccd0c36d-f0d6-4540-bd0c-076bed347ff0",
+        "userDefinedKey": "c6c67688-75d0-45fb-3164-28597d58c11e",
+        "concept": "Farrea",
+        "height": 890,
+        "observer": "gsainz",
+        "width": 1865,
+        "x": 39,
+        "y": 163,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:13.576Z"
+    },
+    {
+        "uuid": "1bcf9b6e-63f7-4257-8bca-8bebe0cd7814",
+        "userDefinedKey": "7f4f181e-6007-49c7-2f64-28597d58c11e",
+        "concept": "Ophiuroidea",
+        "height": 59,
+        "observer": "yolov5",
+        "width": 76,
+        "x": 639,
+        "y": 10,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:13.576Z"
+    }
+]

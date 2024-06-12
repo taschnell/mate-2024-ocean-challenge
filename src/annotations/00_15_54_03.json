@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "eb323a1a-c330-4cd1-9708-784572e704c8",
+        "userDefinedKey": "19389cc5-aab2-46ae-5563-cd0594c3aa1e",
+        "concept": "Ophiuroidea",
+        "height": 31,
+        "observer": "master@mbari.org",
+        "width": 26,
+        "x": 551,
+        "y": 439,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:41:14.750Z"
+    },
+    {
+        "uuid": "8ca520f1-b08d-4072-a54e-c99c525269e5",
+        "userDefinedKey": "73f936dd-7ec2-432b-7160-ab0594c3aa1e",
+        "concept": "Ophiuroidea",
+        "height": 27,
+        "observer": "master@mbari.org",
+        "width": 25,
+        "x": 309,
+        "y": 130,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:41:14.752Z"
+    },
+    {
+        "uuid": "21fbe2a3-6161-442f-bfe9-3bc9f69fead5",
+        "userDefinedKey": "34184f88-fa1e-4797-0961-e80594c3aa1e",
+        "concept": "Ophiuroidea",
+        "height": 45,
+        "observer": "master@mbari.org",
+        "width": 49,
+        "x": 349,
+        "y": 435,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:41:14.761Z"
+    },
+    {
+        "uuid": "a474884f-2dec-4c09-829f-44f01badcdb8",
+        "userDefinedKey": "3eb0259c-1889-4cbc-e26c-520494c3aa1e",
+        "concept": "Bathyraja trachura",
+        "height": 172,
+        "observer": "master@mbari.org",
+        "width": 154,
+        "x": 146,
+        "y": 266,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:41:14.761Z"
+    }
+]

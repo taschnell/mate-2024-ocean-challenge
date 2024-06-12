@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "d86751c6-1627-432f-9bea-c7bec36208b4",
+        "userDefinedKey": "77ffbca2-acdc-4127-ef67-af60b4d7da1e",
+        "concept": "Ceriantharia",
+        "height": 75,
+        "observer": "lonny",
+        "width": 77,
+        "x": 657,
+        "y": 767,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:36.504Z"
+    },
+    {
+        "uuid": "e35e35f8-b904-433f-9164-00b5e278eaf4",
+        "userDefinedKey": "c459e936-bb6c-4795-f167-af60b4d7da1e",
+        "concept": "Ophiuroidea",
+        "height": 107,
+        "observer": "lonny",
+        "width": 109,
+        "x": 482,
+        "y": 339,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:36.504Z"
+    },
+    {
+        "uuid": "d986f3fb-7209-4350-b795-aa9d39fe8b35",
+        "userDefinedKey": "71b89bcf-2532-4573-076f-b160b4d7da1e",
+        "concept": "Crinoidea",
+        "height": 124,
+        "observer": "lemon",
+        "width": 142,
+        "x": 1136,
+        "y": 589,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:36.504Z"
+    },
+    {
+        "uuid": "bab475bd-cc54-4aa5-9a27-771e1c251584",
+        "userDefinedKey": "35221c32-7085-48d8-f367-af60b4d7da1e",
+        "concept": "Ophiuroidea",
+        "height": 138,
+        "observer": "lonny",
+        "width": 154,
+        "x": 1766,
+        "y": 772,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:36.504Z"
+    },
+    {
+        "uuid": "6944b7ba-965a-435b-9600-fc7ed919dd16",
+        "userDefinedKey": "24d978db-f8ac-4140-056f-b160b4d7da1e",
+        "concept": "Ophiuroidea",
+        "height": 135,
+        "observer": "lonny",
+        "width": 156,
+        "x": 1725,
+        "y": 240,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:36.504Z"
+    }
+]

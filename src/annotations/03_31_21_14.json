@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "cadbfa7e-2b24-444d-a4ba-d56d4375951d",
+        "userDefinedKey": "7b1e23ae-ad86-41d8-ff6f-5f853a58c11e",
+        "concept": "Ophiuroidea",
+        "height": 148,
+        "observer": "yolov5",
+        "width": 204,
+        "x": 478,
+        "y": 83,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:33.448Z"
+    },
+    {
+        "uuid": "75d8dff5-4c91-4eaf-bc1a-ed0b6f2167d7",
+        "userDefinedKey": "b0e9acca-06df-40b5-0160-60853a58c11e",
+        "concept": "Aeolidia",
+        "height": 73,
+        "observer": "lonny",
+        "width": 111,
+        "x": 1191,
+        "y": 719,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:33.448Z"
+    },
+    {
+        "uuid": "8e47fe44-63d2-4bfc-a66c-cad299561db9",
+        "userDefinedKey": "aff6fe52-3bfb-4daa-fd6f-5f853a58c11e",
+        "concept": "Ophiuroidea",
+        "height": 117,
+        "observer": "yolov5",
+        "width": 112,
+        "x": 1,
+        "y": 374,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:33.448Z"
+    },
+    {
+        "uuid": "2f759030-2fdf-48c4-b896-d2d999482a41",
+        "userDefinedKey": "255aa70d-da38-4451-fb6f-5f853a58c11e",
+        "concept": "Ophiuroidea",
+        "height": 59,
+        "observer": "yolov5",
+        "width": 85,
+        "x": 704,
+        "y": 355,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:33.449Z"
+    },
+    {
+        "uuid": "8fc93171-a3b6-4974-aca1-f9a0b9cff6d9",
+        "userDefinedKey": "8b91628a-da1c-4602-0360-60853a58c11e",
+        "concept": "Scotoplanes",
+        "height": 246,
+        "observer": "yolov5",
+        "width": 203,
+        "x": 580,
+        "y": 396,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:33.449Z"
+    }
+]

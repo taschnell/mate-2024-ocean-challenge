@@ -1,0 +1,28 @@
+[
+    {
+        "uuid": "8be2b50e-a5b6-48e3-a45a-01183b2b265c",
+        "userDefinedKey": "35c8b8e3-598d-4f46-c467-eb003948bd1e",
+        "concept": "Peniagone sp. 2",
+        "height": 257,
+        "observer": "linda",
+        "width": 279,
+        "x": 676,
+        "y": 508,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:27:24.469Z"
+    },
+    {
+        "uuid": "a51c7abb-3507-4a08-b9de-e61b1f5baedb",
+        "userDefinedKey": "ec501fe3-8a07-47fa-4363-0c3c3948bd1e",
+        "concept": "Ophiuroidea",
+        "height": 232,
+        "observer": "linda",
+        "width": 299,
+        "x": 1233,
+        "y": 397,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:27:24.469Z"
+    }
+]

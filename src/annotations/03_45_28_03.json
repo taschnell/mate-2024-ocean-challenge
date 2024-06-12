@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "d246b81c-6d6d-4b9e-b90d-fca48d1c9fb5",
+        "userDefinedKey": "e8873322-9117-4e88-c161-adee7698d21e",
+        "concept": "Porifera",
+        "height": 90,
+        "observer": "lonny",
+        "width": 124,
+        "x": 1676,
+        "y": 717,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:23:19.759Z"
+    },
+    {
+        "uuid": "2369f2e9-4c30-4847-883a-43ff5b2cd9ca",
+        "userDefinedKey": "17b24051-f8e2-47ee-3362-52455158c11e",
+        "concept": "Asteroidea",
+        "height": 86,
+        "observer": "gsainz",
+        "width": 95,
+        "x": 1400,
+        "y": 673,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:23:19.759Z"
+    },
+    {
+        "uuid": "9946f712-638e-4d81-a159-e35c483ee733",
+        "userDefinedKey": "18803493-421e-46f1-3762-52455158c11e",
+        "concept": "Porifera",
+        "height": 238,
+        "observer": "lonny",
+        "width": 148,
+        "x": 1683,
+        "y": 89,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:23:19.759Z"
+    },
+    {
+        "uuid": "7839a011-013f-4609-baf4-cef404238391",
+        "userDefinedKey": "cc3cc877-4222-4091-0567-4ac65a98d21e",
+        "concept": "Ophiuroidea",
+        "height": 88,
+        "observer": "linda",
+        "width": 84,
+        "x": 1091,
+        "y": 961,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:23:19.759Z"
+    },
+    {
+        "uuid": "1fa4f005-9f5e-4796-af42-40d48c29df02",
+        "userDefinedKey": "4b2740e6-ebe9-498d-4262-c6367798d21e",
+        "concept": "Porifera",
+        "height": 135,
+        "observer": "linda",
+        "width": 202,
+        "x": 407,
+        "y": 903,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:23:19.759Z"
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "71ea6215-f342-422f-bf05-26131929e286",
+        "userDefinedKey": "6c63f2b9-05ac-49aa-ac61-c4245458c11e",
+        "concept": "Actiniaria",
+        "height": 264,
+        "observer": "yolov5",
+        "width": 272,
+        "x": 1428,
+        "y": 484,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:36.497Z"
+    },
+    {
+        "uuid": "83b77c74-4f60-41f3-a17b-a9d701f6915e",
+        "userDefinedKey": "180792ac-e535-4086-5869-f4235458c11e",
+        "concept": "Ophiuroidea",
+        "height": 82,
+        "observer": "yolov5",
+        "width": 72,
+        "x": 1138,
+        "y": 411,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:36.497Z"
+    },
+    {
+        "uuid": "42195e66-f8f4-45c8-8c33-e92da5a9ae08",
+        "userDefinedKey": "115d6d4f-95ee-4987-5669-f4235458c11e",
+        "concept": "Tunicata",
+        "height": 92,
+        "observer": "yolov5",
+        "width": 95,
+        "x": 905,
+        "y": 202,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:36.497Z"
+    }
+]

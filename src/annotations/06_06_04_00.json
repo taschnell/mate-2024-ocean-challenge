@@ -1,0 +1,93 @@
+[
+    {
+        "uuid": "25257616-2ef7-49ea-9c63-7a2b1c9347c2",
+        "userDefinedKey": "7f766bf5-1dcf-44ee-8b61-e86b5158c11e",
+        "concept": "Staurocalyptus",
+        "height": 433,
+        "observer": "lonny",
+        "width": 137,
+        "x": 1781,
+        "y": 157,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:23:02.200Z"
+    },
+    {
+        "uuid": "b79a128f-4cde-45f0-9604-435ecff8d5f3",
+        "userDefinedKey": "1ab030aa-fc30-4408-8961-e86b5158c11e",
+        "concept": "Hippasteria",
+        "height": 135,
+        "observer": "yolov5",
+        "width": 111,
+        "x": 1243,
+        "y": 653,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:23:02.200Z"
+    },
+    {
+        "uuid": "49d4dff3-c23b-422e-8a7f-0ef8424d972e",
+        "userDefinedKey": "9ce205a1-de44-41c7-8f61-e86b5158c11e",
+        "concept": "Porifera",
+        "height": 151,
+        "observer": "yolov5",
+        "width": 112,
+        "x": 508,
+        "y": 887,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:23:02.200Z"
+    },
+    {
+        "uuid": "2cb7ce08-7917-4f5f-a614-3c38392adccb",
+        "userDefinedKey": "f487c546-c4a1-4727-8161-e86b5158c11e",
+        "concept": "Ophiuroidea",
+        "height": 78,
+        "observer": "yolov5",
+        "width": 66,
+        "x": 269,
+        "y": 570,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:23:02.200Z"
+    },
+    {
+        "uuid": "56ce5707-159b-451e-a4bd-cd387cdd10fd",
+        "userDefinedKey": "c971e914-2989-43f1-9161-e86b5158c11e",
+        "concept": "Heteropolypus ritteri",
+        "height": 366,
+        "observer": "gsainz",
+        "width": 380,
+        "x": 1158,
+        "y": 341,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:23:02.200Z"
+    },
+    {
+        "uuid": "a321979b-8eac-4eee-ae52-ed65bb33ceac",
+        "userDefinedKey": "491c63c5-dc7e-4fb2-8d61-e86b5158c11e",
+        "concept": "Akoya platinum",
+        "height": 74,
+        "observer": "lonny",
+        "width": 85,
+        "x": 79,
+        "y": 437,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:23:02.200Z"
+    },
+    {
+        "uuid": "81a2d4ad-2c52-48ef-a21e-e8724a77ed4e",
+        "userDefinedKey": "bcf8bde3-f7e4-4751-9361-e86b5158c11e",
+        "concept": "Staurocalyptus",
+        "height": 287,
+        "observer": "lonny",
+        "width": 376,
+        "x": 246,
+        "y": 451,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:23:02.200Z"
+    }
+]

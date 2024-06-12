@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "bdb537c3-06af-4366-8a19-9b1158eab59d",
+        "userDefinedKey": "722b283e-c665-44f5-9b6b-987244cbb61e",
+        "concept": "Macrouridae",
+        "height": 170,
+        "observer": "ndgallo",
+        "width": 83,
+        "x": 1340,
+        "y": 685,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:16:23.901Z"
+    },
+    {
+        "uuid": "c9b2336f-671d-4a25-81cc-62e6cbe2e45a",
+        "userDefinedKey": "4b1b4e65-d668-49a2-4065-31ee44cbb61e",
+        "concept": "Galatheoidea",
+        "height": 139,
+        "observer": "gsainz",
+        "width": 135,
+        "x": 795,
+        "y": 546,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:16:23.901Z"
+    },
+    {
+        "uuid": "2ba023dd-c22c-4607-8fc6-451ed1d822ff",
+        "userDefinedKey": "ab51ec56-b72d-459b-bf6c-039245cbb61e",
+        "concept": "Ophiuroidea",
+        "height": 260,
+        "observer": "gsainz",
+        "width": 341,
+        "x": 1569,
+        "y": 571,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:16:23.901Z"
+    }
+]

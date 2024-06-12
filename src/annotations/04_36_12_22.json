@@ -1,0 +1,28 @@
+[
+    {
+        "uuid": "f2164d21-a1b6-4282-8607-960853bc009d",
+        "userDefinedKey": "31127d36-36a9-4466-686b-f8f14c58c11e",
+        "concept": "Ophiuroidea",
+        "height": 68,
+        "observer": "yolov5",
+        "width": 85,
+        "x": 689,
+        "y": 429,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:46.765Z"
+    },
+    {
+        "uuid": "04c9a754-4c8e-47ea-b8c6-5a23c90fe485",
+        "userDefinedKey": "e9d07434-6afe-426b-6a6b-f8f14c58c11e",
+        "concept": "Holothuroidea sp. 3",
+        "height": 157,
+        "observer": "lonny",
+        "width": 272,
+        "x": 850,
+        "y": 795,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:46.765Z"
+    }
+]

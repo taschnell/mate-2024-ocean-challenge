@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "cc5fe02b-e2eb-4b11-ad07-dcbb85e505c8",
+        "userDefinedKey": "b08f58d2-bbd8-446b-6961-812d4e58c11e",
+        "concept": "Ophiuroidea",
+        "height": 109,
+        "observer": "yolov5",
+        "width": 98,
+        "x": 432,
+        "y": 75,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:07.909Z"
+    },
+    {
+        "uuid": "a73f3038-263d-409a-9f71-b241bc1563db",
+        "userDefinedKey": "39ce136f-9b38-42b6-6b61-812d4e58c11e",
+        "concept": "Heterocarpus sp. 1",
+        "height": 160,
+        "observer": "lonny",
+        "width": 66,
+        "x": 806,
+        "y": 204,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:07.909Z"
+    },
+    {
+        "uuid": "b367b777-ca77-45f2-8f31-e2cee1e942bc",
+        "userDefinedKey": "9d47ccb4-62a6-46dc-6d61-812d4e58c11e",
+        "concept": "Galatheoidea",
+        "height": 76,
+        "observer": "gsainz",
+        "width": 68,
+        "x": 1590,
+        "y": 918,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:07.909Z"
+    },
+    {
+        "uuid": "aefae589-170d-46d9-9bce-5d655530d90a",
+        "userDefinedKey": "48e1914b-158f-45f1-6761-812d4e58c11e",
+        "concept": "Ophiuroidea",
+        "height": 81,
+        "observer": "yolov5",
+        "width": 85,
+        "x": 943,
+        "y": 624,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:07.909Z"
+    }
+]

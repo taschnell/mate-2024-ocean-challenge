@@ -1,0 +1,78 @@
+[
+    {
+        "uuid": "a00ea5b4-b248-49b3-9bdf-836a4a8ca433",
+        "concept": "Plexauridae",
+        "height": 900,
+        "width": 1594,
+        "x": 5,
+        "y": -2,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2022-10-31T14:45:51.112Z"
+    },
+    {
+        "uuid": "4e837fbb-2501-4bed-aaf2-5959796ce1d1",
+        "concept": "Ophiuroidea",
+        "height": 78,
+        "width": 48,
+        "x": 455,
+        "y": 145,
+        "rejected": false,
+        "verified": true,
+        "verifier": "jmferob@gmail.com",
+        "verificationTimestamp": "2023-03-01T20:13:41.157Z",
+        "lastUpdatedTimestamp": "2023-03-01T20:15:19.814Z"
+    },
+    {
+        "uuid": "8de2338e-ab31-48e1-9c81-bc9f4de701f0",
+        "concept": "Ophiuroidea",
+        "height": 73,
+        "width": 35,
+        "x": 614,
+        "y": 17,
+        "rejected": false,
+        "verified": true,
+        "verifier": "jmferob@gmail.com",
+        "verificationTimestamp": "2023-03-01T20:14:59.415Z",
+        "lastUpdatedTimestamp": "2023-03-01T20:15:19.818Z"
+    },
+    {
+        "uuid": "9d13c505-4029-4144-9568-4e530aad49fd",
+        "concept": "Ophiuroidea",
+        "height": 62,
+        "width": 65,
+        "x": 317,
+        "y": 511,
+        "rejected": false,
+        "verified": true,
+        "verifier": "jmferob@gmail.com",
+        "verificationTimestamp": "2023-03-01T20:14:37.197Z",
+        "lastUpdatedTimestamp": "2023-03-01T20:15:19.837Z"
+    },
+    {
+        "uuid": "8da99a39-6448-4849-a8d3-1f18e4caf762",
+        "concept": "Ophiuroidea",
+        "height": 57,
+        "width": 72,
+        "x": 632,
+        "y": 118,
+        "rejected": false,
+        "verified": true,
+        "verifier": "jmferob@gmail.com",
+        "verificationTimestamp": "2023-03-01T20:14:02.855Z",
+        "lastUpdatedTimestamp": "2023-03-01T20:15:19.838Z"
+    },
+    {
+        "uuid": "6a915485-87d3-46c4-92bb-86149fee8375",
+        "concept": "Ophiuroidea",
+        "height": 88,
+        "width": 70,
+        "x": 162,
+        "y": 692,
+        "rejected": false,
+        "verified": true,
+        "verifier": "jmferob@gmail.com",
+        "verificationTimestamp": "2023-03-01T20:14:15.819Z",
+        "lastUpdatedTimestamp": "2023-03-01T20:15:19.843Z"
+    }
+]

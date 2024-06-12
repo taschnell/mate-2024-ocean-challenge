@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "4fad833a-9292-4225-9466-124807b5fe5f",
+        "userDefinedKey": "4071ee04-75f1-406c-0562-b153e676d91e",
+        "concept": "Ophiuroidea",
+        "height": 294,
+        "observer": "lonny",
+        "width": 344,
+        "x": 427,
+        "y": 336,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:05.026Z"
+    },
+    {
+        "uuid": "1ec8fb13-3738-4545-9453-060a113613ee",
+        "userDefinedKey": "30bfb43c-8f49-4813-f16a-ae53e676d91e",
+        "concept": "Ptychogastria polaris",
+        "height": 43,
+        "observer": "lonny",
+        "width": 60,
+        "x": 77,
+        "y": 431,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:05.026Z"
+    },
+    {
+        "uuid": "398dda68-4675-4533-8af1-901fa14ee9ce",
+        "userDefinedKey": "ee062906-2373-4d09-0362-b153e676d91e",
+        "concept": "Munnopsidae",
+        "height": 99,
+        "observer": "lonny",
+        "width": 116,
+        "x": 310,
+        "y": 962,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:05.026Z"
+    },
+    {
+        "uuid": "73512ae5-8e99-4250-9102-dbb6f3620247",
+        "userDefinedKey": "b1a1b146-ab7a-4bdc-0762-b153e676d91e",
+        "concept": "Paelopatides confundens",
+        "height": 265,
+        "observer": "lonny",
+        "width": 151,
+        "x": 1769,
+        "y": 711,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:05.026Z"
+    }
+]

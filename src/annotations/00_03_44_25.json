@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "d2416a7d-1e0d-4b03-8c24-1bae696d5ecd",
+        "userDefinedKey": "e0796205-4258-4ca6-c26c-e0335158c11e",
+        "concept": "Ophiuroidea",
+        "height": 100,
+        "observer": "yolov5",
+        "width": 128,
+        "x": 1773,
+        "y": 815,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:00.162Z"
+    },
+    {
+        "uuid": "c4287c0a-dee8-4d26-974e-541433e508d0",
+        "userDefinedKey": "a8f7e7bb-7040-4403-1464-89345158c11e",
+        "concept": "Ophiuroidea",
+        "height": 92,
+        "observer": "yolov5",
+        "width": 93,
+        "x": 1397,
+        "y": 972,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:00.162Z"
+    },
+    {
+        "uuid": "f0680560-adca-4433-89f9-ca7cb37259fc",
+        "userDefinedKey": "e56c4533-63dd-4891-c06c-e0335158c11e",
+        "concept": "Anthozoa",
+        "height": 76,
+        "observer": "gsainz",
+        "width": 81,
+        "x": 855,
+        "y": 548,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:00.162Z"
+    },
+    {
+        "uuid": "44d53441-ab63-422e-83ab-1a7f5566ff70",
+        "userDefinedKey": "fabacb17-2707-4229-be6c-e0335158c11e",
+        "concept": "Ophiuroidea",
+        "height": 92,
+        "observer": "yolov5",
+        "width": 110,
+        "x": 427,
+        "y": 929,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:00.162Z"
+    }
+]

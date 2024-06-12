@@ -1,0 +1,80 @@
+[
+    {
+        "uuid": "c966adf4-99d1-41c6-abb5-62c825621db9",
+        "userDefinedKey": "65e8a1f3-a579-4d41-106d-92ca8a4abc1e",
+        "concept": "Ophiuroidea",
+        "height": 38,
+        "observer": "gsainz",
+        "width": 50,
+        "x": 1319,
+        "y": 419,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:22:36.429Z"
+    },
+    {
+        "uuid": "6453ccf5-5f54-4011-a9cd-47e5648c8444",
+        "userDefinedKey": "6e1d4f61-5811-4d45-9e64-d4e8894abc1e",
+        "concept": "Ophiuroidea",
+        "height": 79,
+        "observer": "gsainz",
+        "width": 69,
+        "x": 1388,
+        "y": 880,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:22:36.429Z"
+    },
+    {
+        "uuid": "7c8342db-dbef-46b3-a3ab-cd210163bf93",
+        "userDefinedKey": "ecd01b34-544c-41ab-cf67-8aa48a4abc1e",
+        "concept": "Ophiuroidea",
+        "height": 37,
+        "observer": "gsainz",
+        "width": 31,
+        "x": 636,
+        "y": 539,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:22:36.429Z"
+    },
+    {
+        "uuid": "4bd87156-897a-40be-be85-4d3fc03cc9eb",
+        "userDefinedKey": "25028e35-b3a7-4302-7f69-dc2a8a4abc1e",
+        "concept": "Ophiuroidea",
+        "height": 41,
+        "observer": "gsainz",
+        "width": 54,
+        "x": 1353,
+        "y": 733,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:22:36.429Z"
+    },
+    {
+        "uuid": "eceeb697-18f7-45d7-aedf-3a8dff01ee17",
+        "userDefinedKey": "2e1ad234-18d9-4c76-8167-10578a4abc1e",
+        "concept": "Ophiuroidea",
+        "height": 58,
+        "observer": "gsainz",
+        "width": 44,
+        "x": 384,
+        "y": 985,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:22:36.429Z"
+    },
+    {
+        "uuid": "415816e3-a31a-4d28-85b9-8b39e82674d9",
+        "userDefinedKey": "d7d37ef3-bbf3-4c5d-d064-359a894abc1e",
+        "concept": "Iosactis vagabunda",
+        "height": 140,
+        "observer": "schlin",
+        "width": 162,
+        "x": 875,
+        "y": 819,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:22:36.430Z"
+    }
+]

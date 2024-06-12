@@ -1,0 +1,28 @@
+[
+    {
+        "uuid": "f22a3692-9074-4caa-89e4-d1f64e6e4825",
+        "userDefinedKey": "2f126f80-570d-46f4-9c6b-43c69958c11e",
+        "concept": "Ophiuroidea",
+        "height": 79,
+        "observer": "yolov5",
+        "width": 197,
+        "x": 318,
+        "y": 0,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:23:02.250Z"
+    },
+    {
+        "uuid": "cb526746-6871-4138-81e3-bb349bf19912",
+        "userDefinedKey": "41ea9e43-537c-4f65-9a6b-43c69958c11e",
+        "concept": "Pennatula",
+        "height": 130,
+        "observer": "lonny",
+        "width": 123,
+        "x": 286,
+        "y": 285,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:23:02.250Z"
+    }
+]

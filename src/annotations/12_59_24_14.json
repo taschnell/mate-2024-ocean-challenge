@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "c8b61156-f865-4f06-8712-97fb10ae1d4c",
+        "userDefinedKey": "91cb799e-d31b-4fb3-ad6e-375bfebcb61e",
+        "concept": "Calyptrophora",
+        "height": 339,
+        "observer": "master@mbari.org",
+        "width": 328,
+        "x": 189,
+        "y": 146,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:43:41.951Z"
+    },
+    {
+        "uuid": "606098e9-1db0-48bb-8470-6b2e5cde2a6f",
+        "userDefinedKey": "391c143f-1397-4f45-4b68-67b6fdbcb61e",
+        "concept": "Chrysogorgia monticola",
+        "height": 186,
+        "observer": "master@mbari.org",
+        "width": 206,
+        "x": 88,
+        "y": 108,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:43:41.954Z"
+    },
+    {
+        "uuid": "4f791c6b-27a3-4a05-b38a-19da6e5d0983",
+        "userDefinedKey": "42d43b4a-ac39-4b0f-9c67-8df9fdbcb61e",
+        "concept": "Ophiuroidea",
+        "height": 222,
+        "observer": "master@mbari.org",
+        "width": 188,
+        "x": 10,
+        "y": 261,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:43:41.963Z"
+    }
+]

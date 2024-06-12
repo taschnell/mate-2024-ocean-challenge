@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "383199fe-8836-44e2-aa78-14b5fdf8a513",
+        "userDefinedKey": "0fcb0d5c-f502-4ed6-0d64-96b8aac3aa1e",
+        "concept": "Ophiuroidea",
+        "height": 74,
+        "observer": "master@mbari.org",
+        "width": 77,
+        "x": 635,
+        "y": 380,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:26:05.222Z"
+    },
+    {
+        "uuid": "eefb4e4a-21c0-4f5c-a458-c66803e25ce6",
+        "userDefinedKey": "fa3ea749-8736-420b-1565-bdb8aac3aa1e",
+        "concept": "Ophiuroidea",
+        "height": 57,
+        "observer": "master@mbari.org",
+        "width": 76,
+        "x": 113,
+        "y": 266,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:26:05.230Z"
+    },
+    {
+        "uuid": "a7a2bbc0-77bf-47b0-b769-aff439b07ae0",
+        "userDefinedKey": "b1ecd471-209d-49c9-7964-80b8aac3aa1e",
+        "concept": "Paelopatides confundens",
+        "height": 63,
+        "observer": "master@mbari.org",
+        "width": 66,
+        "x": 2,
+        "y": 108,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:26:05.237Z"
+    },
+    {
+        "uuid": "d9467d85-8566-441b-b75e-98d681b2112a",
+        "userDefinedKey": "b23832fa-c891-4e56-8165-a7b8aac3aa1e",
+        "concept": "Ophiuroidea",
+        "height": 49,
+        "observer": "master@mbari.org",
+        "width": 75,
+        "x": 52,
+        "y": 331,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:26:05.244Z"
+    },
+    {
+        "uuid": "39440af9-2b32-457a-8c57-779b9dce7102",
+        "userDefinedKey": "f99903eb-40c3-4612-1c6e-05b7aac3aa1e",
+        "concept": "Bathyraja cf. microtrachys",
+        "height": 210,
+        "observer": "master@mbari.org",
+        "width": 227,
+        "x": 211,
+        "y": 184,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:26:05.252Z"
+    }
+]

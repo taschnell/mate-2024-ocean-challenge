@@ -1,0 +1,93 @@
+[
+    {
+        "uuid": "67aa5c4c-46a9-48d1-ba1a-d352feac475f",
+        "userDefinedKey": "2b5a8ca3-9d65-4e24-5664-b9b73b58c11e",
+        "concept": "rock",
+        "height": 138,
+        "observer": "lonny",
+        "width": 181,
+        "x": 674,
+        "y": 718,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:02.631Z"
+    },
+    {
+        "uuid": "c7f3bb6b-5d32-4363-92d5-808ed4e852c4",
+        "userDefinedKey": "85520570-a7ca-4c2e-706a-85b63b58c11e",
+        "concept": "Cnemidocarpa",
+        "height": 64,
+        "observer": "gsainz",
+        "width": 146,
+        "x": 1202,
+        "y": 843,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:02.631Z"
+    },
+    {
+        "uuid": "86d1d5b3-c076-42fb-95b1-f5293674a59a",
+        "userDefinedKey": "177cd19a-7847-499e-666a-85b63b58c11e",
+        "concept": "Ophiuroidea",
+        "height": 149,
+        "observer": "gsainz",
+        "width": 175,
+        "x": 990,
+        "y": 582,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:02.631Z"
+    },
+    {
+        "uuid": "59548691-e273-4f58-a279-599b28c4b8bc",
+        "userDefinedKey": "931cefb4-8ce4-40c0-da65-e9cff844d11e",
+        "concept": "Ophiuroidea",
+        "height": 97,
+        "observer": "josi",
+        "width": 76,
+        "x": 1025,
+        "y": 397,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:02.631Z"
+    },
+    {
+        "uuid": "45c965de-36b1-4009-9df7-296acb96a884",
+        "userDefinedKey": "8bd84edd-b1e4-44b5-6a6a-85b63b58c11e",
+        "concept": "Scleractinia",
+        "height": 43,
+        "observer": "yolov5",
+        "width": 48,
+        "x": 587,
+        "y": 886,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:02.631Z"
+    },
+    {
+        "uuid": "4ed45d5e-2d7f-49f7-b907-c29e2cdef535",
+        "userDefinedKey": "45e14f28-2cf8-43e4-5263-83b63b58c11e",
+        "concept": "Cnemidocarpa",
+        "height": 132,
+        "observer": "gsainz",
+        "width": 177,
+        "x": 1056,
+        "y": 114,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:02.631Z"
+    },
+    {
+        "uuid": "392e1e55-48fe-434b-b9ec-920a2d2f729d",
+        "userDefinedKey": "57867269-9800-497b-8e6b-043ef844d11e",
+        "concept": "Cnemidocarpa",
+        "height": 112,
+        "observer": "gsainz",
+        "width": 122,
+        "x": 890,
+        "y": 26,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:02.631Z"
+    }
+]

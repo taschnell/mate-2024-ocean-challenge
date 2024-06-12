@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "f6b833e8-777b-4aec-b8f7-177a71ee1361",
+        "userDefinedKey": "be6d4a22-9bfa-4700-ca6f-1763a058c11e",
+        "concept": "Serpulidae",
+        "height": 15,
+        "observer": "yolov5",
+        "width": 19,
+        "x": 39,
+        "y": 295,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.751Z"
+    },
+    {
+        "uuid": "f1028bfd-9430-4a07-af73-fddac121506c",
+        "userDefinedKey": "4ac0abdc-d4e7-4e3a-d26f-1763a058c11e",
+        "concept": "Asbestopluma",
+        "height": 41,
+        "observer": "yolov5",
+        "width": 30,
+        "x": 86,
+        "y": 222,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.751Z"
+    },
+    {
+        "uuid": "2c6638ca-612e-4000-ba1c-c31d22893362",
+        "userDefinedKey": "1448bc52-e5e5-4087-d06f-1763a058c11e",
+        "concept": "Ophiuroidea",
+        "height": 62,
+        "observer": "yolov5",
+        "width": 64,
+        "x": 321,
+        "y": 161,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.751Z"
+    },
+    {
+        "uuid": "bed68ebe-095c-4c50-a8c9-ca207c68a83b",
+        "userDefinedKey": "b01b15d9-b455-4333-ce6f-1763a058c11e",
+        "concept": "Porifera",
+        "height": 61,
+        "observer": "gsainz",
+        "width": 156,
+        "x": 2,
+        "y": 366,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.751Z"
+    }
+]

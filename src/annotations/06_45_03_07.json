@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "7de2e91d-1e8c-4fe3-a964-dc52ab969036",
+        "userDefinedKey": "09bbb657-3aa2-45c4-fc63-f3f06458c11e",
+        "concept": "Careproctus melanurus",
+        "height": 746,
+        "observer": "lonny",
+        "width": 636,
+        "x": 445,
+        "y": 221,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:31.107Z"
+    },
+    {
+        "uuid": "89c5f9f4-b702-4141-85d8-842aeabed5e1",
+        "userDefinedKey": "dd93939e-29d1-4ac0-fa63-f3f06458c11e",
+        "concept": "Ophiuroidea",
+        "height": 74,
+        "observer": "yolov5",
+        "width": 112,
+        "x": 915,
+        "y": 815,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:31.107Z"
+    },
+    {
+        "uuid": "b9ae9fa8-0814-4dd8-8a48-786aac99f4ca",
+        "userDefinedKey": "e3d19d65-1bef-40af-f863-f3f06458c11e",
+        "concept": "Scleractinia",
+        "height": 145,
+        "observer": "lonny",
+        "width": 172,
+        "x": 1696,
+        "y": 930,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:31.107Z"
+    }
+]

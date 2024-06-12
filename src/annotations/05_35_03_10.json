@@ -1,0 +1,93 @@
+[
+    {
+        "uuid": "6c41c19d-0700-45db-9704-539adabb1476",
+        "userDefinedKey": "11986ac0-9465-4cd0-1a64-44d36558c11e",
+        "concept": "Ophiuroidea",
+        "height": 54,
+        "observer": "yolov5",
+        "width": 84,
+        "x": 1371,
+        "y": 194,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:34.240Z"
+    },
+    {
+        "uuid": "ed81f17c-822b-4d69-afe8-faf2c01ac64a",
+        "userDefinedKey": "7d9730d3-684b-4f87-1864-44d36558c11e",
+        "concept": "Ophiuroidea",
+        "height": 46,
+        "observer": "yolov5",
+        "width": 46,
+        "x": 1036,
+        "y": 274,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:34.240Z"
+    },
+    {
+        "uuid": "f7a86165-72f6-4f76-bcb5-4e3b6f9c5193",
+        "userDefinedKey": "8ab477de-5444-4f56-5e6c-22d56558c11e",
+        "concept": "Crinoidea",
+        "height": 91,
+        "observer": "yolov5",
+        "width": 139,
+        "x": 493,
+        "y": 0,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:34.240Z"
+    },
+    {
+        "uuid": "e43f03b4-20d6-4ef9-9e88-9e45a245954d",
+        "userDefinedKey": "a25c1db0-abbf-4d71-626c-22d56558c11e",
+        "concept": "Ophiuroidea",
+        "height": 78,
+        "observer": "yolov5",
+        "width": 81,
+        "x": 1539,
+        "y": 271,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:34.240Z"
+    },
+    {
+        "uuid": "5e8c3736-74f9-455d-b2ac-00d54cdf3f66",
+        "userDefinedKey": "0c1ea81a-b41c-4210-5c6c-22d56558c11e",
+        "concept": "Ophiuroidea",
+        "height": 43,
+        "observer": "yolov5",
+        "width": 44,
+        "x": 1495,
+        "y": 251,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:34.240Z"
+    },
+    {
+        "uuid": "5ba1cf08-38d3-426d-a2fc-3a46c6315102",
+        "userDefinedKey": "ccba663a-131c-47d8-1664-44d36558c11e",
+        "concept": "Actinopterygii",
+        "height": 44,
+        "observer": "gsainz",
+        "width": 70,
+        "x": 1838,
+        "y": 383,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:34.240Z"
+    },
+    {
+        "uuid": "bf0bcff3-8866-4dbf-818d-930fad92b2f9",
+        "userDefinedKey": "528698b0-aeb2-4071-606c-22d56558c11e",
+        "concept": "Crinoidea",
+        "height": 122,
+        "observer": "yolov5",
+        "width": 141,
+        "x": 322,
+        "y": 35,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:34.240Z"
+    }
+]

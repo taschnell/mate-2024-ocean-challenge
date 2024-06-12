@@ -1,0 +1,28 @@
+[
+    {
+        "uuid": "b4f9c993-6183-491a-b522-71f45f568464",
+        "userDefinedKey": "453c2e76-4be1-47c2-f165-bac8860ab71e",
+        "concept": "Ophiuroidea",
+        "height": 39,
+        "observer": "master@mbari.org",
+        "width": 38,
+        "x": 407,
+        "y": 431,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:40:34.575Z"
+    },
+    {
+        "uuid": "60628321-ecfe-4f91-97ef-62ed6eba7c2e",
+        "userDefinedKey": "54edea7b-5e12-401c-1368-2589860ab71e",
+        "concept": "Synallactidae",
+        "height": 31,
+        "observer": "master@mbari.org",
+        "width": 44,
+        "x": 442,
+        "y": 401,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:40:34.577Z"
+    }
+]

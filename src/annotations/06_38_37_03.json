@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "c53e1c65-3896-483c-9514-381964b21bbf",
+        "userDefinedKey": "fd2d58e9-6fdb-4f54-006a-99965758c11e",
+        "concept": "Porifera",
+        "height": 262,
+        "observer": "yolov5",
+        "width": 438,
+        "x": 1006,
+        "y": 6,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:33.159Z"
+    },
+    {
+        "uuid": "8fb77d24-c341-4d0b-a1c0-f0ce928b92db",
+        "userDefinedKey": "1ebad712-361f-4fdd-066a-99965758c11e",
+        "concept": "Chionoecetes tanneri",
+        "height": 267,
+        "observer": "yolov5",
+        "width": 496,
+        "x": 1114,
+        "y": 813,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:33.159Z"
+    },
+    {
+        "uuid": "1cfe6231-4c35-449b-872c-08292e4f41f8",
+        "userDefinedKey": "ccec4d6a-9a0a-4d23-046a-99965758c11e",
+        "concept": "Actiniaria",
+        "height": 57,
+        "observer": "yolov5",
+        "width": 65,
+        "x": 1220,
+        "y": 748,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:33.159Z"
+    },
+    {
+        "uuid": "c883c9bb-1506-470d-be4e-0c749609b87f",
+        "userDefinedKey": "66103ab3-9b1a-4016-026a-99965758c11e",
+        "concept": "Ophiuroidea",
+        "height": 195,
+        "observer": "yolov5",
+        "width": 155,
+        "x": 48,
+        "y": 469,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:33.159Z"
+    }
+]

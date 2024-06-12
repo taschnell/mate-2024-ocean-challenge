@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "62aa2400-c6de-4f16-93e1-1bc97e389530",
+        "userDefinedKey": "7a35d63c-643e-4351-4b65-c4e71fd8bb1e",
+        "concept": "Actinernus",
+        "height": 69,
+        "observer": "gsainz",
+        "width": 66,
+        "x": 866,
+        "y": 912,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2022-05-24T23:33:47.526Z"
+    },
+    {
+        "uuid": "36b9d400-f858-4a3b-b636-92bc810711bd",
+        "userDefinedKey": "fd61f80f-a442-4c77-cc62-9a0c21d8bb1e",
+        "concept": "Ophiuroidea",
+        "height": 62,
+        "observer": "gsainz",
+        "width": 112,
+        "x": 645,
+        "y": 900,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2022-05-24T23:33:47.526Z"
+    },
+    {
+        "uuid": "6179371d-6a7e-4f84-bf50-fb9005aa20e8",
+        "userDefinedKey": "26998705-7d50-4a91-ba68-d82820d8bb1e",
+        "concept": "Actinernus",
+        "height": 56,
+        "observer": "gsainz",
+        "width": 72,
+        "x": 922,
+        "y": 828,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2022-05-24T23:33:47.526Z"
+    }
+]

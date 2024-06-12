@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "19d30634-0ef3-4c6e-a01c-2313aacbc410",
+        "userDefinedKey": "f83ecb01-7849-462a-1661-09ed5c41bb1e",
+        "concept": "Bathyphellia australis",
+        "height": 115,
+        "observer": "linda",
+        "width": 136,
+        "x": 155,
+        "y": 851,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:21:15.638Z"
+    },
+    {
+        "uuid": "03e057f9-3fe9-4852-88bf-13faa480422b",
+        "userDefinedKey": "d0532515-b827-49ea-7766-11285d41bb1e",
+        "concept": "Tergivelum baldwinae",
+        "height": 307,
+        "observer": "linda",
+        "width": 405,
+        "x": 995,
+        "y": 652,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:21:15.638Z"
+    },
+    {
+        "uuid": "9425d0fb-901a-4c3c-93f7-25a1f97056bc",
+        "userDefinedKey": "28208ab1-86c7-4920-876a-ce805d41bb1e",
+        "concept": "Umbellula sp. 1",
+        "height": 233,
+        "observer": "linda",
+        "width": 358,
+        "x": 400,
+        "y": 154,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:21:15.638Z"
+    },
+    {
+        "uuid": "371cf501-4109-4434-9aac-6125ef989a3f",
+        "userDefinedKey": "64d25a71-50aa-4e5a-f86d-aec65d41bb1e",
+        "concept": "Ophiuroidea",
+        "height": 63,
+        "observer": "linda",
+        "width": 66,
+        "x": 1325,
+        "y": 512,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:21:15.638Z"
+    }
+]

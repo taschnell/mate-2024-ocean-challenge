@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "0d75a23d-87ab-4def-be96-1b3b615398b3",
+        "userDefinedKey": "c962c275-41ce-472a-d26e-07adb5bdae1e",
+        "concept": "Ophiuroidea",
+        "height": 54,
+        "observer": "master@mbari.org",
+        "width": 66,
+        "x": 103,
+        "y": 142,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:36:19.832Z"
+    },
+    {
+        "uuid": "403d4f3e-084e-47bd-ba61-88694e0e9696",
+        "userDefinedKey": "e2d2aef4-4f8f-4e78-c761-e0f0b5bdae1e",
+        "concept": "Ophiuroidea",
+        "height": 35,
+        "observer": "master@mbari.org",
+        "width": 49,
+        "x": 551,
+        "y": 117,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:36:19.840Z"
+    },
+    {
+        "uuid": "d041b204-6d56-4ee1-bbd0-8826ffd6a31f",
+        "userDefinedKey": "61b12843-987b-4afd-4261-661c891faa1e",
+        "concept": "Microstomus pacificus",
+        "height": 146,
+        "observer": "master@mbari.org",
+        "width": 78,
+        "x": 270,
+        "y": 185,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:36:19.840Z"
+    },
+    {
+        "uuid": "9b9cf590-cf77-4dce-b167-12ce60c36536",
+        "userDefinedKey": "fc3e4bd5-d945-42f3-c067-51d1b5bdae1e",
+        "concept": "Ophiuroidea",
+        "height": 47,
+        "observer": "master@mbari.org",
+        "width": 59,
+        "x": 326,
+        "y": 36,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:36:19.846Z"
+    }
+]

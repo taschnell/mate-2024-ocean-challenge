@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "48b25010-66fe-4a6a-b8ca-e02172b39d22",
+        "userDefinedKey": "c547db0b-7729-4891-5261-29bed4d7da1e",
+        "concept": "Pycnogonida",
+        "height": 237,
+        "observer": "lonny",
+        "width": 238,
+        "x": 122,
+        "y": 399,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:46.938Z"
+    },
+    {
+        "uuid": "7cab3976-4ca7-48eb-9a0c-2d42c7d8c3da",
+        "userDefinedKey": "5fc56186-69a2-4752-4c61-29bed4d7da1e",
+        "concept": "Munnopsidae",
+        "height": 114,
+        "observer": "lonny",
+        "width": 122,
+        "x": 1113,
+        "y": 142,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:46.938Z"
+    },
+    {
+        "uuid": "86b7b118-0297-4c53-be96-f0182b26611d",
+        "userDefinedKey": "c8926611-a40f-477b-4e61-29bed4d7da1e",
+        "concept": "Ophiuroidea",
+        "height": 121,
+        "observer": "lonny",
+        "width": 159,
+        "x": 1436,
+        "y": 170,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:46.938Z"
+    },
+    {
+        "uuid": "26a22e03-ce34-49dc-a5f1-3e5b8af67330",
+        "userDefinedKey": "f08af47b-90ea-413a-b0c0-0ac2cff9bfef",
+        "concept": "Asteroidea",
+        "height": 64,
+        "observer": "lonny",
+        "width": 49,
+        "x": 652,
+        "y": 139,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:46.938Z"
+    },
+    {
+        "uuid": "6d72542e-5c36-493f-8c0e-4c7e9028bfd7",
+        "userDefinedKey": "ca85bf35-1333-436d-5061-29bed4d7da1e",
+        "concept": "Ophiuroidea",
+        "height": 116,
+        "observer": "lonny",
+        "width": 98,
+        "x": 0,
+        "y": 489,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:46.938Z"
+    }
+]

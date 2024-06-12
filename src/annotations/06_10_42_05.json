@@ -1,0 +1,28 @@
+[
+    {
+        "uuid": "cbf1d4d3-0697-4301-beab-39efce6a844d",
+        "userDefinedKey": "f8e0c3e9-51f4-46b4-996a-17724e58c11e",
+        "concept": "Ophiuroidea",
+        "height": 77,
+        "observer": "yolov5",
+        "width": 97,
+        "x": 1051,
+        "y": 349,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:07.829Z"
+    },
+    {
+        "uuid": "9c29cdf9-cf78-4fc5-bc4f-a0102bfa798c",
+        "userDefinedKey": "371231c2-aa56-4600-156f-8e714e58c11e",
+        "concept": "Plesionika sp. A",
+        "height": 165,
+        "observer": "gsainz",
+        "width": 255,
+        "x": 410,
+        "y": 210,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:07.829Z"
+    }
+]

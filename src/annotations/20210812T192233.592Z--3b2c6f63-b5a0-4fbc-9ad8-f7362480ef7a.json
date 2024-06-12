@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "bf81dd2e-8e0a-4959-b658-ab4f60539fb6",
+        "userDefinedKey": "307ac7b4-b3d5-44e4-f867-e96f0bccda1e",
+        "concept": "Ophiuroidea",
+        "height": 121,
+        "observer": "lonny",
+        "width": 136,
+        "x": 1022,
+        "y": 70,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:16.674Z"
+    },
+    {
+        "uuid": "fa0a57b2-4926-4bba-a92d-eb80d2dda8f5",
+        "userDefinedKey": "84dd2acd-2756-4383-f667-e96f0bccda1e",
+        "concept": "Cerianthidae",
+        "height": 122,
+        "observer": "lonny",
+        "width": 132,
+        "x": 1316,
+        "y": 108,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:16.674Z"
+    },
+    {
+        "uuid": "662cecb3-73e4-4a90-8d27-3f0c7975c589",
+        "userDefinedKey": "96499d5e-39c0-4374-fa67-e96f0bccda1e",
+        "concept": "Peniagone",
+        "height": 227,
+        "observer": "lonny",
+        "width": 423,
+        "x": 859,
+        "y": 782,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:16.674Z"
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "bb2eb3e2-47b1-4264-8ed1-8c867097cfca",
+        "userDefinedKey": "5e2bf46a-1c2b-4f83-4962-d342f489bc1e",
+        "concept": "Elpidia sp. A",
+        "height": 100,
+        "observer": "linda",
+        "width": 97,
+        "x": 1346,
+        "y": 128,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:25:01.180Z"
+    },
+    {
+        "uuid": "2909638f-d5d9-45b7-aa29-00cee608755e",
+        "userDefinedKey": "642df47a-c1ae-4e88-b06d-2990f389bc1e",
+        "concept": "Benthocodon pedunculata",
+        "height": 55,
+        "observer": "linda",
+        "width": 60,
+        "x": 1625,
+        "y": 660,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:25:01.180Z"
+    },
+    {
+        "uuid": "50630476-1a19-496c-8f49-2f3621096980",
+        "userDefinedKey": "00769c4e-6dc3-4e26-5c69-a297f489bc1e",
+        "concept": "Ophiuroidea",
+        "height": 418,
+        "observer": "linda",
+        "width": 314,
+        "x": 1602,
+        "y": 19,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:25:01.180Z"
+    }
+]

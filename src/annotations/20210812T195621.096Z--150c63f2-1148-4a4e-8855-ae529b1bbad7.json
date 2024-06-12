@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "ba411919-36fd-42b4-b83b-59f589991382",
+        "userDefinedKey": "5bedffe6-b7d0-43bd-1f6e-0d6ddfccda1e",
+        "concept": "Ophiuroidea",
+        "height": 77,
+        "observer": "lonny",
+        "width": 94,
+        "x": 1106,
+        "y": 584,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:59.185Z"
+    },
+    {
+        "uuid": "cd445f54-3835-48e8-80d6-89bc0b507aba",
+        "userDefinedKey": "76a0f27c-55b4-46e4-256e-0d6ddfccda1e",
+        "concept": "Ophiuroidea",
+        "height": 87,
+        "observer": "lonny",
+        "width": 88,
+        "x": 1535,
+        "y": 840,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:59.185Z"
+    },
+    {
+        "uuid": "916ad80e-f299-4705-b4a6-5859b43f79f8",
+        "userDefinedKey": "252d48c5-b443-4b1b-216e-0d6ddfccda1e",
+        "concept": "Ophiuroidea",
+        "height": 81,
+        "observer": "lonny",
+        "width": 92,
+        "x": 1309,
+        "y": 570,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:59.185Z"
+    },
+    {
+        "uuid": "8764798d-0cbf-45d4-9282-627a57859f22",
+        "userDefinedKey": "2aeca003-60d1-491d-236e-0d6ddfccda1e",
+        "concept": "Ophiuroidea",
+        "height": 79,
+        "observer": "lonny",
+        "width": 82,
+        "x": 602,
+        "y": 836,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:59.185Z"
+    },
+    {
+        "uuid": "77141c1b-7b85-4a42-8046-7d0a2ca687a9",
+        "userDefinedKey": "9f464c12-c6da-40b2-1d6e-0d6ddfccda1e",
+        "concept": "Munidopsis",
+        "height": 46,
+        "observer": "lonny",
+        "width": 48,
+        "x": 580,
+        "y": 729,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:59.185Z"
+    }
+]

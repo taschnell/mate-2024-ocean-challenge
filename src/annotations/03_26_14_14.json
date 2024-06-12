@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "c993022c-4a60-4ca7-aadd-7e049d3414df",
+        "userDefinedKey": "e59738a7-3ae9-4334-0b63-9c485358c11e",
+        "concept": "Ophiuroidea",
+        "height": 53,
+        "observer": "yolov5",
+        "width": 61,
+        "x": 1008,
+        "y": 38,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.814Z"
+    },
+    {
+        "uuid": "ea38036c-38b0-478c-b9fa-67bb07f3f2ba",
+        "userDefinedKey": "c87d0f89-6548-42e9-0963-9c485358c11e",
+        "concept": "Cataetyx rubrirostris",
+        "height": 65,
+        "observer": "lonny",
+        "width": 195,
+        "x": 568,
+        "y": 74,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.814Z"
+    },
+    {
+        "uuid": "6f872645-3c8e-4853-b30c-46b66c0be42c",
+        "userDefinedKey": "61b2bdb2-b783-43aa-0563-9c485358c11e",
+        "concept": "Heterocarpus sp. 1",
+        "height": 31,
+        "observer": "lonny",
+        "width": 56,
+        "x": 1238,
+        "y": 8,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.814Z"
+    }
+]

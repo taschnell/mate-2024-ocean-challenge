@@ -1,0 +1,28 @@
+[
+    {
+        "uuid": "4dacf13c-6a6e-422f-8e2c-2e2057e25a23",
+        "userDefinedKey": "4061c1c1-45c6-4577-dd6f-417428a6b61e",
+        "concept": "Lycenchelys",
+        "height": 52,
+        "observer": "linda",
+        "width": 127,
+        "x": 1252,
+        "y": 942,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:16:53.034Z"
+    },
+    {
+        "uuid": "84305ecb-4d65-4716-8d27-19ebf5a98f8e",
+        "userDefinedKey": "993d8cf0-8f58-4ae2-e66c-570029a6b61e",
+        "concept": "Ophiuroidea",
+        "height": 131,
+        "observer": "lonny",
+        "width": 148,
+        "x": 1267,
+        "y": 339,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:16:53.035Z"
+    }
+]

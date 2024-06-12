@@ -1,0 +1,28 @@
+[
+    {
+        "uuid": "efb1c012-c40c-4311-8434-002d9ea2c181",
+        "userDefinedKey": "dc80401f-7f53-4255-9e60-3e3b4d58c11e",
+        "concept": "Glyphocrangon vicaria",
+        "height": 179,
+        "observer": "gsainz",
+        "width": 241,
+        "x": 852,
+        "y": 722,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:22:32.304Z"
+    },
+    {
+        "uuid": "69c69533-0113-420c-a097-4319d0c88ea3",
+        "userDefinedKey": "54e87bff-a506-4c94-a260-3e3b4d58c11e",
+        "concept": "Ophiuroidea",
+        "height": 191,
+        "observer": "yolov5",
+        "width": 256,
+        "x": 954,
+        "y": 258,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:22:32.304Z"
+    }
+]

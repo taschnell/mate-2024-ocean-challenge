@@ -1,0 +1,28 @@
+[
+    {
+        "uuid": "358f60cb-5986-4efa-9b14-96483e5d997b",
+        "userDefinedKey": "66a3caeb-8c2a-4c71-796f-b73a4058c11e",
+        "concept": "Gastropoda",
+        "height": 32,
+        "observer": "yolov5",
+        "width": 42,
+        "x": 1048,
+        "y": 818,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:08.463Z"
+    },
+    {
+        "uuid": "637c865a-8895-4f5c-b931-2c0eb57e0951",
+        "userDefinedKey": "5eea57a2-2445-4b18-776f-b73a4058c11e",
+        "concept": "Ophiuroidea",
+        "height": 52,
+        "observer": "yolov5",
+        "width": 70,
+        "x": 842,
+        "y": 883,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:08.463Z"
+    }
+]

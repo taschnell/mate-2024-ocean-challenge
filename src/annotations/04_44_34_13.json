@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "8eeec558-16a6-40b2-94d6-1d5ec3090b05",
+        "userDefinedKey": "19e92b1d-adce-4292-9666-ee6ccdf8bf1e",
+        "concept": "Ophiuroidea",
+        "height": 82,
+        "observer": "gsainz",
+        "width": 122,
+        "x": 762,
+        "y": 997,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:23:10.399Z"
+    },
+    {
+        "uuid": "eeced719-c9cf-4fc1-8149-af6e6253c608",
+        "userDefinedKey": "ed144903-e23a-4946-e26b-97eaccf8bf1e",
+        "concept": "Pleuronectiformes",
+        "height": 63,
+        "observer": "gsainz",
+        "width": 52,
+        "x": 1031,
+        "y": 433,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:23:10.399Z"
+    },
+    {
+        "uuid": "3d93fccd-254b-45e9-8046-c4f30f72fe15",
+        "userDefinedKey": "ffc1efac-efc2-4b3d-b564-903ecdf8bf1e",
+        "concept": "Ophiuroidea",
+        "height": 93,
+        "observer": "gsainz",
+        "width": 93,
+        "x": 774,
+        "y": 919,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:23:10.399Z"
+    },
+    {
+        "uuid": "6b2c51f2-6a82-4571-8207-0fe75ee6bccc",
+        "userDefinedKey": "2d324d7a-b72c-4964-bf69-e46fccf8bf1e",
+        "concept": "Octopus californicus",
+        "height": 60,
+        "observer": "linda",
+        "width": 84,
+        "x": 316,
+        "y": 767,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:23:10.399Z"
+    },
+    {
+        "uuid": "ae5af0cd-e3e8-4575-81bc-dd5d6355f33d",
+        "userDefinedKey": "b4e787df-a765-4913-e06c-9543ccf8bf1e",
+        "concept": "Parmaturus xaniurus",
+        "height": 122,
+        "observer": "linda",
+        "width": 149,
+        "x": 511,
+        "y": 893,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:23:10.399Z"
+    }
+]

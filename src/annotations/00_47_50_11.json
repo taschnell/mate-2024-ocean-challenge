@@ -1,0 +1,93 @@
+[
+    {
+        "uuid": "baecac54-5034-4d53-a901-57924f6f6e52",
+        "userDefinedKey": "6a4a6012-01ac-4c92-8a67-532a17c5aa1e",
+        "concept": "Ophiuroidea",
+        "height": 22,
+        "observer": "master@mbari.org",
+        "width": 36,
+        "x": 679,
+        "y": 94,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:28:24.591Z"
+    },
+    {
+        "uuid": "cfd93427-ef9f-4c1c-8c62-bbc63a6e31c9",
+        "userDefinedKey": "30f903e7-545b-4cae-fe68-642a17c5aa1e",
+        "concept": "Ophiuroidea",
+        "height": 31,
+        "observer": "master@mbari.org",
+        "width": 43,
+        "x": 654,
+        "y": 124,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:28:24.592Z"
+    },
+    {
+        "uuid": "e5969bdc-3b33-41a7-a808-485b51ebb339",
+        "userDefinedKey": "46b065b9-e909-42bb-2e63-202a17c5aa1e",
+        "concept": "Ophiuroidea",
+        "height": 28,
+        "observer": "master@mbari.org",
+        "width": 41,
+        "x": 185,
+        "y": 166,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:28:24.592Z"
+    },
+    {
+        "uuid": "21f23ec0-06fe-49ef-b2dd-e92609177166",
+        "userDefinedKey": "4f7ec975-f0b0-42ef-c262-362a17c5aa1e",
+        "concept": "Ophiuroidea",
+        "height": 23,
+        "observer": "master@mbari.org",
+        "width": 33,
+        "x": 491,
+        "y": 193,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:28:24.593Z"
+    },
+    {
+        "uuid": "5b57085d-a3a5-4857-b803-026ed5709e22",
+        "userDefinedKey": "23624fa5-a129-427a-266d-442a17c5aa1e",
+        "concept": "Ophiuroidea",
+        "height": 32,
+        "observer": "master@mbari.org",
+        "width": 51,
+        "x": 480,
+        "y": 148,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:28:24.597Z"
+    },
+    {
+        "uuid": "a630eeff-594a-4b2e-a230-e71b88551068",
+        "userDefinedKey": "b6dafcab-236e-4727-726a-752a17c5aa1e",
+        "concept": "Ophiuroidea",
+        "height": 32,
+        "observer": "master@mbari.org",
+        "width": 56,
+        "x": 266,
+        "y": 77,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:28:24.597Z"
+    },
+    {
+        "uuid": "2e5e1dc3-a0d3-4832-a256-f29abb1a7598",
+        "userDefinedKey": "f7398293-a0f9-40cb-c868-3e2617c5aa1e",
+        "concept": "Sebastolobus altivelis",
+        "height": 32,
+        "observer": "master@mbari.org",
+        "width": 68,
+        "x": 518,
+        "y": 238,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:28:24.603Z"
+    }
+]

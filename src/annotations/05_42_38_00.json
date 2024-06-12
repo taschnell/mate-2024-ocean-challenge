@@ -1,0 +1,80 @@
+[
+    {
+        "uuid": "5c7bdaab-5957-4923-af10-9554d27ffc0d",
+        "userDefinedKey": "fd9e21ae-a8ba-4ea1-2f6d-cebe39c5aa1e",
+        "concept": "Sebastolobus altivelis",
+        "height": 112,
+        "observer": "linda",
+        "width": 222,
+        "x": 1049,
+        "y": 713,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:17:18.891Z"
+    },
+    {
+        "uuid": "0c34ad82-4f52-4af6-93f5-5a84df745f33",
+        "userDefinedKey": "f2232ae8-5427-4e10-aa6a-b4c039c5aa1e",
+        "concept": "Ophiuroidea",
+        "height": 99,
+        "observer": "expert-observer",
+        "width": 77,
+        "x": 1470,
+        "y": 53,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:17:18.891Z"
+    },
+    {
+        "uuid": "7c0a20ed-25cd-4836-b1c8-08e4fd9c71a5",
+        "userDefinedKey": "d217fef3-4bb5-418f-8266-d4c039c5aa1e",
+        "concept": "Alternatipathes",
+        "height": 234,
+        "observer": "expert-observer",
+        "width": 260,
+        "x": 1651,
+        "y": 846,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:17:18.891Z"
+    },
+    {
+        "uuid": "a3ab19ce-31e8-42cb-b9b5-2f27977416d1",
+        "userDefinedKey": "0eb955c2-57c1-4560-e660-e3c039c5aa1e",
+        "concept": "Pannychia moseleyi",
+        "height": 141,
+        "observer": "expert-observer",
+        "width": 100,
+        "x": 504,
+        "y": 455,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:17:18.891Z"
+    },
+    {
+        "uuid": "25e0a33a-e671-4eb6-b574-a676f19b45ba",
+        "userDefinedKey": "92aa9fb3-cbf4-4664-0664-9cc039c5aa1e",
+        "concept": "Ophiuroidea",
+        "height": 65,
+        "observer": "expert-observer",
+        "width": 68,
+        "x": 1455,
+        "y": 405,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:17:18.891Z"
+    },
+    {
+        "uuid": "233ab87d-afd2-42da-8334-5ae805a9b779",
+        "userDefinedKey": "5a25e9dc-062c-4e35-1e6c-c5c039c5aa1e",
+        "concept": "Asteroidea",
+        "height": 108,
+        "observer": "expert-observer",
+        "width": 101,
+        "x": 1566,
+        "y": 302,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:17:18.891Z"
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "f6815f9e-53d3-4620-865c-16bac768f8c3",
+        "userDefinedKey": "90d1012d-027d-4baa-7063-370614a7b61e",
+        "concept": "Lycodes diapterus",
+        "height": 94,
+        "observer": "lonny",
+        "width": 299,
+        "x": 1592,
+        "y": 369,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:21:47.305Z"
+    },
+    {
+        "uuid": "d8a15bac-a24f-4981-b7ca-003978dd9b20",
+        "userDefinedKey": "f6e54997-1d2b-410d-ff6b-b9dc14a7b61e",
+        "concept": "Ophiuroidea",
+        "height": 79,
+        "observer": "lonny",
+        "width": 112,
+        "x": 252,
+        "y": 870,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:21:47.305Z"
+    },
+    {
+        "uuid": "7b904d36-a151-492f-b34f-87f3c1561d21",
+        "userDefinedKey": "0c5972e4-848a-43c8-6260-3d7214a7b61e",
+        "concept": "Asteroidea",
+        "height": 164,
+        "observer": "lonny",
+        "width": 172,
+        "x": 1161,
+        "y": 771,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:21:47.305Z"
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "uuid": "e383b4ad-a399-4219-9df2-76b25023e224",
+        "userDefinedKey": "66c048ea-1271-4a43-9e60-0b4f6858c11e",
+        "concept": "Kophobelemnon sp. 1",
+        "height": 52,
+        "observer": "lonny",
+        "width": 49,
+        "x": 1504,
+        "y": 627,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:23:19.869Z"
+    },
+    {
+        "uuid": "f6bb1a7b-93cb-4479-a31a-9fc3054ead02",
+        "userDefinedKey": "8ffa27ba-0027-4d20-ac60-0b4f6858c11e",
+        "concept": "Pennatulacea",
+        "height": 140,
+        "observer": "yolov5",
+        "width": 133,
+        "x": 1783,
+        "y": 198,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:23:19.869Z"
+    },
+    {
+        "uuid": "6e523282-1e4f-40c6-ba65-bdd0b55e2f40",
+        "userDefinedKey": "c87154db-c048-48f8-aa60-0b4f6858c11e",
+        "concept": "Scotoplanes globosa",
+        "height": 58,
+        "observer": "gsainz",
+        "width": 73,
+        "x": 660,
+        "y": 604,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:23:19.869Z"
+    },
+    {
+        "uuid": "54615852-cef5-4987-8d5e-6dc95905b1cf",
+        "userDefinedKey": "2f4906b0-e9e8-4517-a660-0b4f6858c11e",
+        "concept": "Coryphaenoides",
+        "height": 104,
+        "observer": "yolov5",
+        "width": 62,
+        "x": 1157,
+        "y": 565,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:23:19.869Z"
+    },
+    {
+        "uuid": "e5b00009-6500-4713-8888-125119e1a50a",
+        "userDefinedKey": "493b5d53-5fae-42ad-a860-0b4f6858c11e",
+        "concept": "Scotoplanes globosa",
+        "height": 46,
+        "observer": "yolov5",
+        "width": 62,
+        "x": 742,
+        "y": 406,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:23:19.869Z"
+    },
+    {
+        "uuid": "04ea3f49-ef33-493d-9e7d-90785ee3c035",
+        "userDefinedKey": "a48c0839-8006-46bf-a260-0b4f6858c11e",
+        "concept": "Scotoplanes globosa",
+        "height": 42,
+        "observer": "yolov5",
+        "width": 41,
+        "x": 807,
+        "y": 326,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:23:19.869Z"
+    },
+    {
+        "uuid": "1288a460-b374-4eaf-8407-a8401574da95",
+        "userDefinedKey": "9b43ccdd-3dc9-4ea5-9c60-0b4f6858c11e",
+        "concept": "Ophiuroidea",
+        "height": 53,
+        "observer": "yolov5",
+        "width": 71,
+        "x": 1065,
+        "y": 888,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:23:19.869Z"
+    }
+]

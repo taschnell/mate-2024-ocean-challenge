@@ -1,0 +1,80 @@
+[
+    {
+        "uuid": "a540cd42-1d8b-499b-9f42-3159a87a08e9",
+        "userDefinedKey": "a9e6c8b6-a090-4bc9-b26d-e2353a58c11e",
+        "concept": "Crinoidea",
+        "height": 78,
+        "observer": "yolov5",
+        "width": 72,
+        "x": 899,
+        "y": 908,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:40.703Z"
+    },
+    {
+        "uuid": "42343298-d411-44cd-8bf0-119d6c8ede7a",
+        "userDefinedKey": "5817695b-79fd-4e45-b46d-e2353a58c11e",
+        "concept": "Holothuroidea",
+        "height": 42,
+        "observer": "yolov5",
+        "width": 33,
+        "x": 791,
+        "y": 927,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:40.703Z"
+    },
+    {
+        "uuid": "8e923e28-35c6-489c-b7cc-ac31b8578b39",
+        "userDefinedKey": "34789f68-0ec2-4809-b66d-e2353a58c11e",
+        "concept": "Crinoidea",
+        "height": 72,
+        "observer": "yolov5",
+        "width": 75,
+        "x": 540,
+        "y": 866,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:40.703Z"
+    },
+    {
+        "uuid": "a96eeb1b-ec70-422e-9535-806fbbaad722",
+        "userDefinedKey": "41724884-ca70-44cb-b06d-e2353a58c11e",
+        "concept": "Keratoisis",
+        "height": 330,
+        "observer": "yolov5",
+        "width": 309,
+        "x": 1610,
+        "y": 302,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:40.703Z"
+    },
+    {
+        "uuid": "f7e4aeba-99e8-4a22-ae26-fe66dd8275a9",
+        "userDefinedKey": "2ae38faa-546b-4e8c-ae6d-e2353a58c11e",
+        "concept": "Ophiuroidea",
+        "height": 41,
+        "observer": "yolov5",
+        "width": 42,
+        "x": 301,
+        "y": 978,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:40.703Z"
+    },
+    {
+        "uuid": "7f4f68b2-8d3d-4678-b7cd-0f180fb14043",
+        "userDefinedKey": "e4c48556-c039-4c79-b86d-e2353a58c11e",
+        "concept": "Keratoisis",
+        "height": 202,
+        "observer": "yolov5",
+        "width": 177,
+        "x": 1266,
+        "y": 206,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:40.703Z"
+    }
+]

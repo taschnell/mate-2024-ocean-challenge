@@ -1,0 +1,80 @@
+[
+    {
+        "uuid": "9620375c-e1b7-4496-bdca-f566b1762325",
+        "userDefinedKey": "217cbe4f-010b-4a7f-ae6d-b6e5ef1dd11e",
+        "concept": "Asteroidea",
+        "height": 91,
+        "observer": "yolov5",
+        "width": 111,
+        "x": 27,
+        "y": 182,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:30.496Z"
+    },
+    {
+        "uuid": "8806df4b-a73b-4ca8-9443-23af9f804f92",
+        "userDefinedKey": "dee7b628-6a52-4e13-9660-b8205158c11e",
+        "concept": "Asteroidea",
+        "height": 90,
+        "observer": "lonny",
+        "width": 129,
+        "x": 1,
+        "y": 988,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:30.496Z"
+    },
+    {
+        "uuid": "d4b63dcd-c0b2-4104-a3b2-9fe16c032b21",
+        "userDefinedKey": "9e892d07-e8e6-4a74-9c69-1e5def1dd11e",
+        "concept": "Moloha faxoni",
+        "height": 91,
+        "observer": "linda",
+        "width": 89,
+        "x": 947,
+        "y": 805,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:30.496Z"
+    },
+    {
+        "uuid": "4b4f8445-704c-4d7d-b929-e8cff8cc19ca",
+        "userDefinedKey": "1369f188-f63c-48bf-9460-b8205158c11e",
+        "concept": "Ophiuroidea",
+        "height": 82,
+        "observer": "yolov5",
+        "width": 93,
+        "x": 1320,
+        "y": 580,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:30.496Z"
+    },
+    {
+        "uuid": "2b47e917-d20b-49c3-b3fb-4ea8dc564e35",
+        "userDefinedKey": "732b4930-db4b-4cd1-7d6f-c32aef1dd11e",
+        "concept": "Moloha faxoni",
+        "height": 103,
+        "observer": "linda",
+        "width": 128,
+        "x": 1213,
+        "y": 549,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:30.496Z"
+    },
+    {
+        "uuid": "586f11a6-9c6a-4529-bd22-d5ff9fdec8ec",
+        "userDefinedKey": "b9cf39d5-b202-4d41-126b-a2c7ef1dd11e",
+        "concept": "Asteroidea",
+        "height": 88,
+        "observer": "yolov5",
+        "width": 111,
+        "x": 419,
+        "y": 378,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:30.496Z"
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "31df8a40-7932-4b65-a32c-01754ed3faac",
+        "userDefinedKey": "7d998ae1-da0e-4619-f662-08c76358c11e",
+        "concept": "Neptunea-Buccinum Complex",
+        "height": 142,
+        "observer": "gsainz",
+        "width": 96,
+        "x": 506,
+        "y": 600,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:12:51.708Z"
+    },
+    {
+        "uuid": "9bf4cd59-65a1-4542-973b-49d56a54596c",
+        "userDefinedKey": "e08271b6-8cdd-4bed-f462-08c76358c11e",
+        "concept": "Ceriantharia",
+        "height": 43,
+        "observer": "yolov5",
+        "width": 48,
+        "x": 85,
+        "y": 150,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:12:51.708Z"
+    },
+    {
+        "uuid": "b5281693-b088-4d2d-b500-a08fab4d28fc",
+        "userDefinedKey": "f875ea72-f1fb-40ab-ee62-08c76358c11e",
+        "concept": "Ophiuroidea",
+        "height": 61,
+        "observer": "yolov5",
+        "width": 62,
+        "x": 1002,
+        "y": 794,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:12:51.708Z"
+    }
+]

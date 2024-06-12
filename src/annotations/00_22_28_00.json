@@ -1,0 +1,28 @@
+[
+    {
+        "uuid": "59eff116-768d-4279-b45b-fb7e84302675",
+        "userDefinedKey": "3ccdd164-ea6d-4496-c066-ba63c2c3aa1e",
+        "concept": "Ophiuroidea",
+        "height": 134,
+        "observer": "expert-observer",
+        "width": 136,
+        "x": 1733,
+        "y": 847,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:22:03.232Z"
+    },
+    {
+        "uuid": "6417c739-32ff-447b-9236-629786ae6baf",
+        "userDefinedKey": "93e6ad0e-6c6f-4466-3f69-d461c2c3aa1e",
+        "concept": "Chionoecetes tanneri",
+        "height": 164,
+        "observer": "linda",
+        "width": 171,
+        "x": 0,
+        "y": 664,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:22:03.232Z"
+    }
+]

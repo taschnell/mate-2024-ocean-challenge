@@ -1,0 +1,80 @@
+[
+    {
+        "uuid": "8870f70d-c640-4da8-b77f-4950161a5366",
+        "userDefinedKey": "99b6523c-c8e8-4a5f-576f-ff814e58c11e",
+        "concept": "Heterocarpus sp. 1",
+        "height": 93,
+        "observer": "lonny",
+        "width": 118,
+        "x": 1526,
+        "y": 338,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:05.307Z"
+    },
+    {
+        "uuid": "244b0cce-96a4-44b4-9c7c-817bcb48e415",
+        "userDefinedKey": "edff988a-36dc-4eec-4d6f-ff814e58c11e",
+        "concept": "Ophiuroidea",
+        "height": 57,
+        "observer": "gsainz",
+        "width": 47,
+        "x": 305,
+        "y": 715,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:05.307Z"
+    },
+    {
+        "uuid": "492f57cc-a818-4806-ba18-3ce4e3c12579",
+        "userDefinedKey": "518bd98e-2851-42c2-c46c-311597efd21e",
+        "concept": "Heterocarpus sp. 1",
+        "height": 157,
+        "observer": "linda",
+        "width": 100,
+        "x": 1703,
+        "y": 328,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:05.307Z"
+    },
+    {
+        "uuid": "49fdc948-a0b1-463f-b450-92e2d7a1eaa0",
+        "userDefinedKey": "0412c592-14e6-4563-556f-ff814e58c11e",
+        "concept": "Heterocarpus sp. 1",
+        "height": 84,
+        "observer": "gsainz",
+        "width": 67,
+        "x": 799,
+        "y": 355,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:05.307Z"
+    },
+    {
+        "uuid": "4f34ba55-befe-4ec5-a0a2-a77163bdaa67",
+        "userDefinedKey": "b6ef03b8-59af-4269-536f-ff814e58c11e",
+        "concept": "Heterocarpus sp. 1",
+        "height": 93,
+        "observer": "gsainz",
+        "width": 177,
+        "x": 932,
+        "y": 931,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:05.307Z"
+    },
+    {
+        "uuid": "89c1fe98-2dd3-4698-99d2-5bfbd54f3ae9",
+        "userDefinedKey": "d174ccb5-33d3-422c-7562-447b97efd21e",
+        "concept": "Heterocarpus sp. 1",
+        "height": 107,
+        "observer": "gsainz",
+        "width": 72,
+        "x": 1190,
+        "y": 107,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:05.307Z"
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "uuid": "e5c5bb74-b727-47b0-8cd3-0fe7587ef2d7",
+        "userDefinedKey": "606fe9e8-4276-4799-c66a-49377277d91e",
+        "concept": "Paelopatides confundens",
+        "height": 132,
+        "observer": "lonny",
+        "width": 91,
+        "x": 912,
+        "y": 947,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:41.632Z"
+    },
+    {
+        "uuid": "66118013-0a58-4558-8008-7917cd07ff15",
+        "userDefinedKey": "165a2879-1823-4ba2-c26a-49377277d91e",
+        "concept": "Paelopatides confundens",
+        "height": 101,
+        "observer": "lonny",
+        "width": 97,
+        "x": 221,
+        "y": 650,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:41.632Z"
+    },
+    {
+        "uuid": "6d41e479-352f-4aaf-adc9-51ddae1c7c7e",
+        "userDefinedKey": "34b4502c-5cce-4a8e-c46a-49377277d91e",
+        "concept": "Paelopatides confundens",
+        "height": 97,
+        "observer": "lonny",
+        "width": 76,
+        "x": 390,
+        "y": 395,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:41.632Z"
+    },
+    {
+        "uuid": "1ede4f9c-0f2f-4667-ac7d-eebd696a6fa6",
+        "userDefinedKey": "9f34a1cd-7290-4f3b-bc6a-49377277d91e",
+        "concept": "Brisingida",
+        "height": 77,
+        "observer": "lonny",
+        "width": 122,
+        "x": 690,
+        "y": 155,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:41.632Z"
+    },
+    {
+        "uuid": "d16c5e40-251f-4785-bae0-1864efecf766",
+        "userDefinedKey": "92aa9f2a-2daf-4b4e-c86a-49377277d91e",
+        "concept": "Pannychia moseleyi",
+        "height": 85,
+        "observer": "lonny",
+        "width": 173,
+        "x": 1048,
+        "y": 300,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:41.632Z"
+    },
+    {
+        "uuid": "ecf35f54-9ce0-4f58-9e7c-413b87ef8ec7",
+        "userDefinedKey": "e1407d3b-41fc-4c3e-c06a-49377277d91e",
+        "concept": "Ophiuroidea",
+        "height": 79,
+        "observer": "lonny",
+        "width": 80,
+        "x": 1840,
+        "y": 475,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:41.632Z"
+    },
+    {
+        "uuid": "fe98decd-0b9c-4038-ac1a-6929ade11d25",
+        "userDefinedKey": "98559f4b-2cf2-4439-be6a-49377277d91e",
+        "concept": "Ophiuroidea",
+        "height": 90,
+        "observer": "lonny",
+        "width": 129,
+        "x": 257,
+        "y": 379,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:41.632Z"
+    }
+]

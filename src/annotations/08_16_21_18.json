@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "7e03109b-bc4a-445e-916b-49dd446e5bf7",
+        "userDefinedKey": "cdf9ee9f-9aa9-49e5-a361-36903f58c11e",
+        "concept": "Culeolus",
+        "height": 233,
+        "observer": "gsainz",
+        "width": 164,
+        "x": 1755,
+        "y": 785,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:40.783Z"
+    },
+    {
+        "uuid": "bdb44f03-cef7-42fb-b2e1-173e26e2ede9",
+        "userDefinedKey": "c0734e9f-46c3-477c-a961-36903f58c11e",
+        "concept": "Isidella tentaculum",
+        "height": 1059,
+        "observer": "yolov5",
+        "width": 845,
+        "x": 348,
+        "y": 0,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:40.783Z"
+    },
+    {
+        "uuid": "9d4bbb70-64b8-4358-92b1-ed0e5099eb3d",
+        "userDefinedKey": "5cb33123-e207-4dc5-9d61-36903f58c11e",
+        "concept": "Ophiuroidea",
+        "height": 49,
+        "observer": "yolov5",
+        "width": 72,
+        "x": 1111,
+        "y": 1031,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:40.783Z"
+    },
+    {
+        "uuid": "5ba016aa-a70a-44ce-90fb-1648a0b584b0",
+        "userDefinedKey": "f5244a0c-f64d-4665-9b61-36903f58c11e",
+        "concept": "Crinoidea",
+        "height": 96,
+        "observer": "yolov5",
+        "width": 134,
+        "x": 574,
+        "y": 983,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:40.783Z"
+    }
+]

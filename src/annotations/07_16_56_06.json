@@ -1,0 +1,28 @@
+[
+    {
+        "uuid": "76d62d99-d97d-413b-98d6-7e75535e119c",
+        "userDefinedKey": "9dc01fa1-4dad-4b05-5c6e-cd0c7658c11e",
+        "concept": "Ophiuroidea",
+        "height": 298,
+        "observer": "gsainz",
+        "width": 250,
+        "x": 460,
+        "y": 609,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:00.059Z"
+    },
+    {
+        "uuid": "089d860c-c2ff-4066-975f-f8fb24545e47",
+        "userDefinedKey": "1c437f36-91fd-46cf-b268-3ac83200d21e",
+        "concept": "Paragorgiidae",
+        "height": 472,
+        "observer": "linda",
+        "width": 153,
+        "x": 717,
+        "y": 360,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:00.059Z"
+    }
+]

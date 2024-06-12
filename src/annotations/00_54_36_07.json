@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "5504b025-3582-427e-b98f-ff95c0ae3d68",
+        "userDefinedKey": "fdec079b-21ea-4ca3-3a64-c4f40858c11e",
+        "concept": "Ophiuroidea",
+        "height": 32,
+        "observer": "yolov5",
+        "width": 28,
+        "x": 566,
+        "y": 299,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:19.882Z"
+    },
+    {
+        "uuid": "ce891338-b7f4-4952-912b-bfe4132eb0bf",
+        "userDefinedKey": "d2e8099a-fdf9-49d9-a260-21f50858c11e",
+        "concept": "Pennatulacea",
+        "height": 156,
+        "observer": "lonny",
+        "width": 143,
+        "x": 123,
+        "y": 132,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:19.882Z"
+    },
+    {
+        "uuid": "ec1426fc-84e4-4b30-ab2b-96e35ddc4c2b",
+        "userDefinedKey": "388594b7-515b-49b5-3664-c4f40858c11e",
+        "concept": "Ophiuroidea",
+        "height": 26,
+        "observer": "yolov5",
+        "width": 27,
+        "x": 660,
+        "y": 179,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:19.882Z"
+    },
+    {
+        "uuid": "2022e4c1-2591-4614-bfd3-5ea50521b8d9",
+        "userDefinedKey": "86cab348-e0eb-479b-a060-21f50858c11e",
+        "concept": "Ophiuroidea",
+        "height": 30,
+        "observer": "yolov5",
+        "width": 33,
+        "x": 375,
+        "y": 352,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:19.882Z"
+    },
+    {
+        "uuid": "0f73acdb-810a-4c13-bb19-fe31d10357c6",
+        "userDefinedKey": "5dfb2a52-15c5-4d57-3864-c4f40858c11e",
+        "concept": "Psamminidae",
+        "height": 25,
+        "observer": "yolov5",
+        "width": 25,
+        "x": 428,
+        "y": 357,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:19.882Z"
+    }
+]

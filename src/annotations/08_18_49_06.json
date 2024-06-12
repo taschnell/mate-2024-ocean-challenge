@@ -1,0 +1,28 @@
+[
+    {
+        "uuid": "ae64ae35-4939-49c0-b776-d37633735aee",
+        "userDefinedKey": "0c0a21b3-05f8-492d-5b64-88e03958c11e",
+        "concept": "Actiniaria",
+        "height": 242,
+        "observer": "yolov5",
+        "width": 263,
+        "x": 831,
+        "y": 444,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:13.614Z"
+    },
+    {
+        "uuid": "069d8d37-621c-4d1a-9b01-026aaca5b13e",
+        "userDefinedKey": "1c5e20b0-a2fe-46d5-5964-88e03958c11e",
+        "concept": "Ophiuroidea",
+        "height": 101,
+        "observer": "yolov5",
+        "width": 88,
+        "x": 1117,
+        "y": 541,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:13.614Z"
+    }
+]

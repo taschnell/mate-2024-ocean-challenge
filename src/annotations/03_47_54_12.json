@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "cd8bc370-e2f7-4305-9fb6-5bac1ea544cb",
+        "userDefinedKey": "f2863f13-a3cc-4ad5-506e-612c5158c11e",
+        "concept": "Ophiuroidea",
+        "height": 71,
+        "observer": "yolov5",
+        "width": 56,
+        "x": 553,
+        "y": 732,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:25.881Z"
+    },
+    {
+        "uuid": "441cb3b9-01e4-4de6-b0ec-45daf3b62332",
+        "userDefinedKey": "fa623124-c8a1-4b78-5a6e-612c5158c11e",
+        "concept": "Terebellidae",
+        "height": 54,
+        "observer": "gsainz",
+        "width": 60,
+        "x": 595,
+        "y": 485,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:25.881Z"
+    },
+    {
+        "uuid": "aa717198-3579-4106-950d-abe84f3e80d8",
+        "userDefinedKey": "7f6c0c1b-27fa-4b7e-cf6e-b02b7aa0d01e",
+        "concept": "Asteroidea sp. 6",
+        "height": 112,
+        "observer": "linda",
+        "width": 88,
+        "x": 635,
+        "y": 748,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:25.881Z"
+    },
+    {
+        "uuid": "79d69fc0-21f3-4560-adcd-d14f973101b5",
+        "userDefinedKey": "ec476693-b631-411d-606e-612c5158c11e",
+        "concept": "Porifera",
+        "height": 85,
+        "observer": "gsainz",
+        "width": 99,
+        "x": 471,
+        "y": 154,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:25.881Z"
+    },
+    {
+        "uuid": "4549abb7-0e28-4dd3-9ec8-dcdccb5c5c3f",
+        "userDefinedKey": "0c8d29e6-40d5-42e5-4e6e-612c5158c11e",
+        "concept": "Porifera",
+        "height": 54,
+        "observer": "yolov5",
+        "width": 44,
+        "x": 1775,
+        "y": 186,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:25.881Z"
+    }
+]

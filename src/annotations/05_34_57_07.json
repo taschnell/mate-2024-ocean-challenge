@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "fa2c4d3e-fa41-4e70-9da3-e160e9d1ad9d",
+        "userDefinedKey": "78789b28-9f8a-411b-6c62-0b756558c11e",
+        "concept": "Ophiuroidea",
+        "height": 73,
+        "observer": "yolov5",
+        "width": 78,
+        "x": 1321,
+        "y": 481,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:05.016Z"
+    },
+    {
+        "uuid": "708d872b-2371-4d79-a445-14261d2eec68",
+        "userDefinedKey": "aa1f0dca-7318-446a-6e62-0b756558c11e",
+        "concept": "Ophiuroidea",
+        "height": 106,
+        "observer": "yolov5",
+        "width": 107,
+        "x": 1413,
+        "y": 248,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:05.016Z"
+    },
+    {
+        "uuid": "80266bcd-178f-414e-99d7-9e1dfbb4f4d7",
+        "userDefinedKey": "c99db0c0-f0f8-4e13-7262-0b756558c11e",
+        "concept": "Scleractinia",
+        "height": 57,
+        "observer": "gsainz",
+        "width": 64,
+        "x": 1461,
+        "y": 642,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:05.016Z"
+    },
+    {
+        "uuid": "cf7a6455-77ad-4b82-8e78-ef028745cf56",
+        "userDefinedKey": "98871b50-23f3-42c9-7062-0b756558c11e",
+        "concept": "Actiniaria",
+        "height": 96,
+        "observer": "yolov5",
+        "width": 97,
+        "x": 644,
+        "y": 887,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:05.016Z"
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "db02822c-ac46-4d5d-98e4-ba1acdbcf4ac",
+        "userDefinedKey": "436e8b92-062e-4e91-9f62-b4623b58c11e",
+        "concept": "Crinoidea",
+        "height": 142,
+        "observer": "yolov5",
+        "width": 145,
+        "x": 1078,
+        "y": 923,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:12:51.137Z"
+    },
+    {
+        "uuid": "9daeec99-c38b-4dba-95db-2f57f5621ba6",
+        "userDefinedKey": "929bff06-8b9f-4179-a162-b4623b58c11e",
+        "concept": "Holothuroidea",
+        "height": 79,
+        "observer": "gsainz",
+        "width": 47,
+        "x": 1064,
+        "y": 562,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:12:51.137Z"
+    },
+    {
+        "uuid": "95fea66d-d398-4ec2-a800-22b7f6cc714f",
+        "userDefinedKey": "9af9e2fe-f8d3-4a5d-9962-b4623b58c11e",
+        "concept": "Ophiuroidea",
+        "height": 70,
+        "observer": "yolov5",
+        "width": 73,
+        "x": 261,
+        "y": 870,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:12:51.137Z"
+    },
+    {
+        "uuid": "72a3fcf0-b5a7-440d-bdb0-acb5fa704ad0",
+        "userDefinedKey": "1dc14c66-382a-420c-5a69-33039d2ed31e",
+        "concept": "Tunicata",
+        "height": 208,
+        "observer": "linda",
+        "width": 70,
+        "x": 1070,
+        "y": 741,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:12:51.137Z"
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "504f8ab3-aa00-4cec-9507-edbfdd9f166a",
+        "userDefinedKey": "2e72b95e-6d92-45fb-9167-fc245258c11e",
+        "concept": "Gastropoda",
+        "height": 98,
+        "observer": "yolov5",
+        "width": 112,
+        "x": 1277,
+        "y": 307,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:02.686Z"
+    },
+    {
+        "uuid": "536fde42-6112-4b15-bd7b-cadbc911d80e",
+        "userDefinedKey": "59adac9c-b702-4791-8d67-fc245258c11e",
+        "concept": "Ophiuroidea",
+        "height": 115,
+        "observer": "yolov5",
+        "width": 132,
+        "x": 364,
+        "y": 327,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:02.686Z"
+    },
+    {
+        "uuid": "3bb3443c-4d70-44b0-8780-d7aae1ec3238",
+        "userDefinedKey": "825d60f2-6caa-43a0-9367-fc245258c11e",
+        "concept": "Pannychia moseleyi",
+        "height": 104,
+        "observer": "lonny",
+        "width": 160,
+        "x": 1043,
+        "y": 810,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:02.686Z"
+    },
+    {
+        "uuid": "8604fc45-832a-4cdb-aa48-b6596085f3be",
+        "userDefinedKey": "abf51545-73a8-4a3d-3a66-07dc6994d01e",
+        "concept": "Pannychia moseleyi",
+        "height": 57,
+        "observer": "lonny",
+        "width": 56,
+        "x": 3,
+        "y": 14,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:02.686Z"
+    }
+]

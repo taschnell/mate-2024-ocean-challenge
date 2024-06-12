@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "7d22f210-d3ba-48f3-9747-067279436a25",
+        "userDefinedKey": "155c16f6-5037-4254-6d6d-5ff33a7cb91e",
+        "concept": "Ophiuroidea",
+        "height": 67,
+        "observer": "master@mbari.org",
+        "width": 84,
+        "x": 623,
+        "y": 162,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:20:50.987Z"
+    },
+    {
+        "uuid": "210d85fb-aaf3-4515-bdb5-1f3035440ef7",
+        "userDefinedKey": "93a7c63d-828a-4efe-0e61-aca28fc4aa1e",
+        "concept": "Pannychia",
+        "height": 105,
+        "observer": "master@mbari.org",
+        "width": 295,
+        "x": 129,
+        "y": 91,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:20:50.984Z"
+    },
+    {
+        "uuid": "c3f7e2b7-3d49-4973-a290-1fa849ad761e",
+        "userDefinedKey": "02810a22-7ea9-46da-2c6c-b5843a7cb91e",
+        "concept": "Ophiuroidea",
+        "height": 81,
+        "observer": "master@mbari.org",
+        "width": 108,
+        "x": 300,
+        "y": 53,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:20:50.984Z"
+    },
+    {
+        "uuid": "7276e418-9f1e-4815-9628-70d15e25fa4e",
+        "userDefinedKey": "79331972-d291-4057-fc6d-299e3a7cb91e",
+        "concept": "Ophiuroidea",
+        "height": 103,
+        "observer": "master@mbari.org",
+        "width": 110,
+        "x": 485,
+        "y": 93,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:20:50.990Z"
+    },
+    {
+        "uuid": "65e252a7-a6f8-415c-a219-1ddaf1719f2e",
+        "userDefinedKey": "3e089649-5f37-432b-b66d-38c93a7cb91e",
+        "concept": "Ophiuroidea",
+        "height": 104,
+        "observer": "master@mbari.org",
+        "width": 151,
+        "x": 72,
+        "y": 188,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:20:50.990Z"
+    }
+]

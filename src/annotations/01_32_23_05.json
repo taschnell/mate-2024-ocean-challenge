@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "4f517bca-7ca1-43c4-b564-1baba40c4ccc",
+        "userDefinedKey": "43c00ee8-4238-42d3-f76c-5092c6a6b61e",
+        "concept": "Ophiuroidea",
+        "height": 63,
+        "observer": "master@mbari.org",
+        "width": 105,
+        "x": 464,
+        "y": 181,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T16:50:27.233Z"
+    },
+    {
+        "uuid": "aff941f5-188a-4430-ad96-5a43803b0647",
+        "userDefinedKey": "1241fa6c-44e1-482a-df60-05bcc6a6b61e",
+        "concept": "Ophiuroidea",
+        "height": 77,
+        "observer": "master@mbari.org",
+        "width": 91,
+        "x": 568,
+        "y": 4,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T16:50:27.238Z"
+    },
+    {
+        "uuid": "d7ff1940-70ad-4722-a36a-9441949e9270",
+        "userDefinedKey": "5b8302c3-af8a-481c-3c6f-8cf5c5a6b61e",
+        "concept": "Sebastolobus",
+        "height": 41,
+        "observer": "master@mbari.org",
+        "width": 83,
+        "x": 577,
+        "y": 119,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T16:50:27.256Z"
+    },
+    {
+        "uuid": "d871d841-b931-4620-bba9-9d388a46fd75",
+        "userDefinedKey": "195d55c7-ef12-414e-3e62-3955c6a6b61e",
+        "concept": "Ophiuroidea",
+        "height": 87,
+        "observer": "master@mbari.org",
+        "width": 99,
+        "x": 38,
+        "y": 153,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T16:50:27.253Z"
+    },
+    {
+        "uuid": "20e37be2-5b76-478d-99a8-a75b17e97b69",
+        "userDefinedKey": "ae8ee9ad-04f4-46f3-5461-6899c5a6b61e",
+        "concept": "Lycenchelys",
+        "height": 24,
+        "observer": "master@mbari.org",
+        "width": 114,
+        "x": 245,
+        "y": 162,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T16:50:27.250Z"
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "d6d41f6e-4935-4fc4-bd91-973effd840c5",
+        "userDefinedKey": "1c9599c1-d146-4549-5a67-9d8e3c58c11e",
+        "concept": "Tunicata",
+        "height": 130,
+        "observer": "yolov5",
+        "width": 124,
+        "x": 1040,
+        "y": 331,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:41.450Z"
+    },
+    {
+        "uuid": "25fa1cd3-9b4e-411c-a6e4-43d645a4c9ff",
+        "userDefinedKey": "2088be0d-c276-4716-5867-9d8e3c58c11e",
+        "concept": "Tunicata",
+        "height": 128,
+        "observer": "gsainz",
+        "width": 122,
+        "x": 1040,
+        "y": 332,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:41.450Z"
+    },
+    {
+        "uuid": "5f0761f7-ae4a-4170-ab1a-d35a9539e125",
+        "userDefinedKey": "a53dc6d1-e03d-4663-5e67-9d8e3c58c11e",
+        "concept": "Asteroidea",
+        "height": 51,
+        "observer": "yolov5",
+        "width": 54,
+        "x": 24,
+        "y": 610,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:41.450Z"
+    },
+    {
+        "uuid": "64a64670-06d2-4405-8a19-c3581b242c9d",
+        "userDefinedKey": "96b42f8f-18d5-4b2c-5467-9d8e3c58c11e",
+        "concept": "Ophiuroidea",
+        "height": 49,
+        "observer": "yolov5",
+        "width": 54,
+        "x": 370,
+        "y": 380,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:41.450Z"
+    },
+    {
+        "uuid": "49c9fe5d-bf68-452d-952b-b8bc070f45d1",
+        "userDefinedKey": "a30361f8-0e1e-44cd-5c67-9d8e3c58c11e",
+        "concept": "Ophiuroidea",
+        "height": 70,
+        "observer": "yolov5",
+        "width": 81,
+        "x": 1668,
+        "y": 395,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:41.450Z"
+    }
+]

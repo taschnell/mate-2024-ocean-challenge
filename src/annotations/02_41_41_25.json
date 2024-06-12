@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "70f00958-8363-4a90-aa63-a8a42d74a60c",
+        "userDefinedKey": "781b6960-443f-4ce7-0e60-ce2e6758c11e",
+        "concept": "Ophiuroidea",
+        "height": 72,
+        "observer": "yolov5",
+        "width": 81,
+        "x": 469,
+        "y": 840,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:19.743Z"
+    },
+    {
+        "uuid": "25e6adc9-23df-4d24-a519-18ec481fc0cc",
+        "userDefinedKey": "b74d8ba6-bb25-445a-1460-ce2e6758c11e",
+        "concept": "Actiniaria",
+        "height": 81,
+        "observer": "yolov5",
+        "width": 91,
+        "x": 1068,
+        "y": 557,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:19.743Z"
+    },
+    {
+        "uuid": "0290f292-8a9b-4f27-a70e-06b21e862f0c",
+        "userDefinedKey": "f72f29f8-967e-4556-1060-ce2e6758c11e",
+        "concept": "Ophiuroidea",
+        "height": 65,
+        "observer": "yolov5",
+        "width": 79,
+        "x": 955,
+        "y": 795,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:19.743Z"
+    },
+    {
+        "uuid": "2d3691c5-e37e-4d38-bd63-574631c22f5c",
+        "userDefinedKey": "5640d23a-4814-4f56-1260-ce2e6758c11e",
+        "concept": "Ophiuroidea",
+        "height": 59,
+        "observer": "yolov5",
+        "width": 70,
+        "x": 674,
+        "y": 869,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:19.743Z"
+    },
+    {
+        "uuid": "c5371a4a-3f6f-4594-9e95-f284ce111bd3",
+        "userDefinedKey": "305077d6-8603-44d0-0c60-ce2e6758c11e",
+        "concept": "Ophiuroidea",
+        "height": 51,
+        "observer": "yolov5",
+        "width": 62,
+        "x": 644,
+        "y": 812,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:19.743Z"
+    }
+]

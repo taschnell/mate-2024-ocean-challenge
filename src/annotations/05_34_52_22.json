@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "f647d2b8-b8f9-46cc-befe-4432879fd7b6",
+        "userDefinedKey": "fdfb481a-13be-4e88-0661-b6756558c11e",
+        "concept": "Ophiuroidea",
+        "height": 100,
+        "observer": "yolov5",
+        "width": 103,
+        "x": 1413,
+        "y": 252,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:08.262Z"
+    },
+    {
+        "uuid": "ca2aa3f5-1f3a-4643-ae2a-571c86e65757",
+        "userDefinedKey": "59e8ce3a-5d11-4b38-1061-b6756558c11e",
+        "concept": "Actiniaria",
+        "height": 87,
+        "observer": "yolov5",
+        "width": 94,
+        "x": 643,
+        "y": 889,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:08.262Z"
+    },
+    {
+        "uuid": "ecc7eaa3-e6a4-43f0-9807-378d89e63f47",
+        "userDefinedKey": "bcc64650-31b9-4c94-0461-b6756558c11e",
+        "concept": "Ophiuroidea",
+        "height": 101,
+        "observer": "yolov5",
+        "width": 77,
+        "x": 1309,
+        "y": 472,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:08.262Z"
+    },
+    {
+        "uuid": "ddd769cf-1a79-47f4-b2be-b402cbc684f5",
+        "userDefinedKey": "69bc19a2-e6b6-4ad7-0c61-b6756558c11e",
+        "concept": "Scleractinia",
+        "height": 55,
+        "observer": "lonny",
+        "width": 60,
+        "x": 1462,
+        "y": 641,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:08.262Z"
+    },
+    {
+        "uuid": "3dd6e9c3-06ea-440b-a663-0de3330d9f84",
+        "userDefinedKey": "3f275c77-1862-482b-0e61-b6756558c11e",
+        "concept": "manipulator",
+        "height": 407,
+        "observer": "lonny",
+        "width": 413,
+        "x": 1003,
+        "y": 11,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:08.262Z"
+    }
+]

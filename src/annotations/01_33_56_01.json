@@ -1,0 +1,28 @@
+[
+    {
+        "uuid": "d963eb41-5b55-4bab-9a20-1ccd33ee0e8a",
+        "userDefinedKey": "5056db63-3b8e-4490-4a6f-dee61558c11e",
+        "concept": "fabric",
+        "height": 557,
+        "observer": "gsainz",
+        "width": 442,
+        "x": 1410,
+        "y": 22,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:31.215Z"
+    },
+    {
+        "uuid": "655a3e19-6e83-4822-8468-28eea4d2e9c6",
+        "userDefinedKey": "044a0e86-7894-4d88-486f-dee61558c11e",
+        "concept": "Ophiuroidea",
+        "height": 85,
+        "observer": "yolov5",
+        "width": 127,
+        "x": 1462,
+        "y": 680,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:31.215Z"
+    }
+]

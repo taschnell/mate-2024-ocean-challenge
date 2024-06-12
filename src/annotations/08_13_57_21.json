@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "b6135886-30b6-4133-9ef9-894ab402b62c",
+        "userDefinedKey": "2042251f-9212-4909-0f6b-50805158c11e",
+        "concept": "Brachiopoda",
+        "height": 113,
+        "observer": "gsainz",
+        "width": 136,
+        "x": 1000,
+        "y": 961,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.900Z"
+    },
+    {
+        "uuid": "546062f6-11d5-405d-b148-c7ae41cbde14",
+        "userDefinedKey": "9ee711b4-0383-47b8-116b-50805158c11e",
+        "concept": "Ophiuroidea",
+        "height": 82,
+        "observer": "yolov5",
+        "width": 98,
+        "x": 514,
+        "y": 622,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.900Z"
+    },
+    {
+        "uuid": "102caeff-6de0-4d07-9c3f-0b2c630730d1",
+        "userDefinedKey": "fbe5de19-f0b9-4a6b-0d6b-50805158c11e",
+        "concept": "Brachiopoda",
+        "height": 127,
+        "observer": "gsainz",
+        "width": 157,
+        "x": 948,
+        "y": 480,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.900Z"
+    },
+    {
+        "uuid": "bb69811e-c0b9-4779-ad16-93df0dee174c",
+        "userDefinedKey": "23ef2112-cdc5-43aa-2562-53805158c11e",
+        "concept": "Ophiuroidea",
+        "height": 162,
+        "observer": "yolov5",
+        "width": 254,
+        "x": 1389,
+        "y": 633,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.900Z"
+    },
+    {
+        "uuid": "15496ed5-e8fb-4873-9c50-395f72f8b6a4",
+        "userDefinedKey": "9fcbd8d6-bc75-4f83-136b-50805158c11e",
+        "concept": "Galatheoidea",
+        "height": 136,
+        "observer": "gsainz",
+        "width": 121,
+        "x": 1115,
+        "y": 769,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.900Z"
+    }
+]

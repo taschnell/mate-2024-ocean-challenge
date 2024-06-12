@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "ec55c3be-99d4-4b06-8704-3614de263fcc",
+        "userDefinedKey": "55162828-0015-4a44-3168-10cca058c11e",
+        "concept": "Ophiuroidea",
+        "height": 98,
+        "observer": "yolov5",
+        "width": 134,
+        "x": 113,
+        "y": 290,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:23:19.767Z"
+    },
+    {
+        "uuid": "96f057e4-630b-40b6-b484-15f4537e3764",
+        "userDefinedKey": "4b965552-4c5c-4127-3368-10cca058c11e",
+        "concept": "Kophobelemnon sp. 1",
+        "height": 98,
+        "observer": "lonny",
+        "width": 45,
+        "x": 75,
+        "y": 134,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:23:19.767Z"
+    },
+    {
+        "uuid": "69cb5426-a4a0-43bf-a51b-3eb194d5eeec",
+        "userDefinedKey": "83a589ff-9b7a-4c4c-9f64-5ecba058c11e",
+        "concept": "Pennatulacea",
+        "height": 27,
+        "observer": "yolov5",
+        "width": 31,
+        "x": 599,
+        "y": 285,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:23:19.767Z"
+    }
+]

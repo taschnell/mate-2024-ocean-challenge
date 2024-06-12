@@ -1,0 +1,28 @@
+[
+    {
+        "uuid": "a1c0fb5e-47bb-4901-b19f-5c0c8be6c81c",
+        "userDefinedKey": "498753d5-2501-4665-0d61-de3b3dccda1e",
+        "concept": "Cerianthidae",
+        "height": 100,
+        "observer": "lonny",
+        "width": 110,
+        "x": 1200,
+        "y": 652,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:41.199Z"
+    },
+    {
+        "uuid": "23c094e9-4e0f-49d3-9f0a-144d47644858",
+        "userDefinedKey": "35aae61b-5d36-4c72-0f61-de3b3dccda1e",
+        "concept": "Ophiuroidea",
+        "height": 85,
+        "observer": "lonny",
+        "width": 93,
+        "x": 1346,
+        "y": 763,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:41.199Z"
+    }
+]

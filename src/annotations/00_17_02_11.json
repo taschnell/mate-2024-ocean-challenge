@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "c5316738-6b9e-475d-8f2b-a0a4a4ea1302",
+        "userDefinedKey": "30eb0183-03f0-4332-5c6e-f80f6758c11e",
+        "concept": "Delectopecten",
+        "height": 104,
+        "observer": "gsainz",
+        "width": 99,
+        "x": 869,
+        "y": 903,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:02.623Z"
+    },
+    {
+        "uuid": "8c9336ec-b443-4932-b083-28f3b0b52e59",
+        "userDefinedKey": "1445f8d8-2eeb-4804-5a6e-f80f6758c11e",
+        "concept": "Delectopecten",
+        "height": 111,
+        "observer": "gsainz",
+        "width": 110,
+        "x": 669,
+        "y": 955,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:02.623Z"
+    },
+    {
+        "uuid": "b06d37f4-514c-4167-adae-bf0f07c7325d",
+        "userDefinedKey": "a0de686d-b85b-485e-5e6e-f80f6758c11e",
+        "concept": "Ophiuroidea",
+        "height": 220,
+        "observer": "yolov5",
+        "width": 241,
+        "x": 1065,
+        "y": 552,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:02.623Z"
+    }
+]

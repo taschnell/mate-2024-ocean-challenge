@@ -1,0 +1,28 @@
+[
+    {
+        "uuid": "fa10241f-2679-45fd-b112-a708188364b5",
+        "userDefinedKey": "6002a0c9-2c27-403a-9d6d-401e361bbb1e",
+        "concept": "Actiniaria",
+        "height": 71,
+        "observer": "master@mbari.org",
+        "width": 77,
+        "x": 250,
+        "y": 223,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:17:52.101Z"
+    },
+    {
+        "uuid": "70f49874-fad4-4b2d-99a3-a80009f120f3",
+        "userDefinedKey": "3dc25e4f-ef3e-4532-3768-ff9d361bbb1e",
+        "concept": "Ophiuroidea",
+        "height": 61,
+        "observer": "master@mbari.org",
+        "width": 54,
+        "x": 155,
+        "y": 284,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:17:52.100Z"
+    }
+]

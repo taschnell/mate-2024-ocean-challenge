@@ -1,0 +1,80 @@
+[
+    {
+        "uuid": "3525f770-ab72-436c-b065-24d6e2134686",
+        "userDefinedKey": "f0f86297-aa46-4448-af61-58311f58c11e",
+        "concept": "Gastropoda",
+        "height": 94,
+        "observer": "yolov5",
+        "width": 111,
+        "x": 1554,
+        "y": 29,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:46.836Z"
+    },
+    {
+        "uuid": "24b7a09b-2252-4e3d-ba28-f99bb5826bf7",
+        "userDefinedKey": "07bc27d8-ea51-4f5e-ad61-58311f58c11e",
+        "concept": "Actiniaria",
+        "height": 93,
+        "observer": "gsainz",
+        "width": 117,
+        "x": 1283,
+        "y": 33,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:46.836Z"
+    },
+    {
+        "uuid": "13dfcfaa-62e2-4e16-9296-5733e69d093e",
+        "userDefinedKey": "ee683d61-f5a6-478b-a961-58311f58c11e",
+        "concept": "Ophiuroidea",
+        "height": 66,
+        "observer": "yolov5",
+        "width": 83,
+        "x": 126,
+        "y": 342,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:46.836Z"
+    },
+    {
+        "uuid": "5295a31a-2a9f-4fdc-97a2-627d087ed756",
+        "userDefinedKey": "15739375-81ee-49b4-a761-58311f58c11e",
+        "concept": "Galatheoidea",
+        "height": 75,
+        "observer": "gsainz",
+        "width": 128,
+        "x": 1409,
+        "y": 54,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:46.836Z"
+    },
+    {
+        "uuid": "ed3838b1-21e4-4328-b86b-b80738043e12",
+        "userDefinedKey": "6c170741-431b-4a64-ab61-58311f58c11e",
+        "concept": "Gastropoda",
+        "height": 90,
+        "observer": "yolov5",
+        "width": 92,
+        "x": 276,
+        "y": 73,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:46.836Z"
+    },
+    {
+        "uuid": "5499e8ef-0efe-474d-bbcf-172aec97a10a",
+        "userDefinedKey": "e4e1f494-f766-4e56-b161-58311f58c11e",
+        "concept": "Sebastolobus",
+        "height": 151,
+        "observer": "yolov5",
+        "width": 162,
+        "x": 1368,
+        "y": 208,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:46.837Z"
+    }
+]

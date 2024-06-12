@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "47c25619-a8a2-48a4-9682-fcace451922e",
+        "userDefinedKey": "4b9ecc40-a2de-4b44-dd66-f352b5fabf1e",
+        "concept": "Eptatretus",
+        "height": 201,
+        "observer": "gsainz",
+        "width": 113,
+        "x": 1804,
+        "y": 26,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:30:55.133Z"
+    },
+    {
+        "uuid": "65492c67-1ac7-4d4a-887b-7a8dc2d5594d",
+        "userDefinedKey": "925b44a9-0002-4ce0-7266-6792b4fabf1e",
+        "concept": "Octopus californicus",
+        "height": 173,
+        "observer": "linda",
+        "width": 159,
+        "x": 646,
+        "y": 902,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:30:55.138Z"
+    },
+    {
+        "uuid": "1f680b27-aa96-4f73-945a-6eadbbaf87f4",
+        "userDefinedKey": "61f48cd4-0dfb-4b42-096d-10eab4fabf1e",
+        "concept": "Ophiuroidea",
+        "height": 161,
+        "observer": "gsainz",
+        "width": 233,
+        "x": 508,
+        "y": 298,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:30:55.138Z"
+    }
+]

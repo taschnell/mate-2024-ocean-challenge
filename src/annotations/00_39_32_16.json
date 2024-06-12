@@ -1,0 +1,93 @@
+[
+    {
+        "uuid": "0f2dce55-cb50-4e6f-a7f5-6e857458f466",
+        "userDefinedKey": "e46fcd7b-eea5-4112-e867-3f612858c11e",
+        "concept": "Ophiuroidea",
+        "height": 126,
+        "observer": "gsainz",
+        "width": 102,
+        "x": 38,
+        "y": 8,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.882Z"
+    },
+    {
+        "uuid": "a119d089-2dbf-4f56-b72c-8f5f31d0a285",
+        "userDefinedKey": "b9c755f0-0654-487a-826c-18622858c11e",
+        "concept": "Scotoplanes",
+        "height": 87,
+        "observer": "yolov5",
+        "width": 75,
+        "x": 1573,
+        "y": 30,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.882Z"
+    },
+    {
+        "uuid": "2fc26fe8-a561-443a-ba7d-8ef88019dfd8",
+        "userDefinedKey": "85e3cf2e-68ee-4de3-806c-18622858c11e",
+        "concept": "Scotoplanes",
+        "height": 81,
+        "observer": "yolov5",
+        "width": 79,
+        "x": 1502,
+        "y": 996,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.882Z"
+    },
+    {
+        "uuid": "a8abdde6-9ddd-40e4-bdfb-5744f285e3bc",
+        "userDefinedKey": "8b6f205e-2332-4532-ea67-3f612858c11e",
+        "concept": "Funiculina",
+        "height": 56,
+        "observer": "yolov5",
+        "width": 215,
+        "x": 1663,
+        "y": 287,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.882Z"
+    },
+    {
+        "uuid": "ece1c8fe-fd3b-4dba-a118-dc8bc606fcf8",
+        "userDefinedKey": "d356ad63-91cf-4bf5-e267-3f612858c11e",
+        "concept": "Ophiuroidea",
+        "height": 166,
+        "observer": "yolov5",
+        "width": 141,
+        "x": 1772,
+        "y": 288,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.885Z"
+    },
+    {
+        "uuid": "3a6726eb-eba5-450b-8118-522847b8f2f8",
+        "userDefinedKey": "549391ec-fb5c-430d-e667-3f612858c11e",
+        "concept": "Pennatulacea",
+        "height": 64,
+        "observer": "yolov5",
+        "width": 89,
+        "x": 1285,
+        "y": 731,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.885Z"
+    },
+    {
+        "uuid": "5b4e7b49-a42d-4c04-b69d-530c448b386d",
+        "userDefinedKey": "89a73634-4dcf-458b-de69-e0341e08d31e",
+        "concept": "Scotoplanes sp. A",
+        "height": 120,
+        "observer": "linda",
+        "width": 88,
+        "x": 494,
+        "y": 454,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.885Z"
+    }
+]

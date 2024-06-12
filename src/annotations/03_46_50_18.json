@@ -1,0 +1,93 @@
+[
+    {
+        "uuid": "3a09f8ce-d9d9-4cc5-b39b-ae45bdaea733",
+        "userDefinedKey": "62c03cdb-4711-45b0-2e6b-84745158c11e",
+        "concept": "Ophiuroidea",
+        "height": 55,
+        "observer": "yolov5",
+        "width": 89,
+        "x": 1529,
+        "y": 986,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:22:32.304Z"
+    },
+    {
+        "uuid": "0800d147-c4dc-4cc1-8307-4f7d15b6eeec",
+        "userDefinedKey": "964291a6-2dfa-4dbc-326b-84745158c11e",
+        "concept": "Porifera",
+        "height": 71,
+        "observer": "yolov5",
+        "width": 79,
+        "x": 1456,
+        "y": 963,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:22:32.304Z"
+    },
+    {
+        "uuid": "48bfea19-03b3-40c8-bac0-eed671dccde6",
+        "userDefinedKey": "a45903a3-504f-4f18-3c6b-84745158c11e",
+        "concept": "Asteroidea",
+        "height": 75,
+        "observer": "yolov5",
+        "width": 61,
+        "x": 1047,
+        "y": 469,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:22:32.304Z"
+    },
+    {
+        "uuid": "4ce3d466-80dc-48ac-95ca-faa3695b5c15",
+        "userDefinedKey": "6d7cc28e-7e86-4748-3e6b-84745158c11e",
+        "concept": "Hexactinellida",
+        "height": 334,
+        "observer": "yolov5",
+        "width": 273,
+        "x": 622,
+        "y": 638,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:22:32.304Z"
+    },
+    {
+        "uuid": "accd5a90-2775-42fa-a6a6-a1cae2353070",
+        "userDefinedKey": "febc593e-a704-4482-306b-84745158c11e",
+        "concept": "Asteroidea",
+        "height": 50,
+        "observer": "yolov5",
+        "width": 44,
+        "x": 546,
+        "y": 146,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:22:32.304Z"
+    },
+    {
+        "uuid": "a1bdb957-df83-449f-b6f5-db072dccb3a3",
+        "userDefinedKey": "97325976-ef46-40c0-346b-84745158c11e",
+        "concept": "Ophiuroidea",
+        "height": 56,
+        "observer": "yolov5",
+        "width": 57,
+        "x": 913,
+        "y": 674,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:22:32.304Z"
+    },
+    {
+        "uuid": "18fdd5e3-2cdd-47cf-9988-9f71629a1e7e",
+        "userDefinedKey": "d75c4690-ca7a-4cfb-3a6b-84745158c11e",
+        "concept": "Ophiuroidea",
+        "height": 46,
+        "observer": "yolov5",
+        "width": 48,
+        "x": 1531,
+        "y": 940,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:22:32.304Z"
+    }
+]

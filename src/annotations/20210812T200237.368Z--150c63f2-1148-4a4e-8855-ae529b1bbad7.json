@@ -1,0 +1,80 @@
+[
+    {
+        "uuid": "5ba548ab-cd8d-44c9-8700-4aa096b3b3b5",
+        "userDefinedKey": "6fa6a419-de35-4466-a06b-387605cdda1e",
+        "concept": "Crinoidea",
+        "height": 74,
+        "observer": "lonny",
+        "width": 66,
+        "x": 1854,
+        "y": 241,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:30.841Z"
+    },
+    {
+        "uuid": "9a6798b7-9088-4829-b546-d7457451cbe3",
+        "userDefinedKey": "b3f82f93-ac9c-4849-a86b-387605cdda1e",
+        "concept": "Ophiuroidea",
+        "height": 68,
+        "observer": "lonny",
+        "width": 76,
+        "x": 1274,
+        "y": 703,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:30.841Z"
+    },
+    {
+        "uuid": "702a12b6-d0be-4824-8015-fe8221fad8ab",
+        "userDefinedKey": "e6fbf7d7-0a60-4116-a26b-387605cdda1e",
+        "concept": "Crinoidea",
+        "height": 118,
+        "observer": "lonny",
+        "width": 95,
+        "x": 207,
+        "y": 194,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:30.841Z"
+    },
+    {
+        "uuid": "a671a71b-9d73-426d-9657-6fbcef976102",
+        "userDefinedKey": "67f39471-c5be-4f4d-a46b-387605cdda1e",
+        "concept": "Ophiuroidea",
+        "height": 98,
+        "observer": "lonny",
+        "width": 119,
+        "x": 1609,
+        "y": 980,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:30.841Z"
+    },
+    {
+        "uuid": "098be84c-8f90-49a7-a6e1-39599d5e768e",
+        "userDefinedKey": "1e2ad9f2-fd72-4f15-a66b-387605cdda1e",
+        "concept": "Ophiuroidea",
+        "height": 68,
+        "observer": "lonny",
+        "width": 87,
+        "x": 1191,
+        "y": 85,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:30.841Z"
+    },
+    {
+        "uuid": "337eb9fb-f483-4f38-9d44-6a5e673facea",
+        "userDefinedKey": "7721e57a-3351-4069-9e6b-387605cdda1e",
+        "concept": "Crinoidea",
+        "height": 119,
+        "observer": "lonny",
+        "width": 121,
+        "x": 746,
+        "y": 418,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:30.841Z"
+    }
+]

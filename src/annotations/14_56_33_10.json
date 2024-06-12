@@ -1,0 +1,28 @@
+[
+    {
+        "uuid": "07d287ce-8a61-4d51-9edc-7388c1b22974",
+        "userDefinedKey": "7d277109-2450-4151-6861-50c07a58c11e",
+        "concept": "Ophiuroidea",
+        "height": 229,
+        "observer": "yolov5",
+        "width": 123,
+        "x": 0,
+        "y": 247,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.484Z"
+    },
+    {
+        "uuid": "85a241d5-83a8-4f48-94de-055d0c9d533c",
+        "userDefinedKey": "d97a5c41-52b3-46a5-6a61-50c07a58c11e",
+        "concept": "Scleractinia",
+        "height": 41,
+        "observer": "yolov5",
+        "width": 44,
+        "x": 550,
+        "y": 331,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.484Z"
+    }
+]

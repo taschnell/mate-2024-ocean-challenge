@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "7f479028-c5e7-465f-b375-72bef59feb82",
+        "userDefinedKey": "3c847463-d4ea-4f86-2967-4a835158c11e",
+        "concept": "Asteroidea",
+        "height": 193,
+        "observer": "yolov5",
+        "width": 173,
+        "x": 364,
+        "y": 340,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:07.803Z"
+    },
+    {
+        "uuid": "2b3640cf-39c2-487a-a557-6eba9234ac78",
+        "userDefinedKey": "c9b832b1-1526-4f8c-cb67-10855158c11e",
+        "concept": "Asteroidea",
+        "height": 178,
+        "observer": "yolov5",
+        "width": 226,
+        "x": 1312,
+        "y": 3,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:07.803Z"
+    },
+    {
+        "uuid": "d078bb3f-602a-4363-bd13-396cc931cc9f",
+        "userDefinedKey": "f11e19d8-29a6-4e68-1b67-4a835158c11e",
+        "concept": "Asteroidea",
+        "height": 194,
+        "observer": "lonny",
+        "width": 165,
+        "x": 315,
+        "y": 775,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:07.803Z"
+    },
+    {
+        "uuid": "d6846f63-dca2-4db5-ad3f-b40b0dd8befc",
+        "userDefinedKey": "de9df1e3-402f-43e7-1d67-4a835158c11e",
+        "concept": "Terebellidae",
+        "height": 66,
+        "observer": "gsainz",
+        "width": 77,
+        "x": 260,
+        "y": 113,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:07.803Z"
+    },
+    {
+        "uuid": "7dc3f0c7-1b5c-4cd0-948a-eaaf1ffc7698",
+        "userDefinedKey": "8cbc950d-ee27-406d-2367-4a835158c11e",
+        "concept": "Ophiuroidea",
+        "height": 130,
+        "observer": "yolov5",
+        "width": 109,
+        "x": 1467,
+        "y": 768,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:07.803Z"
+    }
+]

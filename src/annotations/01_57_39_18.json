@@ -1,0 +1,28 @@
+[
+    {
+        "uuid": "2631e3ba-d1cb-466b-82da-f3eb08034dce",
+        "userDefinedKey": "41a590fe-1f9d-4976-0768-69609bc3aa1e",
+        "concept": "Bathyraja trachura",
+        "height": 123,
+        "observer": "master@mbari.org",
+        "width": 276,
+        "x": 2,
+        "y": 360,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T16:57:01.676Z"
+    },
+    {
+        "uuid": "927feab6-3c1e-4017-8472-46993dfff149",
+        "userDefinedKey": "534652c0-776e-4d07-4b63-54629bc3aa1e",
+        "concept": "Ophiuroidea",
+        "height": 45,
+        "observer": "master@mbari.org",
+        "width": 40,
+        "x": 456,
+        "y": 314,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T16:57:01.683Z"
+    }
+]

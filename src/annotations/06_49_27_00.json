@@ -1,0 +1,80 @@
+[
+    {
+        "uuid": "22af62b4-a71d-412e-832a-aecace89bc2c",
+        "userDefinedKey": "2521c2c2-e0ce-4da2-1e64-499f3a58c11e",
+        "concept": "Cnemidocarpa",
+        "height": 39,
+        "observer": "yolov5",
+        "width": 40,
+        "x": 1639,
+        "y": 396,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:19.600Z"
+    },
+    {
+        "uuid": "f22f99d6-62b6-4726-9096-c4d84277d168",
+        "userDefinedKey": "8cfd738d-7cdd-4b40-2064-499f3a58c11e",
+        "concept": "Ophiuroidea",
+        "height": 141,
+        "observer": "yolov5",
+        "width": 164,
+        "x": 1659,
+        "y": 869,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:19.600Z"
+    },
+    {
+        "uuid": "f5218a24-7012-43e5-9b5a-c79bbbf2c73d",
+        "userDefinedKey": "625b4f65-5d06-43eb-1664-499f3a58c11e",
+        "concept": "Ophiuroidea",
+        "height": 89,
+        "observer": "lonny",
+        "width": 65,
+        "x": 485,
+        "y": 976,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:19.600Z"
+    },
+    {
+        "uuid": "a3122202-0610-4ed7-ba3e-9c9b2fc41d83",
+        "userDefinedKey": "d0f14c2a-4e97-4f08-2264-499f3a58c11e",
+        "concept": "Crinoidea",
+        "height": 174,
+        "observer": "yolov5",
+        "width": 261,
+        "x": 523,
+        "y": 180,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:19.600Z"
+    },
+    {
+        "uuid": "69931e89-7ed9-4dfb-b6e8-20a1bf14c553",
+        "userDefinedKey": "d8a7e462-69bf-4641-1c64-499f3a58c11e",
+        "concept": "Isididae",
+        "height": 265,
+        "observer": "yolov5",
+        "width": 235,
+        "x": 1685,
+        "y": 13,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:19.600Z"
+    },
+    {
+        "uuid": "adfea23f-51b9-48ed-bce8-e4c9d144b30a",
+        "userDefinedKey": "119897b6-da51-48f1-1464-499f3a58c11e",
+        "concept": "manipulator",
+        "height": 480,
+        "observer": "lonny",
+        "width": 491,
+        "x": 362,
+        "y": 328,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:19.600Z"
+    }
+]

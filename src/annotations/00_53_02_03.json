@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "1b709ea1-826e-41ce-972e-99bf12c3a426",
+        "userDefinedKey": "a03f4d69-8a7d-407e-0365-87d53558c11e",
+        "concept": "Scotoplanes",
+        "height": 288,
+        "observer": "yolov5",
+        "width": 214,
+        "x": 1120,
+        "y": 502,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:33.991Z"
+    },
+    {
+        "uuid": "b4b6ebba-a039-4400-af7f-8fe1c636d49e",
+        "userDefinedKey": "f5fa3caf-6ce3-4f19-0165-87d53558c11e",
+        "concept": "Asteroidea",
+        "height": 113,
+        "observer": "yolov5",
+        "width": 198,
+        "x": 1312,
+        "y": 600,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:33.991Z"
+    },
+    {
+        "uuid": "f323e609-7880-4dcd-bdf3-1ededc7d73da",
+        "userDefinedKey": "5332544d-b416-4b4f-0565-87d53558c11e",
+        "concept": "Scotoplanes",
+        "height": 221,
+        "observer": "yolov5",
+        "width": 216,
+        "x": 997,
+        "y": 457,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:33.991Z"
+    },
+    {
+        "uuid": "d07167f1-5e75-4155-a520-db4c3683503f",
+        "userDefinedKey": "07d0c26b-6c33-48ca-fd64-87d53558c11e",
+        "concept": "Ophiuroidea",
+        "height": 150,
+        "observer": "yolov5",
+        "width": 208,
+        "x": 570,
+        "y": 141,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:33.991Z"
+    },
+    {
+        "uuid": "dd878b3c-d933-4bf0-ba6f-74f97e291686",
+        "userDefinedKey": "a76b3530-17af-4711-ff64-87d53558c11e",
+        "concept": "Ophiuroidea",
+        "height": 123,
+        "observer": "yolov5",
+        "width": 176,
+        "x": 607,
+        "y": 595,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:33.991Z"
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "uuid": "bfd5a9e2-b91e-4345-896d-af0d98b5dcf5",
+        "userDefinedKey": "65a54016-a2ac-4071-4d6a-43fa2a58c11e",
+        "concept": "Ophiuroidea",
+        "height": 317,
+        "observer": "gsainz",
+        "width": 212,
+        "x": 766,
+        "y": 246,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:33.827Z"
+    },
+    {
+        "uuid": "cf595adc-7513-4511-9bf3-b8e73710df24",
+        "userDefinedKey": "14e1b3cc-3286-48b1-4f6a-43fa2a58c11e",
+        "concept": "Scotoplanes",
+        "height": 231,
+        "observer": "yolov5",
+        "width": 150,
+        "x": 160,
+        "y": 385,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:33.827Z"
+    }
+]

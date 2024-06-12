@@ -1,0 +1,80 @@
+[
+    {
+        "uuid": "5568d25b-9e42-44cc-9117-e1a94be1235b",
+        "userDefinedKey": "31d418a8-be45-4266-926d-45647c58c11e",
+        "concept": "Asteroidea",
+        "height": 41,
+        "observer": "yolov5",
+        "width": 38,
+        "x": 385,
+        "y": 50,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.879Z"
+    },
+    {
+        "uuid": "24c9db3f-5c4c-47fb-bf7f-1e7b8d975fab",
+        "userDefinedKey": "65ee1077-965d-4b70-906d-45647c58c11e",
+        "concept": "Scleractinia",
+        "height": 28,
+        "observer": "yolov5",
+        "width": 19,
+        "x": 571,
+        "y": 381,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.879Z"
+    },
+    {
+        "uuid": "1a7cca03-c5aa-4539-95f6-2310408dcbeb",
+        "userDefinedKey": "4369ad72-12d2-4c39-986d-45647c58c11e",
+        "concept": "Ophiuroidea",
+        "height": 119,
+        "observer": "yolov5",
+        "width": 94,
+        "x": 355,
+        "y": 630,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.879Z"
+    },
+    {
+        "uuid": "1df03b7b-6bc9-435f-9b8b-7a83f21a7e0b",
+        "userDefinedKey": "1dc49271-822c-49b4-586e-b7627c58c11e",
+        "concept": "Tunicata",
+        "height": 38,
+        "observer": "yolov5",
+        "width": 44,
+        "x": 425,
+        "y": 558,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.879Z"
+    },
+    {
+        "uuid": "c1918ac2-87d1-4c7f-a5a4-99820f9e043d",
+        "userDefinedKey": "71641437-77b4-4a91-566e-b7627c58c11e",
+        "concept": "Ophiuroidea",
+        "height": 48,
+        "observer": "yolov5",
+        "width": 87,
+        "x": 1716,
+        "y": 3,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.882Z"
+    },
+    {
+        "uuid": "9141d19a-7a15-4f1f-b614-c83663149d35",
+        "userDefinedKey": "03aef47a-0f4d-4940-5a6e-b7627c58c11e",
+        "concept": "Scleractinia",
+        "height": 27,
+        "observer": "gsainz",
+        "width": 23,
+        "x": 554,
+        "y": 387,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.882Z"
+    }
+]

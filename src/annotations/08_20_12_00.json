@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "74f0b6d6-4707-4150-8849-0ec18e0346ec",
+        "userDefinedKey": "7195ddec-72e3-47c3-566f-01ee3958c11e",
+        "concept": "Ceriantharia",
+        "height": 62,
+        "observer": "yolov5",
+        "width": 68,
+        "x": 1515,
+        "y": 1008,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:33.273Z"
+    },
+    {
+        "uuid": "7bad771e-3f03-456e-acdd-864a538f29d5",
+        "userDefinedKey": "acd6cd3b-ccaf-4161-546f-01ee3958c11e",
+        "concept": "Ophiuroidea",
+        "height": 115,
+        "observer": "yolov5",
+        "width": 121,
+        "x": 1061,
+        "y": 709,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:33.273Z"
+    },
+    {
+        "uuid": "2f7abebf-18c2-4ea0-85aa-0e20776e0ed7",
+        "userDefinedKey": "87b82022-9dd8-4622-506f-01ee3958c11e",
+        "concept": "Akoya platinum",
+        "height": 46,
+        "observer": "gsainz",
+        "width": 40,
+        "x": 1088,
+        "y": 296,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:33.273Z"
+    },
+    {
+        "uuid": "cdec9534-bad5-41ed-a09b-580065ce0335",
+        "userDefinedKey": "008f87fe-ea63-473d-4e6f-01ee3958c11e",
+        "concept": "Tunicata",
+        "height": 71,
+        "observer": "yolov5",
+        "width": 58,
+        "x": 444,
+        "y": 7,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:33.273Z"
+    }
+]

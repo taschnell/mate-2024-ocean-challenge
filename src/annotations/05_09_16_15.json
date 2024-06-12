@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "e8220cdf-af87-4987-ad6d-821a809a153f",
+        "userDefinedKey": "7c1e2d1d-61a9-4b0d-b560-c0a34e58c11e",
+        "concept": "Galatheoidea",
+        "height": 73,
+        "observer": "gsainz",
+        "width": 75,
+        "x": 1361,
+        "y": 934,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:41.529Z"
+    },
+    {
+        "uuid": "58229e9a-760e-4b87-bfff-dd3d3bd24ef8",
+        "userDefinedKey": "6fec75dc-1d9e-4faf-b960-c0a34e58c11e",
+        "concept": "Caridea",
+        "height": 48,
+        "observer": "yolov5",
+        "width": 102,
+        "x": 895,
+        "y": 23,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:41.529Z"
+    },
+    {
+        "uuid": "7dbc220f-e004-4493-8a93-1c61dd4071f7",
+        "userDefinedKey": "b52af439-dfa2-42af-bb60-c0a34e58c11e",
+        "concept": "Heterocarpus sp. 1",
+        "height": 132,
+        "observer": "gsainz",
+        "width": 122,
+        "x": 1765,
+        "y": 37,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:41.529Z"
+    },
+    {
+        "uuid": "f1f32618-093c-4198-989a-13ff3412c195",
+        "userDefinedKey": "cdd22bc3-264b-49ea-bd60-c0a34e58c11e",
+        "concept": "Ophiuroidea",
+        "height": 77,
+        "observer": "yolov5",
+        "width": 69,
+        "x": 1714,
+        "y": 566,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:41.529Z"
+    },
+    {
+        "uuid": "12a12b73-1b1c-47dc-a817-393acd14fd55",
+        "userDefinedKey": "90b69db5-ab1a-405e-b760-c0a34e58c11e",
+        "concept": "Galatheoidea",
+        "height": 66,
+        "observer": "gsainz",
+        "width": 67,
+        "x": 771,
+        "y": 834,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:41.529Z"
+    }
+]

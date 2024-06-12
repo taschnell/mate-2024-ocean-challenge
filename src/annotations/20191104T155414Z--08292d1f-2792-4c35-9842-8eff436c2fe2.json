@@ -1,0 +1,80 @@
+[
+    {
+        "uuid": "777873e9-b9fe-444c-b6c2-e05522dee428",
+        "userDefinedKey": "1621d80b-e220-4e1a-8a67-3d559f20ba1e",
+        "concept": "Ophiuroidea",
+        "height": 62,
+        "observer": "gsainz",
+        "width": 66,
+        "x": 811,
+        "y": 849,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:22:53.382Z"
+    },
+    {
+        "uuid": "1adb27b3-f486-41c8-860b-c30f0f4948d6",
+        "userDefinedKey": "c8f59966-40cf-4f34-3f68-69da9d20ba1e",
+        "concept": "Sebastes phillipsi",
+        "height": 112,
+        "observer": "linda",
+        "width": 275,
+        "x": 151,
+        "y": 795,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:22:53.382Z"
+    },
+    {
+        "uuid": "8dbb03ef-5552-4802-946e-5257235b3594",
+        "userDefinedKey": "5eaa04ce-4129-4b4d-b567-d3359f20ba1e",
+        "concept": "Ophiuroidea",
+        "height": 104,
+        "observer": "gsainz",
+        "width": 104,
+        "x": 580,
+        "y": 856,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:22:53.383Z"
+    },
+    {
+        "uuid": "175ec9b7-7ef0-446f-8322-478d42791dbc",
+        "userDefinedKey": "569758d7-36ca-4e11-376d-452a9e20ba1e",
+        "concept": "Sebastes phillipsi",
+        "height": 84,
+        "observer": "linda",
+        "width": 182,
+        "x": 1203,
+        "y": 158,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:22:53.383Z"
+    },
+    {
+        "uuid": "98e19312-bbec-478a-bb53-061ff854be9e",
+        "userDefinedKey": "d960169f-64fa-4ffd-2e6f-3bc89f20ba1e",
+        "concept": "Asteroidea",
+        "height": 90,
+        "observer": "gsainz",
+        "width": 131,
+        "x": 1601,
+        "y": 524,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:22:53.383Z"
+    },
+    {
+        "uuid": "7bf7c203-57d2-420f-be4a-719d1d9b456c",
+        "userDefinedKey": "0fe39064-d158-4925-a46c-cfb39e20ba1e",
+        "concept": "Ophiuroidea",
+        "height": 36,
+        "observer": "gsainz",
+        "width": 54,
+        "x": 547,
+        "y": 516,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:22:53.383Z"
+    }
+]

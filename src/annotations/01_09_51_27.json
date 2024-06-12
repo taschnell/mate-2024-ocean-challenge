@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "f8be2a49-e776-4960-a7c5-8950451efc03",
+        "userDefinedKey": "c02f58e1-4784-4499-ea6c-755b16aebc1e",
+        "concept": "Peniagone",
+        "height": 28,
+        "observer": "master@mbari.org",
+        "width": 63,
+        "x": 402,
+        "y": 151,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:37:19.557Z"
+    },
+    {
+        "uuid": "64f005fe-1b84-493d-913d-2866cb7bf607",
+        "userDefinedKey": "7da62cc2-6d2e-431f-c265-e0e516aebc1e",
+        "concept": "Ophiuroidea",
+        "height": 24,
+        "observer": "master@mbari.org",
+        "width": 26,
+        "x": 327,
+        "y": 241,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:37:19.569Z"
+    },
+    {
+        "uuid": "1fb4ef48-acbb-42c4-8bd9-4102b197c294",
+        "userDefinedKey": "9656d280-ea07-440c-ff65-c8b516aebc1e",
+        "concept": "Ophiuroidea",
+        "height": 30,
+        "observer": "master@mbari.org",
+        "width": 30,
+        "x": 137,
+        "y": 196,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:37:19.578Z"
+    },
+    {
+        "uuid": "d7dc9661-bfa4-4d5a-966d-80d4a474aa33",
+        "userDefinedKey": "253b6fbc-0e10-4c6a-5b68-2ffe16aebc1e",
+        "concept": "Ophiuroidea",
+        "height": 23,
+        "observer": "master@mbari.org",
+        "width": 20,
+        "x": 279,
+        "y": 265,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:37:19.579Z"
+    }
+]

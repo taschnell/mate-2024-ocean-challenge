@@ -1,0 +1,93 @@
+[
+    {
+        "uuid": "b5eccd04-35a1-4457-8c69-f003376e377f",
+        "userDefinedKey": "86954427-7963-44fa-7567-2bee3958c11e",
+        "concept": "Pannychia moseleyi",
+        "height": 126,
+        "observer": "yolov5",
+        "width": 257,
+        "x": 635,
+        "y": 563,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.904Z"
+    },
+    {
+        "uuid": "a661aac1-fc42-4283-828a-2c5c00e700d3",
+        "userDefinedKey": "0cb9c006-764d-457d-6b67-2bee3958c11e",
+        "concept": "Scotoplanes",
+        "height": 66,
+        "observer": "yolov5",
+        "width": 37,
+        "x": 861,
+        "y": 359,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.904Z"
+    },
+    {
+        "uuid": "5354b1f6-a2b5-4506-977e-da754c182a22",
+        "userDefinedKey": "47ff899d-822e-484c-6f67-2bee3958c11e",
+        "concept": "Scotoplanes",
+        "height": 46,
+        "observer": "yolov5",
+        "width": 69,
+        "x": 1274,
+        "y": 547,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.904Z"
+    },
+    {
+        "uuid": "1d3d68e7-2d4a-45ab-a3cc-22594dc1adab",
+        "userDefinedKey": "059354d0-4031-4350-7367-2bee3958c11e",
+        "concept": "Scotoplanes",
+        "height": 50,
+        "observer": "yolov5",
+        "width": 65,
+        "x": 142,
+        "y": 224,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.904Z"
+    },
+    {
+        "uuid": "c20174f1-1895-4263-ae41-1d37b29d08f4",
+        "userDefinedKey": "2e829673-7404-4739-6d67-2bee3958c11e",
+        "concept": "Ophiuroidea",
+        "height": 87,
+        "observer": "yolov5",
+        "width": 113,
+        "x": 153,
+        "y": 394,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.904Z"
+    },
+    {
+        "uuid": "ce8b6c75-c5fb-4f4d-85d6-0ba96e90b2e4",
+        "userDefinedKey": "fc6e2811-93ef-43d1-7767-2bee3958c11e",
+        "concept": "Scotoplanes",
+        "height": 94,
+        "observer": "yolov5",
+        "width": 135,
+        "x": 254,
+        "y": 232,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.904Z"
+    },
+    {
+        "uuid": "c7a52b2e-e1b9-4d1a-865c-4dfd47532a42",
+        "userDefinedKey": "f980e108-3bd7-496a-6967-2bee3958c11e",
+        "concept": "Scotoplanes",
+        "height": 47,
+        "observer": "yolov5",
+        "width": 65,
+        "x": 1400,
+        "y": 146,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.904Z"
+    }
+]

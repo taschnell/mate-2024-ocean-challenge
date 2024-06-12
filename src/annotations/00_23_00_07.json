@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "4b0b3cf6-1fc9-4c2f-8812-5cd22b5df107",
+        "userDefinedKey": "600f0bc1-402c-4ddf-9961-1f0e84b8b71e",
+        "concept": "Ophiuroidea",
+        "height": 90,
+        "observer": "master@mbari.org",
+        "width": 109,
+        "x": 515,
+        "y": 259,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:29:13.523Z"
+    },
+    {
+        "uuid": "82c5808b-087d-4a6d-8889-189daf6d7663",
+        "userDefinedKey": "c7cda435-3ed2-4956-0c64-8ad583b8b71e",
+        "concept": "Hormathiidae sp. 1",
+        "height": 33,
+        "observer": "master@mbari.org",
+        "width": 40,
+        "x": 259,
+        "y": 85,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:29:13.526Z"
+    },
+    {
+        "uuid": "91a3957e-2322-49d5-84df-bcbb8313ff34",
+        "userDefinedKey": "6d7e9fcb-59a7-4ec0-8263-788c83b8b71e",
+        "concept": "Antimora microlepis",
+        "height": 78,
+        "observer": "master@mbari.org",
+        "width": 115,
+        "x": 18,
+        "y": 30,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:29:13.529Z"
+    }
+]

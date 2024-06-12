@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "7ffc4966-6a95-4294-9b04-47643883de02",
+        "userDefinedKey": "56c01ba4-49a1-4d98-3965-f9495358c11e",
+        "concept": "Caridea",
+        "height": 58,
+        "observer": "gsainz",
+        "width": 95,
+        "x": 1812,
+        "y": 352,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:08.585Z"
+    },
+    {
+        "uuid": "b7f99011-3b1d-4815-9ad2-71982b4885ef",
+        "userDefinedKey": "1c0c3e2e-17d1-41b0-3165-f9495358c11e",
+        "concept": "Psolus squamatus",
+        "height": 251,
+        "observer": "yolov5",
+        "width": 247,
+        "x": 977,
+        "y": 738,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:08.585Z"
+    },
+    {
+        "uuid": "5e2c36d6-b16f-4840-aa20-e35078067d81",
+        "userDefinedKey": "3ea9fda4-76a6-4394-3765-f9495358c11e",
+        "concept": "Ophiuroidea",
+        "height": 123,
+        "observer": "yolov5",
+        "width": 172,
+        "x": 739,
+        "y": 0,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:08.585Z"
+    },
+    {
+        "uuid": "926e38bf-4097-4f21-a7c8-50ef2fb8105f",
+        "userDefinedKey": "26778339-2ca2-4c8f-3365-f9495358c11e",
+        "concept": "Ophiuroidea",
+        "height": 67,
+        "observer": "yolov5",
+        "width": 95,
+        "x": 1673,
+        "y": 291,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:08.585Z"
+    },
+    {
+        "uuid": "5b3ef355-c279-45e3-90a0-41653eac2023",
+        "userDefinedKey": "362efffd-c756-43a8-2f65-f9495358c11e",
+        "concept": "Swiftia kofoidi",
+        "height": 631,
+        "observer": "yolov5",
+        "width": 657,
+        "x": 820,
+        "y": 28,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:08.585Z"
+    }
+]

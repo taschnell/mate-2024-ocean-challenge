@@ -1,0 +1,80 @@
+[
+    {
+        "uuid": "c60cfeb1-6a0b-4286-8afb-0d0b8ecc0398",
+        "userDefinedKey": "2d2a25e1-6be8-44f2-7e67-bc47ad21b71e",
+        "concept": "Ophiuroidea",
+        "height": 25,
+        "observer": "master@mbari.org",
+        "width": 30,
+        "x": 286,
+        "y": 90,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:41:11.487Z"
+    },
+    {
+        "uuid": "ddb27f92-1293-499a-b119-f43089a0a345",
+        "userDefinedKey": "9f69186c-1ddb-48ab-bf60-0e67ad21b71e",
+        "concept": "Ophiuroidea",
+        "height": 25,
+        "observer": "master@mbari.org",
+        "width": 32,
+        "x": 377,
+        "y": 75,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:41:11.486Z"
+    },
+    {
+        "uuid": "fdce4fad-5da2-45c0-a7ca-ede0842171f3",
+        "userDefinedKey": "ace0a604-773b-45bc-8461-9e55ac21b71e",
+        "concept": "Paelopatides confundens",
+        "height": 60,
+        "observer": "master@mbari.org",
+        "width": 54,
+        "x": 201,
+        "y": 236,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:41:11.492Z"
+    },
+    {
+        "uuid": "f2ffd204-a36d-4a10-967f-f403ae2ab211",
+        "userDefinedKey": "c930dcd6-88d1-4e0a-4b61-8088ad21b71e",
+        "concept": "Ophiuroidea",
+        "height": 22,
+        "observer": "master@mbari.org",
+        "width": 28,
+        "x": 587,
+        "y": 128,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:41:11.488Z"
+    },
+    {
+        "uuid": "90de32d2-34fe-41cd-b51f-b531fc56487c",
+        "userDefinedKey": "d7bde5f7-6027-4fd9-7c6c-bda6ad21b71e",
+        "concept": "Ophiuroidea",
+        "height": 30,
+        "observer": "master@mbari.org",
+        "width": 30,
+        "x": 242,
+        "y": 313,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:41:11.486Z"
+    },
+    {
+        "uuid": "3399c2f1-6416-4c02-9da9-00a7b16a89d1",
+        "userDefinedKey": "a63654b3-cc5e-4e96-3667-d017ad21b71e",
+        "concept": "Ophiuroidea",
+        "height": 36,
+        "observer": "master@mbari.org",
+        "width": 45,
+        "x": 509,
+        "y": 209,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:41:11.488Z"
+    }
+]

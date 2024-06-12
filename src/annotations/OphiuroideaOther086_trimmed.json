@@ -1,0 +1,24 @@
+[
+    {
+        "uuid": "aa6e4d26-23f0-4391-84d9-c9903e52cd24",
+        "concept": "Ophiuroidea",
+        "height": 286,
+        "width": 709,
+        "x": 679,
+        "y": 309,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2022-10-31T14:45:53.850Z"
+    },
+    {
+        "uuid": "42cfca4d-d631-46e7-ac60-7cfcd23d7c41",
+        "concept": "Ophiuroidea",
+        "height": 536,
+        "width": 624,
+        "x": 917,
+        "y": 24,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2022-10-31T14:45:53.850Z"
+    }
+]

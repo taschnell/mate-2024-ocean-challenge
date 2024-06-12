@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "cca87763-69fa-4a2a-99bf-e48cdb49a261",
+        "userDefinedKey": "2e56972d-44b9-487d-a467-3d2a5458c11e",
+        "concept": "Scleractinia",
+        "height": 84,
+        "observer": "yolov5",
+        "width": 79,
+        "x": 1259,
+        "y": 860,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:25.913Z"
+    },
+    {
+        "uuid": "02d2801a-8930-4d05-b46e-20fe86bfea5f",
+        "userDefinedKey": "285c0bd2-87e9-4461-a067-3d2a5458c11e",
+        "concept": "equipment",
+        "height": 942,
+        "observer": "gsainz",
+        "width": 580,
+        "x": 818,
+        "y": 118,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:25.913Z"
+    },
+    {
+        "uuid": "0c1bb632-f3b5-467b-9ba0-9c34802edb94",
+        "userDefinedKey": "169b6f9a-e785-41b6-a267-3d2a5458c11e",
+        "concept": "Hydrozoa",
+        "height": 133,
+        "observer": "lonny",
+        "width": 127,
+        "x": 866,
+        "y": 489,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:25.913Z"
+    },
+    {
+        "uuid": "0baf8569-6861-4635-aa2b-405be4bd92f9",
+        "userDefinedKey": "f7fd9594-ab48-4d0b-9e67-3d2a5458c11e",
+        "concept": "Ophiuroidea",
+        "height": 161,
+        "observer": "yolov5",
+        "width": 189,
+        "x": 2,
+        "y": 731,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:25.913Z"
+    }
+]

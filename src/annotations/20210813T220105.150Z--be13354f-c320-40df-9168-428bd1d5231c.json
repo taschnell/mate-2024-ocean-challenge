@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "9a6d9b8d-fd96-4a2b-a87c-78903201673f",
+        "userDefinedKey": "9b867bb0-c839-4c61-9364-c4bfb076d91e",
+        "concept": "Munnopsidae",
+        "height": 187,
+        "observer": "lonny",
+        "width": 189,
+        "x": 1030,
+        "y": 373,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:33.116Z"
+    },
+    {
+        "uuid": "7909a858-7480-4f6d-8013-174d025e2d3f",
+        "userDefinedKey": "5b84df90-7dbd-4aae-9164-c4bfb076d91e",
+        "concept": "Munnopsidae",
+        "height": 117,
+        "observer": "lonny",
+        "width": 134,
+        "x": 658,
+        "y": 443,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:33.119Z"
+    },
+    {
+        "uuid": "e47248d8-7949-4da8-8577-e5a7b523d068",
+        "userDefinedKey": "0cbd6522-1bd2-422e-a56a-c6bfb076d91e",
+        "concept": "Ophiuroidea",
+        "height": 314,
+        "observer": "lonny",
+        "width": 362,
+        "x": 887,
+        "y": 6,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:33.119Z"
+    }
+]

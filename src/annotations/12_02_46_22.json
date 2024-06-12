@@ -1,0 +1,80 @@
+[
+    {
+        "uuid": "00f9d54f-18ab-45ff-990d-fc919ad2cacf",
+        "userDefinedKey": "fcee2132-eb55-417f-e06a-4d9d7a58c11e",
+        "concept": "Neoloricata",
+        "height": 141,
+        "observer": "gsainz",
+        "width": 149,
+        "x": 882,
+        "y": 58,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:19.813Z"
+    },
+    {
+        "uuid": "b43f3e12-eb98-4d32-90fb-c66aad8b3180",
+        "userDefinedKey": "30136fef-20da-49f4-3a66-929e7a58c11e",
+        "concept": "Ophiuroidea",
+        "height": 132,
+        "observer": "gsainz",
+        "width": 99,
+        "x": 1227,
+        "y": 396,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:19.813Z"
+    },
+    {
+        "uuid": "0dcd6fa9-c851-4bff-b446-2f2bdfe0aa2f",
+        "userDefinedKey": "f3280074-ab8c-43d7-3866-929e7a58c11e",
+        "concept": "Ophiuroidea",
+        "height": 106,
+        "observer": "yolov5",
+        "width": 95,
+        "x": 1724,
+        "y": 955,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:19.813Z"
+    },
+    {
+        "uuid": "14521a43-b28c-40e9-8fd2-e4c563d29adb",
+        "userDefinedKey": "f3a753fb-496a-4e16-3666-929e7a58c11e",
+        "concept": "Ophiuroidea",
+        "height": 64,
+        "observer": "yolov5",
+        "width": 75,
+        "x": 1837,
+        "y": 936,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:19.813Z"
+    },
+    {
+        "uuid": "401fabdc-f59b-406d-b4aa-10920c3a4d1b",
+        "userDefinedKey": "4b98eb96-0d3e-4601-de6a-4d9d7a58c11e",
+        "concept": "Ophiuroidea",
+        "height": 68,
+        "observer": "yolov5",
+        "width": 74,
+        "x": 1031,
+        "y": 979,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:19.813Z"
+    },
+    {
+        "uuid": "818a1cb9-25f1-48cc-9910-f8d10c8b8d6e",
+        "userDefinedKey": "d1731b7f-0791-4bbd-3c66-929e7a58c11e",
+        "concept": "Pandalus amplus",
+        "height": 343,
+        "observer": "yolov5",
+        "width": 244,
+        "x": 897,
+        "y": 216,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:19.813Z"
+    }
+]

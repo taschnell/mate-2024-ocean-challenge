@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "f43086fe-4a41-4ece-ab31-f4f45fa4eb49",
+        "userDefinedKey": "31b90a37-66fc-4b47-a56c-c5252758c11e",
+        "concept": "Ophiuroidea",
+        "height": 38,
+        "observer": "yolov5",
+        "width": 44,
+        "x": 286,
+        "y": 90,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:36.509Z"
+    },
+    {
+        "uuid": "39a80afb-f263-400c-abc1-0d0beb51536a",
+        "userDefinedKey": "862b3655-2165-462f-a16c-c5252758c11e",
+        "concept": "Mysida",
+        "height": 24,
+        "observer": "yolov5",
+        "width": 11,
+        "x": 709,
+        "y": 241,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:36.509Z"
+    },
+    {
+        "uuid": "c2e60c0f-9d1d-4b10-883b-c6eae5dc01b4",
+        "userDefinedKey": "2f80f23b-aaa7-421a-a36c-c5252758c11e",
+        "concept": "Neptunea-Buccinum Complex",
+        "height": 17,
+        "observer": "yolov5",
+        "width": 21,
+        "x": 692,
+        "y": 277,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:36.509Z"
+    }
+]

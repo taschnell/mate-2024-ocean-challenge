@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "aeed4cdb-5499-413d-9c38-267875494697",
+        "userDefinedKey": "6ad8f2b5-a309-4dc9-1167-c34b3a58c11e",
+        "concept": "Crinoidea",
+        "height": 109,
+        "observer": "yolov5",
+        "width": 118,
+        "x": 267,
+        "y": 6,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:30.576Z"
+    },
+    {
+        "uuid": "0b7b6904-eab6-4e9a-b036-f3e00fcb8eca",
+        "userDefinedKey": "0bb1d108-a7e6-4660-1767-c34b3a58c11e",
+        "concept": "Ophiuroidea",
+        "height": 79,
+        "observer": "yolov5",
+        "width": 91,
+        "x": 1379,
+        "y": 150,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:30.576Z"
+    },
+    {
+        "uuid": "816a5671-301b-4095-b4d6-7741b1c4be9c",
+        "userDefinedKey": "d40413e2-c20c-4461-1367-c34b3a58c11e",
+        "concept": "Coryphaenoides acrolepis",
+        "height": 477,
+        "observer": "gsainz",
+        "width": 1138,
+        "x": 751,
+        "y": 183,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:30.576Z"
+    },
+    {
+        "uuid": "a2980937-2ab3-4a9e-8af3-fb0d7f968f4c",
+        "userDefinedKey": "efa2354f-aedc-4b00-fd6f-c04b3a58c11e",
+        "concept": "Ophiuroidea",
+        "height": 112,
+        "observer": "yolov5",
+        "width": 107,
+        "x": 1521,
+        "y": 798,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:30.576Z"
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "uuid": "7db98bbc-89c1-461f-bb1c-f7bf7b22315b",
+        "userDefinedKey": "8d862d5d-2053-4fa9-e167-6e313c58c11e",
+        "concept": "Actiniaria",
+        "height": 278,
+        "observer": "yolov5",
+        "width": 303,
+        "x": 121,
+        "y": 178,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:46.866Z"
+    },
+    {
+        "uuid": "fcf101e5-d529-4f42-ba8b-acd06df99e5f",
+        "userDefinedKey": "af949916-3411-4e4c-df67-6e313c58c11e",
+        "concept": "Actiniaria",
+        "height": 160,
+        "observer": "yolov5",
+        "width": 199,
+        "x": 403,
+        "y": 116,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:46.866Z"
+    },
+    {
+        "uuid": "64a2fcbe-1a02-4ede-a71c-84708a401041",
+        "userDefinedKey": "de9a36a5-8a81-4462-db67-6e313c58c11e",
+        "concept": "Hexactinellida",
+        "height": 518,
+        "observer": "gsainz",
+        "width": 390,
+        "x": 575,
+        "y": 401,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:46.866Z"
+    },
+    {
+        "uuid": "8769c70f-c019-40e0-a878-696d804d969f",
+        "userDefinedKey": "d4c080f7-2102-4912-d967-6e313c58c11e",
+        "concept": "Ophiuroidea",
+        "height": 74,
+        "observer": "yolov5",
+        "width": 124,
+        "x": 1565,
+        "y": 0,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:46.866Z"
+    },
+    {
+        "uuid": "4fc32059-35ff-46a1-baeb-6f7692d34dba",
+        "userDefinedKey": "1aa21424-d3c9-446b-dd67-6e313c58c11e",
+        "concept": "Pandalus amplus",
+        "height": 94,
+        "observer": "yolov5",
+        "width": 95,
+        "x": 672,
+        "y": 0,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:46.866Z"
+    },
+    {
+        "uuid": "82c7cead-8642-4285-85a7-62a46884f6c6",
+        "userDefinedKey": "3fa47cc5-cc8b-4722-d767-6e313c58c11e",
+        "concept": "Tunicata",
+        "height": 88,
+        "observer": "yolov5",
+        "width": 103,
+        "x": 357,
+        "y": 440,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:46.866Z"
+    }
+]

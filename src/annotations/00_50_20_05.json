@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "9d02ee0e-facf-4ce9-9c17-a61f50febefe",
+        "userDefinedKey": "59b6b1df-cecf-4a6c-f762-72933b58c11e",
+        "concept": "Ophiuroidea",
+        "height": 65,
+        "observer": "yolov5",
+        "width": 68,
+        "x": 1129,
+        "y": 623,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.856Z"
+    },
+    {
+        "uuid": "da99973a-c7e2-4d7f-bc54-2889ab9f1f71",
+        "userDefinedKey": "61caefd9-3f26-4af0-fd62-72933b58c11e",
+        "concept": "Pennatula",
+        "height": 61,
+        "observer": "lonny",
+        "width": 46,
+        "x": 804,
+        "y": 541,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.856Z"
+    },
+    {
+        "uuid": "3829e027-9ef5-4f9d-921b-f8c5e8dba5a9",
+        "userDefinedKey": "2341e1bd-e845-45db-fb62-72933b58c11e",
+        "concept": "Ophiuroidea",
+        "height": 100,
+        "observer": "yolov5",
+        "width": 99,
+        "x": 768,
+        "y": 942,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.856Z"
+    },
+    {
+        "uuid": "2e8871ea-3b16-459a-9a21-861684328f2c",
+        "userDefinedKey": "03cc3de4-3fdd-48cb-f962-72933b58c11e",
+        "concept": "Ophiuroidea",
+        "height": 61,
+        "observer": "yolov5",
+        "width": 73,
+        "x": 808,
+        "y": 689,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.856Z"
+    }
+]

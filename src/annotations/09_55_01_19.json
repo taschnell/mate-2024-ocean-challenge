@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "19421472-1caa-4c53-8e92-201dde68d2d2",
+        "userDefinedKey": "84d83421-9177-47da-7066-635a7b58c11e",
+        "concept": "Benthoctopus",
+        "height": 76,
+        "observer": "gsainz",
+        "width": 86,
+        "x": 278,
+        "y": 851,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:12:51.295Z"
+    },
+    {
+        "uuid": "84c4d2c7-7736-4225-866f-e627625595cd",
+        "userDefinedKey": "c34479b4-a121-456d-7666-635a7b58c11e",
+        "concept": "Crossaster",
+        "height": 58,
+        "observer": "yolov5",
+        "width": 84,
+        "x": 430,
+        "y": 440,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:12:51.295Z"
+    },
+    {
+        "uuid": "09997fc4-db3e-4e35-980c-f2077c92c59f",
+        "userDefinedKey": "68c5a0b6-5183-4d8d-7466-635a7b58c11e",
+        "concept": "Coryphaenoides",
+        "height": 91,
+        "observer": "yolov5",
+        "width": 202,
+        "x": 1718,
+        "y": 588,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:12:51.295Z"
+    },
+    {
+        "uuid": "edbaca0e-e16d-4958-ac97-a953285f5cb6",
+        "userDefinedKey": "b01a0c43-c1b0-4486-7266-635a7b58c11e",
+        "concept": "Ophiuroidea",
+        "height": 66,
+        "observer": "yolov5",
+        "width": 80,
+        "x": 296,
+        "y": 1002,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:12:51.295Z"
+    }
+]

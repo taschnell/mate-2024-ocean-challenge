@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "89c4a7a6-50bf-45d3-abf6-8e3951ff16e8",
+        "userDefinedKey": "a9ab5415-4d87-4cf4-2d6f-7ea23958c11e",
+        "concept": "Ophiuroidea",
+        "height": 47,
+        "observer": "yolov5",
+        "width": 56,
+        "x": 1414,
+        "y": 518,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:19.759Z"
+    },
+    {
+        "uuid": "b6d86733-afb8-4e61-a5f8-4295a690b7c5",
+        "userDefinedKey": "fa75c1cd-ad8a-49c8-2b6f-7ea23958c11e",
+        "concept": "Ophiuroidea",
+        "height": 60,
+        "observer": "yolov5",
+        "width": 51,
+        "x": 1542,
+        "y": 912,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:19.759Z"
+    },
+    {
+        "uuid": "7046c880-ff5e-4e94-83b4-a36f88132177",
+        "userDefinedKey": "264c85a2-3351-469d-296f-7ea23958c11e",
+        "concept": "Ophiuroidea",
+        "height": 47,
+        "observer": "yolov5",
+        "width": 49,
+        "x": 1064,
+        "y": 665,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:19.759Z"
+    }
+]

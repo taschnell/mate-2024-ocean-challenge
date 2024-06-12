@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "856961af-b27d-4f85-82be-b1d0003654f6",
+        "userDefinedKey": "30b2da5a-2300-4346-ec63-a5be7658c11e",
+        "concept": "Ophiuroidea",
+        "height": 297,
+        "observer": "yolov5",
+        "width": 254,
+        "x": 367,
+        "y": 397,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.661Z"
+    },
+    {
+        "uuid": "9306d3d0-30f6-47c2-84f1-375e0ec06508",
+        "userDefinedKey": "10dbfd94-8aa8-4067-ee63-a5be7658c11e",
+        "concept": "Paragorgia",
+        "height": 495,
+        "observer": "yolov5",
+        "width": 174,
+        "x": 609,
+        "y": 140,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.661Z"
+    },
+    {
+        "uuid": "9ca3890e-a8f6-4822-bbf8-73f83ebcb128",
+        "userDefinedKey": "260c1944-45d1-4ad9-f063-a5be7658c11e",
+        "concept": "Ophiuroidea",
+        "height": 277,
+        "observer": "yolov5",
+        "width": 276,
+        "x": 482,
+        "y": 735,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.661Z"
+    }
+]

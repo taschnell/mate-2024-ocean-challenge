@@ -1,0 +1,28 @@
+[
+    {
+        "uuid": "d3a8e8a9-24f8-4ee6-a834-8047aed8ac76",
+        "userDefinedKey": "48880aef-e07e-4466-4262-ef0f5158c11e",
+        "concept": "Ophiuroidea",
+        "height": 81,
+        "observer": "yolov5",
+        "width": 108,
+        "x": 336,
+        "y": 165,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:41.628Z"
+    },
+    {
+        "uuid": "8781c8d0-0d00-45cd-b99b-d31e5f05c8ca",
+        "userDefinedKey": "cd8df78c-e916-46c2-4462-ef0f5158c11e",
+        "concept": "Suction Sampler",
+        "height": 887,
+        "observer": "yolov5",
+        "width": 1341,
+        "x": 510,
+        "y": 180,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:41.628Z"
+    }
+]

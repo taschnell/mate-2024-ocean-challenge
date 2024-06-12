@@ -1,0 +1,93 @@
+[
+    {
+        "uuid": "92182db9-f0a0-435c-a0da-d924f966953c",
+        "userDefinedKey": "fe74fcb1-3f47-47ba-196c-b38adf29b81e",
+        "concept": "Calliostoma",
+        "height": 41,
+        "observer": "lonny",
+        "width": 39,
+        "x": 774,
+        "y": 36,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:24:04.870Z"
+    },
+    {
+        "uuid": "599f0373-daac-4405-a44b-76b1bf2fe4f7",
+        "userDefinedKey": "844f3825-cddd-49fd-f46b-6655df29b81e",
+        "concept": "Delectopecten",
+        "height": 107,
+        "observer": "linda",
+        "width": 131,
+        "x": 1160,
+        "y": 827,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:24:04.870Z"
+    },
+    {
+        "uuid": "b9353255-c03b-4390-8766-2f13759df72f",
+        "userDefinedKey": "8380ccda-2134-455d-7263-b938e129b81e",
+        "concept": "Asteroidea",
+        "height": 34,
+        "observer": "gsainz",
+        "width": 39,
+        "x": 1287,
+        "y": 348,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:24:04.870Z"
+    },
+    {
+        "uuid": "d431a265-7d79-4e72-878e-2211d4ed5ef9",
+        "userDefinedKey": "d1a9c1a4-9090-4af8-306c-25badf29b81e",
+        "concept": "Calliostoma",
+        "height": 48,
+        "observer": "lonny",
+        "width": 46,
+        "x": 885,
+        "y": 313,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:24:04.870Z"
+    },
+    {
+        "uuid": "d693ee74-9c64-4c22-b292-3e47ca92a12c",
+        "userDefinedKey": "b2032405-3e70-4c42-ca61-6e60e029b81e",
+        "concept": "Delectopecten",
+        "height": 63,
+        "observer": "linda",
+        "width": 86,
+        "x": 1208,
+        "y": 1016,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:24:04.870Z"
+    },
+    {
+        "uuid": "8b50f5fe-fdcf-431f-bad5-503428a4ad71",
+        "userDefinedKey": "00e2c256-b311-4025-4f66-dd1adf29b81e",
+        "concept": "Ophiuroidea",
+        "height": 137,
+        "observer": "lonny",
+        "width": 122,
+        "x": 214,
+        "y": 525,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:24:04.870Z"
+    },
+    {
+        "uuid": "e7abcf75-5e07-4dfe-b19c-f488b4733d1a",
+        "userDefinedKey": "85c355ca-5df2-4e73-8562-cef2df29b81e",
+        "concept": "Calliostoma",
+        "height": 43,
+        "observer": "lonny",
+        "width": 41,
+        "x": 1468,
+        "y": 484,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:24:04.870Z"
+    }
+]

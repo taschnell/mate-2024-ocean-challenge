@@ -1,0 +1,28 @@
+[
+    {
+        "uuid": "2234616c-d435-45cd-b1f3-cd602fea17b0",
+        "userDefinedKey": "a0903f29-41d8-4b6f-3468-bc707e58c11e",
+        "concept": "Ophiuroidea",
+        "height": 75,
+        "observer": "yolov5",
+        "width": 103,
+        "x": 1374,
+        "y": 852,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:26.017Z"
+    },
+    {
+        "uuid": "e636fba7-6d2e-45f7-93a9-05d58804a72f",
+        "userDefinedKey": "f9986351-6504-4c6c-3868-bc707e58c11e",
+        "concept": "Demospongiae sp. 1",
+        "height": 479,
+        "observer": "lonny",
+        "width": 445,
+        "x": 908,
+        "y": 6,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:26.017Z"
+    }
+]

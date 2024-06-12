@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "5066c485-eea6-4442-b387-d79b6247c5cc",
+        "userDefinedKey": "42a93292-e0d5-4c3e-056c-487ac93cbc1e",
+        "concept": "Rathbunaster californicus",
+        "height": 27,
+        "observer": "gsainz",
+        "width": 39,
+        "x": 528,
+        "y": 643,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:16:45.387Z"
+    },
+    {
+        "uuid": "a508816f-a0b1-4165-93a5-3d9414d8d5f9",
+        "userDefinedKey": "ed9e7cba-baae-413b-776a-ea80ca3cbc1e",
+        "concept": "Ophiuroidea",
+        "height": 37,
+        "observer": "gsainz",
+        "width": 53,
+        "x": 312,
+        "y": 1022,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:16:45.387Z"
+    },
+    {
+        "uuid": "1667eb18-3270-4839-8a0f-88eb375c2ecb",
+        "userDefinedKey": "d09959e6-0e01-444e-766a-7041ca3cbc1e",
+        "concept": "Ophiuroidea",
+        "height": 40,
+        "observer": "gsainz",
+        "width": 46,
+        "x": 1058,
+        "y": 925,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:16:45.387Z"
+    },
+    {
+        "uuid": "d547246b-de15-408c-ad3f-6cdd8e5178df",
+        "userDefinedKey": "f597a13e-354d-4045-c069-39d0c83cbc1e",
+        "concept": "Asteroidea",
+        "height": 55,
+        "observer": "gsainz",
+        "width": 58,
+        "x": 1031,
+        "y": 974,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:16:45.387Z"
+    }
+]

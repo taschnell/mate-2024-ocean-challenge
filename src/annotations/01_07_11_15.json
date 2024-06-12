@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "e809074a-7314-41c0-97d4-64c14603fd79",
+        "userDefinedKey": "1bf8a65d-9d80-4b7d-cc6f-7e107f58c11e",
+        "concept": "Porifera",
+        "height": 41,
+        "observer": "yolov5",
+        "width": 40,
+        "x": 1733,
+        "y": 103,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:08.330Z"
+    },
+    {
+        "uuid": "57fe70cd-5eba-422d-8266-821ee024543f",
+        "userDefinedKey": "c15d7564-70f3-4468-ca6f-7e107f58c11e",
+        "concept": "Ophiuroidea",
+        "height": 68,
+        "observer": "yolov5",
+        "width": 49,
+        "x": 1431,
+        "y": 646,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:08.330Z"
+    },
+    {
+        "uuid": "6de80b49-7b1b-4f82-a346-281e5a309175",
+        "userDefinedKey": "c71c3a59-8e84-4e5e-c26e-66117f58c11e",
+        "concept": "Ophiuroidea",
+        "height": 49,
+        "observer": "yolov5",
+        "width": 77,
+        "x": 1822,
+        "y": 528,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:08.330Z"
+    },
+    {
+        "uuid": "e2a8a7ef-e07a-4632-949d-feaee07bb095",
+        "userDefinedKey": "1aed0e44-0210-4615-c06e-66117f58c11e",
+        "concept": "Pandalus amplus",
+        "height": 53,
+        "observer": "lonny",
+        "width": 115,
+        "x": 1721,
+        "y": 177,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:08.330Z"
+    },
+    {
+        "uuid": "132b8b12-4bad-4358-8a81-970081187d0d",
+        "userDefinedKey": "1afc0d39-f9ee-45f6-c46e-66117f58c11e",
+        "concept": "Isidella tentaculum",
+        "height": 1050,
+        "observer": "lonny",
+        "width": 1226,
+        "x": 0,
+        "y": 4,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:08.330Z"
+    }
+]

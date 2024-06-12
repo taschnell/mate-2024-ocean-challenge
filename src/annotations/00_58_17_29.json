@@ -1,0 +1,80 @@
+[
+    {
+        "uuid": "8d3fa9ce-f3c2-446c-90f7-fe41190290a7",
+        "userDefinedKey": "94044799-c0bb-4d1e-c665-c17f1f58c11e",
+        "concept": "Actiniaria",
+        "height": 36,
+        "observer": "yolov5",
+        "width": 37,
+        "x": 541,
+        "y": 238,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:41.469Z"
+    },
+    {
+        "uuid": "8e37af20-4ece-48f9-8631-79c2b091cdd0",
+        "userDefinedKey": "dd8c3be8-e901-43ae-ce65-c17f1f58c11e",
+        "concept": "Actiniaria",
+        "height": 41,
+        "observer": "yolov5",
+        "width": 39,
+        "x": 466,
+        "y": 251,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:41.469Z"
+    },
+    {
+        "uuid": "4d40355b-ec8a-4b32-bcac-7f7f4e244a5f",
+        "userDefinedKey": "4442a495-b1c7-48f7-d065-c17f1f58c11e",
+        "concept": "Sebastolobus",
+        "height": 64,
+        "observer": "yolov5",
+        "width": 51,
+        "x": 255,
+        "y": 219,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:41.469Z"
+    },
+    {
+        "uuid": "bdd34aa4-9c52-4a78-a19f-478bcb1c7cde",
+        "userDefinedKey": "440ceca2-1548-43aa-d265-c17f1f58c11e",
+        "concept": "Chionoecetes tanneri",
+        "height": 197,
+        "observer": "yolov5",
+        "width": 194,
+        "x": 302,
+        "y": 92,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:41.469Z"
+    },
+    {
+        "uuid": "c4b213e7-9744-4705-ab64-3c72560466da",
+        "userDefinedKey": "8d5818b9-1ff8-4acc-c865-c17f1f58c11e",
+        "concept": "Actiniaria",
+        "height": 37,
+        "observer": "yolov5",
+        "width": 45,
+        "x": 545,
+        "y": 212,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:41.469Z"
+    },
+    {
+        "uuid": "81421899-f72d-412a-89eb-456d2b7babbe",
+        "userDefinedKey": "46c07a0e-d7d6-405c-cc65-c17f1f58c11e",
+        "concept": "Ophiuroidea",
+        "height": 66,
+        "observer": "yolov5",
+        "width": 137,
+        "x": 103,
+        "y": 180,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:41.469Z"
+    }
+]

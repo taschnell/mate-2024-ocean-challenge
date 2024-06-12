@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "e25e2704-c9f5-4554-9b9e-55b5a45852b1",
+        "userDefinedKey": "cb29ef13-9129-427b-d861-f711a896bc1e",
+        "concept": "Propeamussium meridionale",
+        "height": 40,
+        "observer": "linda",
+        "width": 45,
+        "x": 854,
+        "y": 258,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:23:10.107Z"
+    },
+    {
+        "uuid": "23facb42-2960-46d0-95e2-fd93fd16570a",
+        "userDefinedKey": "4b0b7217-8e67-4040-4967-40f3a896bc1e",
+        "concept": "Benthocodon pedunculata",
+        "height": 124,
+        "observer": "linda",
+        "width": 133,
+        "x": 511,
+        "y": 898,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:23:10.107Z"
+    },
+    {
+        "uuid": "8fbd0e67-030b-4bb0-923e-fef6bd5a1c93",
+        "userDefinedKey": "8ff0f589-09dc-4fe9-2161-5cb6a896bc1e",
+        "concept": "Cystechinus loveni",
+        "height": 131,
+        "observer": "linda",
+        "width": 166,
+        "x": 1493,
+        "y": 173,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:23:10.107Z"
+    },
+    {
+        "uuid": "bf16e03c-c3a3-4e3e-9c9c-576012d95adf",
+        "userDefinedKey": "245878d9-a67b-40fa-6a6c-a456a996bc1e",
+        "concept": "Benthocodon pedunculata",
+        "height": 98,
+        "observer": "linda",
+        "width": 44,
+        "x": 1,
+        "y": 198,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:23:10.107Z"
+    },
+    {
+        "uuid": "13d0f259-047f-4a28-807f-2b953d1e1965",
+        "userDefinedKey": "d997a7b4-7e4b-45ea-f965-8e66a896bc1e",
+        "concept": "Ophiuroidea",
+        "height": 134,
+        "observer": "linda",
+        "width": 140,
+        "x": 1122,
+        "y": 454,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:23:10.107Z"
+    }
+]

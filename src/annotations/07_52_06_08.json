@@ -1,0 +1,93 @@
+[
+    {
+        "uuid": "cdc1445a-630b-41c4-bdfc-34766bc087ef",
+        "userDefinedKey": "5445541c-4d4d-4cdb-9865-31226658c11e",
+        "concept": "Ophiuroidea",
+        "height": 91,
+        "observer": "yolov5",
+        "width": 90,
+        "x": 1,
+        "y": 718,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:23:19.642Z"
+    },
+    {
+        "uuid": "e7c1fe52-9caa-41e6-a7e7-48455987ee78",
+        "userDefinedKey": "59129ff4-cd73-429a-9a65-31226658c11e",
+        "concept": "Tunicata",
+        "height": 55,
+        "observer": "yolov5",
+        "width": 57,
+        "x": 1498,
+        "y": 53,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:23:19.642Z"
+    },
+    {
+        "uuid": "6a587b27-b3c3-4267-b589-e5e82ea20d04",
+        "userDefinedKey": "14eebb19-a395-401d-9e65-31226658c11e",
+        "concept": "Ophiuroidea",
+        "height": 101,
+        "observer": "yolov5",
+        "width": 91,
+        "x": 1634,
+        "y": 281,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:23:19.642Z"
+    },
+    {
+        "uuid": "8d2ceded-822b-41b6-a491-e44dbaabddb2",
+        "userDefinedKey": "2304535c-111d-4dfb-a065-31226658c11e",
+        "concept": "Tunicata",
+        "height": 105,
+        "observer": "gsainz",
+        "width": 119,
+        "x": 191,
+        "y": 820,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:23:19.642Z"
+    },
+    {
+        "uuid": "02006433-1bc1-483f-9ca8-fec28d0abea1",
+        "userDefinedKey": "08cdf9fe-f5dc-4c16-9c65-31226658c11e",
+        "concept": "Ophiuroidea",
+        "height": 84,
+        "observer": "yolov5",
+        "width": 82,
+        "x": 1746,
+        "y": 150,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:23:19.642Z"
+    },
+    {
+        "uuid": "da1e8061-32ad-406d-9046-00f052fcaaea",
+        "userDefinedKey": "1dbc69d6-34a8-4cbc-7568-facf1890d11e",
+        "concept": "Graneledone boreopacifica",
+        "height": 410,
+        "observer": "linda",
+        "width": 593,
+        "x": 573,
+        "y": 244,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:23:19.642Z"
+    },
+    {
+        "uuid": "acf34075-ad4a-4efc-8a4a-c6d9983f12b0",
+        "userDefinedKey": "f30cdfbf-428d-4fe4-a265-31226658c11e",
+        "concept": "Tunicata",
+        "height": 85,
+        "observer": "yolov5",
+        "width": 95,
+        "x": 373,
+        "y": 723,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:23:19.642Z"
+    }
+]

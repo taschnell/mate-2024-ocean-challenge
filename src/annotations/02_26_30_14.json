@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "a6c4d2c8-eae7-43c1-b853-b579e9b8a9e5",
+        "userDefinedKey": "1f930f4c-385f-4256-7a6b-15d99a58c11e",
+        "concept": "Ophiuroidea",
+        "height": 77,
+        "observer": "yolov5",
+        "width": 83,
+        "x": 377,
+        "y": 311,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:46.717Z"
+    },
+    {
+        "uuid": "d0d1d377-3ec7-429f-9a10-54608241cc37",
+        "userDefinedKey": "59c0ae8a-b3aa-42a1-766b-15d99a58c11e",
+        "concept": "Euchone",
+        "height": 163,
+        "observer": "gsainz",
+        "width": 182,
+        "x": 244,
+        "y": 189,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:46.717Z"
+    },
+    {
+        "uuid": "21fe6069-1815-4278-9879-32477e78c97b",
+        "userDefinedKey": "2d045bf0-5046-4da2-786b-15d99a58c11e",
+        "concept": "Suction Sampler",
+        "height": 346,
+        "observer": "gsainz",
+        "width": 274,
+        "x": 441,
+        "y": 70,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:46.717Z"
+    }
+]

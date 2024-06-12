@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "926d45b2-49e9-463a-ab95-c45d64556cc0",
+        "userDefinedKey": "a622e6fd-bf38-42da-bb6e-7efca93ebd1e",
+        "concept": "Peniagone vitrea- sp. 1 complex",
+        "height": 87,
+        "observer": "linda",
+        "width": 67,
+        "x": 1807,
+        "y": 516,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:29:39.495Z"
+    },
+    {
+        "uuid": "3b6cdbcc-ed03-42fc-ad66-546131f8c485",
+        "userDefinedKey": "0fc9c290-92b5-4cb9-9466-3cdbaa3ebd1e",
+        "concept": "Ophiuroidea",
+        "height": 116,
+        "observer": "gsainz",
+        "width": 127,
+        "x": 1113,
+        "y": 912,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:29:39.496Z"
+    },
+    {
+        "uuid": "3bbafbaf-7dd3-443b-9b4a-e2647ac013e0",
+        "userDefinedKey": "818bac08-5a70-43fa-9b62-0765aa3ebd1e",
+        "concept": "Munnopsidae",
+        "height": 131,
+        "observer": "gsainz",
+        "width": 124,
+        "x": 828,
+        "y": 131,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:29:39.496Z"
+    }
+]

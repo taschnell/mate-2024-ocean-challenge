@@ -1,0 +1,28 @@
+[
+    {
+        "uuid": "1f71e28d-3f3b-476e-ae66-1823287562c7",
+        "userDefinedKey": "e86af886-cefd-455e-7469-7d297e38bd1e",
+        "concept": "Peniagone gracilis",
+        "height": 109,
+        "observer": "master@mbari.org",
+        "width": 92,
+        "x": 973,
+        "y": 459,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:42:52.818Z"
+    },
+    {
+        "uuid": "76cee9cb-cb53-4fc4-8b3e-d9ba31837869",
+        "userDefinedKey": "48e0e66d-89fd-4aba-cd69-00917e38bd1e",
+        "concept": "Ophiuroidea",
+        "height": 106,
+        "observer": "master@mbari.org",
+        "width": 110,
+        "x": 789,
+        "y": 150,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:42:52.824Z"
+    }
+]

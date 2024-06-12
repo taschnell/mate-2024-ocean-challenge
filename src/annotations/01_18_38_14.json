@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "82bd7064-cbc6-4a30-818c-100a186b2a28",
+        "userDefinedKey": "de73a355-49da-496c-8a67-d8293b58c11e",
+        "concept": "Ophiuroidea",
+        "height": 195,
+        "observer": "yolov5",
+        "width": 274,
+        "x": 762,
+        "y": 681,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:19.932Z"
+    },
+    {
+        "uuid": "67fdd48d-b4b3-42aa-a9a2-ad2b72edc658",
+        "userDefinedKey": "f276d530-65f6-4e1e-8c67-d8293b58c11e",
+        "concept": "Scotoplanes",
+        "height": 151,
+        "observer": "yolov5",
+        "width": 109,
+        "x": 407,
+        "y": 445,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:19.932Z"
+    },
+    {
+        "uuid": "bc9d6155-5c84-4bad-ba20-e72c6a124bb4",
+        "userDefinedKey": "aa9a9918-c932-4dac-8467-d8293b58c11e",
+        "concept": "Ophiuroidea",
+        "height": 96,
+        "observer": "yolov5",
+        "width": 119,
+        "x": 959,
+        "y": 909,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:19.932Z"
+    },
+    {
+        "uuid": "daf76fec-04c3-4662-8423-f499a6df8db0",
+        "userDefinedKey": "47f1d53b-a421-4686-8667-d8293b58c11e",
+        "concept": "Ophiuroidea",
+        "height": 73,
+        "observer": "yolov5",
+        "width": 102,
+        "x": 318,
+        "y": 393,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:19.932Z"
+    },
+    {
+        "uuid": "3fff1c43-d11b-4967-8bd7-93559bab0808",
+        "userDefinedKey": "b811b413-926c-469e-8867-d8293b58c11e",
+        "concept": "Ophiuroidea",
+        "height": 125,
+        "observer": "yolov5",
+        "width": 158,
+        "x": 1639,
+        "y": 652,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:19.932Z"
+    }
+]

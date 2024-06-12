@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "24dbb8e7-a100-4c3f-9b8b-8fd57f2686c4",
+        "userDefinedKey": "54d1f6f0-2767-40a1-0067-9f632858c11e",
+        "concept": "Asteroidea",
+        "height": 50,
+        "observer": "yolov5",
+        "width": 57,
+        "x": 1834,
+        "y": 733,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.813Z"
+    },
+    {
+        "uuid": "fd011166-bf37-4024-a78d-23372703c8a0",
+        "userDefinedKey": "cc48e870-ce7a-4773-8260-01642858c11e",
+        "concept": "Hormathiidae",
+        "height": 131,
+        "observer": "yolov5",
+        "width": 170,
+        "x": 1,
+        "y": 166,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.813Z"
+    },
+    {
+        "uuid": "4ea4e3b9-659d-4055-a4dc-5eae6a112201",
+        "userDefinedKey": "d14144e9-238f-4fe7-fe66-9f632858c11e",
+        "concept": "Ophiuroidea",
+        "height": 59,
+        "observer": "yolov5",
+        "width": 75,
+        "x": 1234,
+        "y": 264,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.813Z"
+    },
+    {
+        "uuid": "1e6b2ef9-464b-4f5d-915d-7c659775feb3",
+        "userDefinedKey": "71bc6050-a040-4b01-8460-01642858c11e",
+        "concept": "Scotoplanes",
+        "height": 113,
+        "observer": "yolov5",
+        "width": 84,
+        "x": 185,
+        "y": 420,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.813Z"
+    },
+    {
+        "uuid": "593d3c53-a50f-4e74-85ad-282c8ac9e152",
+        "userDefinedKey": "4919c828-1a08-473d-fc66-9f632858c11e",
+        "concept": "Ceriantharia",
+        "height": 37,
+        "observer": "yolov5",
+        "width": 48,
+        "x": 522,
+        "y": 273,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.813Z"
+    }
+]

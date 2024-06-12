@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "844509b1-1798-40c2-b888-cac70bf480dc",
+        "userDefinedKey": "9bc9e648-db7b-4f1a-636a-c39a6fb8b71e",
+        "concept": "Antimora microlepis",
+        "height": 360,
+        "observer": "linda",
+        "width": 443,
+        "x": 1237,
+        "y": 197,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:22:19.611Z"
+    },
+    {
+        "uuid": "b57c15e2-78e3-4864-94d6-c0b2f5f7d317",
+        "userDefinedKey": "ee8bfd33-638d-4ced-4869-b64070b8b71e",
+        "concept": "Ophiuroidea",
+        "height": 58,
+        "observer": "gsainz",
+        "width": 125,
+        "x": 735,
+        "y": 641,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:22:19.611Z"
+    },
+    {
+        "uuid": "b57ea349-553a-43d3-b5a0-f5bb85850812",
+        "userDefinedKey": "4b9d894c-c068-451c-6f64-c65571b8b71e",
+        "concept": "Porifera",
+        "height": 38,
+        "observer": "gsainz",
+        "width": 49,
+        "x": 762,
+        "y": 593,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:22:19.611Z"
+    }
+]

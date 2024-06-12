@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "5f32f626-400f-43d4-829a-59edb44d1891",
+        "userDefinedKey": "bf0c986f-b118-4179-6565-4c2a3c58c11e",
+        "concept": "Sternostylus perarmatus",
+        "height": 309,
+        "observer": "lonny",
+        "width": 248,
+        "x": 461,
+        "y": 418,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:08.380Z"
+    },
+    {
+        "uuid": "fe942a23-d428-49f1-ba85-a707e610bc75",
+        "userDefinedKey": "4cd79e81-070a-48c9-6d65-4c2a3c58c11e",
+        "concept": "Tunicata",
+        "height": 46,
+        "observer": "yolov5",
+        "width": 51,
+        "x": 1736,
+        "y": 902,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:08.380Z"
+    },
+    {
+        "uuid": "2cb3c13b-69ad-4e4b-843c-ccf55a85000d",
+        "userDefinedKey": "b02c7446-1fb1-4fa5-0763-28fa4181d11e",
+        "concept": "Lillipathes",
+        "height": 1077,
+        "observer": "lonny",
+        "width": 1289,
+        "x": 189,
+        "y": 0,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:08.380Z"
+    },
+    {
+        "uuid": "60c17878-ae5f-44ce-a39e-fd2adeed8a8c",
+        "userDefinedKey": "2c63ccd6-3a10-4130-836f-b4293c58c11e",
+        "concept": "Pandalus amplus",
+        "height": 71,
+        "observer": "lonny",
+        "width": 75,
+        "x": 1330,
+        "y": 885,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:08.380Z"
+    },
+    {
+        "uuid": "e06b98cd-e5ac-4cec-bc69-fda7602a06b1",
+        "userDefinedKey": "43aa3b52-1e6d-4b16-6f65-4c2a3c58c11e",
+        "concept": "Ophiuroidea",
+        "height": 63,
+        "observer": "yolov5",
+        "width": 63,
+        "x": 286,
+        "y": 240,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:08.380Z"
+    }
+]

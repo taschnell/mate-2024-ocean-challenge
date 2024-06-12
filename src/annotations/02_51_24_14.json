@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "598dccd9-fc64-4161-afaf-532c8ffc3343",
+        "userDefinedKey": "5756c5ef-2ec1-4a8d-4d61-fb831d58c11e",
+        "concept": "Ophiuroidea",
+        "height": 38,
+        "observer": "yolov5",
+        "width": 54,
+        "x": 45,
+        "y": 285,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:33.119Z"
+    },
+    {
+        "uuid": "14499aef-d83d-4268-a936-ca27243de4f3",
+        "userDefinedKey": "a476e451-a457-4dbe-4761-fb831d58c11e",
+        "concept": "Push Corer",
+        "height": 151,
+        "observer": "lonny",
+        "width": 65,
+        "x": 90,
+        "y": 191,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:33.119Z"
+    },
+    {
+        "uuid": "c4aeef1b-2b16-4955-8922-ee535da8b431",
+        "userDefinedKey": "47fe5b44-0838-4341-4f61-fb831d58c11e",
+        "concept": "manipulator",
+        "height": 181,
+        "observer": "lonny",
+        "width": 282,
+        "x": 115,
+        "y": 65,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:33.119Z"
+    },
+    {
+        "uuid": "20849698-15ea-4ce8-9a4b-436811f373a2",
+        "userDefinedKey": "9642329e-2b47-4cf5-4b61-fb831d58c11e",
+        "concept": "Galatheoidea",
+        "height": 19,
+        "observer": "yolov5",
+        "width": 22,
+        "x": 37,
+        "y": 327,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:33.119Z"
+    }
+]

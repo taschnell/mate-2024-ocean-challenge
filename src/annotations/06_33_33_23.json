@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "fc3d3ae0-7ecd-4e04-8686-4d9bacb819d1",
+        "userDefinedKey": "291a2c20-3190-4259-1f61-ffc92b3bbd1e",
+        "concept": "Polychaeta tube",
+        "height": 688,
+        "observer": "gsainz",
+        "width": 249,
+        "x": 1496,
+        "y": 321,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:30:03.383Z"
+    },
+    {
+        "uuid": "dfa62fbd-6e98-41e5-93d5-294370956e6f",
+        "userDefinedKey": "d1f559fd-c852-42fe-cd60-63412c3bbd1e",
+        "concept": "Ophiuroidea",
+        "height": 129,
+        "observer": "gsainz",
+        "width": 75,
+        "x": 1675,
+        "y": 822,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:30:03.383Z"
+    },
+    {
+        "uuid": "aa1556e3-ecbe-4a58-ab7d-8b55eb1efc9b",
+        "userDefinedKey": "230e51d0-8bba-4e20-4a6a-89382a3bbd1e",
+        "concept": "Porifera",
+        "height": 85,
+        "observer": "gsainz",
+        "width": 63,
+        "x": 115,
+        "y": 424,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:30:03.384Z"
+    },
+    {
+        "uuid": "4769f4b2-edc7-49e2-b384-1bcb1e80dc47",
+        "userDefinedKey": "9b6c9a7a-0df9-45ed-1b62-a0a6293bbd1e",
+        "concept": "Peniagone vitrea- sp. 1 complex",
+        "height": 154,
+        "observer": "linda",
+        "width": 98,
+        "x": 1762,
+        "y": 307,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:30:03.384Z"
+    }
+]

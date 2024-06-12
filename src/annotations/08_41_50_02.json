@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "adc71efe-1f47-4068-ab86-c76be5e0b10e",
+        "userDefinedKey": "ec02002f-c410-4772-2567-a2b73dc5aa1e",
+        "concept": "Ophiuroidea",
+        "height": 50,
+        "observer": "expert-observer",
+        "width": 55,
+        "x": 1516,
+        "y": 412,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:17:01.353Z"
+    },
+    {
+        "uuid": "cfd9e2b3-78c8-44b3-8f67-c173c531a4b0",
+        "userDefinedKey": "de487626-9a36-4d37-5462-bab53dc5aa1e",
+        "concept": "Sebastolobus",
+        "height": 85,
+        "observer": "linda",
+        "width": 225,
+        "x": 1141,
+        "y": 872,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:17:01.353Z"
+    },
+    {
+        "uuid": "7ce0920f-21b2-4599-9ced-b8507823acca",
+        "userDefinedKey": "c0fb5eef-361c-44fe-e96c-e6b73dc5aa1e",
+        "concept": "Pannychia moseleyi",
+        "height": 169,
+        "observer": "expert-observer",
+        "width": 450,
+        "x": 807,
+        "y": 699,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:17:01.353Z"
+    }
+]

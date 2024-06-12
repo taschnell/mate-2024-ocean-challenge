@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "8c8273cd-6745-4e85-a869-c7dff4b1c7b7",
+        "userDefinedKey": "27ab272e-47f8-4557-fd63-44d33958c11e",
+        "concept": "Ophiuroidea",
+        "height": 61,
+        "observer": "yolov5",
+        "width": 66,
+        "x": 1040,
+        "y": 902,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:22:32.212Z"
+    },
+    {
+        "uuid": "e492190e-f118-432b-9711-79affb6d5a67",
+        "userDefinedKey": "a47e5587-f43c-42a6-fb63-44d33958c11e",
+        "concept": "Ophiuroidea",
+        "height": 76,
+        "observer": "yolov5",
+        "width": 71,
+        "x": 662,
+        "y": 845,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:22:32.212Z"
+    },
+    {
+        "uuid": "f9f8deb7-6a3a-4aaf-9477-dd9f85182969",
+        "userDefinedKey": "3cec310c-e47a-49e0-f963-44d33958c11e",
+        "concept": "Ophiuroidea",
+        "height": 43,
+        "observer": "yolov5",
+        "width": 48,
+        "x": 868,
+        "y": 1034,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:22:32.212Z"
+    },
+    {
+        "uuid": "4c4b35c2-5f21-4378-9f22-ba540f509fac",
+        "userDefinedKey": "efadb5e0-bc1f-4dfc-ff63-44d33958c11e",
+        "concept": "Coryphaenoides",
+        "height": 115,
+        "observer": "yolov5",
+        "width": 305,
+        "x": 1345,
+        "y": 7,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:22:32.212Z"
+    }
+]

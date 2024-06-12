@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "65411de6-3aa4-472d-8b10-8fe90604b970",
+        "userDefinedKey": "699d8d1d-f77a-426e-876d-cacc79cbb01e",
+        "concept": "Ophiuroidea",
+        "height": 78,
+        "observer": "master@mbari.org",
+        "width": 100,
+        "x": 551,
+        "y": 144,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:27:00.998Z"
+    },
+    {
+        "uuid": "35c25174-d4ce-4f4e-ab14-b94b035999df",
+        "userDefinedKey": "fd2a7052-0a4c-4743-3b67-8cba79cbb01e",
+        "concept": "Ophiuroidea",
+        "height": 64,
+        "observer": "master@mbari.org",
+        "width": 77,
+        "x": 478,
+        "y": 233,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:27:00.999Z"
+    },
+    {
+        "uuid": "bf5c223b-6100-40fb-9e8e-62d9726847a0",
+        "userDefinedKey": "2711ed2a-ed4e-4cfd-2661-bf8079cbb01e",
+        "concept": "Ophiuroidea",
+        "height": 95,
+        "observer": "master@mbari.org",
+        "width": 90,
+        "x": 2,
+        "y": 199,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:27:01.003Z"
+    },
+    {
+        "uuid": "900748b8-5a4d-4ac7-b410-c436bfdcf4d6",
+        "userDefinedKey": "d6b9dbd9-8d11-4722-5968-361779cbb01e",
+        "concept": "Cystechinus giganteus",
+        "height": 133,
+        "observer": "master@mbari.org",
+        "width": 144,
+        "x": 298,
+        "y": 97,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:27:01.004Z"
+    }
+]

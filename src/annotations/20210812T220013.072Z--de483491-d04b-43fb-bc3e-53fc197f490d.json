@@ -1,0 +1,80 @@
+[
+    {
+        "uuid": "a61293c5-278a-4904-81ea-2a7e7b81ec85",
+        "userDefinedKey": "19510340-a9dc-433b-0d62-105837d9da1e",
+        "concept": "Ophiuroidea",
+        "height": 54,
+        "observer": "lonny",
+        "width": 54,
+        "x": 1473,
+        "y": 670,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:36.334Z"
+    },
+    {
+        "uuid": "6656d1be-283f-4271-8cd9-7980093fd8cb",
+        "userDefinedKey": "9603ea1f-5e4e-4b4c-1162-105837d9da1e",
+        "concept": "Ophiuroidea",
+        "height": 51,
+        "observer": "lonny",
+        "width": 57,
+        "x": 531,
+        "y": 735,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:36.334Z"
+    },
+    {
+        "uuid": "c28e2bdf-4bcd-462b-a69f-61a0f8011cc5",
+        "userDefinedKey": "d3438202-5759-49a6-0f62-105837d9da1e",
+        "concept": "Crinoidea",
+        "height": 49,
+        "observer": "lonny",
+        "width": 52,
+        "x": 1236,
+        "y": 730,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:36.334Z"
+    },
+    {
+        "uuid": "dcf58281-d022-4af7-9b82-a3e2eae867d8",
+        "userDefinedKey": "6d0a50a0-0378-4c92-1562-105837d9da1e",
+        "concept": "Ophiuroidea",
+        "height": 48,
+        "observer": "lonny",
+        "width": 50,
+        "x": 1265,
+        "y": 981,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:36.334Z"
+    },
+    {
+        "uuid": "623871c5-909b-4109-9b2a-bf016aa1c80e",
+        "userDefinedKey": "519bed61-002f-474f-1362-105837d9da1e",
+        "concept": "Ophiuroidea",
+        "height": 39,
+        "observer": "lonny",
+        "width": 45,
+        "x": 639,
+        "y": 603,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:36.334Z"
+    },
+    {
+        "uuid": "686e2d49-7df9-40a1-85a8-6f47e726ace3",
+        "userDefinedKey": "069a02c5-d8fb-43b8-1762-105837d9da1e",
+        "concept": "Pycnogonida",
+        "height": 83,
+        "observer": "lonny",
+        "width": 89,
+        "x": 1265,
+        "y": 492,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:36.334Z"
+    }
+]

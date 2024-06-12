@@ -1,0 +1,24 @@
+[
+    {
+        "uuid": "85d0ce88-38af-42a2-9ace-865fc0c64e56",
+        "concept": "Victorgorgia alba",
+        "height": 673,
+        "width": 483,
+        "x": 400,
+        "y": 50,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2022-10-31T14:45:53.925Z"
+    },
+    {
+        "uuid": "4beb159e-dbd8-4bb2-ae1c-89e152bf0623",
+        "concept": "Ophiuroidea",
+        "height": 420,
+        "width": 340,
+        "x": 442,
+        "y": 232,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2022-10-31T14:45:53.925Z"
+    }
+]

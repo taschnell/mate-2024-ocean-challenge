@@ -1,0 +1,80 @@
+[
+    {
+        "uuid": "97468d8c-0ca4-4de3-a9d5-c98deb5a994d",
+        "userDefinedKey": "c8bb878f-344f-4c15-d068-a669d2ccda1e",
+        "concept": "Ophiuroidea",
+        "height": 98,
+        "observer": "lonny",
+        "width": 113,
+        "x": 1718,
+        "y": 206,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:30.354Z"
+    },
+    {
+        "uuid": "e7216d61-07b2-4bd0-862e-ef1bfab776f7",
+        "userDefinedKey": "3f07dfe0-0835-4fb7-cc68-a669d2ccda1e",
+        "concept": "Ophiuroidea",
+        "height": 112,
+        "observer": "lonny",
+        "width": 124,
+        "x": 674,
+        "y": 725,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:30.354Z"
+    },
+    {
+        "uuid": "3913c6f8-50f5-4f85-a273-341f5522c260",
+        "userDefinedKey": "8efec081-7568-48b9-d268-a669d2ccda1e",
+        "concept": "Pycnogonida",
+        "height": 90,
+        "observer": "lonny",
+        "width": 120,
+        "x": 926,
+        "y": 1,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:30.354Z"
+    },
+    {
+        "uuid": "921bc625-909f-4613-8849-45cc8a45806c",
+        "userDefinedKey": "5cb3c1e8-bcb1-4798-ce68-a669d2ccda1e",
+        "concept": "Ophiuroidea",
+        "height": 77,
+        "observer": "lonny",
+        "width": 88,
+        "x": 637,
+        "y": 545,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:30.354Z"
+    },
+    {
+        "uuid": "7ae9db6e-b62c-461b-a898-ac8dededd697",
+        "userDefinedKey": "db59080b-31e0-41ad-ca68-a669d2ccda1e",
+        "concept": "Ophiuroidea",
+        "height": 69,
+        "observer": "lonny",
+        "width": 85,
+        "x": 962,
+        "y": 663,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:30.354Z"
+    },
+    {
+        "uuid": "3e00e60f-5821-4252-8527-67a5bc66cdc8",
+        "userDefinedKey": "c7a16ad5-c0a5-458c-97e8-9848904fe079",
+        "concept": "Psamminidae",
+        "height": 68,
+        "observer": "lonny",
+        "width": 78,
+        "x": 955,
+        "y": 750,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:30.354Z"
+    }
+]

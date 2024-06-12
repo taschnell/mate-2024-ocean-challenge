@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "cc7bf3de-0826-46de-8abf-a18b03f28d3b",
+        "userDefinedKey": "2b570c13-5f5b-4dda-cc64-f8061a71b61e",
+        "concept": "Pannychia",
+        "height": 326,
+        "observer": "gsainz",
+        "width": 90,
+        "x": 1391,
+        "y": 8,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:32:34.724Z"
+    },
+    {
+        "uuid": "4e1ded35-49b3-479d-b716-2a0d3fe97518",
+        "userDefinedKey": "06dbd5d7-3c29-4832-de63-2d0f1971b61e",
+        "concept": "Caridea",
+        "height": 82,
+        "observer": "gsainz",
+        "width": 49,
+        "x": 925,
+        "y": 582,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:32:34.724Z"
+    },
+    {
+        "uuid": "a85d3a4a-ed36-4029-8010-c9c973a012d8",
+        "userDefinedKey": "0c8b2ec8-0f18-49a9-6f6c-cf411a71b61e",
+        "concept": "Ophiuroidea",
+        "height": 98,
+        "observer": "gsainz",
+        "width": 93,
+        "x": 1532,
+        "y": 757,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:32:34.724Z"
+    },
+    {
+        "uuid": "632b9af7-b5f1-4b76-b842-87c3992650eb",
+        "userDefinedKey": "40f3aac0-9000-42b8-a062-d37f1971b61e",
+        "concept": "Ophiuroidea",
+        "height": 115,
+        "observer": "gsainz",
+        "width": 126,
+        "x": 247,
+        "y": 461,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:32:34.724Z"
+    },
+    {
+        "uuid": "5df2f63f-24e8-4f8a-8fe9-7eb9501ca0ac",
+        "userDefinedKey": "a33cd7b4-5712-4993-fa65-e26b1771b61e",
+        "concept": "Sebastolobus",
+        "height": 252,
+        "observer": "lonny",
+        "width": 339,
+        "x": 43,
+        "y": 252,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:32:34.724Z"
+    }
+]

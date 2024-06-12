@@ -1,0 +1,80 @@
+[
+    {
+        "uuid": "ce3104d3-d789-41ad-8d65-100911272ae0",
+        "userDefinedKey": "09cfe86c-df56-4d9f-9468-bebe45afbc1e",
+        "concept": "Ophiuroidea",
+        "height": 72,
+        "observer": "master@mbari.org",
+        "width": 62,
+        "x": 633,
+        "y": 875,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:17:52.091Z"
+    },
+    {
+        "uuid": "eaeebd59-7ada-45f3-80fb-54ee2c2dae0d",
+        "userDefinedKey": "640fc4ef-f041-442c-c36d-b3ce48afbc1e",
+        "concept": "Ophiuroidea",
+        "height": 54,
+        "observer": "master@mbari.org",
+        "width": 103,
+        "x": 558,
+        "y": 401,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:17:52.093Z"
+    },
+    {
+        "uuid": "496b02df-8b4a-4410-b1da-5fa2c3f56253",
+        "userDefinedKey": "6a2872b6-ea1e-4dbe-486a-96bd3eafbc1e",
+        "concept": "Peniagone",
+        "height": 79,
+        "observer": "master@mbari.org",
+        "width": 81,
+        "x": 1346,
+        "y": 841,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:17:52.094Z"
+    },
+    {
+        "uuid": "ada8f532-19be-4293-a5b8-c595487a96f2",
+        "userDefinedKey": "94d98100-561d-4c62-7566-c0f948afbc1e",
+        "concept": "Ophiuroidea",
+        "height": 83,
+        "observer": "master@mbari.org",
+        "width": 97,
+        "x": 1752,
+        "y": 842,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:17:52.098Z"
+    },
+    {
+        "uuid": "c9a7cb9f-bfcf-4f46-8161-dc982f5cf7e5",
+        "userDefinedKey": "9a36a3eb-4ef1-41c3-f266-ab5645afbc1e",
+        "concept": "Enteropneusta",
+        "height": 101,
+        "observer": "master@mbari.org",
+        "width": 131,
+        "x": 694,
+        "y": 809,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:17:52.098Z"
+    },
+    {
+        "uuid": "0dd3923d-f179-4010-992d-00b936bf6d35",
+        "userDefinedKey": "4bb7ed1e-9a38-4fe2-3a65-10a448afbc1e",
+        "concept": "Paelopatides confundens",
+        "height": 65,
+        "observer": "master@mbari.org",
+        "width": 93,
+        "x": 603,
+        "y": 313,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:17:52.097Z"
+    }
+]

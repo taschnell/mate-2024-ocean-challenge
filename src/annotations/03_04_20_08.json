@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "ea6c109e-10e4-4918-be92-cdae276279f2",
+        "userDefinedKey": "36eea299-144b-4510-d66a-c41e5258c11e",
+        "concept": "Actiniaria",
+        "height": 102,
+        "observer": "yolov5",
+        "width": 111,
+        "x": 1123,
+        "y": 712,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:07.689Z"
+    },
+    {
+        "uuid": "72e8a3cf-4250-46a7-bc11-adf4e0fcbad4",
+        "userDefinedKey": "f8e5c138-03c6-4525-d26a-c41e5258c11e",
+        "concept": "Porifera",
+        "height": 66,
+        "observer": "yolov5",
+        "width": 59,
+        "x": 1241,
+        "y": 525,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:07.689Z"
+    },
+    {
+        "uuid": "13059a49-287d-4f0d-959b-5a61191de786",
+        "userDefinedKey": "ba799a5d-30d8-4d60-d46a-c41e5258c11e",
+        "concept": "Ophiuroidea",
+        "height": 68,
+        "observer": "yolov5",
+        "width": 64,
+        "x": 462,
+        "y": 183,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:07.689Z"
+    }
+]

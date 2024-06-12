@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "c9127f0d-0ee7-45cd-b176-48eb3974c1af",
+        "userDefinedKey": "d813fdea-f341-4433-9f6b-640dd1d7da1e",
+        "concept": "Ophiuroidea",
+        "height": 92,
+        "observer": "lonny",
+        "width": 108,
+        "x": 1476,
+        "y": 437,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:02.678Z"
+    },
+    {
+        "uuid": "64a3cf9a-0f0e-4ff1-bf9a-2f6177493e87",
+        "userDefinedKey": "9b333075-c855-455d-a16b-640dd1d7da1e",
+        "concept": "Pycnogonida",
+        "height": 163,
+        "observer": "lonny",
+        "width": 178,
+        "x": 1258,
+        "y": 521,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:02.678Z"
+    },
+    {
+        "uuid": "a3ea6acc-3f0a-4afb-ab29-2b863c437c1e",
+        "userDefinedKey": "99713beb-4f10-4931-996b-640dd1d7da1e",
+        "concept": "Ceriantharia",
+        "height": 108,
+        "observer": "lonny",
+        "width": 132,
+        "x": 605,
+        "y": 796,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:02.678Z"
+    },
+    {
+        "uuid": "07829cea-fea2-4a62-a427-1e13b6c34a7b",
+        "userDefinedKey": "5ae64ab9-2786-4a27-9d6b-640dd1d7da1e",
+        "concept": "Ophiuroidea",
+        "height": 102,
+        "observer": "lonny",
+        "width": 132,
+        "x": 427,
+        "y": 263,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:02.678Z"
+    },
+    {
+        "uuid": "7ab63277-7cf5-42ab-a258-85c3970bc706",
+        "userDefinedKey": "6097554e-622f-4a7c-9b6b-640dd1d7da1e",
+        "concept": "Ophiuroidea",
+        "height": 108,
+        "observer": "lonny",
+        "width": 132,
+        "x": 827,
+        "y": 63,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:02.678Z"
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "uuid": "447a055f-f5d4-4354-9742-bcce31888189",
+        "userDefinedKey": "cc725bde-cb0c-4da5-ee64-6ac564cbb01e",
+        "concept": "Ophiuroidea",
+        "height": 38,
+        "observer": "linda",
+        "width": 38,
+        "x": 1297,
+        "y": 894,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:16:10.839Z"
+    },
+    {
+        "uuid": "aaae7845-5ac5-477b-9ede-05651d20187b",
+        "userDefinedKey": "96631a35-4a59-4d97-6e68-c0b264cbb01e",
+        "concept": "Ophiuroidea",
+        "height": 41,
+        "observer": "linda",
+        "width": 40,
+        "x": 1067,
+        "y": 795,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:16:10.839Z"
+    },
+    {
+        "uuid": "37e33a66-b530-4698-bec7-be19078e4390",
+        "userDefinedKey": "0d86f4dc-f4fd-4391-526d-e59f64cbb01e",
+        "concept": "Ophiuroidea",
+        "height": 44,
+        "observer": "linda",
+        "width": 48,
+        "x": 966,
+        "y": 876,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:16:10.839Z"
+    },
+    {
+        "uuid": "264cfe71-bfe3-45d4-bd0b-11bcc1d5ed5d",
+        "userDefinedKey": "70dcf758-f5ce-4b31-7d63-ec5d64cbb01e",
+        "concept": "pillow lava",
+        "height": 476,
+        "observer": "linda",
+        "width": 731,
+        "x": 939,
+        "y": 57,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:16:10.839Z"
+    },
+    {
+        "uuid": "526e41d3-c182-4889-8fb0-d111d64ef641",
+        "userDefinedKey": "bfb3d232-f407-4bc8-bd63-678b64cbb01e",
+        "concept": "Ophiuroidea",
+        "height": 60,
+        "observer": "linda",
+        "width": 70,
+        "x": 932,
+        "y": 969,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:16:10.839Z"
+    },
+    {
+        "uuid": "ecac3a34-9b70-4ba2-8c52-3a39dca1375f",
+        "userDefinedKey": "7f48a586-aff4-459b-c16b-153464cbb01e",
+        "concept": "Cystechinus giganteus",
+        "height": 38,
+        "observer": "linda",
+        "width": 36,
+        "x": 249,
+        "y": 329,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:16:10.839Z"
+    }
+]

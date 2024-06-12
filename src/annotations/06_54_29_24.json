@@ -1,0 +1,93 @@
+[
+    {
+        "uuid": "b17a9851-fa73-458b-a5af-5a0ee5510164",
+        "userDefinedKey": "d0dd6635-c293-45fc-1364-02f26458c11e",
+        "concept": "Ophiuroidea",
+        "height": 208,
+        "observer": "yolov5",
+        "width": 189,
+        "x": 1589,
+        "y": 408,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:26.107Z"
+    },
+    {
+        "uuid": "70c3cc25-7856-463e-b859-88faaedf665a",
+        "userDefinedKey": "1c5a7cd8-901a-4893-1164-02f26458c11e",
+        "concept": "Ophiuroidea",
+        "height": 93,
+        "observer": "yolov5",
+        "width": 108,
+        "x": 4,
+        "y": 92,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:26.107Z"
+    },
+    {
+        "uuid": "5c1b5166-0c62-462e-94de-998beae81f6c",
+        "userDefinedKey": "e8feb5f3-9a8e-480d-0564-02f26458c11e",
+        "concept": "Plesionika",
+        "height": 77,
+        "observer": "lonny",
+        "width": 112,
+        "x": 1014,
+        "y": 250,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:26.107Z"
+    },
+    {
+        "uuid": "ae484b99-871d-4370-9787-cdea1831f440",
+        "userDefinedKey": "c446b4ba-019c-4c0a-0d64-02f26458c11e",
+        "concept": "Ophiuroidea",
+        "height": 194,
+        "observer": "yolov5",
+        "width": 95,
+        "x": 635,
+        "y": 332,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:26.107Z"
+    },
+    {
+        "uuid": "f4bd07cb-a297-42be-8dbd-fa53482122eb",
+        "userDefinedKey": "7dfbdbbd-a3f5-42d2-ff63-02f26458c11e",
+        "concept": "Ophiuroidea",
+        "height": 67,
+        "observer": "yolov5",
+        "width": 75,
+        "x": 136,
+        "y": 669,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:26.107Z"
+    },
+    {
+        "uuid": "f7c0089f-aacd-46f6-bdfa-286c32f06953",
+        "userDefinedKey": "eb344598-c659-4c48-0764-02f26458c11e",
+        "concept": "Ophiuroidea",
+        "height": 133,
+        "observer": "yolov5",
+        "width": 189,
+        "x": 51,
+        "y": 863,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:26.107Z"
+    },
+    {
+        "uuid": "81c7cde9-96f4-4c95-bae3-8f3135a275c8",
+        "userDefinedKey": "eb4367ff-1c2d-4da4-0164-02f26458c11e",
+        "concept": "Tunicata",
+        "height": 118,
+        "observer": "gsainz",
+        "width": 114,
+        "x": 0,
+        "y": 609,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:26.107Z"
+    }
+]

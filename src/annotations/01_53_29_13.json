@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "f1388aab-33e7-4f89-a018-d276dcb8213f",
+        "userDefinedKey": "2b6ab8b3-bb87-40f1-8865-de0323c5aa1e",
+        "concept": "Ophiuroidea",
+        "height": 22,
+        "observer": "master@mbari.org",
+        "width": 24,
+        "x": 158,
+        "y": 131,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T16:59:19.515Z"
+    },
+    {
+        "uuid": "4b8a33de-a6a3-48c1-89a2-afd93e9c8151",
+        "userDefinedKey": "c0740f98-0606-41b4-946b-b90323c5aa1e",
+        "concept": "Ophiuroidea",
+        "height": 31,
+        "observer": "master@mbari.org",
+        "width": 37,
+        "x": 136,
+        "y": 293,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T16:59:19.523Z"
+    },
+    {
+        "uuid": "7a8040ef-7c48-43c6-b883-a8223ce76f48",
+        "userDefinedKey": "65afe803-3012-4b51-936c-67ff22c5aa1e",
+        "concept": "Sebastolobus",
+        "height": 21,
+        "observer": "master@mbari.org",
+        "width": 29,
+        "x": 275,
+        "y": 93,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T16:59:19.531Z"
+    }
+]

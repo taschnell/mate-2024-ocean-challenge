@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "16eaa2a3-bddf-4342-b06d-9733caaf53cd",
+        "userDefinedKey": "02ece185-cb4b-4194-a26b-7b9798c3aa1e",
+        "concept": "Ophiuroidea",
+        "height": 58,
+        "observer": "master@mbari.org",
+        "width": 86,
+        "x": 590,
+        "y": 60,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:44:21.999Z"
+    },
+    {
+        "uuid": "fb5210c6-a132-4a1f-940e-d6335d8e78e2",
+        "userDefinedKey": "c6cb4570-fd15-4831-906d-fe9598c3aa1e",
+        "concept": "Bathyraja",
+        "height": 65,
+        "observer": "master@mbari.org",
+        "width": 103,
+        "x": 282,
+        "y": 384,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:44:22.002Z"
+    },
+    {
+        "uuid": "febbc2b0-4e71-451c-823d-1092642cedf4",
+        "userDefinedKey": "65f71b77-c0d0-40ca-0666-8a9798c3aa1e",
+        "concept": "Pannychia moseleyi",
+        "height": 31,
+        "observer": "master@mbari.org",
+        "width": 88,
+        "x": 299,
+        "y": 6,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:44:22.003Z"
+    },
+    {
+        "uuid": "df9ec506-37d6-4505-ad2c-9d7464834a90",
+        "userDefinedKey": "5286a441-b4b8-4ff2-fe64-639798c3aa1e",
+        "concept": "Ophiuroidea",
+        "height": 58,
+        "observer": "master@mbari.org",
+        "width": 73,
+        "x": 331,
+        "y": 222,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:44:22.002Z"
+    }
+]

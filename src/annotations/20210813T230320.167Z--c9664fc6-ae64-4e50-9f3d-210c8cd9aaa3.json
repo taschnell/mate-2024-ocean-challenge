@@ -1,0 +1,80 @@
+[
+    {
+        "uuid": "95630b62-0878-4763-99d1-93d615f28347",
+        "userDefinedKey": "b322ae25-b82d-41ef-d262-2cc8a377d91e",
+        "concept": "Gastropoda",
+        "height": 42,
+        "observer": "lonny",
+        "width": 47,
+        "x": 1568,
+        "y": 894,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:05.316Z"
+    },
+    {
+        "uuid": "2826924d-fc8e-4716-ab88-ee59feca3464",
+        "userDefinedKey": "7493dd06-f206-49cc-d662-2cc8a377d91e",
+        "concept": "Gastropoda",
+        "height": 35,
+        "observer": "lonny",
+        "width": 51,
+        "x": 980,
+        "y": 653,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:05.316Z"
+    },
+    {
+        "uuid": "fd96049d-64cb-421a-b0f4-ad925e6b49ab",
+        "userDefinedKey": "42187aec-d483-4df5-c06b-29c8a377d91e",
+        "concept": "Crinoidea",
+        "height": 163,
+        "observer": "lonny",
+        "width": 148,
+        "x": 1772,
+        "y": 872,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:05.316Z"
+    },
+    {
+        "uuid": "e45e549f-24a0-4e9d-8ccb-95c1438a30b4",
+        "userDefinedKey": "93a42176-b253-45ab-d862-2cc8a377d91e",
+        "concept": "Gastropoda",
+        "height": 32,
+        "observer": "lonny",
+        "width": 44,
+        "x": 490,
+        "y": 578,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:05.316Z"
+    },
+    {
+        "uuid": "1f378253-c7ef-4304-b641-80861abc7615",
+        "userDefinedKey": "9a722d10-523a-4b45-da62-2cc8a377d91e",
+        "concept": "Ophiuroidea",
+        "height": 244,
+        "observer": "lonny",
+        "width": 257,
+        "x": 1024,
+        "y": 681,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:05.316Z"
+    },
+    {
+        "uuid": "9943d3e0-bcc9-41f5-b33e-0b04d00ee193",
+        "userDefinedKey": "38105792-4c99-49bd-d462-2cc8a377d91e",
+        "concept": "Gastropoda",
+        "height": 53,
+        "observer": "lonny",
+        "width": 77,
+        "x": 1757,
+        "y": 990,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:05.316Z"
+    }
+]

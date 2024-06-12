@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "86003412-4331-4b3a-a9cc-15bd773f0c08",
+        "userDefinedKey": "5f77ba41-3e0c-4377-216b-a8b6a158c11e",
+        "concept": "Ophiuroidea",
+        "height": 47,
+        "observer": "yolov5",
+        "width": 57,
+        "x": 2,
+        "y": 284,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:59.119Z"
+    },
+    {
+        "uuid": "fa164d0d-9290-4d17-b415-e99cd591ccc9",
+        "userDefinedKey": "b22976c4-aae0-4718-236b-a8b6a158c11e",
+        "concept": "LRJ complex",
+        "height": 21,
+        "observer": "yolov5",
+        "width": 28,
+        "x": 323,
+        "y": 378,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:59.119Z"
+    },
+    {
+        "uuid": "2f753a4a-b85f-4860-a6c1-9a7acc677005",
+        "userDefinedKey": "03b3bbbb-b7ab-44ea-256b-a8b6a158c11e",
+        "concept": "Paelopatides confundens",
+        "height": 58,
+        "observer": "yolov5",
+        "width": 96,
+        "x": 375,
+        "y": 154,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:59.119Z"
+    }
+]

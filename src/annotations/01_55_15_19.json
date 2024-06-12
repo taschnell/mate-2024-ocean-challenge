@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "6cb6b144-a68e-4282-95d5-a755a6ef77a8",
+        "userDefinedKey": "6556a8da-f165-4df8-db61-988a23c5aa1e",
+        "concept": "Ophiuroidea",
+        "height": 42,
+        "observer": "expert-observer",
+        "width": 57,
+        "x": 842,
+        "y": 857,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:26:20.925Z"
+    },
+    {
+        "uuid": "480fcbbb-7b16-47b4-a988-18cea9a7ca8f",
+        "userDefinedKey": "3cd730d5-55bf-4379-d760-718a23c5aa1e",
+        "concept": "Porifera",
+        "height": 87,
+        "observer": "expert-observer",
+        "width": 87,
+        "x": 1116,
+        "y": 683,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:26:20.925Z"
+    },
+    {
+        "uuid": "36858db4-f2ee-41bd-b737-0a4d5736d8c6",
+        "userDefinedKey": "46b5e963-2c2b-4333-8368-a88823c5aa1e",
+        "concept": "Sebastolobus",
+        "height": 96,
+        "observer": "lonny",
+        "width": 113,
+        "x": 55,
+        "y": 385,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:26:20.925Z"
+    }
+]

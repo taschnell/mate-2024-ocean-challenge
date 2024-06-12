@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "790cb950-43cc-4e03-b04e-0125e89dfd97",
+        "userDefinedKey": "c230dc53-7482-4596-a96a-e9157f58c11e",
+        "concept": "Isidella tentaculum",
+        "height": 748,
+        "observer": "gsainz",
+        "width": 1292,
+        "x": 0,
+        "y": 324,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:05.319Z"
+    },
+    {
+        "uuid": "a7fe6a88-ed51-4295-abf0-136f6f6d7b31",
+        "userDefinedKey": "27de7c39-6c5a-4616-ab6a-e9157f58c11e",
+        "concept": "Ophiuroidea",
+        "height": 57,
+        "observer": "yolov5",
+        "width": 56,
+        "x": 1147,
+        "y": 814,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:05.319Z"
+    },
+    {
+        "uuid": "0a7e7a18-c88e-4eaf-a180-5ecfcf358e77",
+        "userDefinedKey": "6b64e1d7-5187-4070-ad6a-e9157f58c11e",
+        "concept": "Pandalus amplus",
+        "height": 47,
+        "observer": "yolov5",
+        "width": 107,
+        "x": 1695,
+        "y": 752,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:05.319Z"
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "uuid": "84d23e6d-9b24-41b7-a0d5-848111a25e5a",
+        "userDefinedKey": "3412a599-dccb-4901-ee69-9a5b6fd1b71e",
+        "concept": "Hymenaster",
+        "height": 66,
+        "observer": "master@mbari.org",
+        "width": 98,
+        "x": 320,
+        "y": 145,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T16:56:20.410Z"
+    },
+    {
+        "uuid": "db322044-b8f6-4bb5-a853-08a81e68c283",
+        "userDefinedKey": "c8cf019b-1948-4384-726b-eaa76fd1b71e",
+        "concept": "Ophiuroidea",
+        "height": 75,
+        "observer": "master@mbari.org",
+        "width": 94,
+        "x": 510,
+        "y": 170,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T16:56:20.427Z"
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "d1bd7db0-da03-46ea-b102-25b04a02c28c",
+        "userDefinedKey": "9e15ebce-c6b8-43cc-d061-8d814477d91e",
+        "concept": "Ophiuroidea",
+        "height": 502,
+        "observer": "lonny",
+        "width": 511,
+        "x": 1198,
+        "y": 20,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:26.189Z"
+    },
+    {
+        "uuid": "22d8f045-5c6c-44b8-b023-15fadf5d6346",
+        "userDefinedKey": "d5a6357a-155c-41bc-e468-8f814477d91e",
+        "concept": "Pannychia moseleyi",
+        "height": 414,
+        "observer": "lonny",
+        "width": 130,
+        "x": 1790,
+        "y": 35,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:26.189Z"
+    },
+    {
+        "uuid": "262dc6c8-fd0a-46b9-aaff-09ea7f1c913b",
+        "userDefinedKey": "87023528-5640-4dd4-d261-8d814477d91e",
+        "concept": "Paelopatides confundens",
+        "height": 479,
+        "observer": "lonny",
+        "width": 277,
+        "x": 870,
+        "y": 277,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:26.189Z"
+    }
+]

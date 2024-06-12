@@ -1,0 +1,93 @@
+[
+    {
+        "uuid": "728a5bd7-62fc-4543-aeae-2da6d6f68155",
+        "userDefinedKey": "22248452-57f5-4558-c46f-8a8cdef8bf1e",
+        "concept": "Ophiuroidea",
+        "height": 97,
+        "observer": "gsainz",
+        "width": 86,
+        "x": 719,
+        "y": 976,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:26:21.174Z"
+    },
+    {
+        "uuid": "cc8d68d3-b31f-4a7e-ac9d-9458a4a1886b",
+        "userDefinedKey": "9c585677-b54d-4241-0169-40cbddf8bf1e",
+        "concept": "Octopus californicus",
+        "height": 64,
+        "observer": "schlin",
+        "width": 123,
+        "x": 888,
+        "y": 721,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:26:21.174Z"
+    },
+    {
+        "uuid": "db7bd708-aae0-4bb4-a6c3-f5d0de06b3be",
+        "userDefinedKey": "c409e553-7cba-4e8d-766f-c6a5def8bf1e",
+        "concept": "Ophiuroidea",
+        "height": 90,
+        "observer": "gsainz",
+        "width": 110,
+        "x": 873,
+        "y": 772,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:26:21.174Z"
+    },
+    {
+        "uuid": "cbdb24ea-cdbb-44dd-92b9-bd6488116ef6",
+        "userDefinedKey": "d3233dd6-86f8-4194-5a67-9476def8bf1e",
+        "concept": "Ophiuroidea",
+        "height": 83,
+        "observer": "gsainz",
+        "width": 84,
+        "x": 627,
+        "y": 782,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:26:21.174Z"
+    },
+    {
+        "uuid": "e501de2c-5297-44e2-88bf-58944e08ee22",
+        "userDefinedKey": "76749691-cb50-4793-f369-8846def8bf1e",
+        "concept": "Ophiuroidea",
+        "height": 93,
+        "observer": "gsainz",
+        "width": 107,
+        "x": 177,
+        "y": 714,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:26:21.174Z"
+    },
+    {
+        "uuid": "be418041-dd4e-4f38-bee0-f969129c841e",
+        "userDefinedKey": "8c4bfed8-0992-4231-7760-8dcadef8bf1e",
+        "concept": "Ophiuroidea",
+        "height": 83,
+        "observer": "gsainz",
+        "width": 80,
+        "x": 1228,
+        "y": 731,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:26:21.174Z"
+    },
+    {
+        "uuid": "a05087ff-5ebf-465d-a43e-e451b9314f49",
+        "userDefinedKey": "c4a02566-e044-4790-e86e-672bdff8bf1e",
+        "concept": "Ophiuroidea",
+        "height": 82,
+        "observer": "gsainz",
+        "width": 79,
+        "x": 388,
+        "y": 733,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:26:21.174Z"
+    }
+]

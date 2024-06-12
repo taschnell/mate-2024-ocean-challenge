@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "2f6edd36-4975-4ea3-a9e0-1435695530d6",
+        "userDefinedKey": "3d904f86-5fb4-40d0-d865-626ef6ccda1e",
+        "concept": "Ophiuroidea",
+        "height": 73,
+        "observer": "lonny",
+        "width": 88,
+        "x": 1262,
+        "y": 583,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:08.436Z"
+    },
+    {
+        "uuid": "dad0cf75-7609-477c-810d-84dcad4667fa",
+        "userDefinedKey": "bd7362bf-4277-4196-dc65-626ef6ccda1e",
+        "concept": "Ophiuroidea",
+        "height": 56,
+        "observer": "lonny",
+        "width": 69,
+        "x": 542,
+        "y": 788,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:08.436Z"
+    },
+    {
+        "uuid": "60fdfb17-da9a-4005-b28a-5088fa843891",
+        "userDefinedKey": "b0fddd8f-ff78-4076-da65-626ef6ccda1e",
+        "concept": "Ophiuroidea",
+        "height": 110,
+        "observer": "lonny",
+        "width": 117,
+        "x": 1078,
+        "y": 704,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:08.439Z"
+    },
+    {
+        "uuid": "53dff1d4-9e4f-4b84-80d7-e2041b6d091f",
+        "userDefinedKey": "abcee3b1-35e2-4fb9-d665-626ef6ccda1e",
+        "concept": "Brisingida",
+        "height": 312,
+        "observer": "lonny",
+        "width": 199,
+        "x": 0,
+        "y": 763,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:08.439Z"
+    }
+]

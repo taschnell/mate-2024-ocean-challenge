@@ -1,0 +1,28 @@
+[
+    {
+        "uuid": "b3b5243e-ea6d-4ad4-9f00-80ea59b9905e",
+        "userDefinedKey": "25b7d72c-d33e-4217-c261-e6e7f806d91e",
+        "concept": "Ophiuroidea",
+        "height": 182,
+        "observer": "lonny",
+        "width": 287,
+        "x": 376,
+        "y": 3,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:22:01.980Z"
+    },
+    {
+        "uuid": "88b330a7-bf28-471a-85c7-236920957db1",
+        "userDefinedKey": "a2acc4fa-0db6-4388-c461-e6e7f806d91e",
+        "concept": "Pycnogonida",
+        "height": 346,
+        "observer": "lonny",
+        "width": 350,
+        "x": 1418,
+        "y": 207,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:22:01.980Z"
+    }
+]

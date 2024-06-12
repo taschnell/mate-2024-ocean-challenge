@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "971ca35d-4bae-440a-9303-417b2892565f",
+        "userDefinedKey": "28933727-5fd7-42e3-f26c-32367378d91e",
+        "concept": "Brisingida",
+        "height": 71,
+        "observer": "lonny",
+        "width": 87,
+        "x": 974,
+        "y": 57,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:13.526Z"
+    },
+    {
+        "uuid": "681e2998-c704-4234-8e8e-12b35626406c",
+        "userDefinedKey": "1ca4fdd4-240f-4208-f66c-32367378d91e",
+        "concept": "Ophiuroidea",
+        "height": 98,
+        "observer": "lonny",
+        "width": 109,
+        "x": 192,
+        "y": 635,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:13.526Z"
+    },
+    {
+        "uuid": "ee0b76f3-841c-4791-88e5-da5cd551dac5",
+        "userDefinedKey": "c5876945-8723-4d35-f86c-32367378d91e",
+        "concept": "Pannychia moseleyi",
+        "height": 98,
+        "observer": "lonny",
+        "width": 80,
+        "x": 1468,
+        "y": 783,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:13.530Z"
+    },
+    {
+        "uuid": "4d7d94ac-e71e-4b92-8a32-3c56f2334374",
+        "userDefinedKey": "bc8eb73d-b777-4107-f46c-32367378d91e",
+        "concept": "Ophiuroidea",
+        "height": 93,
+        "observer": "lonny",
+        "width": 113,
+        "x": 536,
+        "y": 974,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:13.530Z"
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "4a9fc0e6-d084-4457-800b-904aef6af051",
+        "userDefinedKey": "0309c126-5535-4e15-7563-5a9e4e58c11e",
+        "concept": "Moloha faxoni",
+        "height": 89,
+        "observer": "gsainz",
+        "width": 116,
+        "x": 1099,
+        "y": 430,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:16.446Z"
+    },
+    {
+        "uuid": "0bc3c660-9eda-4839-ac60-e8671cde1491",
+        "userDefinedKey": "d4e66c84-4034-4141-7363-5a9e4e58c11e",
+        "concept": "Ophiuroidea",
+        "height": 73,
+        "observer": "lonny",
+        "width": 85,
+        "x": 1425,
+        "y": 670,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:16.446Z"
+    },
+    {
+        "uuid": "c29d1044-c0ea-48c9-8d4d-a9d0a5cb91e8",
+        "userDefinedKey": "7397058f-8211-40a6-7763-5a9e4e58c11e",
+        "concept": "Moloha faxoni",
+        "height": 77,
+        "observer": "lonny",
+        "width": 106,
+        "x": 1100,
+        "y": 431,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:16.446Z"
+    },
+    {
+        "uuid": "741e136a-d2c3-427a-a61d-838db2fe2cb2",
+        "userDefinedKey": "e998a55f-0c5d-4255-7963-5a9e4e58c11e",
+        "concept": "Heterocarpus sp. 1",
+        "height": 63,
+        "observer": "gsainz",
+        "width": 72,
+        "x": 1605,
+        "y": 418,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:16.446Z"
+    },
+    {
+        "uuid": "6cf7f4b4-215a-4f4a-8b01-4336261e2b53",
+        "userDefinedKey": "842f78e5-d0c6-4f5b-7b63-5a9e4e58c11e",
+        "concept": "Heterocarpus sp. 1",
+        "height": 52,
+        "observer": "gsainz",
+        "width": 93,
+        "x": 1205,
+        "y": 364,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:16.446Z"
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "4ffd035b-45b2-4dee-a11e-560d6cb987d9",
+        "userDefinedKey": "90bfa8e8-8235-4bf3-8563-32fb7a69ad1e",
+        "concept": "Peniagone vitrea",
+        "height": 79,
+        "observer": "expert-observer",
+        "width": 121,
+        "x": 673,
+        "y": 638,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:20:30.518Z"
+    },
+    {
+        "uuid": "5f383fc7-351b-4fd4-a885-93774105495a",
+        "userDefinedKey": "f6045f10-8665-453b-a361-ffecd257bd1e",
+        "concept": "Ophiuroidea",
+        "height": 77,
+        "observer": "gsainz",
+        "width": 118,
+        "x": 790,
+        "y": 182,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:20:30.518Z"
+    },
+    {
+        "uuid": "f75f555b-9fed-48ea-bd89-a79ce02a0c8a",
+        "userDefinedKey": "52f45ccb-11b6-4d14-9e66-80ed7a69ad1e",
+        "concept": "Peniagone sp. 1",
+        "height": 85,
+        "observer": "expert-observer",
+        "width": 58,
+        "x": 352,
+        "y": 126,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:20:30.524Z"
+    },
+    {
+        "uuid": "ca8bb282-ad83-43b1-8e3c-22ac3a7d158f",
+        "userDefinedKey": "a18a7e58-168d-4445-d165-8f0a7b69ad1e",
+        "concept": "Peniagone sp. 1",
+        "height": 66,
+        "observer": "expert-observer",
+        "width": 84,
+        "x": 245,
+        "y": 753,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:20:30.524Z"
+    }
+]

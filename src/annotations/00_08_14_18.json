@@ -1,0 +1,28 @@
+[
+    {
+        "uuid": "14fc65a7-a858-484d-ad6d-47cf45e3d4ce",
+        "userDefinedKey": "a048bb67-8609-424f-3b6e-9f605158c11e",
+        "concept": "Ophiuroidea",
+        "height": 128,
+        "observer": "yolov5",
+        "width": 177,
+        "x": 80,
+        "y": 260,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:33.995Z"
+    },
+    {
+        "uuid": "7f7e1bca-b200-47e6-b241-1e1ef05b1c48",
+        "userDefinedKey": "f6708e5a-5776-4a41-3d6e-9f605158c11e",
+        "concept": "Cephalurus cephalus",
+        "height": 257,
+        "observer": "gsainz",
+        "width": 751,
+        "x": 856,
+        "y": 458,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:33.995Z"
+    }
+]

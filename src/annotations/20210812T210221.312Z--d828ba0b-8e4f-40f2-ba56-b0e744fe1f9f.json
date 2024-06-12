@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "1d323c6d-9606-4a9d-b713-78905a9506b7",
+        "userDefinedKey": "e2901e3f-54d0-468c-9155-c1ea256f8214",
+        "concept": "Ophiuroidea",
+        "height": 262,
+        "observer": "lonny",
+        "width": 481,
+        "x": 716,
+        "y": 811,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:12:51.828Z"
+    },
+    {
+        "uuid": "ab9f9b50-644c-4206-9c0d-202478459865",
+        "userDefinedKey": "22481d75-cdd2-4cb1-e364-61c81bd6da1e",
+        "concept": "Ophiuroidea",
+        "height": 157,
+        "observer": "lonny",
+        "width": 127,
+        "x": 1793,
+        "y": 722,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:12:51.828Z"
+    },
+    {
+        "uuid": "dfb8b0cc-68fa-4a2a-85a4-1abbb401b854",
+        "userDefinedKey": "b0877255-7b6c-4854-ad0c-64a75e030915",
+        "concept": "Ophiuroidea",
+        "height": 204,
+        "observer": "lonny",
+        "width": 345,
+        "x": 1042,
+        "y": 871,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:12:51.828Z"
+    },
+    {
+        "uuid": "1e8ba70d-0329-43a8-9c85-4a9f77f7461d",
+        "userDefinedKey": "33d7a29e-8240-42ff-e164-61c81bd6da1e",
+        "concept": "Ophiuroidea",
+        "height": 160,
+        "observer": "lonny",
+        "width": 112,
+        "x": 1808,
+        "y": 22,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:12:51.832Z"
+    },
+    {
+        "uuid": "cc0e31e6-369d-4bdc-9181-eff991576851",
+        "userDefinedKey": "a329787c-9b16-4fad-e564-61c81bd6da1e",
+        "concept": "Ophiuroidea",
+        "height": 115,
+        "observer": "lonny",
+        "width": 114,
+        "x": 1483,
+        "y": 750,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:12:51.832Z"
+    }
+]

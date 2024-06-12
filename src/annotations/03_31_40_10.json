@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "d22772f5-3c5f-4cfe-9c5b-a7df195d7a07",
+        "userDefinedKey": "7fa840a9-f0cb-4eda-4d65-159d3a58c11e",
+        "concept": "Ophiuroidea",
+        "height": 78,
+        "observer": "yolov5",
+        "width": 64,
+        "x": 827,
+        "y": 778,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:33.904Z"
+    },
+    {
+        "uuid": "baad1b5c-208f-4659-91da-6c17cbfe5331",
+        "userDefinedKey": "9dddf877-bd84-439a-5165-159d3a58c11e",
+        "concept": "Coryphaenoides",
+        "height": 267,
+        "observer": "yolov5",
+        "width": 390,
+        "x": 1530,
+        "y": 0,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:33.904Z"
+    },
+    {
+        "uuid": "eaf6dd48-d2e2-4d02-9daf-a3777dba5a41",
+        "userDefinedKey": "0658fb6f-f5a5-4be3-4f65-159d3a58c11e",
+        "concept": "Liponema brevicorne",
+        "height": 168,
+        "observer": "yolov5",
+        "width": 154,
+        "x": 423,
+        "y": 829,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:33.905Z"
+    },
+    {
+        "uuid": "e6551283-7279-45c6-9240-d5492ad6ba7e",
+        "userDefinedKey": "13a207e9-d2fe-4fc6-5565-159d3a58c11e",
+        "concept": "Ophiuroidea",
+        "height": 153,
+        "observer": "yolov5",
+        "width": 177,
+        "x": 494,
+        "y": 146,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:33.905Z"
+    }
+]

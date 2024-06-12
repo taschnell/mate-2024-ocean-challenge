@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "fb232425-33e0-4c1a-8e58-e3bccd307c05",
+        "userDefinedKey": "edd9376d-1bf8-41ba-d76e-e4fcc424bd1e",
+        "concept": "Ophiuroidea",
+        "height": 23,
+        "observer": "master@mbari.org",
+        "width": 25,
+        "x": 491,
+        "y": 218,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:37:35.899Z"
+    },
+    {
+        "uuid": "e6e49669-53b8-45cb-8591-e95e9cb50f61",
+        "userDefinedKey": "a9eed9a0-0ec8-4bc7-cb63-e090c524bd1e",
+        "concept": "Scotoplanes globosa",
+        "height": 34,
+        "observer": "master@mbari.org",
+        "width": 29,
+        "x": 183,
+        "y": 401,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:37:35.897Z"
+    },
+    {
+        "uuid": "ee8c24ca-cdcb-4c68-b481-fb4e44430258",
+        "userDefinedKey": "28801b86-ee10-473e-3f6f-bdb6c424bd1e",
+        "concept": "LRJ complex",
+        "height": 15,
+        "observer": "master@mbari.org",
+        "width": 14,
+        "x": 356,
+        "y": 376,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:37:35.900Z"
+    },
+    {
+        "uuid": "12dace93-03f8-4b1b-b1ee-e53042bb4523",
+        "userDefinedKey": "96a38aa0-a600-4668-e867-bc1fc624bd1e",
+        "concept": "LRJ complex",
+        "height": 15,
+        "observer": "master@mbari.org",
+        "width": 13,
+        "x": 213,
+        "y": 439,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:37:35.900Z"
+    },
+    {
+        "uuid": "c9ded297-36d8-4121-9e3f-da3c632ab91a",
+        "userDefinedKey": "14dee7a4-7d57-4b8b-aa63-066ec424bd1e",
+        "concept": "Ophiuroidea",
+        "height": 39,
+        "observer": "master@mbari.org",
+        "width": 48,
+        "x": 108,
+        "y": 339,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:37:35.901Z"
+    }
+]

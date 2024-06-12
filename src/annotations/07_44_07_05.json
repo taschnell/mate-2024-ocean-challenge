@@ -1,0 +1,93 @@
+[
+    {
+        "uuid": "5bb10d70-d9ec-4055-aa7e-f7f081a7cfda",
+        "userDefinedKey": "f4fd7fab-fbf6-4dd2-3e66-90431a97bc1e",
+        "concept": "Scotoplanes",
+        "height": 247,
+        "observer": "gsainz",
+        "width": 239,
+        "x": 0,
+        "y": 62,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:16:04.785Z"
+    },
+    {
+        "uuid": "b358cab5-3fba-4037-bb73-ef7c30f4a536",
+        "userDefinedKey": "2ebf9139-66a1-45fa-9c63-95fc1797bc1e",
+        "concept": "Hexactinellida",
+        "height": 1057,
+        "observer": "linda",
+        "width": 524,
+        "x": 1370,
+        "y": 14,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:16:04.785Z"
+    },
+    {
+        "uuid": "bfd1f1fe-812a-4ff4-9594-59ebbcbc2a68",
+        "userDefinedKey": "dc2cc30d-57ba-4b30-e865-b3a71897bc1e",
+        "concept": "Ophiuroidea",
+        "height": 71,
+        "observer": "gsainz",
+        "width": 117,
+        "x": 1126,
+        "y": 542,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:16:04.785Z"
+    },
+    {
+        "uuid": "fee2788c-9c55-411e-bb12-de77ff306a93",
+        "userDefinedKey": "d6abd63b-7e03-418d-d568-3bde1697bc1e",
+        "concept": "Pennatula",
+        "height": 132,
+        "observer": "linda",
+        "width": 95,
+        "x": 464,
+        "y": 703,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:16:04.785Z"
+    },
+    {
+        "uuid": "83a37ab3-e9c3-41e5-a4ac-ac5f20a23802",
+        "userDefinedKey": "65208214-42ec-450d-2168-6a5e1797bc1e",
+        "concept": "Hydractiniidae",
+        "height": 200,
+        "observer": "linda",
+        "width": 492,
+        "x": 251,
+        "y": 869,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:16:04.785Z"
+    },
+    {
+        "uuid": "2aded8e6-a60a-41a5-9ee2-4fa2b4c1c53d",
+        "userDefinedKey": "2744e9b7-35dd-4e6c-8b66-ee1f1797bc1e",
+        "concept": "Benthocodon pedunculata",
+        "height": 44,
+        "observer": "linda",
+        "width": 48,
+        "x": 1518,
+        "y": 744,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:16:04.785Z"
+    },
+    {
+        "uuid": "5fce1f24-bbd1-4e74-b4e9-8a9b347cc6cb",
+        "userDefinedKey": "2eeb3802-cd54-4289-4661-aea21797bc1e",
+        "concept": "Peniagone vitrea- sp. 1 complex",
+        "height": 132,
+        "observer": "linda",
+        "width": 114,
+        "x": 1102,
+        "y": 201,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:16:04.785Z"
+    }
+]

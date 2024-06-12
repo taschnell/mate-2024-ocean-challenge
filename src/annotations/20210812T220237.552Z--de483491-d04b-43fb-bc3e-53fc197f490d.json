@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "e0d9f10f-f972-4fb9-b825-6405aa2891ec",
+        "userDefinedKey": "d2c247de-2abb-4541-cb6c-d7b541d9da1e",
+        "concept": "Coryphaenoides",
+        "height": 194,
+        "observer": "lonny",
+        "width": 122,
+        "x": 220,
+        "y": 420,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.517Z"
+    },
+    {
+        "uuid": "94c9c6a5-2545-4881-a542-0723694058b8",
+        "userDefinedKey": "cde3d7b7-b01c-4198-c96c-d7b541d9da1e",
+        "concept": "Coryphaenoides",
+        "height": 118,
+        "observer": "lonny",
+        "width": 116,
+        "x": 389,
+        "y": 187,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.518Z"
+    },
+    {
+        "uuid": "00b138cd-fb5c-4439-b4a0-448f910e8fb8",
+        "userDefinedKey": "40c7044d-b10c-400b-dd63-dab541d9da1e",
+        "concept": "Coryphaenoides",
+        "height": 189,
+        "observer": "lonny",
+        "width": 137,
+        "x": 563,
+        "y": 741,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.518Z"
+    },
+    {
+        "uuid": "73cf8dda-c8f5-43e2-862c-ae718d8cad3b",
+        "userDefinedKey": "6eb0cffc-54d5-4bb9-df63-dab541d9da1e",
+        "concept": "Ophiuroidea",
+        "height": 48,
+        "observer": "lonny",
+        "width": 48,
+        "x": 1144,
+        "y": 734,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.518Z"
+    },
+    {
+        "uuid": "36094da0-66ed-4fd5-83d3-afb475f5e8e3",
+        "userDefinedKey": "778aad8e-b674-49b4-e163-dab541d9da1e",
+        "concept": "Tromikosoma panamense",
+        "height": 63,
+        "observer": "lonny",
+        "width": 71,
+        "x": 556,
+        "y": 160,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.518Z"
+    }
+]

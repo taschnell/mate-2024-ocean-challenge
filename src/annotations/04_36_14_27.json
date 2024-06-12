@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "fe270a66-735b-40aa-8dbe-902b14abd140",
+        "userDefinedKey": "c4a30d74-6795-4818-fe6b-27e03a58c11e",
+        "concept": "Holothuroidea",
+        "height": 88,
+        "observer": "yolov5",
+        "width": 105,
+        "x": 0,
+        "y": 988,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:41.327Z"
+    },
+    {
+        "uuid": "1ed7f7fb-9cdd-4ae0-9ac9-ca472031be23",
+        "userDefinedKey": "f6226669-ce7d-4333-006c-27e03a58c11e",
+        "concept": "Ophiuroidea",
+        "height": 136,
+        "observer": "yolov5",
+        "width": 134,
+        "x": 1211,
+        "y": 136,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:41.327Z"
+    },
+    {
+        "uuid": "37d769a0-052a-46e4-82f2-8b1fa48cb257",
+        "userDefinedKey": "df01ce86-1657-4752-026c-27e03a58c11e",
+        "concept": "Graneledone boreopacifica",
+        "height": 333,
+        "observer": "yolov5",
+        "width": 242,
+        "x": 620,
+        "y": 265,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:41.327Z"
+    }
+]

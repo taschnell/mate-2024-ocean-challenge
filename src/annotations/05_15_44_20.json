@@ -1,0 +1,28 @@
+[
+    {
+        "uuid": "8480b36e-8676-4fb4-8287-72d5780b33bb",
+        "userDefinedKey": "5931b940-68ae-4085-0762-7b3d5358c11e",
+        "concept": "Ophiuroidea",
+        "height": 161,
+        "observer": "yolov5",
+        "width": 236,
+        "x": 874,
+        "y": 371,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:40.703Z"
+    },
+    {
+        "uuid": "aff98f84-e8df-4b83-8c22-0afaf7cf8000",
+        "userDefinedKey": "a8eec2ad-34c0-4382-0562-7b3d5358c11e",
+        "concept": "Lipariscus sp. 1",
+        "height": 304,
+        "observer": "schlin",
+        "width": 629,
+        "x": 280,
+        "y": 223,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:40.703Z"
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "uuid": "82646332-3490-4523-9e60-091a82f9866d",
+        "userDefinedKey": "64db4479-4e80-49a9-3e68-a2535358c11e",
+        "concept": "Ophiuroidea",
+        "height": 167,
+        "observer": "yolov5",
+        "width": 221,
+        "x": 265,
+        "y": 833,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:08.226Z"
+    },
+    {
+        "uuid": "a5f44f1c-9cad-4c0f-b6cd-bbc4dd8fb7c6",
+        "userDefinedKey": "bf81dcbf-2ec6-4b63-3a68-a2535358c11e",
+        "concept": "Nephropidae",
+        "height": 189,
+        "observer": "gsainz",
+        "width": 257,
+        "x": 845,
+        "y": 429,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:08.226Z"
+    }
+]

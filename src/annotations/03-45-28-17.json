@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "f052cdea-37e3-49d8-a93d-102dd41f73f5",
+        "userDefinedKey": "fcb23e5d-186c-4928-be6c-f59d0eadbc1e",
+        "concept": "Porifera",
+        "height": 90,
+        "observer": "gsainz",
+        "width": 108,
+        "x": 791,
+        "y": 259,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:23:27.960Z"
+    },
+    {
+        "uuid": "676b01f0-6704-40ad-8fca-0835046f3cbf",
+        "userDefinedKey": "4c574d82-b0f2-4e68-5c68-c9dadd68ad1e",
+        "concept": "Echinocrepis rostrata",
+        "height": 144,
+        "observer": "expert-observer",
+        "width": 242,
+        "x": 1678,
+        "y": 936,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:23:27.960Z"
+    },
+    {
+        "uuid": "69acb546-b39d-4786-a5b4-cdf90701951a",
+        "userDefinedKey": "58f77e1e-367b-45bf-146e-4ae9dd68ad1e",
+        "concept": "LRJ complex",
+        "height": 40,
+        "observer": "gsainz",
+        "width": 44,
+        "x": 1472,
+        "y": 556,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:23:27.960Z"
+    },
+    {
+        "uuid": "66f0ca1f-2aa5-47b7-a5a1-1548db6b4388",
+        "userDefinedKey": "b3ad604f-041a-417e-6161-b0640dadbc1e",
+        "concept": "Tergivelum baldwinae",
+        "height": 185,
+        "observer": "gsainz",
+        "width": 306,
+        "x": 1296,
+        "y": 621,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:23:27.960Z"
+    },
+    {
+        "uuid": "15b44578-76c4-4935-947b-ad1c4836e4be",
+        "userDefinedKey": "04e16102-61a5-4711-4764-f3f10eadbc1e",
+        "concept": "Ophiuroidea",
+        "height": 88,
+        "observer": "gsainz",
+        "width": 142,
+        "x": 913,
+        "y": 25,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:23:27.960Z"
+    }
+]

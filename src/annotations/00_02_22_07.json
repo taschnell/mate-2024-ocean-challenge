@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "e008275a-233e-4c1a-b4fa-cb7fd8699651",
+        "userDefinedKey": "8c293545-74c7-495b-8f6c-22923858c11e",
+        "concept": "Macrouridae",
+        "height": 96,
+        "observer": "yolov5",
+        "width": 59,
+        "x": 1494,
+        "y": 332,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:02.903Z"
+    },
+    {
+        "uuid": "747c332c-2e89-4ae1-80be-df0e74ed56f4",
+        "userDefinedKey": "4f7132f1-e447-48cf-a163-25923858c11e",
+        "concept": "Coryphaenoides",
+        "height": 111,
+        "observer": "yolov5",
+        "width": 88,
+        "x": 274,
+        "y": 277,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:02.903Z"
+    },
+    {
+        "uuid": "2d7f5729-a4c4-486d-bede-4e5dc5f97925",
+        "userDefinedKey": "c228dd31-dcad-44c3-8d6c-22923858c11e",
+        "concept": "Holothuroidea",
+        "height": 53,
+        "observer": "yolov5",
+        "width": 55,
+        "x": 978,
+        "y": 812,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:02.911Z"
+    },
+    {
+        "uuid": "0c0dea6b-ac58-4b6a-bc69-ce4281a34f6f",
+        "userDefinedKey": "e4c0ea71-ded2-4495-8b6c-22923858c11e",
+        "concept": "Coryphaenoides",
+        "height": 89,
+        "observer": "yolov5",
+        "width": 47,
+        "x": 1500,
+        "y": 339,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:02.911Z"
+    },
+    {
+        "uuid": "ae2044e7-8115-4d67-bcf5-18b18f825153",
+        "userDefinedKey": "f9f075fb-4538-40e8-a767-b2913858c11e",
+        "concept": "Ophiuroidea",
+        "height": 46,
+        "observer": "yolov5",
+        "width": 58,
+        "x": 1621,
+        "y": 1028,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:02.911Z"
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "786ce904-a831-4211-ad9a-86a55a8e760f",
+        "userDefinedKey": "462ec9a8-74fb-4812-536e-ddb73b58c11e",
+        "concept": "Tunicata",
+        "height": 83,
+        "observer": "yolov5",
+        "width": 74,
+        "x": 233,
+        "y": 986,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:08.575Z"
+    },
+    {
+        "uuid": "588c5a2a-5582-4919-98be-6358718f4114",
+        "userDefinedKey": "9940aef1-49df-4684-576e-ddb73b58c11e",
+        "concept": "Hippasteria",
+        "height": 172,
+        "observer": "yolov5",
+        "width": 224,
+        "x": 482,
+        "y": 323,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:08.575Z"
+    },
+    {
+        "uuid": "c3f6f61e-465f-4c13-9272-eb8311df9d27",
+        "userDefinedKey": "eaa707ae-8cb6-471d-556e-ddb73b58c11e",
+        "concept": "Pannychia",
+        "height": 325,
+        "observer": "yolov5",
+        "width": 498,
+        "x": 184,
+        "y": 638,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:08.575Z"
+    },
+    {
+        "uuid": "102683c8-7094-40fa-b561-1d4c96ba5a68",
+        "userDefinedKey": "cc2b816f-c86d-43d2-516e-ddb73b58c11e",
+        "concept": "Ophiuroidea",
+        "height": 70,
+        "observer": "yolov5",
+        "width": 101,
+        "x": 1706,
+        "y": 489,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:08.575Z"
+    }
+]

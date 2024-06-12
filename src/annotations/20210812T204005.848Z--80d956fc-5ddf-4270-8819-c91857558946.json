@@ -1,0 +1,80 @@
+[
+    {
+        "uuid": "7dc910d0-ca24-4cd0-bf04-df51c96bcb08",
+        "userDefinedKey": "a3494027-1321-4f5e-865c-d6813b9af2ff",
+        "concept": "Umbellapathes",
+        "height": 291,
+        "observer": "lonny",
+        "width": 354,
+        "x": 832,
+        "y": 738,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:19.770Z"
+    },
+    {
+        "uuid": "dd6d4714-5680-4f5e-99bc-4118d9bfc8e6",
+        "userDefinedKey": "2436561d-a1e7-427e-bb86-15df4e3ddec7",
+        "concept": "Cerianthidae",
+        "height": 167,
+        "observer": "lonny",
+        "width": 188,
+        "x": 1491,
+        "y": 239,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:19.770Z"
+    },
+    {
+        "uuid": "dec8c3b3-aec0-4987-a0b3-bc9c267b8640",
+        "userDefinedKey": "1e293f10-5bc9-4a2e-b996-b8957e1713d1",
+        "concept": "Umbellapathes",
+        "height": 303,
+        "observer": "lonny",
+        "width": 250,
+        "x": 1193,
+        "y": 606,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:19.770Z"
+    },
+    {
+        "uuid": "64e104bb-0d15-4515-8500-f45ee67799e0",
+        "userDefinedKey": "c22f3a9a-0eb3-4888-6764-88dc5ed5da1e",
+        "concept": "Ophiuroidea",
+        "height": 135,
+        "observer": "lonny",
+        "width": 116,
+        "x": 219,
+        "y": 192,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:19.770Z"
+    },
+    {
+        "uuid": "d78589bf-7b2f-4ec5-9f55-3b453fe99c7d",
+        "userDefinedKey": "3938019b-904f-4dd1-6564-88dc5ed5da1e",
+        "concept": "Ophiuroidea",
+        "height": 208,
+        "observer": "lonny",
+        "width": 141,
+        "x": 1427,
+        "y": 573,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:19.770Z"
+    },
+    {
+        "uuid": "f6e8827a-bfd6-4c2d-8c0d-84e9e07d293d",
+        "userDefinedKey": "00b377fb-b65f-471b-abdd-3c56ce9d964c",
+        "concept": "Umbellapathes",
+        "height": 313,
+        "observer": "lonny",
+        "width": 333,
+        "x": 706,
+        "y": 97,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:19.770Z"
+    }
+]

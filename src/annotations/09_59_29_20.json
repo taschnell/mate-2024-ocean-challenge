@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "dea78093-7f50-45c4-a707-38f93a4446da",
+        "userDefinedKey": "2e0ec3c7-e271-422f-0c60-18bd3ec5aa1e",
+        "concept": "Asteroidea",
+        "height": 64,
+        "observer": "expert-observer",
+        "width": 91,
+        "x": 87,
+        "y": 527,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:18:33.767Z"
+    },
+    {
+        "uuid": "9afc5d42-67b8-4c01-be35-c5f7ad5446d1",
+        "userDefinedKey": "de84f2ba-46e4-4834-9c6d-d7ba3ec5aa1e",
+        "concept": "Sebastolobus",
+        "height": 178,
+        "observer": "linda",
+        "width": 159,
+        "x": 1761,
+        "y": 902,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:18:33.767Z"
+    },
+    {
+        "uuid": "3e83ef0c-67bf-48b1-87bd-3e67a302f41d",
+        "userDefinedKey": "99ba3d50-86b5-48f0-286d-f5bc3ec5aa1e",
+        "concept": "Ophiuroidea",
+        "height": 98,
+        "observer": "expert-observer",
+        "width": 149,
+        "x": 974,
+        "y": 527,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:18:33.767Z"
+    }
+]

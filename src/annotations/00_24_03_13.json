@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "1717562f-2240-4f6b-b2b3-7778d20a7d58",
+        "userDefinedKey": "585c2aa0-0218-4523-b36f-52492cb0b61e",
+        "concept": "Ophiuroidea",
+        "height": 62,
+        "observer": "linda",
+        "width": 75,
+        "x": 844,
+        "y": 758,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:22:19.505Z"
+    },
+    {
+        "uuid": "7fe65b32-1969-4992-a677-e2a5b2274494",
+        "userDefinedKey": "1ab7c5aa-8e29-4998-5566-96072cb0b61e",
+        "concept": "Ophiuroidea",
+        "height": 63,
+        "observer": "linda",
+        "width": 58,
+        "x": 695,
+        "y": 760,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:22:19.505Z"
+    },
+    {
+        "uuid": "d0f1ecfc-eda2-4aa1-8180-fd4224baedb4",
+        "userDefinedKey": "6f340ff1-2032-4edb-106b-ef5612c5aa1e",
+        "concept": "Sebastolobus",
+        "height": 84,
+        "observer": "linda",
+        "width": 104,
+        "x": 1456,
+        "y": 608,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:22:19.505Z"
+    },
+    {
+        "uuid": "241643c5-ced4-46e3-9b3d-419888854b16",
+        "userDefinedKey": "c72c59f4-ab03-4580-4c62-25797942aa1e",
+        "concept": "Microstomus pacificus",
+        "height": 114,
+        "observer": "linda",
+        "width": 84,
+        "x": 1094,
+        "y": 674,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:22:19.505Z"
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "uuid": "9943c9f8-e600-4328-a0f1-759d2b9b890f",
+        "userDefinedKey": "e45bf089-cac4-440a-5e6d-49e328c5aa1e",
+        "concept": "Ophiuroidea",
+        "height": 68,
+        "observer": "expert-observer",
+        "width": 74,
+        "x": 424,
+        "y": 1003,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:16:23.914Z"
+    },
+    {
+        "uuid": "6ecda1e7-299a-49d8-83e9-d65dad6be0a0",
+        "userDefinedKey": "80266335-fc9b-4f06-516e-2be128c5aa1e",
+        "concept": "Sebastolobus",
+        "height": 174,
+        "observer": "linda",
+        "width": 360,
+        "x": 735,
+        "y": 664,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:16:23.914Z"
+    }
+]

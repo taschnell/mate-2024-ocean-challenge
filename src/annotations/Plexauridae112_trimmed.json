@@ -1,0 +1,24 @@
+[
+    {
+        "uuid": "9611b72e-c4ed-497d-8f55-699637e77dec",
+        "concept": "Plexauridae",
+        "height": 860,
+        "width": 1393,
+        "x": 182,
+        "y": 0,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2022-10-31T14:45:53.511Z"
+    },
+    {
+        "uuid": "770522cb-83ad-436f-b9b1-cd4ec9542700",
+        "concept": "Ophiuroidea",
+        "height": 225,
+        "width": 990,
+        "x": 471,
+        "y": 674,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2022-10-31T14:45:53.511Z"
+    }
+]

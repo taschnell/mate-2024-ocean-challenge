@@ -1,0 +1,28 @@
+[
+    {
+        "uuid": "043a3e2c-99a9-4120-a2c3-73810ace41eb",
+        "userDefinedKey": "dfc7546d-0c0d-4e88-4266-14d73258c11e",
+        "concept": "Ophiuroidea",
+        "height": 132,
+        "observer": "yolov5",
+        "width": 51,
+        "x": 1430,
+        "y": 141,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:19.860Z"
+    },
+    {
+        "uuid": "67d7bef8-112f-4198-b81e-7e261e6ce5bb",
+        "userDefinedKey": "a2c7fd5f-ef06-40fa-4466-14d73258c11e",
+        "concept": "Bathysiphon",
+        "height": 150,
+        "observer": "lonny",
+        "width": 50,
+        "x": 596,
+        "y": 832,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:19.860Z"
+    }
+]

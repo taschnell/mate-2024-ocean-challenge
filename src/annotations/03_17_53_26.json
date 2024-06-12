@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "25f4b09c-c6ae-4527-a7d9-cf26671cd6a7",
+        "userDefinedKey": "bb9cac35-c66d-484c-336c-43419cafbc1e",
+        "concept": "Ophiuroidea",
+        "height": 39,
+        "observer": "gsainz",
+        "width": 52,
+        "x": 708,
+        "y": 603,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:21:15.580Z"
+    },
+    {
+        "uuid": "ad0ad55d-0d3b-4896-a32f-541636468b67",
+        "userDefinedKey": "406f2307-1930-4ff6-b76a-69809bafbc1e",
+        "concept": "Peniagone",
+        "height": 82,
+        "observer": "schlin",
+        "width": 80,
+        "x": 1264,
+        "y": 798,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:21:15.580Z"
+    },
+    {
+        "uuid": "f08bd615-f0df-4262-add2-5927106c99ec",
+        "userDefinedKey": "24814425-40f8-4eac-9169-43ad9bafbc1e",
+        "concept": "Peniagone",
+        "height": 42,
+        "observer": "schlin",
+        "width": 53,
+        "x": 972,
+        "y": 573,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:21:15.580Z"
+    },
+    {
+        "uuid": "23ea9764-773e-43e5-ac9d-d77cf899c58e",
+        "userDefinedKey": "3ca98334-6e38-4db5-9261-6b969cafbc1e",
+        "concept": "Ophiuroidea",
+        "height": 62,
+        "observer": "gsainz",
+        "width": 72,
+        "x": 1318,
+        "y": 960,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:21:15.580Z"
+    },
+    {
+        "uuid": "047a3a3b-cea0-4bc6-90b4-3e63fcbc743d",
+        "userDefinedKey": "5b74ccb2-ed5d-4d36-f964-4e0b9cafbc1e",
+        "concept": "Ophiuroidea",
+        "height": 49,
+        "observer": "gsainz",
+        "width": 53,
+        "x": 1089,
+        "y": 695,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:21:15.581Z"
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "uuid": "5f95e342-c352-48bc-9354-7fbf29395cfe",
+        "userDefinedKey": "ded4f2cb-7f8f-4c9d-276c-a41d07cdda1e",
+        "concept": "Ophiuroidea",
+        "height": 82,
+        "observer": "lonny",
+        "width": 106,
+        "x": 409,
+        "y": 720,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:22:02.041Z"
+    },
+    {
+        "uuid": "eed631d1-328e-45fd-a3cd-ed320a54e9aa",
+        "userDefinedKey": "bff192a5-6f66-4f5f-3d63-a71d07cdda1e",
+        "concept": "Ophiuroidea",
+        "height": 88,
+        "observer": "lonny",
+        "width": 95,
+        "x": 796,
+        "y": 516,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:22:02.041Z"
+    },
+    {
+        "uuid": "ba2d06d2-e5aa-4e61-b61e-295354daf94c",
+        "userDefinedKey": "b3701b23-19ec-4356-3f63-a71d07cdda1e",
+        "concept": "Ophiuroidea",
+        "height": 71,
+        "observer": "lonny",
+        "width": 93,
+        "x": 1650,
+        "y": 79,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:22:02.041Z"
+    },
+    {
+        "uuid": "a077a2c1-bc2c-4cf9-8e54-e776ece4a4bb",
+        "userDefinedKey": "9e9f8852-b27f-4a1f-3b63-a71d07cdda1e",
+        "concept": "Ophiuroidea",
+        "height": 87,
+        "observer": "lonny",
+        "width": 115,
+        "x": 997,
+        "y": 288,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:22:02.041Z"
+    },
+    {
+        "uuid": "0c932e2c-56af-46d1-8ccf-51d95218c317",
+        "userDefinedKey": "c9498646-901b-4f9b-4163-a71d07cdda1e",
+        "concept": "Ophiuroidea",
+        "height": 68,
+        "observer": "lonny",
+        "width": 73,
+        "x": 1714,
+        "y": 917,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:22:02.041Z"
+    },
+    {
+        "uuid": "6256e3ae-b284-474b-b826-6abafbf159f1",
+        "userDefinedKey": "e9d9b677-75b1-463e-256c-a41d07cdda1e",
+        "concept": "Crinoidea",
+        "height": 107,
+        "observer": "lonny",
+        "width": 117,
+        "x": 1644,
+        "y": 613,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:22:02.041Z"
+    },
+    {
+        "uuid": "4a3d5fb2-0858-4679-ad3a-526fa20d01e2",
+        "userDefinedKey": "1c1a02bb-a706-4650-296c-a41d07cdda1e",
+        "concept": "Ophiuroidea",
+        "height": 70,
+        "observer": "lonny",
+        "width": 72,
+        "x": 879,
+        "y": 589,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:22:02.041Z"
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "0276ae10-b9e5-4080-beb7-fddf6f56c7e0",
+        "userDefinedKey": "0d2b6cb2-1f22-46b2-a062-c29dc7c9b61e",
+        "concept": "Crinoidea",
+        "height": 156,
+        "observer": "gsainz",
+        "width": 169,
+        "x": 542,
+        "y": 564,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:16:17.016Z"
+    },
+    {
+        "uuid": "3d909a77-c7fc-4766-8386-63e8b954e580",
+        "userDefinedKey": "b5fab492-5065-430f-096e-9314c6c9b61e",
+        "concept": "Ophiuroidea",
+        "height": 56,
+        "observer": "gsainz",
+        "width": 49,
+        "x": 771,
+        "y": 153,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:16:17.016Z"
+    },
+    {
+        "uuid": "5078c624-9366-458a-b6ba-0ed1f942f507",
+        "userDefinedKey": "4a09933e-dd65-4a14-c364-39cdc5c9b61e",
+        "concept": "Ophiuroidea",
+        "height": 152,
+        "observer": "gsainz",
+        "width": 131,
+        "x": 351,
+        "y": 680,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:16:17.016Z"
+    }
+]

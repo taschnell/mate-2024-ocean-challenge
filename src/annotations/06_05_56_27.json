@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "314aa77b-6745-4a30-986b-48787bba59ed",
+        "userDefinedKey": "08439f02-d284-49d6-9e62-141c6858c11e",
+        "concept": "Scotoplanes globosa",
+        "height": 120,
+        "observer": "yolov5",
+        "width": 229,
+        "x": 155,
+        "y": 78,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:30.472Z"
+    },
+    {
+        "uuid": "24714d2b-811a-4297-bd08-99d80ada3645",
+        "userDefinedKey": "ae706110-c813-4a66-9a62-141c6858c11e",
+        "concept": "Ophiuroidea",
+        "height": 76,
+        "observer": "yolov5",
+        "width": 94,
+        "x": 84,
+        "y": 852,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:30.472Z"
+    },
+    {
+        "uuid": "e43863cc-9c1a-4615-b3c7-3e30d9786270",
+        "userDefinedKey": "0ec88618-96d2-483a-9c62-141c6858c11e",
+        "concept": "Holothuroidea",
+        "height": 54,
+        "observer": "gsainz",
+        "width": 94,
+        "x": 898,
+        "y": 52,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:30.472Z"
+    },
+    {
+        "uuid": "2dab868f-9a5b-45c6-b0a1-afcfa03457b3",
+        "userDefinedKey": "258b6cc1-c83c-4468-9662-141c6858c11e",
+        "concept": "stalk",
+        "height": 70,
+        "observer": "lonny",
+        "width": 126,
+        "x": 1678,
+        "y": 940,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:30.472Z"
+    }
+]

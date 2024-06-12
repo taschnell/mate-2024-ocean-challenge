@@ -1,0 +1,80 @@
+[
+    {
+        "uuid": "ffedc91e-ec6b-4dac-94f8-f893ee02e04e",
+        "userDefinedKey": "64dcae01-341b-4c81-0e64-f8b49fddd01e",
+        "concept": "Enteropneusta",
+        "height": 65,
+        "observer": "lonny",
+        "width": 55,
+        "x": 837,
+        "y": 248,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:02.850Z"
+    },
+    {
+        "uuid": "51b3a864-c837-40f8-b0ad-3584a497dc8b",
+        "userDefinedKey": "9b6cb87d-701b-4f52-9964-ffdb3a58c11e",
+        "concept": "Coryphaenoides",
+        "height": 638,
+        "observer": "yolov5",
+        "width": 506,
+        "x": 1083,
+        "y": 434,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:02.850Z"
+    },
+    {
+        "uuid": "12dcae68-e1e3-408d-bbe3-7cf18c6cca34",
+        "userDefinedKey": "966c85d8-0d27-44ed-d868-c1959fddd01e",
+        "concept": "Enteropneusta",
+        "height": 82,
+        "observer": "lonny",
+        "width": 46,
+        "x": 518,
+        "y": 186,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:02.850Z"
+    },
+    {
+        "uuid": "429ce49e-3728-4d97-8533-a39f32b945ac",
+        "userDefinedKey": "8e122949-f0db-4592-1862-185a9fddd01e",
+        "concept": "Enteropneusta",
+        "height": 149,
+        "observer": "lonny",
+        "width": 97,
+        "x": 810,
+        "y": 405,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:02.850Z"
+    },
+    {
+        "uuid": "b4b0ace5-7f46-4523-9187-28b57be92c1d",
+        "userDefinedKey": "132dfa78-fc74-4929-9564-ffdb3a58c11e",
+        "concept": "Ophiuroidea",
+        "height": 130,
+        "observer": "yolov5",
+        "width": 160,
+        "x": 174,
+        "y": 535,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:02.850Z"
+    },
+    {
+        "uuid": "89c3783f-1e9d-49ba-9a41-0c99bdbee60b",
+        "userDefinedKey": "72ac87e3-65cb-4709-6969-d1d5a0ddd01e",
+        "concept": "Pannychia",
+        "height": 114,
+        "observer": "yolov5",
+        "width": 220,
+        "x": 1231,
+        "y": 11,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:02.850Z"
+    }
+]

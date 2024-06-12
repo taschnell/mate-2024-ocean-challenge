@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "c103e319-9134-4262-b693-3618819de3a9",
+        "userDefinedKey": "8222342f-93b4-43a9-2669-b96011afbc1e",
+        "concept": "Peniagone",
+        "height": 80,
+        "observer": "master@mbari.org",
+        "width": 64,
+        "x": 9,
+        "y": 105,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T16:49:12.914Z"
+    },
+    {
+        "uuid": "72097b27-adec-47e7-a9f8-ad686f12dae6",
+        "userDefinedKey": "4be46b34-855f-4bba-3e67-50d711afbc1e",
+        "concept": "Ophiuroidea",
+        "height": 45,
+        "observer": "master@mbari.org",
+        "width": 51,
+        "x": 580,
+        "y": 40,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T16:49:12.912Z"
+    },
+    {
+        "uuid": "e59c5576-8f8f-45e1-a5cb-861161964715",
+        "userDefinedKey": "d0dfdbcb-e3be-4de8-5c6b-ba0811afbc1e",
+        "concept": "Peniagone",
+        "height": 182,
+        "observer": "master@mbari.org",
+        "width": 150,
+        "x": 273,
+        "y": 59,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T16:49:12.914Z"
+    },
+    {
+        "uuid": "61f030e8-c52e-4f09-b1a1-d07686a67c48",
+        "userDefinedKey": "a52369bb-6aaa-434d-d46f-ef7711afbc1e",
+        "concept": "Peniagone",
+        "height": 71,
+        "observer": "master@mbari.org",
+        "width": 61,
+        "x": 82,
+        "y": 241,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T16:49:12.917Z"
+    },
+    {
+        "uuid": "e8e78a98-ae0c-47b7-a18f-de2361aad919",
+        "userDefinedKey": "fc15859a-6a58-4ae6-8768-c41312afbc1e",
+        "concept": "Ophiuroidea",
+        "height": 56,
+        "observer": "master@mbari.org",
+        "width": 57,
+        "x": 168,
+        "y": 50,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T16:49:12.921Z"
+    }
+]

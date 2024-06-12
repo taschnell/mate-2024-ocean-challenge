@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "20273dc1-e803-4eb7-be24-3b21e076180c",
+        "userDefinedKey": "36901eb7-a3d3-4868-1b6f-a8815158c11e",
+        "concept": "Asteroidea",
+        "height": 123,
+        "observer": "yolov5",
+        "width": 141,
+        "x": 424,
+        "y": 185,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:02.535Z"
+    },
+    {
+        "uuid": "6c35fba2-f90e-49e5-96a1-198b31b423c8",
+        "userDefinedKey": "fe523c3d-2b4a-4677-1f6f-a8815158c11e",
+        "concept": "Gastropoda",
+        "height": 72,
+        "observer": "lonny",
+        "width": 68,
+        "x": 80,
+        "y": 81,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:02.535Z"
+    },
+    {
+        "uuid": "52f0b52a-beb9-4f6a-9eb6-bc96cd35b5d9",
+        "userDefinedKey": "f23417b3-346b-4f84-1d6f-a8815158c11e",
+        "concept": "Ophiuroidea",
+        "height": 118,
+        "observer": "yolov5",
+        "width": 178,
+        "x": 1316,
+        "y": 912,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:02.535Z"
+    }
+]

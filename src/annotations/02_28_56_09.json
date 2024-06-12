@@ -1,0 +1,93 @@
+[
+    {
+        "uuid": "efeef794-88c8-4b47-8e20-46ffae520cb9",
+        "userDefinedKey": "ecbe9cb7-bf7a-4ec6-1768-97972058c11e",
+        "concept": "Scotoplanes globosa",
+        "height": 39,
+        "observer": "yolov5",
+        "width": 56,
+        "x": 1,
+        "y": 113,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:02.516Z"
+    },
+    {
+        "uuid": "10c0fa2d-c4e9-44d8-bde5-8a1351c2fe34",
+        "userDefinedKey": "da0c1ae6-988d-4442-1368-97972058c11e",
+        "concept": "Crinoidea",
+        "height": 52,
+        "observer": "yolov5",
+        "width": 59,
+        "x": 498,
+        "y": 281,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:02.516Z"
+    },
+    {
+        "uuid": "3ed83a04-8fe4-4300-ac3a-607af2ae3e3c",
+        "userDefinedKey": "2189e3fc-763c-4d71-1b68-97972058c11e",
+        "concept": "Scotoplanes globosa",
+        "height": 51,
+        "observer": "yolov5",
+        "width": 70,
+        "x": 442,
+        "y": 100,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:02.516Z"
+    },
+    {
+        "uuid": "f2ecee44-7eed-4649-b0ba-d0b00878e08a",
+        "userDefinedKey": "942d44e2-aaa1-4c9c-ef67-44972058c11e",
+        "concept": "Crinoidea",
+        "height": 36,
+        "observer": "yolov5",
+        "width": 43,
+        "x": 424,
+        "y": 298,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:02.516Z"
+    },
+    {
+        "uuid": "141d78db-0fa0-491d-a481-b4c33ded4cfa",
+        "userDefinedKey": "92493097-9447-4dd2-ed67-44972058c11e",
+        "concept": "Ophiuroidea",
+        "height": 29,
+        "observer": "yolov5",
+        "width": 27,
+        "x": 654,
+        "y": 288,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:02.516Z"
+    },
+    {
+        "uuid": "096e7521-91b3-4d4b-8a30-87cb5b65d78f",
+        "userDefinedKey": "a3e2a64e-21ed-4cbf-1568-97972058c11e",
+        "concept": "Scotoplanes globosa",
+        "height": 27,
+        "observer": "yolov5",
+        "width": 54,
+        "x": 50,
+        "y": 189,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:02.516Z"
+    },
+    {
+        "uuid": "a93375fc-3021-41ad-9dda-3f180f793363",
+        "userDefinedKey": "3777e271-270e-4ce6-1968-97972058c11e",
+        "concept": "Scotoplanes globosa",
+        "height": 57,
+        "observer": "yolov5",
+        "width": 57,
+        "x": 576,
+        "y": 92,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:02.516Z"
+    }
+]

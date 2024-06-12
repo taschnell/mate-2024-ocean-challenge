@@ -1,0 +1,28 @@
+[
+    {
+        "uuid": "381d9aa0-86dc-40e7-8aae-8f623da4e4f3",
+        "userDefinedKey": "5c67cddf-b990-45f9-5e64-59aed7c3aa1e",
+        "concept": "Chionoecetes tanneri",
+        "height": 185,
+        "observer": "master@mbari.org",
+        "width": 346,
+        "x": 145,
+        "y": 116,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:39:37.368Z"
+    },
+    {
+        "uuid": "f64ffddc-abc6-44aa-a910-3ce810a2de4c",
+        "userDefinedKey": "000db430-6dea-4d0e-1e6a-68b0d7c3aa1e",
+        "concept": "Ophiuroidea",
+        "height": 83,
+        "observer": "master@mbari.org",
+        "width": 166,
+        "x": 168,
+        "y": 9,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:39:37.371Z"
+    }
+]

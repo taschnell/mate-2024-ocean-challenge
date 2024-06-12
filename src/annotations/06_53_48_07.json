@@ -1,0 +1,93 @@
+[
+    {
+        "uuid": "ecc38dc5-191b-4386-bc81-194cc8a88d08",
+        "userDefinedKey": "554580a4-1ad3-4885-456e-c16b7558c11e",
+        "concept": "Sebastolobus",
+        "height": 82,
+        "observer": "yolov5",
+        "width": 124,
+        "x": 1374,
+        "y": 869,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:23:02.389Z"
+    },
+    {
+        "uuid": "1c6e2313-03ce-4afe-8e4e-19a8eada6fea",
+        "userDefinedKey": "c103a05c-d69d-4adb-396e-c16b7558c11e",
+        "concept": "Brisingida",
+        "height": 63,
+        "observer": "lonny",
+        "width": 73,
+        "x": 1456,
+        "y": 4,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:23:02.389Z"
+    },
+    {
+        "uuid": "123ecbec-b2fc-4a01-baa2-0b58b7f563a4",
+        "userDefinedKey": "62fc14a7-42f1-4401-476e-c16b7558c11e",
+        "concept": "Pannychia moseleyi",
+        "height": 68,
+        "observer": "yolov5",
+        "width": 173,
+        "x": 1711,
+        "y": 496,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:23:02.389Z"
+    },
+    {
+        "uuid": "d7f32a9b-3a99-4966-84a9-0ad48a67f202",
+        "userDefinedKey": "71afaf0c-4a08-41f9-3b6e-c16b7558c11e",
+        "concept": "Ophiuroidea",
+        "height": 41,
+        "observer": "gsainz",
+        "width": 34,
+        "x": 1478,
+        "y": 328,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:23:02.389Z"
+    },
+    {
+        "uuid": "0889b61a-9cd4-49fd-895a-e3a1623e895d",
+        "userDefinedKey": "7b41c48b-4aa4-48f4-3f6e-c16b7558c11e",
+        "concept": "Sebastolobus",
+        "height": 61,
+        "observer": "yolov5",
+        "width": 43,
+        "x": 633,
+        "y": 985,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:23:02.389Z"
+    },
+    {
+        "uuid": "78287113-398a-404d-a244-c20055e4c932",
+        "userDefinedKey": "5c0172d5-3fc8-460c-436e-c16b7558c11e",
+        "concept": "Sebastolobus",
+        "height": 54,
+        "observer": "yolov5",
+        "width": 117,
+        "x": 1305,
+        "y": 529,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:23:02.389Z"
+    },
+    {
+        "uuid": "1f957ea4-edac-4cf6-870e-ce2f36e62c28",
+        "userDefinedKey": "46199b58-008f-44d4-416e-c16b7558c11e",
+        "concept": "Psolus squamatus",
+        "height": 70,
+        "observer": "yolov5",
+        "width": 86,
+        "x": 726,
+        "y": 998,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:23:02.389Z"
+    }
+]

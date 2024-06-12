@@ -1,0 +1,93 @@
+[
+    {
+        "uuid": "7150d79d-010f-47b8-928a-a47cb926620f",
+        "userDefinedKey": "50da56c7-d743-4ca8-aa85-3cbc557fab7f",
+        "concept": "Culeolus",
+        "height": 60,
+        "observer": "lemon",
+        "width": 47,
+        "x": 1244,
+        "y": 656,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:59.253Z"
+    },
+    {
+        "uuid": "73f78c3e-9ec6-4b15-a0a2-94c0e787e62b",
+        "userDefinedKey": "84702653-5f10-4331-5769-e4df38d7da1e",
+        "concept": "Ophiuroidea",
+        "height": 45,
+        "observer": "lonny",
+        "width": 53,
+        "x": 406,
+        "y": 866,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:59.253Z"
+    },
+    {
+        "uuid": "653270bd-2a93-4bd6-a959-614caa52bb05",
+        "userDefinedKey": "903533c1-f30f-4a3b-87f1-03b580d4e43e",
+        "concept": "Tromikosoma panamense",
+        "height": 54,
+        "observer": "lonny",
+        "width": 65,
+        "x": 1110,
+        "y": 374,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:59.253Z"
+    },
+    {
+        "uuid": "523798a8-e250-4dbe-8cb0-8569084cb0f1",
+        "userDefinedKey": "e95b3078-195f-4c27-5569-e4df38d7da1e",
+        "concept": "Ophiuroidea",
+        "height": 56,
+        "observer": "lonny",
+        "width": 60,
+        "x": 419,
+        "y": 1002,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:59.253Z"
+    },
+    {
+        "uuid": "b04bc98b-b84f-45a8-bd3a-dea8b7dad558",
+        "userDefinedKey": "12c3c8c2-f4d4-4705-9bc1-129fdc644062",
+        "concept": "Tromikosoma panamense",
+        "height": 64,
+        "observer": "lemon",
+        "width": 90,
+        "x": 135,
+        "y": 264,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:59.253Z"
+    },
+    {
+        "uuid": "4e319509-7915-4082-80c0-4ba862aad15c",
+        "userDefinedKey": "7ff5ea9b-7495-4b9a-b84c-767a8b0e82ef",
+        "concept": "Benthopecten",
+        "height": 78,
+        "observer": "lemon",
+        "width": 90,
+        "x": 4,
+        "y": 278,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:59.253Z"
+    },
+    {
+        "uuid": "3111ec87-969b-4ef1-b7eb-270d584535d1",
+        "userDefinedKey": "a0ebbf30-2f57-4621-a7be-0abc02fb0ce1",
+        "concept": "Culeolus",
+        "height": 66,
+        "observer": "lonny",
+        "width": 64,
+        "x": 1426,
+        "y": 743,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:59.253Z"
+    }
+]

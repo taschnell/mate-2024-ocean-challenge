@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "815419d1-264b-4a7a-8673-e10a02201066",
+        "userDefinedKey": "5f2d3127-0c9b-4126-d960-4ce1ff14b71e",
+        "concept": "Ophiuroidea",
+        "height": 28,
+        "observer": "master@mbari.org",
+        "width": 42,
+        "x": 121,
+        "y": 232,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T16:59:14.738Z"
+    },
+    {
+        "uuid": "b1bc0987-bb27-451d-a03b-a66a6fd2313d",
+        "userDefinedKey": "f58f22ca-9ae7-45cb-006d-8d4dff14b71e",
+        "concept": "Coryphaenoides",
+        "height": 243,
+        "observer": "master@mbari.org",
+        "width": 101,
+        "x": 250,
+        "y": 0,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T16:59:14.738Z"
+    },
+    {
+        "uuid": "f1c68215-f203-47f8-a488-a8292e33366b",
+        "userDefinedKey": "f7e9a575-83d2-48a8-f16e-6f1e0015b71e",
+        "concept": "Ophiuroidea",
+        "height": 44,
+        "observer": "master@mbari.org",
+        "width": 57,
+        "x": 404,
+        "y": 397,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T16:59:14.737Z"
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "c1a499ca-6b12-4b12-966e-afb1b0b4e8b4",
+        "userDefinedKey": "a9cd8a20-96b5-4d2b-6668-1320a8c3aa1e",
+        "concept": "Brisingida",
+        "height": 56,
+        "observer": "master@mbari.org",
+        "width": 97,
+        "x": 61,
+        "y": 215,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:16:38.966Z"
+    },
+    {
+        "uuid": "76fd196a-990e-413f-add8-3a81220cf7d6",
+        "userDefinedKey": "15b62ad5-97b1-4f49-f266-0220a8c3aa1e",
+        "concept": "Ophiuroidea",
+        "height": 32,
+        "observer": "master@mbari.org",
+        "width": 49,
+        "x": 45,
+        "y": 67,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:16:38.966Z"
+    },
+    {
+        "uuid": "dbe9901c-a354-410e-a7f3-18deb2af221f",
+        "userDefinedKey": "fe35d16e-09ba-4ad0-1a66-2e20a8c3aa1e",
+        "concept": "Brisingida",
+        "height": 67,
+        "observer": "master@mbari.org",
+        "width": 59,
+        "x": 211,
+        "y": 169,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:16:38.967Z"
+    },
+    {
+        "uuid": "d93111e6-8ab6-43cc-a271-e8f1944eedb2",
+        "userDefinedKey": "06f10fd4-e704-450c-5e67-ec1fa8c3aa1e",
+        "concept": "Ophiuroidea",
+        "height": 41,
+        "observer": "master@mbari.org",
+        "width": 45,
+        "x": 75,
+        "y": 326,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:16:38.968Z"
+    },
+    {
+        "uuid": "efc3e99d-aa7f-4339-adee-46d53a306de3",
+        "userDefinedKey": "9806cf64-9641-4b6c-3367-8a1ea8c3aa1e",
+        "concept": "Bathyraja spinosissima",
+        "height": 189,
+        "observer": "master@mbari.org",
+        "width": 177,
+        "x": 63,
+        "y": 29,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:16:38.979Z"
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "cedfa94b-7b14-405f-a0bc-4e7207f7f03a",
+        "userDefinedKey": "b9ba0141-fa90-4647-9abc-e7fe003ee8b4",
+        "concept": "Ophiuroidea",
+        "height": 75,
+        "observer": "lonny",
+        "width": 94,
+        "x": 697,
+        "y": 794,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.829Z"
+    },
+    {
+        "uuid": "a02213a0-1888-47ac-aaac-db210cd4ecd9",
+        "userDefinedKey": "45d38b51-0e8b-4438-b99a-41fd40e671d7",
+        "concept": "Ophiuroidea",
+        "height": 78,
+        "observer": "lonny",
+        "width": 78,
+        "x": 490,
+        "y": 733,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.829Z"
+    },
+    {
+        "uuid": "c5f9a17c-3fa1-4683-b766-af698f919654",
+        "userDefinedKey": "cdd4f48b-2503-4e72-7c63-65ad9accda1e",
+        "concept": "Abyssocucumis abyssorum",
+        "height": 115,
+        "observer": "lonny",
+        "width": 73,
+        "x": 789,
+        "y": 732,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.829Z"
+    }
+]

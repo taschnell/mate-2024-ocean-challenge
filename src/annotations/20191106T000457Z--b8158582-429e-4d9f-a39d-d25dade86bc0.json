@@ -1,0 +1,28 @@
+[
+    {
+        "uuid": "0f402dde-016d-4726-b6a5-47b62ea88ac0",
+        "userDefinedKey": "a601d872-d99a-4266-f96c-9726a9e8af1e",
+        "concept": "Embassichthys bathybius",
+        "height": 193,
+        "observer": "lonny",
+        "width": 90,
+        "x": 1219,
+        "y": 255,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:22:36.472Z"
+    },
+    {
+        "uuid": "3122a1d8-77f0-4ca6-9482-ce7aafb33701",
+        "userDefinedKey": "cc080ac7-5e2c-4a04-096c-af87a9e8af1e",
+        "concept": "Ophiuroidea",
+        "height": 230,
+        "observer": "lonny",
+        "width": 234,
+        "x": 1584,
+        "y": 796,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:22:36.472Z"
+    }
+]

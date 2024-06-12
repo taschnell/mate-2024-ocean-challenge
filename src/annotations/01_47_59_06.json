@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "b6c955d0-0bb9-4cda-9c3c-1b840d9ea2e5",
+        "userDefinedKey": "62d400df-494b-4546-b368-d5b40cecd31e",
+        "concept": "Lithodidae",
+        "height": 516,
+        "observer": "lonny",
+        "width": 629,
+        "x": 372,
+        "y": 318,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:00.505Z"
+    },
+    {
+        "uuid": "6ea41fee-976c-46df-b62e-6cf53a3c63aa",
+        "userDefinedKey": "46acdbe5-f6ea-42be-da67-59b43758c11e",
+        "concept": "Ophiacanthidae",
+        "height": 110,
+        "observer": "lonny",
+        "width": 185,
+        "x": 1534,
+        "y": 924,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:00.505Z"
+    },
+    {
+        "uuid": "0a889fab-459b-4ee1-81d8-d7ca5208204e",
+        "userDefinedKey": "d467e65c-f2de-4246-d867-59b43758c11e",
+        "concept": "Ophiuroidea",
+        "height": 134,
+        "observer": "yolov5",
+        "width": 100,
+        "x": 1820,
+        "y": 666,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:00.505Z"
+    }
+]

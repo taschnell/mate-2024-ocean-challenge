@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "aff76f26-ef68-4b64-a6f5-5ceb75d22999",
+        "userDefinedKey": "999ad321-2a4f-4579-5366-52483308b71e",
+        "concept": "Ophiuroidea",
+        "height": 77,
+        "observer": "master@mbari.org",
+        "width": 142,
+        "x": 265,
+        "y": 364,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:44:02.209Z"
+    },
+    {
+        "uuid": "43222b4e-e130-4c2b-a821-c2536a719da4",
+        "userDefinedKey": "dcff4aee-8230-4e66-dc6c-e1f93208b71e",
+        "concept": "Protoptilum",
+        "height": 181,
+        "observer": "master@mbari.org",
+        "width": 50,
+        "x": 618,
+        "y": 223,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:44:02.209Z"
+    },
+    {
+        "uuid": "17238061-b1ce-4869-afa3-dd7abaa26b08",
+        "userDefinedKey": "98f90f1c-ec77-49d9-5461-27823308b71e",
+        "concept": "Macrouridae",
+        "height": 61,
+        "observer": "master@mbari.org",
+        "width": 177,
+        "x": 440,
+        "y": 420,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:44:02.212Z"
+    }
+]

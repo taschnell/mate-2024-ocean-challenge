@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "e7fad44f-c214-4df2-b3ad-32b99c93aa91",
+        "userDefinedKey": "ef5cfd5f-81ef-4809-6a6d-801b3958c11e",
+        "concept": "Ophiuroidea",
+        "height": 65,
+        "observer": "lonny",
+        "width": 68,
+        "x": 1140,
+        "y": 767,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:08.266Z"
+    },
+    {
+        "uuid": "33aca8ec-2393-4949-b3cb-96f32e5a9629",
+        "userDefinedKey": "d9fd1d81-7ecf-4234-6c6d-801b3958c11e",
+        "concept": "Tunicata",
+        "height": 31,
+        "observer": "yolov5",
+        "width": 32,
+        "x": 445,
+        "y": 569,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:08.266Z"
+    },
+    {
+        "uuid": "f223c4f1-4fdb-4915-97d1-e92c2b6c99da",
+        "userDefinedKey": "8f10b084-b9ff-4cd8-466f-fc9e2293d01e",
+        "concept": "Lillipathes",
+        "height": 826,
+        "observer": "lonny",
+        "width": 739,
+        "x": 782,
+        "y": 208,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:08.266Z"
+    }
+]

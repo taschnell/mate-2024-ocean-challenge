@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "31c9f5b4-375b-4415-93a1-bae76d3cff71",
+        "userDefinedKey": "efd61f17-ddd3-4592-d463-eefd9958c11e",
+        "concept": "Corallimorphus",
+        "height": 74,
+        "observer": "lonny",
+        "width": 124,
+        "x": 363,
+        "y": 177,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:07.736Z"
+    },
+    {
+        "uuid": "79264a7b-e5cb-4a6d-8e2e-1741f20ac54a",
+        "userDefinedKey": "53d35322-928d-4045-d663-eefd9958c11e",
+        "concept": "Ophiuroidea",
+        "height": 48,
+        "observer": "yolov5",
+        "width": 97,
+        "x": 16,
+        "y": 5,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:07.736Z"
+    },
+    {
+        "uuid": "68d8a0e0-1226-4180-a855-a13719bcb886",
+        "userDefinedKey": "d3e52430-df95-4d13-d063-eefd9958c11e",
+        "concept": "Ophiuroidea",
+        "height": 42,
+        "observer": "yolov5",
+        "width": 48,
+        "x": 5,
+        "y": 383,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:07.741Z"
+    }
+]

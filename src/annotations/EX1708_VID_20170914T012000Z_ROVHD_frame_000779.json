@@ -1,0 +1,46 @@
+[
+    {
+        "uuid": "9f0a22ac-a536-4262-b58d-9a394c6e4824",
+        "concept": "Ophiuroidea",
+        "height": 54,
+        "width": 41,
+        "x": 419,
+        "y": 726,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-30T14:50:04.453Z"
+    },
+    {
+        "uuid": "80a98f73-a3a0-49f1-85d9-9b2e5683eb52",
+        "concept": "Octocorallia",
+        "height": 106,
+        "width": 82,
+        "x": 394,
+        "y": 685,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-30T14:50:04.453Z"
+    },
+    {
+        "uuid": "96c0aeca-36dd-46f3-afeb-0498b6808694",
+        "concept": "Euryalidae",
+        "height": 44,
+        "width": 54,
+        "x": 823,
+        "y": 703,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-30T14:50:04.453Z"
+    },
+    {
+        "uuid": "86abf93b-cfea-48be-9f73-ac9cf0ef1464",
+        "concept": "Euryalidae",
+        "height": 39,
+        "width": 37,
+        "x": 756,
+        "y": 868,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-30T14:50:04.453Z"
+    }
+]

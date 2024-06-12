@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "3e83f37b-481b-4812-87ee-47facd4a3aaa",
+        "userDefinedKey": "c90691d3-ee8c-43bc-b863-e71a4d58c11e",
+        "concept": "Bathypterois",
+        "height": 142,
+        "observer": "lonny",
+        "width": 468,
+        "x": 783,
+        "y": 619,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:13.708Z"
+    },
+    {
+        "uuid": "67266d44-a551-4336-955b-6f2cbf71dc4f",
+        "userDefinedKey": "6f90d9cf-16cf-415d-ba63-e71a4d58c11e",
+        "concept": "Ophiuroidea",
+        "height": 263,
+        "observer": "yolov5",
+        "width": 274,
+        "x": 413,
+        "y": 294,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:13.708Z"
+    },
+    {
+        "uuid": "815e6b62-a76b-4d3c-b120-eb473c00c073",
+        "userDefinedKey": "44dc6ff3-c02d-4951-b663-e71a4d58c11e",
+        "concept": "Bathypterois",
+        "height": 253,
+        "observer": "gsainz",
+        "width": 457,
+        "x": 782,
+        "y": 598,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:13.708Z"
+    }
+]

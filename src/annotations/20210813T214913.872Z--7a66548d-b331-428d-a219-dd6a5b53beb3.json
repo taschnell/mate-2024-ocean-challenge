@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "9d6efdb4-ad38-43c3-942a-874660e5bc31",
+        "userDefinedKey": "cd3cf8e2-c7ee-4680-026d-71a0a276d91e",
+        "concept": "Paelopatides confundens",
+        "height": 438,
+        "observer": "lonny",
+        "width": 405,
+        "x": 462,
+        "y": 460,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:19.604Z"
+    },
+    {
+        "uuid": "b8b4488b-30e3-483f-95ab-4a6f7a67fa5a",
+        "userDefinedKey": "f3060aeb-513f-4fcb-006d-71a0a276d91e",
+        "concept": "Ophiuroidea",
+        "height": 232,
+        "observer": "lonny",
+        "width": 129,
+        "x": 0,
+        "y": 417,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:19.604Z"
+    },
+    {
+        "uuid": "bd5b8f8f-4dfe-4cb1-9b69-8d6df4290924",
+        "userDefinedKey": "939089ff-bc49-437b-fe6c-71a0a276d91e",
+        "concept": "Ophiuroidea",
+        "height": 264,
+        "observer": "lonny",
+        "width": 436,
+        "x": 265,
+        "y": 180,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:19.604Z"
+    }
+]

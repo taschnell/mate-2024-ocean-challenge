@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "272a622a-e0d5-4d73-a8ab-93cae9d11f37",
+        "userDefinedKey": "3815b67e-4682-41a5-5b6a-62183405c01e",
+        "concept": "Pannychia",
+        "height": 76,
+        "observer": "gsainz",
+        "width": 56,
+        "x": 1210,
+        "y": 496,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:16:17.301Z"
+    },
+    {
+        "uuid": "421c6eb2-a363-4f1a-bc42-6a9b3a3ee075",
+        "userDefinedKey": "5ae0a990-6b6e-4e8a-bb6e-3c1f3305c01e",
+        "concept": "Asteroidea",
+        "height": 84,
+        "observer": "gsainz",
+        "width": 101,
+        "x": 367,
+        "y": 745,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:16:17.301Z"
+    },
+    {
+        "uuid": "9c8098c3-7401-463a-9618-7d4138384dcc",
+        "userDefinedKey": "a4c625af-baac-43fd-fc6c-45893205c01e",
+        "concept": "Coryphaenoides acrolepis",
+        "height": 143,
+        "observer": "eburton",
+        "width": 349,
+        "x": 1043,
+        "y": 253,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:16:17.301Z"
+    },
+    {
+        "uuid": "c055d69f-89ca-4bc7-8c62-b47d4623e9dd",
+        "userDefinedKey": "4593791f-dd61-4ffa-3e61-80af3305c01e",
+        "concept": "Antedonoidea",
+        "height": 103,
+        "observer": "gsainz",
+        "width": 103,
+        "x": 595,
+        "y": 547,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:16:17.301Z"
+    },
+    {
+        "uuid": "d97113e7-0fd4-4a13-997f-f7389218788d",
+        "userDefinedKey": "20725586-af1a-4dff-cd6c-61a93405c01e",
+        "concept": "Ophiuroidea",
+        "height": 50,
+        "observer": "gsainz",
+        "width": 54,
+        "x": 1060,
+        "y": 682,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:16:17.301Z"
+    }
+]

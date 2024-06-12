@@ -1,0 +1,28 @@
+[
+    {
+        "uuid": "21b4e8e8-93bb-4760-a990-00d891091d93",
+        "userDefinedKey": "0c52da54-f799-431b-e669-84edd628b81e",
+        "concept": "Isopoda",
+        "height": 46,
+        "observer": "linda",
+        "width": 87,
+        "x": 846,
+        "y": 381,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:31:19.478Z"
+    },
+    {
+        "uuid": "b98fdd4d-8868-4195-853c-ec7252a60785",
+        "userDefinedKey": "721bd9a4-0e58-4da2-c26c-2034d728b81e",
+        "concept": "Ophiuroidea",
+        "height": 192,
+        "observer": "linda",
+        "width": 317,
+        "x": 1599,
+        "y": 201,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:31:19.478Z"
+    }
+]

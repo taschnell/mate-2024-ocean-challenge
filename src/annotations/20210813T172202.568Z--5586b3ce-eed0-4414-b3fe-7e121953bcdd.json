@@ -1,0 +1,28 @@
+[
+    {
+        "uuid": "1416d6f4-4096-4a1c-95bb-11179028f902",
+        "userDefinedKey": "6329e383-ab92-4f18-f26d-6f89456cd91e",
+        "concept": "Ophiuroidea",
+        "height": 57,
+        "observer": "lonny",
+        "width": 64,
+        "x": 448,
+        "y": 812,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:59.299Z"
+    },
+    {
+        "uuid": "b6adc312-7c34-4a1d-8df1-b45d43f869e0",
+        "userDefinedKey": "6a9e8a2f-3a3e-4d51-f06d-6f89456cd91e",
+        "concept": "Antimora microlepis",
+        "height": 133,
+        "observer": "lonny",
+        "width": 108,
+        "x": 1565,
+        "y": 358,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:59.299Z"
+    }
+]

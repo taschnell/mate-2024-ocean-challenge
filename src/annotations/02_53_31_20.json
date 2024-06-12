@@ -1,0 +1,28 @@
+[
+    {
+        "uuid": "0a206e02-9e5f-4d30-8eca-835f27fd65c4",
+        "userDefinedKey": "ad38d32c-14a1-4e86-a368-b107a058c11e",
+        "concept": "Ophiuroidea",
+        "height": 44,
+        "observer": "yolov5",
+        "width": 61,
+        "x": 412,
+        "y": 275,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:13.777Z"
+    },
+    {
+        "uuid": "3d61744e-f052-4bfa-850c-9775ca2bef83",
+        "userDefinedKey": "edfd3e65-de0a-4755-a168-b107a058c11e",
+        "concept": "plastic",
+        "height": 64,
+        "observer": "lonny",
+        "width": 55,
+        "x": 390,
+        "y": 240,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:13.777Z"
+    }
+]

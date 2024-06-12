@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "a9384353-04b2-478a-878f-277bf96debda",
+        "userDefinedKey": "704e2d2d-16cd-4eb0-3763-a2caff24bd1e",
+        "concept": "Paelopatides confundens",
+        "height": 135,
+        "observer": "gsainz",
+        "width": 81,
+        "x": 703,
+        "y": 773,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:26:21.195Z"
+    },
+    {
+        "uuid": "5c37b1ee-d434-4901-935c-7a2c1058bd50",
+        "userDefinedKey": "34a4e8ab-e0d7-4d8d-f96e-51f5ff24bd1e",
+        "concept": "Paelopatides confundens",
+        "height": 170,
+        "observer": "gsainz",
+        "width": 123,
+        "x": 124,
+        "y": 438,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:26:21.195Z"
+    },
+    {
+        "uuid": "51f3a68c-e675-41bb-8bf4-d0dadf12c167",
+        "userDefinedKey": "4a3452aa-595f-4946-f16d-17bb0025bd1e",
+        "concept": "Paelopatides confundens",
+        "height": 67,
+        "observer": "gsainz",
+        "width": 67,
+        "x": 759,
+        "y": 391,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:26:21.195Z"
+    },
+    {
+        "uuid": "b56e88f6-4a6f-41bb-afd0-a3d466b63354",
+        "userDefinedKey": "1d4868e0-79aa-4624-2066-5079ff24bd1e",
+        "concept": "Ophiuroidea",
+        "height": 112,
+        "observer": "gsainz",
+        "width": 121,
+        "x": 218,
+        "y": 934,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:26:21.196Z"
+    },
+    {
+        "uuid": "cecffc25-0b40-4beb-8f21-3e2a90a57f86",
+        "userDefinedKey": "3e2e552d-a513-408b-c861-8d24ff24bd1e",
+        "concept": "LRJ complex",
+        "height": 49,
+        "observer": "linda",
+        "width": 46,
+        "x": 854,
+        "y": 644,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:26:21.196Z"
+    }
+]

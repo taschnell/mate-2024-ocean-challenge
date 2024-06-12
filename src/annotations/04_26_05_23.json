@@ -1,0 +1,80 @@
+[
+    {
+        "uuid": "995fa8ee-0d46-47e6-a878-af0a33adf599",
+        "userDefinedKey": "03c8b576-043b-403f-6f61-270e4d58c11e",
+        "concept": "Ophiuroidea",
+        "height": 147,
+        "observer": "yolov5",
+        "width": 189,
+        "x": 256,
+        "y": 288,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:41.575Z"
+    },
+    {
+        "uuid": "40fcfd95-8d64-4ac8-aa5b-4fc1a486159d",
+        "userDefinedKey": "7bad268d-c127-4118-6d61-270e4d58c11e",
+        "concept": "Ophiuroidea",
+        "height": 76,
+        "observer": "yolov5",
+        "width": 108,
+        "x": 1022,
+        "y": 16,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:41.575Z"
+    },
+    {
+        "uuid": "8699cb40-99e3-42d1-a58e-31efb77536ba",
+        "userDefinedKey": "497e1a2f-6dae-4b7a-6b61-270e4d58c11e",
+        "concept": "Holothuroidea sp. 3",
+        "height": 201,
+        "observer": "gsainz",
+        "width": 294,
+        "x": 516,
+        "y": 837,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:41.578Z"
+    },
+    {
+        "uuid": "0110ac71-b717-456d-9990-b75ffaec9c97",
+        "userDefinedKey": "71749ca8-afd2-4d23-6961-270e4d58c11e",
+        "concept": "Ophiuroidea",
+        "height": 116,
+        "observer": "yolov5",
+        "width": 194,
+        "x": 38,
+        "y": 1,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:41.578Z"
+    },
+    {
+        "uuid": "2a07bf1b-d317-408a-99b6-2a557daa2910",
+        "userDefinedKey": "16940d9f-5246-45bb-6561-270e4d58c11e",
+        "concept": "Ophiuroidea",
+        "height": 138,
+        "observer": "yolov5",
+        "width": 151,
+        "x": 119,
+        "y": 294,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:41.578Z"
+    },
+    {
+        "uuid": "236dc796-f536-41ba-8c34-7c60e7d3f749",
+        "userDefinedKey": "9e314b12-5672-4448-4366-dd214ba0d01e",
+        "concept": "Holothuroidea sp. 3",
+        "height": 223,
+        "observer": "linda",
+        "width": 249,
+        "x": 178,
+        "y": 421,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:41.578Z"
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "d04460a4-c848-45e9-ba5d-75d8a9060ec0",
+        "userDefinedKey": "368b220c-1eaa-44a3-8997-3794fae7759e",
+        "concept": "Crinoidea",
+        "height": 69,
+        "observer": "lonny",
+        "width": 83,
+        "x": 1172,
+        "y": 642,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:34.132Z"
+    },
+    {
+        "uuid": "5df04ff5-a4aa-497a-918d-bebb7d61b2e0",
+        "userDefinedKey": "6e980c4d-a2bb-44ca-0260-4d9216d8da1e",
+        "concept": "Peniagone",
+        "height": 119,
+        "observer": "lonny",
+        "width": 171,
+        "x": 964,
+        "y": 440,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:34.133Z"
+    },
+    {
+        "uuid": "28114c21-d8e8-4c9b-95f3-e19d50074fd6",
+        "userDefinedKey": "aade9164-0fd1-4cb5-9609-070b81c738a3",
+        "concept": "Culeolus",
+        "height": 128,
+        "observer": "lonny",
+        "width": 103,
+        "x": 1144,
+        "y": 576,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:34.133Z"
+    },
+    {
+        "uuid": "47617b49-5a9d-45d9-aa94-99385507c6a6",
+        "userDefinedKey": "a8741b67-f9f1-43d4-fe6f-4c9216d8da1e",
+        "concept": "Ophiuroidea",
+        "height": 81,
+        "observer": "lonny",
+        "width": 129,
+        "x": 483,
+        "y": 364,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:34.133Z"
+    },
+    {
+        "uuid": "92e25157-a268-445c-83f0-75d837043355",
+        "userDefinedKey": "85c5d806-2b89-4a36-0060-4d9216d8da1e",
+        "concept": "Ophiuroidea",
+        "height": 62,
+        "observer": "lonny",
+        "width": 86,
+        "x": 429,
+        "y": 761,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:34.133Z"
+    }
+]

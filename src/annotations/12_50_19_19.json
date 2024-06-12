@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "3681d679-8fba-4889-aa2b-a45845abddb4",
+        "userDefinedKey": "b1482673-231a-461f-e267-2f8aabc3aa1e",
+        "concept": "Ophiuroidea",
+        "height": 22,
+        "observer": "master@mbari.org",
+        "width": 26,
+        "x": 280,
+        "y": 427,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:38:39.420Z"
+    },
+    {
+        "uuid": "6e6187e0-6d77-4e6d-8a49-20a23820f48c",
+        "userDefinedKey": "3e5db461-0d9b-4b52-5e6f-1b8aabc3aa1e",
+        "concept": "Ophiuroidea",
+        "height": 21,
+        "observer": "master@mbari.org",
+        "width": 32,
+        "x": 284,
+        "y": 452,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:38:39.414Z"
+    },
+    {
+        "uuid": "3d9d6d3b-0b78-4a55-b277-564a042c2626",
+        "userDefinedKey": "bc53039a-7ca6-4d07-9662-4e87abc3aa1e",
+        "concept": "Bathyraja spinosissima",
+        "height": 159,
+        "observer": "master@mbari.org",
+        "width": 201,
+        "x": 355,
+        "y": 256,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:38:39.415Z"
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "f1c70e0b-4efa-4fca-8f80-b290c4a380fc",
+        "userDefinedKey": "ae428812-82ac-469b-7b6e-8342446aad1e",
+        "concept": "Elpidia",
+        "height": 91,
+        "observer": "expert-observer",
+        "width": 89,
+        "x": 1112,
+        "y": 331,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:17:49.556Z"
+    },
+    {
+        "uuid": "890390fb-4296-41b7-969f-ea0f782a55d1",
+        "userDefinedKey": "060c94fa-b7e8-4682-9c6e-6532446aad1e",
+        "concept": "Peniagone papillata",
+        "height": 245,
+        "observer": "expert-observer",
+        "width": 183,
+        "x": 1279,
+        "y": 735,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:17:49.556Z"
+    },
+    {
+        "uuid": "9859ec16-13ec-45cb-90eb-34583e0d85d4",
+        "userDefinedKey": "50d9cce2-ea54-488c-c263-a1254751bd1e",
+        "concept": "Ophiuroidea",
+        "height": 106,
+        "observer": "gsainz",
+        "width": 104,
+        "x": 215,
+        "y": 251,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:17:49.556Z"
+    }
+]

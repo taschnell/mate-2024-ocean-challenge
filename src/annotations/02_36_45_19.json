@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "ba02b374-94c5-4ab5-bfa8-d051eebf59b0",
+        "userDefinedKey": "0d81d9e4-0ff4-4e57-ef6c-3ab27f58c11e",
+        "concept": "Porifera",
+        "height": 140,
+        "observer": "yolov5",
+        "width": 285,
+        "x": 898,
+        "y": 940,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:16.615Z"
+    },
+    {
+        "uuid": "5043e9fe-aa26-4275-8cfa-ef0b9e63209b",
+        "userDefinedKey": "d5adeeb9-fe6a-4e85-ed6c-3ab27f58c11e",
+        "concept": "Ophiuroidea",
+        "height": 91,
+        "observer": "yolov5",
+        "width": 74,
+        "x": 868,
+        "y": 469,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:16.615Z"
+    },
+    {
+        "uuid": "294ea605-37c9-496a-8638-5f5ed21a6792",
+        "userDefinedKey": "75c13404-9c54-4d4a-f16c-3ab27f58c11e",
+        "concept": "Staurocalyptus",
+        "height": 581,
+        "observer": "yolov5",
+        "width": 573,
+        "x": 55,
+        "y": 48,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:16.615Z"
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "69fa2d44-f354-4293-87d4-dd3519e5c28c",
+        "userDefinedKey": "699ba99d-693d-48d5-d563-23032c58c11e",
+        "concept": "Strongylocentrotus fragilis",
+        "height": 13,
+        "observer": "yolov5",
+        "width": 19,
+        "x": 214,
+        "y": 131,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:02.750Z"
+    },
+    {
+        "uuid": "d2ffa713-5114-471f-8d2f-64b936306c2c",
+        "userDefinedKey": "0a26a288-db4c-4ab2-d363-23032c58c11e",
+        "concept": "Push Corer",
+        "height": 108,
+        "observer": "lonny",
+        "width": 53,
+        "x": 472,
+        "y": 77,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:02.750Z"
+    },
+    {
+        "uuid": "4a9ce3eb-4835-490d-b6b9-cee6d044a1c6",
+        "userDefinedKey": "e62cb31d-2ce3-482c-cb63-23032c58c11e",
+        "concept": "Strongylocentrotus fragilis",
+        "height": 11,
+        "observer": "yolov5",
+        "width": 16,
+        "x": 208,
+        "y": 101,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:02.750Z"
+    },
+    {
+        "uuid": "c39c970c-8775-4a7f-b6d1-fed94c66056d",
+        "userDefinedKey": "ddda872d-dd73-44d2-cd63-23032c58c11e",
+        "concept": "Ophiuroidea",
+        "height": 19,
+        "observer": "gsainz",
+        "width": 39,
+        "x": 236,
+        "y": 100,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:02.750Z"
+    },
+    {
+        "uuid": "25fa4a62-0ffa-4400-b147-87ce7cd3ec64",
+        "userDefinedKey": "2ae2ea77-7539-4772-d163-23032c58c11e",
+        "concept": "Strongylocentrotus fragilis",
+        "height": 16,
+        "observer": "yolov5",
+        "width": 22,
+        "x": 681,
+        "y": 155,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:02.750Z"
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "uuid": "acb5a231-4862-41bb-bd63-c37d8d65bb7f",
+        "userDefinedKey": "7269d63a-75e2-4332-a068-5a81a058c11e",
+        "concept": "Ophiuroidea",
+        "height": 28,
+        "observer": "yolov5",
+        "width": 32,
+        "x": 73,
+        "y": 348,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:30.337Z"
+    },
+    {
+        "uuid": "872869f4-f346-4fe6-a827-dab231ef53d0",
+        "userDefinedKey": "94493e4f-8183-486c-a268-5a81a058c11e",
+        "concept": "Farrea",
+        "height": 44,
+        "observer": "lonny",
+        "width": 65,
+        "x": 444,
+        "y": 207,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:30.338Z"
+    }
+]

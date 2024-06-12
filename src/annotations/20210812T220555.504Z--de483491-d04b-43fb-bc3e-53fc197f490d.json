@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "3d03b269-c129-4a95-8bc8-1009a5b0db3c",
+        "userDefinedKey": "55ef0c88-d43a-43e2-4868-99fe4ad9da1e",
+        "concept": "Ophiuroidea",
+        "height": 48,
+        "observer": "lonny",
+        "width": 49,
+        "x": 553,
+        "y": 650,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:23:19.862Z"
+    },
+    {
+        "uuid": "0e1396f7-f991-40a4-a9dd-797a91ee566d",
+        "userDefinedKey": "d0b01dc1-869b-4cea-4a68-99fe4ad9da1e",
+        "concept": "Ophiuroidea",
+        "height": 47,
+        "observer": "lonny",
+        "width": 54,
+        "x": 642,
+        "y": 439,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:23:19.862Z"
+    },
+    {
+        "uuid": "5d4d4b17-464a-4f1d-8556-fdffaec09349",
+        "userDefinedKey": "a3a45de0-910c-4064-5068-99fe4ad9da1e",
+        "concept": "Tromikosoma panamense",
+        "height": 56,
+        "observer": "lonny",
+        "width": 61,
+        "x": 1213,
+        "y": 280,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:23:19.862Z"
+    },
+    {
+        "uuid": "383f2169-3416-4919-a7a7-9c8f84a7c751",
+        "userDefinedKey": "70114fee-0707-4a4a-4e68-99fe4ad9da1e",
+        "concept": "Ophiuroidea",
+        "height": 55,
+        "observer": "lonny",
+        "width": 49,
+        "x": 740,
+        "y": 813,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:23:19.862Z"
+    },
+    {
+        "uuid": "1ba537fe-819e-4ede-82c8-14e9d2a53f40",
+        "userDefinedKey": "7dbf6c49-2bff-44de-4c68-99fe4ad9da1e",
+        "concept": "Ophiuroidea",
+        "height": 44,
+        "observer": "lonny",
+        "width": 49,
+        "x": 522,
+        "y": 585,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:23:19.862Z"
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "4639ed9d-5a75-40fa-9c72-ef6dd7a8c2ea",
+        "userDefinedKey": "ddcdd6b4-9e94-4be0-b36e-668c9cc6b71e",
+        "concept": "Ophiuroidea",
+        "height": 60,
+        "observer": "master@mbari.org",
+        "width": 91,
+        "x": 399,
+        "y": 130,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:18:22.308Z"
+    },
+    {
+        "uuid": "1a72e539-09e7-49e9-9754-9e008241b973",
+        "userDefinedKey": "40de5c76-7e43-4935-1266-56d79bc6b71e",
+        "concept": "Cerianthidae",
+        "height": 113,
+        "observer": "master@mbari.org",
+        "width": 141,
+        "x": 47,
+        "y": 372,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:18:22.313Z"
+    },
+    {
+        "uuid": "981493ec-95d3-4056-93e2-b8cfaf568423",
+        "userDefinedKey": "4a069fd1-a6eb-459c-d163-77d09cc6b71e",
+        "concept": "Hymenaster",
+        "height": 72,
+        "observer": "master@mbari.org",
+        "width": 84,
+        "x": 401,
+        "y": 183,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:18:22.314Z"
+    },
+    {
+        "uuid": "ab8307b5-1cf6-44e9-9871-ed3c21daecd0",
+        "userDefinedKey": "add2817d-73be-44e1-a061-2d489cc6b71e",
+        "concept": "Holothuroidea",
+        "height": 284,
+        "observer": "master@mbari.org",
+        "width": 177,
+        "x": 238,
+        "y": 144,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:18:22.314Z"
+    }
+]

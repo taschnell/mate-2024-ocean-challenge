@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "205ffb3e-ebda-4518-b810-264c65e9da1b",
+        "userDefinedKey": "2fbdaa43-c181-4b19-a067-a19e3f58c11e",
+        "concept": "Ophiuroidea",
+        "height": 141,
+        "observer": "yolov5",
+        "width": 110,
+        "x": 23,
+        "y": 923,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:08.349Z"
+    },
+    {
+        "uuid": "c3638942-5f4f-4b74-99fe-b58ba4a50b9e",
+        "userDefinedKey": "0655cabb-2df3-4694-a267-a19e3f58c11e",
+        "concept": "Hippasteria",
+        "height": 183,
+        "observer": "yolov5",
+        "width": 273,
+        "x": 1321,
+        "y": 457,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:08.349Z"
+    },
+    {
+        "uuid": "8d726d36-ba05-4eb6-937b-f541ec6e4260",
+        "userDefinedKey": "a96fb639-6a35-4747-9e67-a19e3f58c11e",
+        "concept": "Liparidae sp. 1",
+        "height": 113,
+        "observer": "lonny",
+        "width": 175,
+        "x": 892,
+        "y": 187,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:08.349Z"
+    }
+]

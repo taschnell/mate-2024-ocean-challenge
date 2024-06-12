@@ -1,0 +1,28 @@
+[
+    {
+        "uuid": "ddd90240-255c-4626-a69f-098d0471ecab",
+        "userDefinedKey": "8745eeee-a32d-4d9b-3365-d72cfbf5b21e",
+        "concept": "Ophiuroidea",
+        "height": 526,
+        "observer": "linda",
+        "width": 832,
+        "x": 254,
+        "y": 153,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:27:45.719Z"
+    },
+    {
+        "uuid": "c3ceca9f-9463-4212-98f2-95e155d416fb",
+        "userDefinedKey": "76a2c1e3-766a-4401-c464-45d9faf5b21e",
+        "concept": "Eptatretus",
+        "height": 134,
+        "observer": "linda",
+        "width": 849,
+        "x": 1065,
+        "y": 1,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:27:45.719Z"
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "061fca0b-850c-4bc6-8ae0-46f9357652dc",
+        "userDefinedKey": "07107e92-4b38-4f03-fb69-67e4bbb6b51e",
+        "concept": "Pannychia",
+        "height": 171,
+        "observer": "gsainz",
+        "width": 169,
+        "x": 276,
+        "y": 134,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:17:28.561Z"
+    },
+    {
+        "uuid": "d742803a-3fe6-476c-a5fc-7539c271bff5",
+        "userDefinedKey": "0fe32391-6071-4f72-2363-0b7bb9b6b51e",
+        "concept": "Ophiuroidea",
+        "height": 148,
+        "observer": "gsainz",
+        "width": 110,
+        "x": 1508,
+        "y": 284,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:17:28.562Z"
+    },
+    {
+        "uuid": "318bc13a-08da-4272-b342-7335b596535b",
+        "userDefinedKey": "9dfca40f-757a-45cd-b46a-dddbb8b6b51e",
+        "concept": "Sebastolobus",
+        "height": 182,
+        "observer": "lonny",
+        "width": 196,
+        "x": 947,
+        "y": 417,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:17:28.562Z"
+    },
+    {
+        "uuid": "86973582-a4a3-4081-905c-c224bf67acdc",
+        "userDefinedKey": "03324d39-88b4-42bd-8967-784cbab6b51e",
+        "concept": "Actiniaria",
+        "height": 164,
+        "observer": "gsainz",
+        "width": 113,
+        "x": 923,
+        "y": 856,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:17:28.562Z"
+    },
+    {
+        "uuid": "c5e8e879-5709-4d01-84ae-b0468ae3119c",
+        "userDefinedKey": "c1daf719-f459-4148-5569-f941bbb6b51e",
+        "concept": "Ophiuroidea",
+        "height": 91,
+        "observer": "gsainz",
+        "width": 108,
+        "x": 35,
+        "y": 69,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:17:28.562Z"
+    }
+]

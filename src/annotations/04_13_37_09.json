@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "ebc4fea4-7b50-48e4-812e-6dc199b7c155",
+        "userDefinedKey": "a13d547a-48db-496e-4663-4cac7dd1b71e",
+        "concept": "Ophiuroidea",
+        "height": 78,
+        "observer": "master@mbari.org",
+        "width": 158,
+        "x": 423,
+        "y": 4,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T16:51:04.073Z"
+    },
+    {
+        "uuid": "611db124-7662-4a73-9595-35934fbe4554",
+        "userDefinedKey": "7fc802c6-49a7-47e7-7562-08f37dd1b71e",
+        "concept": "Hymenaster",
+        "height": 111,
+        "observer": "master@mbari.org",
+        "width": 143,
+        "x": 413,
+        "y": 69,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T16:51:04.076Z"
+    },
+    {
+        "uuid": "b631bbbb-eb83-4ff8-8725-ab086db162d6",
+        "userDefinedKey": "f6df1613-4f6a-4e6b-926b-bd587ed1b71e",
+        "concept": "Holothuroidea",
+        "height": 451,
+        "observer": "master@mbari.org",
+        "width": 257,
+        "x": 177,
+        "y": 15,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T16:51:04.079Z"
+    }
+]

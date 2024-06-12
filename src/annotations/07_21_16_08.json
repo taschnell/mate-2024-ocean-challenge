@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "abc86a3f-7d9b-4c46-bc6f-13694bc84223",
+        "userDefinedKey": "a7adad35-870a-48a0-136d-efac7458c11e",
+        "concept": "Sebastolobus",
+        "height": 40,
+        "observer": "yolov5",
+        "width": 37,
+        "x": 798,
+        "y": 1004,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:41.552Z"
+    },
+    {
+        "uuid": "644b4565-8de2-42ad-a5c6-7334471733e2",
+        "userDefinedKey": "0b2d2e2c-1cca-4a2e-156d-efac7458c11e",
+        "concept": "Sebastolobus",
+        "height": 38,
+        "observer": "yolov5",
+        "width": 76,
+        "x": 1351,
+        "y": 926,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:41.552Z"
+    },
+    {
+        "uuid": "d88e297d-8ea0-448d-a376-ff606663d976",
+        "userDefinedKey": "a901fb17-7c67-4e3a-0b6d-efac7458c11e",
+        "concept": "Hexactinellida",
+        "height": 59,
+        "observer": "gsainz",
+        "width": 68,
+        "x": 1350,
+        "y": 679,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:41.552Z"
+    },
+    {
+        "uuid": "c7db7c34-861c-4f8e-9d75-f0900a5c4f87",
+        "userDefinedKey": "80f1c086-33c2-45cf-116d-efac7458c11e",
+        "concept": "Ophiuroidea",
+        "height": 34,
+        "observer": "yolov5",
+        "width": 38,
+        "x": 1147,
+        "y": 1004,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:41.552Z"
+    }
+]

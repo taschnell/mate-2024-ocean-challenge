@@ -1,0 +1,93 @@
+[
+    {
+        "uuid": "0aebb739-aac1-4b2f-a53c-5b9029c62b73",
+        "userDefinedKey": "506ceeea-5576-4064-3d66-4acf6358c11e",
+        "concept": "Acesta mori",
+        "height": 149,
+        "observer": "gsainz",
+        "width": 143,
+        "x": 1139,
+        "y": 681,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:22:01.847Z"
+    },
+    {
+        "uuid": "bf9b61de-fc2c-43f2-aa4b-b11d2d0276c4",
+        "userDefinedKey": "a7d39e89-b539-4590-4166-4acf6358c11e",
+        "concept": "Pandalus amplus",
+        "height": 322,
+        "observer": "yolov5",
+        "width": 235,
+        "x": 822,
+        "y": 7,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:22:01.847Z"
+    },
+    {
+        "uuid": "262031db-2837-4b42-9553-94568fab8184",
+        "userDefinedKey": "7c6772a6-5d7d-46eb-3b66-4acf6358c11e",
+        "concept": "Hexactinellida",
+        "height": 92,
+        "observer": "gsainz",
+        "width": 81,
+        "x": 672,
+        "y": 693,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:22:01.847Z"
+    },
+    {
+        "uuid": "a5400895-ad20-4922-a5f0-65de2ae5e971",
+        "userDefinedKey": "0e840dc5-467a-4060-3966-4acf6358c11e",
+        "concept": "Serpulidae",
+        "height": 34,
+        "observer": "yolov5",
+        "width": 25,
+        "x": 784,
+        "y": 104,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:22:01.847Z"
+    },
+    {
+        "uuid": "eaa0eed8-85b3-4372-8b5d-9fc855001f74",
+        "userDefinedKey": "4162c427-a459-473b-3566-4acf6358c11e",
+        "concept": "Ophiuroidea",
+        "height": 75,
+        "observer": "yolov5",
+        "width": 82,
+        "x": 217,
+        "y": 86,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:22:01.847Z"
+    },
+    {
+        "uuid": "b35c8b63-1e32-4a1c-b195-deb9ba04d96d",
+        "userDefinedKey": "f6028a3f-080b-488e-3766-4acf6358c11e",
+        "concept": "Porifera",
+        "height": 61,
+        "observer": "yolov5",
+        "width": 101,
+        "x": 173,
+        "y": 593,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:22:01.847Z"
+    },
+    {
+        "uuid": "e8ec6f52-8f81-4c9b-bfd7-230f80e37794",
+        "userDefinedKey": "a7a369e4-b9e3-453a-3f66-4acf6358c11e",
+        "concept": "Ophiuroidea",
+        "height": 84,
+        "observer": "yolov5",
+        "width": 89,
+        "x": 899,
+        "y": 788,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:22:01.847Z"
+    }
+]

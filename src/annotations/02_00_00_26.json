@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "19cac231-2857-4cfe-a661-2b7b44e6105a",
+        "userDefinedKey": "035ba7e9-3560-489a-7369-7ac8a058c11e",
+        "concept": "Ophiuroidea",
+        "height": 38,
+        "observer": "yolov5",
+        "width": 48,
+        "x": 655,
+        "y": 216,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:40.640Z"
+    },
+    {
+        "uuid": "2bb497cf-6c0b-4f18-aa1d-3ea18b94d415",
+        "userDefinedKey": "3947dd41-d3fe-4c35-7b69-7ac8a058c11e",
+        "concept": "Crinoidea",
+        "height": 73,
+        "observer": "gsainz",
+        "width": 92,
+        "x": 378,
+        "y": 222,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:40.640Z"
+    },
+    {
+        "uuid": "688c976e-63a5-4782-8b93-e3474ff78492",
+        "userDefinedKey": "953dc641-47bd-4efb-6d69-7ac8a058c11e",
+        "concept": "Ophiuroidea",
+        "height": 47,
+        "observer": "yolov5",
+        "width": 56,
+        "x": 513,
+        "y": 282,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:40.640Z"
+    },
+    {
+        "uuid": "6a936aa6-baed-499e-ad71-2807fccbb948",
+        "userDefinedKey": "eec56381-9d61-43b6-6b69-7ac8a058c11e",
+        "concept": "Pennatula",
+        "height": 25,
+        "observer": "yolov5",
+        "width": 26,
+        "x": 378,
+        "y": 327,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:40.640Z"
+    },
+    {
+        "uuid": "05629f02-a488-421f-b763-f12294cf9a29",
+        "userDefinedKey": "395676a3-dc43-4f79-7969-7ac8a058c11e",
+        "concept": "Ophiuroidea",
+        "height": 45,
+        "observer": "yolov5",
+        "width": 60,
+        "x": 598,
+        "y": 316,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:40.640Z"
+    }
+]

@@ -1,0 +1,167 @@
+[
+    {
+        "uuid": "752bcc86-a7be-4c89-8b77-568205e9f495",
+        "concept": "Ophiuroidea",
+        "height": 46,
+        "width": 73,
+        "x": 395,
+        "y": 586,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-30T14:50:04.368Z"
+    },
+    {
+        "uuid": "75004a85-28ea-4c6a-b223-3fe5351ae119",
+        "concept": "Ophiuroidea",
+        "height": 30,
+        "width": 25,
+        "x": 560,
+        "y": 407,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-30T14:50:04.369Z"
+    },
+    {
+        "uuid": "43ea4b89-8749-4727-808e-cac9838c1240",
+        "concept": "Ophiuroidea",
+        "height": 37,
+        "width": 32,
+        "x": 975,
+        "y": 103,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-30T14:50:04.369Z"
+    },
+    {
+        "uuid": "bd02f4ec-aba4-451e-b6e1-71e5404240f2",
+        "concept": "Ophiuroidea",
+        "height": 36,
+        "width": 31,
+        "x": 577,
+        "y": 291,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-30T14:50:04.369Z"
+    },
+    {
+        "uuid": "00c030d4-a473-48a0-9f22-faba6d4f971c",
+        "concept": "Ophiuroidea",
+        "height": 32,
+        "width": 30,
+        "x": 1084,
+        "y": 56,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-30T14:50:04.369Z"
+    },
+    {
+        "uuid": "5cf1f9f1-daab-43a6-9f55-20c9c32463fd",
+        "concept": "narella sp.",
+        "height": 122,
+        "width": 56,
+        "x": 1699,
+        "y": 144,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-30T14:50:04.369Z"
+    },
+    {
+        "uuid": "0faaeb56-dad8-4a58-8416-f11b96b42d7a",
+        "concept": "narella sp.",
+        "height": 173,
+        "width": 201,
+        "x": 509,
+        "y": 446,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-30T14:50:04.369Z"
+    },
+    {
+        "uuid": "fd8497d2-8e31-4084-a24b-7de43ff50998",
+        "concept": "narella sp.",
+        "height": 188,
+        "width": 191,
+        "x": 536,
+        "y": 370,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-30T14:50:04.369Z"
+    },
+    {
+        "uuid": "c71a110a-146f-4620-82c6-74d456941157",
+        "concept": "narella sp.",
+        "height": 136,
+        "width": 148,
+        "x": 340,
+        "y": 548,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-30T14:50:04.369Z"
+    },
+    {
+        "uuid": "a3c04c35-0a74-4943-9d26-1ee2a737017b",
+        "concept": "narella sp.",
+        "height": 90,
+        "width": 97,
+        "x": 191,
+        "y": 646,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-30T14:50:04.369Z"
+    },
+    {
+        "uuid": "81163e0a-f4e1-495e-aa24-315772a7c9cc",
+        "concept": "narella sp.",
+        "height": 124,
+        "width": 125,
+        "x": 449,
+        "y": 675,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-30T14:50:04.369Z"
+    },
+    {
+        "uuid": "de990f1a-1db9-4bcb-bb4c-b4326e715f49",
+        "concept": "narella sp.",
+        "height": 112,
+        "width": 167,
+        "x": 1431,
+        "y": 176,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-30T14:50:04.369Z"
+    },
+    {
+        "uuid": "08c1f810-2ce4-4674-9c14-7df5040ce5b0",
+        "concept": "narella sp.",
+        "height": 176,
+        "width": 161,
+        "x": 1526,
+        "y": 211,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-30T14:50:04.369Z"
+    },
+    {
+        "uuid": "cc7205fe-450c-4b2c-8fc0-fed19e0ec7d6",
+        "concept": "narella sp.",
+        "height": 145,
+        "width": 204,
+        "x": 1235,
+        "y": 281,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-30T14:50:04.369Z"
+    },
+    {
+        "uuid": "d1d16838-a141-496d-912f-7f790395d9db",
+        "concept": "narella sp.",
+        "height": 192,
+        "width": 166,
+        "x": 1173,
+        "y": 488,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-30T14:50:04.369Z"
+    }
+]

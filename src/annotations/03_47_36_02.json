@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "43b5e7ec-bd2c-493a-a75d-8b05792764d3",
+        "userDefinedKey": "d2a9068f-5cc4-45a3-8767-0c4c3c58c11e",
+        "concept": "Ophiuroidea",
+        "height": 89,
+        "observer": "yolov5",
+        "width": 67,
+        "x": 0,
+        "y": 469,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:00.157Z"
+    },
+    {
+        "uuid": "15c1e36c-cfe3-46c0-8e49-1963efd8a9e3",
+        "userDefinedKey": "be845d7e-5290-4d95-8367-0c4c3c58c11e",
+        "concept": "Tunicata",
+        "height": 48,
+        "observer": "yolov5",
+        "width": 47,
+        "x": 1787,
+        "y": 397,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:00.157Z"
+    },
+    {
+        "uuid": "a9599013-32b4-400b-83cb-814140e945d2",
+        "userDefinedKey": "cd36d91d-401b-4f75-8967-0c4c3c58c11e",
+        "concept": "Crinoidea",
+        "height": 170,
+        "observer": "yolov5",
+        "width": 178,
+        "x": 1289,
+        "y": 218,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:00.157Z"
+    },
+    {
+        "uuid": "501f9dfe-5af4-4047-8435-e601668430f0",
+        "userDefinedKey": "c6482986-e19f-435b-8567-0c4c3c58c11e",
+        "concept": "Tunicata",
+        "height": 50,
+        "observer": "yolov5",
+        "width": 60,
+        "x": 1610,
+        "y": 20,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:00.157Z"
+    },
+    {
+        "uuid": "dbb37119-de92-4181-8904-238cab2755f2",
+        "userDefinedKey": "2eccdde8-b680-4907-9b6e-0e4c3c58c11e",
+        "concept": "Graneledone boreopacifica",
+        "height": 219,
+        "observer": "yolov5",
+        "width": 227,
+        "x": 858,
+        "y": 473,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:00.157Z"
+    }
+]

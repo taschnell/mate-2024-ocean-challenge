@@ -1,0 +1,80 @@
+[
+    {
+        "uuid": "b48ac290-6660-44de-88e9-0c5165e3ae2a",
+        "userDefinedKey": "28d49067-b45a-408c-0064-c9e34058c11e",
+        "concept": "Ophiuroidea",
+        "height": 106,
+        "observer": "yolov5",
+        "width": 123,
+        "x": 942,
+        "y": 617,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:30.822Z"
+    },
+    {
+        "uuid": "0990f589-d5ef-46cb-854a-e9ea3a60ae4e",
+        "userDefinedKey": "3ff186e9-0dc7-412e-326e-edba23ead01e",
+        "concept": "Keratoisis",
+        "height": 537,
+        "observer": "lonny",
+        "width": 223,
+        "x": 703,
+        "y": 475,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:30.822Z"
+    },
+    {
+        "uuid": "8ccb2f34-2820-4b01-a8de-f9debb6b5891",
+        "userDefinedKey": "30f8653b-1209-4e78-fe6d-dee24058c11e",
+        "concept": "Ophiuroidea",
+        "height": 76,
+        "observer": "yolov5",
+        "width": 91,
+        "x": 1026,
+        "y": 871,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:30.822Z"
+    },
+    {
+        "uuid": "08bae9af-be63-4a4e-a527-f257f4f8755d",
+        "userDefinedKey": "89eb4e12-c4cf-4761-fc6d-dee24058c11e",
+        "concept": "Holothuroidea",
+        "height": 115,
+        "observer": "lonny",
+        "width": 77,
+        "x": 477,
+        "y": 853,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:30.822Z"
+    },
+    {
+        "uuid": "e7d6025e-f1fc-4a30-bead-094b1bf68e61",
+        "userDefinedKey": "c1e3ec6e-eaa2-42fe-f364-9a9224ead01e",
+        "concept": "Crinoidea",
+        "height": 180,
+        "observer": "lonny",
+        "width": 139,
+        "x": 551,
+        "y": 476,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:30.822Z"
+    },
+    {
+        "uuid": "95ac4eee-c88a-46de-b146-2600aa0da5f1",
+        "userDefinedKey": "006d1a85-1504-41a9-f86d-dee24058c11e",
+        "concept": "Ophiuroidea",
+        "height": 61,
+        "observer": "yolov5",
+        "width": 71,
+        "x": 825,
+        "y": 52,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:30.822Z"
+    }
+]

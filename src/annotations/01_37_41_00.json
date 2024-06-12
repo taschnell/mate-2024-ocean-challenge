@@ -1,0 +1,28 @@
+[
+    {
+        "uuid": "c03cc8a2-30e7-4da6-8760-612eeb028ca3",
+        "userDefinedKey": "0cd2ddba-81f0-4444-9b66-f13aa258c11e",
+        "concept": "Ophiuroidea",
+        "height": 33,
+        "observer": "yolov5",
+        "width": 34,
+        "x": 211,
+        "y": 391,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:13.741Z"
+    },
+    {
+        "uuid": "ac85ddd4-aab3-4827-8ff8-1b44dd8de594",
+        "userDefinedKey": "39102b7d-928b-407d-9f66-f13aa258c11e",
+        "concept": "Synallactidae",
+        "height": 24,
+        "observer": "lonny",
+        "width": 71,
+        "x": 591,
+        "y": 161,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:13.741Z"
+    }
+]

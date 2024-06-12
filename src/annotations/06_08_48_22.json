@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "236ca12b-e078-4423-a4cc-604a246d8fd7",
+        "userDefinedKey": "60fb54aa-3843-4840-b563-f6d85658c11e",
+        "concept": "Porifera",
+        "height": 259,
+        "observer": "yolov5",
+        "width": 322,
+        "x": 777,
+        "y": 242,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:40.855Z"
+    },
+    {
+        "uuid": "24cea745-02fb-42b2-9571-6473e9901918",
+        "userDefinedKey": "543ef24c-a507-4b11-b163-f6d85658c11e",
+        "concept": "Pandalus amplus",
+        "height": 92,
+        "observer": "yolov5",
+        "width": 66,
+        "x": 1003,
+        "y": 292,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:40.855Z"
+    },
+    {
+        "uuid": "58b45a96-9d40-4105-9c91-590e66010a4a",
+        "userDefinedKey": "21554546-15f3-4657-b363-f6d85658c11e",
+        "concept": "Ophiuroidea",
+        "height": 104,
+        "observer": "yolov5",
+        "width": 139,
+        "x": 1184,
+        "y": 890,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:40.855Z"
+    },
+    {
+        "uuid": "58c40203-e6f9-4ac5-ae41-b65e7196212f",
+        "userDefinedKey": "55d772e9-fe4b-4664-a963-f6d85658c11e",
+        "concept": "Hexactinellida",
+        "height": 423,
+        "observer": "yolov5",
+        "width": 473,
+        "x": 315,
+        "y": 654,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:40.863Z"
+    }
+]

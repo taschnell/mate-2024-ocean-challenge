@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "410a2855-7a67-45f3-8ca9-a4655cefb0ed",
+        "userDefinedKey": "21754aff-20ba-4741-0c6e-8b8b15b0bc1e",
+        "concept": "Ophiuroidea",
+        "height": 31,
+        "observer": "master@mbari.org",
+        "width": 31,
+        "x": 359,
+        "y": 326,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T16:49:12.924Z"
+    },
+    {
+        "uuid": "2bd8b715-2454-48ab-8787-2cc7c37d0607",
+        "userDefinedKey": "97518605-54d8-43c7-a362-813415b0bc1e",
+        "concept": "Ophiuroidea",
+        "height": 23,
+        "observer": "master@mbari.org",
+        "width": 25,
+        "x": 153,
+        "y": 218,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T16:49:12.927Z"
+    },
+    {
+        "uuid": "6de5e442-5a99-40fe-b69a-6702ff0f71df",
+        "userDefinedKey": "8b727537-587c-4fad-cf6b-c8db14b0bc1e",
+        "concept": "Peniagone",
+        "height": 58,
+        "observer": "master@mbari.org",
+        "width": 61,
+        "x": 314,
+        "y": 244,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T16:49:12.930Z"
+    },
+    {
+        "uuid": "1a414ad1-6728-4043-b83e-e69f20a1a5cc",
+        "userDefinedKey": "d2529a0e-13de-4a3a-b463-76a115b0bc1e",
+        "concept": "Ophiuroidea",
+        "height": 26,
+        "observer": "master@mbari.org",
+        "width": 30,
+        "x": 352,
+        "y": 209,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T16:49:12.931Z"
+    },
+    {
+        "uuid": "e989313e-4f53-472c-bb0f-14dacf98703c",
+        "userDefinedKey": "5ca5a5bf-28f4-4a8d-b06d-217315b0bc1e",
+        "concept": "Ophiuroidea",
+        "height": 17,
+        "observer": "master@mbari.org",
+        "width": 27,
+        "x": 174,
+        "y": 250,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T16:49:12.931Z"
+    }
+]

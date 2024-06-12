@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "a4383dea-6bcd-4a68-93c3-837f594d099e",
+        "userDefinedKey": "3194cad6-d4f4-43ec-6968-ff655258c11e",
+        "concept": "Heterocarpus sp. 1",
+        "height": 98,
+        "observer": "lonny",
+        "width": 47,
+        "x": 676,
+        "y": 557,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:34.091Z"
+    },
+    {
+        "uuid": "c90da495-df38-4427-9529-bb551289fbc1",
+        "userDefinedKey": "370c4334-2ec0-4366-576e-87655258c11e",
+        "concept": "Caridea",
+        "height": 90,
+        "observer": "yolov5",
+        "width": 87,
+        "x": 1114,
+        "y": 406,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:34.091Z"
+    },
+    {
+        "uuid": "f0e39af4-dba4-4b04-b46e-8b7b3ce7805e",
+        "userDefinedKey": "bf08c58f-9867-461e-6b68-ff655258c11e",
+        "concept": "Gastropoda",
+        "height": 103,
+        "observer": "yolov5",
+        "width": 114,
+        "x": 868,
+        "y": 162,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:34.091Z"
+    },
+    {
+        "uuid": "b7737593-a6ce-4ec5-9efa-9b1e6404d808",
+        "userDefinedKey": "2a981711-b2f3-433e-6d68-ff655258c11e",
+        "concept": "Ophiuroidea",
+        "height": 273,
+        "observer": "yolov5",
+        "width": 319,
+        "x": 1243,
+        "y": 740,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:34.091Z"
+    }
+]

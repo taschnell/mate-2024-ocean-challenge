@@ -1,0 +1,28 @@
+[
+    {
+        "uuid": "0ce3881f-cb5f-4e05-bc96-8e926c579b78",
+        "userDefinedKey": "9d247e77-c3d3-48c2-ac6e-1d8b7a58c11e",
+        "concept": "Ophiuroidea",
+        "height": 109,
+        "observer": "yolov5",
+        "width": 99,
+        "x": 1548,
+        "y": 18,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:16.623Z"
+    },
+    {
+        "uuid": "38a3b504-fcde-4e02-b8a7-a5e7b0919d41",
+        "userDefinedKey": "200bb08d-b64b-4c93-c065-208b7a58c11e",
+        "concept": "Pannychia moseleyi",
+        "height": 209,
+        "observer": "yolov5",
+        "width": 104,
+        "x": 627,
+        "y": 703,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:16.623Z"
+    }
+]

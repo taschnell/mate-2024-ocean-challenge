@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "c77202a2-0280-47aa-bf71-b61fed19c8a2",
+        "userDefinedKey": "284ac606-db7e-4768-466b-5d114f6bad1e",
+        "concept": "Fungiacyathus (Bathyactis) marenzelleri",
+        "height": 62,
+        "observer": "expert-observer",
+        "width": 86,
+        "x": 638,
+        "y": 240,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:28:08.049Z"
+    },
+    {
+        "uuid": "dcb9e1c4-cfce-4657-a7d6-a924814fadcf",
+        "userDefinedKey": "ab866809-a770-4fc3-6560-56024f6bad1e",
+        "concept": "LRJ complex",
+        "height": 84,
+        "observer": "gsainz",
+        "width": 85,
+        "x": 419,
+        "y": 982,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:28:08.049Z"
+    },
+    {
+        "uuid": "9c47d0c2-75c7-42ab-b169-3d92e1ab0117",
+        "userDefinedKey": "b233d438-13e8-4e21-9f6d-a1fe36e3bc1e",
+        "concept": "Ophiuroidea",
+        "height": 52,
+        "observer": "gsainz",
+        "width": 83,
+        "x": 323,
+        "y": 239,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:28:08.053Z"
+    }
+]

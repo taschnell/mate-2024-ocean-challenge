@@ -1,0 +1,28 @@
+[
+    {
+        "uuid": "ba2a2d78-784c-452e-9acb-73267b058a22",
+        "userDefinedKey": "b5d7dbd7-8c08-4a6c-c763-a5b799c3aa1e",
+        "concept": "Ophiuroidea",
+        "height": 54,
+        "observer": "master@mbari.org",
+        "width": 53,
+        "x": 528,
+        "y": 257,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:24:38.783Z"
+    },
+    {
+        "uuid": "35e1e062-79da-493d-a1ee-039600d8902a",
+        "userDefinedKey": "8d832b45-49b6-42cc-016b-45b699c3aa1e",
+        "concept": "Bathyraja abyssicola",
+        "height": 351,
+        "observer": "master@mbari.org",
+        "width": 595,
+        "x": 1,
+        "y": 10,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:24:38.783Z"
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "b35708ec-ab1f-4a15-a95b-9e51a98c8fc5",
+        "userDefinedKey": "d95bf6b4-61c4-40cf-166c-cc953fc5b71e",
+        "concept": "Antimora microlepis",
+        "height": 373,
+        "observer": "master@mbari.org",
+        "width": 171,
+        "x": 278,
+        "y": 51,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T16:54:40.370Z"
+    },
+    {
+        "uuid": "863d2ffe-7704-4907-8aea-2f25d4a977d8",
+        "userDefinedKey": "9ca6e1ee-484f-45c3-9964-f31240c5b71e",
+        "concept": "Ophiuroidea",
+        "height": 49,
+        "observer": "master@mbari.org",
+        "width": 89,
+        "x": 69,
+        "y": 436,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T16:54:40.372Z"
+    },
+    {
+        "uuid": "3d317bbf-9741-4433-9d8c-8c6960efd622",
+        "userDefinedKey": "c69fc2c2-50ea-4190-3a6e-3d3340c5b71e",
+        "concept": "Ophiuroidea",
+        "height": 57,
+        "observer": "master@mbari.org",
+        "width": 71,
+        "x": 369,
+        "y": 343,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T16:54:40.374Z"
+    },
+    {
+        "uuid": "f02774e9-a764-4452-81b5-48c4e9747410",
+        "userDefinedKey": "a11a4b6b-5a1e-4ab1-fb63-925a40c5b71e",
+        "concept": "Ophiuroidea",
+        "height": 80,
+        "observer": "master@mbari.org",
+        "width": 83,
+        "x": 577,
+        "y": 23,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T16:54:40.376Z"
+    }
+]

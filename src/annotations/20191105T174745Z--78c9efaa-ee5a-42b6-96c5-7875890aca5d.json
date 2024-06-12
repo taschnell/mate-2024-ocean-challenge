@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "76d878e1-1e2b-4ca9-94d5-71fe8f95c3db",
+        "userDefinedKey": "0b988ead-891a-448b-546e-99cbd8e8af1e",
+        "concept": "Ophiuroidea",
+        "height": 261,
+        "observer": "lonny",
+        "width": 257,
+        "x": 213,
+        "y": 674,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:17:39.660Z"
+    },
+    {
+        "uuid": "709e0ecd-57a4-47ec-a25d-4b8dde5f40ea",
+        "userDefinedKey": "d3e148c6-8224-4071-3563-2306d9e8af1e",
+        "concept": "Ophiuroidea",
+        "height": 173,
+        "observer": "lonny",
+        "width": 274,
+        "x": 498,
+        "y": 560,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:17:39.660Z"
+    },
+    {
+        "uuid": "8f07604e-611a-4a4f-95c4-637e30fd50be",
+        "userDefinedKey": "dd6f1c5c-d36c-416f-5267-1322d8e8af1e",
+        "concept": "Eptatretus",
+        "height": 203,
+        "observer": "lonny",
+        "width": 368,
+        "x": 792,
+        "y": 864,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:17:39.660Z"
+    },
+    {
+        "uuid": "71a5afa4-f487-4f20-812a-e8127f9450cd",
+        "userDefinedKey": "555514db-5021-4088-ad62-c690d7e8af1e",
+        "concept": "Thenea muricata",
+        "height": 123,
+        "observer": "lonny",
+        "width": 143,
+        "x": 1290,
+        "y": 57,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:17:39.660Z"
+    },
+    {
+        "uuid": "306abfe8-d567-4665-ad68-0f309f12419b",
+        "userDefinedKey": "6e93878b-3d53-420e-146a-c740d7e8af1e",
+        "concept": "Embassichthys bathybius",
+        "height": 287,
+        "observer": "linda",
+        "width": 315,
+        "x": 939,
+        "y": 283,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:17:39.668Z"
+    }
+]

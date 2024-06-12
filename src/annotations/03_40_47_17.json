@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "8a5ca06c-eee9-4c92-a295-7022799dc338",
+        "userDefinedKey": "ca8b3588-5cbe-4830-ce65-9b5a5158c11e",
+        "concept": "Ophiuroidea",
+        "height": 102,
+        "observer": "yolov5",
+        "width": 117,
+        "x": 1331,
+        "y": 877,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:19.639Z"
+    },
+    {
+        "uuid": "9757113c-b9c3-43c6-9aa9-e30add38fa06",
+        "userDefinedKey": "25babb91-1756-471e-d265-9b5a5158c11e",
+        "concept": "Ophiuroidea",
+        "height": 108,
+        "observer": "yolov5",
+        "width": 112,
+        "x": 122,
+        "y": 522,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:19.639Z"
+    },
+    {
+        "uuid": "18624f25-d7b2-4757-ab34-1b8a6590f91c",
+        "userDefinedKey": "a2970b0d-59c4-4529-d065-9b5a5158c11e",
+        "concept": "Akoya platinum",
+        "height": 67,
+        "observer": "yolov5",
+        "width": 79,
+        "x": 1145,
+        "y": 464,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:19.639Z"
+    }
+]

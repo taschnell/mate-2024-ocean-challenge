@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "43267dbd-9b64-46a1-b1c1-0039a8bfb294",
+        "userDefinedKey": "a6bbb3aa-e56d-425c-0365-914b6378d91e",
+        "concept": "Ophiuroidea",
+        "height": 79,
+        "observer": "lonny",
+        "width": 97,
+        "x": 853,
+        "y": 895,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.860Z"
+    },
+    {
+        "uuid": "2e82ca77-b237-4516-90db-d4b5fb9cb4f4",
+        "userDefinedKey": "46b622b4-00ec-4003-0565-914b6378d91e",
+        "concept": "Ophiuroidea",
+        "height": 54,
+        "observer": "lonny",
+        "width": 67,
+        "x": 416,
+        "y": 717,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.860Z"
+    },
+    {
+        "uuid": "064e1b37-3a2f-4629-862d-2a2eec0dca03",
+        "userDefinedKey": "31d8a16d-9526-4341-0765-914b6378d91e",
+        "concept": "Ophiuroidea",
+        "height": 56,
+        "observer": "lonny",
+        "width": 81,
+        "x": 119,
+        "y": 1021,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.860Z"
+    },
+    {
+        "uuid": "de040af1-2606-441c-bd6d-b30b2c9d613d",
+        "userDefinedKey": "a8739878-1290-430a-0965-914b6378d91e",
+        "concept": "Pannychia moseleyi",
+        "height": 137,
+        "observer": "lonny",
+        "width": 77,
+        "x": 1702,
+        "y": 511,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.860Z"
+    },
+    {
+        "uuid": "cd71c027-a018-49e8-97c6-2d801dc20a72",
+        "userDefinedKey": "e0184a67-bab1-402d-0b65-914b6378d91e",
+        "concept": "Pannychia moseleyi",
+        "height": 109,
+        "observer": "lonny",
+        "width": 42,
+        "x": 1797,
+        "y": 225,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.863Z"
+    }
+]

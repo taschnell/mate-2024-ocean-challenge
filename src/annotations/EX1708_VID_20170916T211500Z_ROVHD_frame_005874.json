@@ -1,0 +1,24 @@
+[
+    {
+        "uuid": "3ea1604a-0061-4a81-a80e-f91ccef90a7e",
+        "concept": "Ophiuroidea",
+        "height": 42,
+        "width": 38,
+        "x": 1653,
+        "y": 907,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-30T14:50:04.946Z"
+    },
+    {
+        "uuid": "3c538806-3054-4444-8d36-204f36570905",
+        "concept": "Chrysogorgia geniculata",
+        "height": 211,
+        "width": 256,
+        "x": 1525,
+        "y": 868,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-30T14:50:04.946Z"
+    }
+]

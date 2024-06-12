@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "c4e89ae6-df55-46ba-a119-a44ae4b723b3",
+        "userDefinedKey": "ef31a032-7b85-45b4-0269-f32b7606bd1e",
+        "concept": "Ophiuroidea",
+        "height": 27,
+        "observer": "master@mbari.org",
+        "width": 41,
+        "x": 69,
+        "y": 385,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T16:55:30.681Z"
+    },
+    {
+        "uuid": "ba2412fc-c44c-49dd-a68a-32887c415c21",
+        "userDefinedKey": "406a42d9-7d73-460b-3766-68477606bd1e",
+        "concept": "Ophiuroidea",
+        "height": 33,
+        "observer": "master@mbari.org",
+        "width": 48,
+        "x": 568,
+        "y": 324,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T16:55:30.681Z"
+    },
+    {
+        "uuid": "e9ea4815-6ab0-44cc-ac43-f0fb457ddc41",
+        "userDefinedKey": "56f33d15-c46e-4bc4-d66e-f6707506bd1e",
+        "concept": "LRJ complex",
+        "height": 65,
+        "observer": "master@mbari.org",
+        "width": 96,
+        "x": 148,
+        "y": 370,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T16:55:30.685Z"
+    },
+    {
+        "uuid": "b7694d71-a106-4fe9-ba84-a2bb38f3b174",
+        "userDefinedKey": "64a41f19-93a2-4b84-196b-92e77506bd1e",
+        "concept": "Ophiuroidea",
+        "height": 21,
+        "observer": "master@mbari.org",
+        "width": 35,
+        "x": 75,
+        "y": 275,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T16:55:30.688Z"
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "uuid": "713882de-f29e-42cd-938a-40abf4c4cc8e",
+        "userDefinedKey": "db98cf19-cbd3-48a9-166c-99566bfbbf1e",
+        "concept": "Antedonoidea",
+        "height": 90,
+        "observer": "gsainz",
+        "width": 104,
+        "x": 694,
+        "y": 325,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:16:04.626Z"
+    },
+    {
+        "uuid": "7eba3067-9861-4b1c-a6da-67c83874e1f2",
+        "userDefinedKey": "6a490014-71ee-49d2-5867-6f785f70b91e",
+        "concept": "Coryphaenoides acrolepis",
+        "height": 196,
+        "observer": "eburton",
+        "width": 88,
+        "x": 790,
+        "y": 266,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:16:04.627Z"
+    },
+    {
+        "uuid": "d93df7c1-6d35-4026-b0b5-a079aa72a251",
+        "userDefinedKey": "2a3f6c75-4387-437d-336b-58fc66fbbf1e",
+        "concept": "Hexacorallia",
+        "height": 62,
+        "observer": "gsainz",
+        "width": 51,
+        "x": 688,
+        "y": 864,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:16:04.627Z"
+    },
+    {
+        "uuid": "edfba4fe-669d-4fde-8836-e4f341e446dd",
+        "userDefinedKey": "77d1586b-9db7-4b05-3a6d-0c9d67fbbf1e",
+        "concept": "Pannychia",
+        "height": 105,
+        "observer": "gsainz",
+        "width": 57,
+        "x": 749,
+        "y": 905,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:16:04.627Z"
+    },
+    {
+        "uuid": "f8108809-c6a8-4a25-a2bb-56ec37ad1444",
+        "userDefinedKey": "6ebef84b-e564-47ec-116e-14076ffbbf1e",
+        "concept": "Antedonoidea",
+        "height": 57,
+        "observer": "gsainz",
+        "width": 108,
+        "x": 1009,
+        "y": 187,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:16:04.627Z"
+    },
+    {
+        "uuid": "7b7a6a3f-8921-4e88-b413-2f85401c2955",
+        "userDefinedKey": "988f1624-c02f-4548-326b-d34871fbbf1e",
+        "concept": "Antedonoidea",
+        "height": 65,
+        "observer": "gsainz",
+        "width": 66,
+        "x": 1026,
+        "y": 338,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:16:04.627Z"
+    },
+    {
+        "uuid": "5a5f9842-2b85-4a48-9ce7-be8f7a27bef1",
+        "userDefinedKey": "c30268c5-030f-433c-9067-1be768fbbf1e",
+        "concept": "Ophiuroidea",
+        "height": 115,
+        "observer": "gsainz",
+        "width": 76,
+        "x": 1775,
+        "y": 856,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:16:04.627Z"
+    }
+]

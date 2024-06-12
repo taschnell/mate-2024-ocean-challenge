@@ -1,0 +1,93 @@
+[
+    {
+        "uuid": "e117c4d7-e462-447f-9f64-35fd4e0fce61",
+        "userDefinedKey": "cbd789d4-b5a7-47a2-c76b-cd515358c11e",
+        "concept": "Psolus squamatus",
+        "height": 98,
+        "observer": "yolov5",
+        "width": 101,
+        "x": 1303,
+        "y": 515,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:46.721Z"
+    },
+    {
+        "uuid": "59cce462-dc41-4430-9c37-1875bb7cb1ca",
+        "userDefinedKey": "4f10e6c0-16f6-4b80-bd6b-cd515358c11e",
+        "concept": "Psolus squamatus",
+        "height": 89,
+        "observer": "yolov5",
+        "width": 109,
+        "x": 901,
+        "y": 250,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:46.721Z"
+    },
+    {
+        "uuid": "7e380183-7812-42a2-9a4a-dc7c783aabde",
+        "userDefinedKey": "17068df0-bc9f-41ff-c96b-cd515358c11e",
+        "concept": "Psolus squamatus",
+        "height": 92,
+        "observer": "yolov5",
+        "width": 107,
+        "x": 1228,
+        "y": 82,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:46.721Z"
+    },
+    {
+        "uuid": "f27fa5ec-f146-461b-9129-6c74ec16323d",
+        "userDefinedKey": "b081b8ed-7733-4370-c16b-cd515358c11e",
+        "concept": "Heterocarpus sp. 1",
+        "height": 235,
+        "observer": "gsainz",
+        "width": 134,
+        "x": 997,
+        "y": 532,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:46.721Z"
+    },
+    {
+        "uuid": "c088222b-98d8-4fe8-84f7-811f8ec9cf3c",
+        "userDefinedKey": "031523c9-f4c7-4744-c56b-cd515358c11e",
+        "concept": "Heterocarpus sp. 1",
+        "height": 200,
+        "observer": "lonny",
+        "width": 88,
+        "x": 1015,
+        "y": 566,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:46.721Z"
+    },
+    {
+        "uuid": "64fe0c0b-7f3e-4909-a565-a4e6e52a0b73",
+        "userDefinedKey": "f8a61f11-5890-4330-cb6b-cd515358c11e",
+        "concept": "Psolus squamatus",
+        "height": 207,
+        "observer": "yolov5",
+        "width": 207,
+        "x": 653,
+        "y": 133,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:46.721Z"
+    },
+    {
+        "uuid": "9a70b4f7-ed95-43d8-a7df-89f797ad35e3",
+        "userDefinedKey": "ff0d5e61-0c14-4efb-bf6b-cd515358c11e",
+        "concept": "Ophiuroidea",
+        "height": 105,
+        "observer": "yolov5",
+        "width": 99,
+        "x": 1235,
+        "y": 569,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:16:46.721Z"
+    }
+]

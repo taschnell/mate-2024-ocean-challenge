@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "4f5319dd-033b-46dc-9b28-95a4e0ecfb11",
+        "userDefinedKey": "13eea79c-c384-4af8-7361-61591f58c11e",
+        "concept": "Bathybembix",
+        "height": 47,
+        "observer": "gsainz",
+        "width": 42,
+        "x": 125,
+        "y": 256,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:22:32.084Z"
+    },
+    {
+        "uuid": "5b19ef04-1c1a-45f1-8a15-cae4fb65ddb1",
+        "userDefinedKey": "bd765e26-874e-4840-a164-1a591f58c11e",
+        "concept": "Ophiuroidea",
+        "height": 40,
+        "observer": "yolov5",
+        "width": 58,
+        "x": 95,
+        "y": 87,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:22:32.084Z"
+    },
+    {
+        "uuid": "4fa2c693-809e-461f-8414-ada145900722",
+        "userDefinedKey": "f9274eec-07eb-4e24-7561-61591f58c11e",
+        "concept": "Suction Sampler",
+        "height": 178,
+        "observer": "yolov5",
+        "width": 224,
+        "x": 180,
+        "y": 244,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:22:32.084Z"
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "69196b16-62b4-426b-b784-fd1e9ffa8967",
+        "userDefinedKey": "f88d5a22-d1dc-4f03-2868-1191b56db71e",
+        "concept": "Scaphopoda",
+        "height": 86,
+        "observer": "linda",
+        "width": 179,
+        "x": 680,
+        "y": 17,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:22:53.403Z"
+    },
+    {
+        "uuid": "f17dcbde-5f57-4a9a-ba2f-5a3e8645e5eb",
+        "userDefinedKey": "142e809a-d077-4ec8-066e-9979af6db71e",
+        "concept": "Ophiuroidea",
+        "height": 457,
+        "observer": "linda",
+        "width": 862,
+        "x": 238,
+        "y": 390,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:22:53.404Z"
+    },
+    {
+        "uuid": "1aefa8ee-7725-412b-8664-ac5270c05cab",
+        "userDefinedKey": "07986301-4e01-4c32-f76a-9fe5af6db71e",
+        "concept": "Munidopsis sp. 1",
+        "height": 123,
+        "observer": "linda",
+        "width": 159,
+        "x": 679,
+        "y": 616,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:22:53.404Z"
+    }
+]

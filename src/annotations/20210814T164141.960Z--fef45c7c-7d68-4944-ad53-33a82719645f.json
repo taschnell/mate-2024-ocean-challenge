@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "0be36a2a-7c5b-4de2-bf7a-dc75d38ca70c",
+        "userDefinedKey": "894040d1-b387-40d5-a09c-a4862e12ae8a",
+        "concept": "Caridea",
+        "height": 71,
+        "observer": "lonny",
+        "width": 164,
+        "x": 1671,
+        "y": 532,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:33.131Z"
+    },
+    {
+        "uuid": "64791239-3b6d-4bb9-b9e9-aa9ea1f94e7b",
+        "userDefinedKey": "f3869448-ad34-4f8b-2b6e-66cb41a2db1e",
+        "concept": "Psamminidae",
+        "height": 104,
+        "observer": "lonny",
+        "width": 100,
+        "x": 357,
+        "y": 485,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:33.131Z"
+    },
+    {
+        "uuid": "789393f0-52e6-4949-be8b-c083a534cedb",
+        "userDefinedKey": "bf202314-6932-4388-276e-66cb41a2db1e",
+        "concept": "Ophiuroidea",
+        "height": 146,
+        "observer": "lonny",
+        "width": 146,
+        "x": 892,
+        "y": 484,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:33.131Z"
+    },
+    {
+        "uuid": "3dcf385c-f65a-41c0-99a3-b9c84f373344",
+        "userDefinedKey": "274e7c65-9e7f-40a8-256e-66cb41a2db1e",
+        "concept": "Hormathiidae",
+        "height": 224,
+        "observer": "lonny",
+        "width": 182,
+        "x": 1310,
+        "y": 343,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:33.131Z"
+    },
+    {
+        "uuid": "07ccfd14-18f7-4cdc-8506-f62dc5c794c8",
+        "userDefinedKey": "82cda754-a061-49aa-296e-66cb41a2db1e",
+        "concept": "Psamminidae",
+        "height": 98,
+        "observer": "lonny",
+        "width": 95,
+        "x": 1481,
+        "y": 873,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:14:33.131Z"
+    }
+]

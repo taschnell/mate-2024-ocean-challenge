@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "da49609a-aaaa-443f-bc30-73d43be18157",
+        "userDefinedKey": "fe769005-9542-4e1b-6968-13009a58c11e",
+        "concept": "Benthothuria",
+        "height": 48,
+        "observer": "lonny",
+        "width": 128,
+        "x": 247,
+        "y": 204,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:40.737Z"
+    },
+    {
+        "uuid": "7309955d-f4cd-4d22-bb2c-4eb5b8f8700a",
+        "userDefinedKey": "7067c657-945a-4f52-6d68-13009a58c11e",
+        "concept": "Ophiuroidea",
+        "height": 46,
+        "observer": "yolov5",
+        "width": 69,
+        "x": 107,
+        "y": 406,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:40.737Z"
+    },
+    {
+        "uuid": "4fdbe51f-6759-4a9e-8a9b-3b97be3f00e4",
+        "userDefinedKey": "b65ce019-2806-4efb-6b68-13009a58c11e",
+        "concept": "LRJ complex",
+        "height": 16,
+        "observer": "yolov5",
+        "width": 19,
+        "x": 697,
+        "y": 393,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:40.737Z"
+    }
+]

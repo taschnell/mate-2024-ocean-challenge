@@ -1,0 +1,28 @@
+[
+    {
+        "uuid": "83919186-d739-4096-81c6-87f6d16931aa",
+        "userDefinedKey": "a0538821-c38c-497b-3b60-30df3958c11e",
+        "concept": "Ophiuroidea",
+        "height": 302,
+        "observer": "lonny",
+        "width": 325,
+        "x": 1591,
+        "y": 230,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:34.054Z"
+    },
+    {
+        "uuid": "a7af539c-0b29-4516-a30f-38bb37fa0777",
+        "userDefinedKey": "2a5a668c-056c-4721-3960-30df3958c11e",
+        "concept": "Culeolus",
+        "height": 678,
+        "observer": "gsainz",
+        "width": 398,
+        "x": 655,
+        "y": 73,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:34.054Z"
+    }
+]

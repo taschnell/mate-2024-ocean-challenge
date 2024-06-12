@@ -1,0 +1,28 @@
+[
+    {
+        "uuid": "cd1aaf3f-3821-4fef-be55-56ff5c43f17a",
+        "userDefinedKey": "0bbfdd4f-4a83-4a06-3860-af145158c11e",
+        "concept": "Asteroidea",
+        "height": 84,
+        "observer": "yolov5",
+        "width": 120,
+        "x": 1460,
+        "y": 698,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:23:19.751Z"
+    },
+    {
+        "uuid": "ea7adcd1-75b9-463b-b47b-65f0eea97304",
+        "userDefinedKey": "1c46c9cc-45f1-463d-3a60-af145158c11e",
+        "concept": "Ophiuroidea",
+        "height": 55,
+        "observer": "yolov5",
+        "width": 72,
+        "x": 267,
+        "y": 426,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:23:19.751Z"
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "a8379644-8665-49fc-914a-a313e4e09a57",
+        "userDefinedKey": "c86684ab-e11f-42c8-a76c-0c6780f5aa1e",
+        "concept": "Abyssocucumis abyssorum",
+        "height": 68,
+        "observer": "master@mbari.org",
+        "width": 73,
+        "x": 1284,
+        "y": 708,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:40:11.124Z"
+    },
+    {
+        "uuid": "5a52831f-cd04-4a3f-8e30-6d937a225f87",
+        "userDefinedKey": "1c0f0f9f-2c97-48c8-4d6c-8fa5bf0cae1e",
+        "concept": "Ophiuroidea",
+        "height": 64,
+        "observer": "master@mbari.org",
+        "width": 69,
+        "x": 1255,
+        "y": 1006,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:40:11.125Z"
+    },
+    {
+        "uuid": "680b39f6-c555-487b-ac88-c0a04d426137",
+        "userDefinedKey": "e1c33764-a6ff-4fe5-eb65-2912bf0cae1e",
+        "concept": "Ophiuroidea",
+        "height": 74,
+        "observer": "master@mbari.org",
+        "width": 88,
+        "x": 1116,
+        "y": 849,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:40:11.130Z"
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "2a476b55-4df4-49e7-95c4-84afcb32f85e",
+        "userDefinedKey": "2e115d4e-a569-4589-8f65-fa685358c11e",
+        "concept": "Ophiuroidea",
+        "height": 59,
+        "observer": "yolov5",
+        "width": 67,
+        "x": 438,
+        "y": 411,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:22:02.045Z"
+    },
+    {
+        "uuid": "c573269a-39ca-43e7-89ea-f75d5a702e3d",
+        "userDefinedKey": "698ffaf5-2020-42a5-9165-fa685358c11e",
+        "concept": "Psolus squamatus",
+        "height": 79,
+        "observer": "yolov5",
+        "width": 109,
+        "x": 661,
+        "y": 758,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:22:02.045Z"
+    },
+    {
+        "uuid": "243e2497-917c-433c-8f84-0dd5286d1e36",
+        "userDefinedKey": "86ea370f-92bf-48a0-9365-fa685358c11e",
+        "concept": "Ophiuroidea",
+        "height": 75,
+        "observer": "yolov5",
+        "width": 77,
+        "x": 1791,
+        "y": 746,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:22:02.045Z"
+    }
+]

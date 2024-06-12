@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "ae88c389-08f3-48c3-877f-8b76a13bdf65",
+        "userDefinedKey": "f2e6fa1f-dd72-4ff2-1363-4e303358c11e",
+        "concept": "Ophiuroidea",
+        "height": 22,
+        "observer": "yolov5",
+        "width": 25,
+        "x": 231,
+        "y": 192,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:22:32.048Z"
+    },
+    {
+        "uuid": "4c3c5ce8-ea0b-42ed-a9bb-0b1b66e9633a",
+        "userDefinedKey": "3f545e70-3fc5-4da7-1b63-4e303358c11e",
+        "concept": "Sebastolobus",
+        "height": 39,
+        "observer": "yolov5",
+        "width": 139,
+        "x": 412,
+        "y": 386,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:22:32.048Z"
+    },
+    {
+        "uuid": "c5a5bef2-5d89-4e38-8f25-537d80d414fa",
+        "userDefinedKey": "7fbef3ea-056b-4f6b-1d63-4e303358c11e",
+        "concept": "Paralomis multispina",
+        "height": 234,
+        "observer": "yolov5",
+        "width": 306,
+        "x": 254,
+        "y": 160,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:22:32.048Z"
+    },
+    {
+        "uuid": "c71e38d3-f6fd-4839-bc1d-afb6251d6f47",
+        "userDefinedKey": "cd6ae88f-229a-4bd5-1763-4e303358c11e",
+        "concept": "Ophiuroidea",
+        "height": 45,
+        "observer": "yolov5",
+        "width": 51,
+        "x": 26,
+        "y": 375,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:22:32.048Z"
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "uuid": "add38359-c44e-447c-bcf6-3b3e76d888ad",
+        "userDefinedKey": "0711fd0f-20a7-4462-9860-2542a1afbc1e",
+        "concept": "Peniagone",
+        "height": 50,
+        "observer": "master@mbari.org",
+        "width": 104,
+        "x": 72,
+        "y": 189,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:45:03.446Z"
+    },
+    {
+        "uuid": "13f0b88b-3c0a-45ef-a84d-eff1e3e5ed68",
+        "userDefinedKey": "25c4373c-6c88-4ca1-276b-63bea1afbc1e",
+        "concept": "Ophiuroidea",
+        "height": 34,
+        "observer": "master@mbari.org",
+        "width": 72,
+        "x": 585,
+        "y": 147,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T17:45:03.448Z"
+    }
+]

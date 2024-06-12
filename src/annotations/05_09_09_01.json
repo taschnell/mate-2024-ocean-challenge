@@ -1,0 +1,93 @@
+[
+    {
+        "uuid": "5ab4cb04-ed68-4301-aa31-3689dc5f9935",
+        "userDefinedKey": "adcc4981-9b10-465a-516d-38e992c9b61e",
+        "concept": "Psolus squamatus",
+        "height": 79,
+        "observer": "gsainz",
+        "width": 83,
+        "x": 1336,
+        "y": 379,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:19:48.331Z"
+    },
+    {
+        "uuid": "855354f1-664b-47bb-b2d1-8a24b96dba45",
+        "userDefinedKey": "050b3f21-03a1-42a0-6c62-30a991c9b61e",
+        "concept": "Macrouridae",
+        "height": 181,
+        "observer": "ndgallo",
+        "width": 90,
+        "x": 1592,
+        "y": 346,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:19:48.332Z"
+    },
+    {
+        "uuid": "0ee54818-e04e-4ca7-be2f-6b8f413dfdf7",
+        "userDefinedKey": "ce8e8ef8-41d6-4e70-af69-4fe193c9b61e",
+        "concept": "Ophiuroidea",
+        "height": 112,
+        "observer": "gsainz",
+        "width": 135,
+        "x": 60,
+        "y": 850,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:19:48.332Z"
+    },
+    {
+        "uuid": "4e66ff2e-0398-4479-94c0-ebeb2ba18249",
+        "userDefinedKey": "958a601d-927e-4f73-506c-8c1992c9b61e",
+        "concept": "Psolus squamatus",
+        "height": 65,
+        "observer": "gsainz",
+        "width": 62,
+        "x": 1097,
+        "y": 54,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:19:48.332Z"
+    },
+    {
+        "uuid": "c4a4ac7e-40fc-4ad3-aad0-8b4f178da9e5",
+        "userDefinedKey": "9cff8f92-4653-49af-4764-a14d92c9b61e",
+        "concept": "Psolus squamatus",
+        "height": 55,
+        "observer": "gsainz",
+        "width": 72,
+        "x": 1152,
+        "y": 94,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:19:48.332Z"
+    },
+    {
+        "uuid": "867acc17-e967-4d74-b5bd-d349da430d86",
+        "userDefinedKey": "af5f06d6-7501-4734-296f-3f9193c9b61e",
+        "concept": "Ophiuroidea",
+        "height": 110,
+        "observer": "gsainz",
+        "width": 103,
+        "x": 0,
+        "y": 294,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:19:48.332Z"
+    },
+    {
+        "uuid": "1e980c40-9392-445c-9803-14f9f687f26a",
+        "userDefinedKey": "28c26a1e-9340-4142-de65-1db692c9b61e",
+        "concept": "Pannychia moseleyi",
+        "height": 71,
+        "observer": "gsainz",
+        "width": 75,
+        "x": 1183,
+        "y": 212,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:19:48.332Z"
+    }
+]

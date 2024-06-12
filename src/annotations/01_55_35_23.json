@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "14536268-82d4-41fe-aad7-91875a11d637",
+        "userDefinedKey": "afc6ed32-cbd7-44d8-246e-645b7158c11e",
+        "concept": "Staurocalyptus",
+        "height": 640,
+        "observer": "yolov5",
+        "width": 616,
+        "x": 639,
+        "y": 202,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:00.112Z"
+    },
+    {
+        "uuid": "aec6c8d6-e51b-444b-844a-4ea2e604a4ac",
+        "userDefinedKey": "66df4a54-c473-4564-206e-645b7158c11e",
+        "concept": "Ophiuroidea",
+        "height": 80,
+        "observer": "yolov5",
+        "width": 71,
+        "x": 1258,
+        "y": 536,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:00.112Z"
+    },
+    {
+        "uuid": "5e576cda-b1d6-4081-b93e-053c2d1e99c0",
+        "userDefinedKey": "5f65bfe4-7b02-4632-266e-645b7158c11e",
+        "concept": "Farrea",
+        "height": 259,
+        "observer": "yolov5",
+        "width": 245,
+        "x": 179,
+        "y": 786,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:00.112Z"
+    },
+    {
+        "uuid": "c47bb27f-a7ff-4606-be0e-83788fe3b677",
+        "userDefinedKey": "17a5a2f2-e3d9-4313-1e6e-645b7158c11e",
+        "concept": "Hexactinellida",
+        "height": 553,
+        "observer": "lonny",
+        "width": 477,
+        "x": 1443,
+        "y": 1,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:00.112Z"
+    },
+    {
+        "uuid": "bde9be25-e6b1-4fe9-b994-4e8fad487a4b",
+        "userDefinedKey": "33b84029-bd05-4fc5-286e-645b7158c11e",
+        "concept": "Farrea",
+        "height": 325,
+        "observer": "yolov5",
+        "width": 348,
+        "x": 1493,
+        "y": 750,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:00.112Z"
+    }
+]

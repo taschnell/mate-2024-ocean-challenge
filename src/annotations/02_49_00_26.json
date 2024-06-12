@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "bf3e2150-f7fd-44fa-9a80-7d89b9f5dd45",
+        "userDefinedKey": "507391fa-12ac-4c39-4b6e-bf62defabf1e",
+        "concept": "Ophiuroidea",
+        "height": 394,
+        "observer": "gsainz",
+        "width": 727,
+        "x": 1,
+        "y": 4,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:30:55.095Z"
+    },
+    {
+        "uuid": "b44a348c-2269-43de-868e-0de3262958d4",
+        "userDefinedKey": "1f40504a-93e0-4a51-5764-dbdeddfabf1e",
+        "concept": "Ophiuroidea",
+        "height": 779,
+        "observer": "gsainz",
+        "width": 747,
+        "x": 8,
+        "y": 101,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:30:55.095Z"
+    },
+    {
+        "uuid": "2de9c356-1ab1-4ec4-8480-b70318cab8de",
+        "userDefinedKey": "99fcac30-5d32-4cc0-7a69-1c6dddfabf1e",
+        "concept": "Octopus californicus",
+        "height": 609,
+        "observer": "svonthun",
+        "width": 842,
+        "x": 757,
+        "y": 350,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:30:55.095Z"
+    }
+]

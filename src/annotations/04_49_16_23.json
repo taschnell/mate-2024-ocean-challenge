@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "1913b766-c9bb-4ea5-8bf6-7ec7e3b11ac6",
+        "userDefinedKey": "4deeef81-31e8-4390-2560-4d9aa4c3aa1e",
+        "concept": "Ophiuroidea",
+        "height": 160,
+        "observer": "expert-observer",
+        "width": 219,
+        "x": 1,
+        "y": 616,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:18:33.821Z"
+    },
+    {
+        "uuid": "70656761-246c-45db-aed8-476764bac958",
+        "userDefinedKey": "840fb63a-30cf-4312-a968-609aa4c3aa1e",
+        "concept": "Ophiuroidea",
+        "height": 151,
+        "observer": "expert-observer",
+        "width": 179,
+        "x": 204,
+        "y": 212,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:18:33.822Z"
+    },
+    {
+        "uuid": "9fd46621-cae1-4cd7-9ff6-f0aea4b760c7",
+        "userDefinedKey": "663bc400-b457-421f-bc68-c198a4c3aa1e",
+        "concept": "Bathyraja kincaidii",
+        "height": 409,
+        "observer": "linda",
+        "width": 438,
+        "x": 956,
+        "y": 548,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:18:33.822Z"
+    }
+]

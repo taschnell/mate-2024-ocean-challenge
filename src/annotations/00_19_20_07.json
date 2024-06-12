@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "6f8a409f-f0b8-4ead-825a-59fcb8d56119",
+        "userDefinedKey": "2ad2cf0d-f2aa-4d57-1164-d74594c3aa1e",
+        "concept": "Ophiuroidea",
+        "height": 73,
+        "observer": "master@mbari.org",
+        "width": 57,
+        "x": 1068,
+        "y": 758,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T16:54:27.734Z"
+    },
+    {
+        "uuid": "00b8dcf0-25c8-476c-9941-afe754196b8c",
+        "userDefinedKey": "a6a7760e-3dde-4a18-f16d-994494c3aa1e",
+        "concept": "Bathyraja microtrachys",
+        "height": 536,
+        "observer": "master@mbari.org",
+        "width": 677,
+        "x": 296,
+        "y": 467,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T16:54:27.741Z"
+    },
+    {
+        "uuid": "ea4813f4-4c5c-4cff-9496-fe72c6657c1b",
+        "userDefinedKey": "ba05cf6b-f0b5-4601-5d66-bc4594c3aa1e",
+        "concept": "Ophiuroidea",
+        "height": 58,
+        "observer": "master@mbari.org",
+        "width": 51,
+        "x": 1020,
+        "y": 887,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T16:54:27.740Z"
+    }
+]

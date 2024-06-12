@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "ed2b7ba6-a93e-45d2-905d-2692012973e8",
+        "userDefinedKey": "791e42ad-bca6-4e3b-cb67-c4c65258c11e",
+        "concept": "Macrouridae",
+        "height": 209,
+        "observer": "gsainz",
+        "width": 544,
+        "x": 63,
+        "y": 231,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.501Z"
+    },
+    {
+        "uuid": "817e98a1-7b2d-4198-a793-0cd546efbd28",
+        "userDefinedKey": "08224bee-c237-4bf9-9162-ccc75258c11e",
+        "concept": "Ophiuroidea",
+        "height": 149,
+        "observer": "yolov5",
+        "width": 150,
+        "x": 415,
+        "y": 18,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.501Z"
+    },
+    {
+        "uuid": "22c84b82-b914-43f4-afc9-9e6c8f4a7d4e",
+        "userDefinedKey": "7343b5df-ba13-47d6-cd67-c4c65258c11e",
+        "concept": "Crinoidea",
+        "height": 203,
+        "observer": "yolov5",
+        "width": 217,
+        "x": 173,
+        "y": 0,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.501Z"
+    },
+    {
+        "uuid": "c6e395bd-d372-44bf-9393-ae1086d21f21",
+        "userDefinedKey": "43bc30ad-1e3f-44a0-c967-c4c65258c11e",
+        "concept": "Macrouridae",
+        "height": 182,
+        "observer": "yolov5",
+        "width": 484,
+        "x": 120,
+        "y": 262,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:52.501Z"
+    }
+]

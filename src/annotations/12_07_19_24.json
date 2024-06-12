@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "d284aa2d-ee55-4c25-9db0-4191c253e66c",
+        "userDefinedKey": "5f93489e-a1b4-46ce-8a6b-51127b58c11e",
+        "concept": "Porifera",
+        "height": 75,
+        "observer": "yolov5",
+        "width": 80,
+        "x": 926,
+        "y": 885,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:16.292Z"
+    },
+    {
+        "uuid": "8c166434-607d-4536-9bd6-ee6b8dc6864c",
+        "userDefinedKey": "cf3a52d0-3d71-4571-8e6b-51127b58c11e",
+        "concept": "Culeolus",
+        "height": 193,
+        "observer": "gsainz",
+        "width": 295,
+        "x": 1184,
+        "y": 0,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:16.292Z"
+    },
+    {
+        "uuid": "1532749a-056e-4e4d-befe-992f8b9f6659",
+        "userDefinedKey": "53da4c44-a531-42d0-926b-51127b58c11e",
+        "concept": "Ophiuroidea",
+        "height": 185,
+        "observer": "yolov5",
+        "width": 174,
+        "x": 99,
+        "y": 454,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:16.292Z"
+    },
+    {
+        "uuid": "5b42b96c-0a62-4bf9-af0b-368684db4cae",
+        "userDefinedKey": "feffc727-6372-43d4-946b-51127b58c11e",
+        "concept": "Pandalus amplus",
+        "height": 343,
+        "observer": "yolov5",
+        "width": 267,
+        "x": 17,
+        "y": 135,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:16.292Z"
+    }
+]

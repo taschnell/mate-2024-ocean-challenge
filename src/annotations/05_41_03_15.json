@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "e8436043-5866-4e8b-b4d3-6b574e36dcdf",
+        "userDefinedKey": "c643801e-c780-4dcc-3a6a-41747c58c11e",
+        "concept": "Porifera",
+        "height": 67,
+        "observer": "yolov5",
+        "width": 87,
+        "x": 860,
+        "y": 6,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:26.012Z"
+    },
+    {
+        "uuid": "559f8510-ca8d-449a-bf1c-123f645e5846",
+        "userDefinedKey": "336e1a15-c879-44ca-a068-ec747c58c11e",
+        "concept": "Pandalus amplus",
+        "height": 90,
+        "observer": "yolov5",
+        "width": 70,
+        "x": 860,
+        "y": 76,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:26.012Z"
+    },
+    {
+        "uuid": "d80855e3-2e6f-4fcd-a24f-cf6bd87d9ba6",
+        "userDefinedKey": "a23601c3-5595-4bff-9c68-ec747c58c11e",
+        "concept": "Ophiuroidea",
+        "height": 75,
+        "observer": "yolov5",
+        "width": 110,
+        "x": 605,
+        "y": 3,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:26.013Z"
+    },
+    {
+        "uuid": "8f42edbe-9097-4df2-851f-25dfc5c70f7a",
+        "userDefinedKey": "ec08b813-9118-4ca8-9e68-ec747c58c11e",
+        "concept": "Suction Sampler",
+        "height": 321,
+        "observer": "yolov5",
+        "width": 671,
+        "x": 1028,
+        "y": 31,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:26.013Z"
+    }
+]

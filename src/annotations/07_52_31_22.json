@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "0faebf6c-465b-44e9-9113-c4dc7d22c636",
+        "userDefinedKey": "8cda2659-167a-487e-5f62-28746558c11e",
+        "concept": "Graneledone boreopacifica",
+        "height": 414,
+        "observer": "yolov5",
+        "width": 571,
+        "x": 500,
+        "y": 425,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:36.346Z"
+    },
+    {
+        "uuid": "92f9f76c-ca47-47fc-9ba1-c96a05fba437",
+        "userDefinedKey": "67be8089-4d6b-4e28-5d62-28746558c11e",
+        "concept": "Pandalus amplus",
+        "height": 107,
+        "observer": "yolov5",
+        "width": 120,
+        "x": 846,
+        "y": 141,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:36.346Z"
+    },
+    {
+        "uuid": "2e1c9ab2-479c-455b-8394-e50148a9f147",
+        "userDefinedKey": "849d4955-e16d-4c47-5562-28746558c11e",
+        "concept": "Ophiuroidea",
+        "height": 67,
+        "observer": "yolov5",
+        "width": 71,
+        "x": 1839,
+        "y": 399,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:36.346Z"
+    },
+    {
+        "uuid": "31a5aa6d-6700-47e0-b983-9734dc84a415",
+        "userDefinedKey": "2a66d964-9385-4c36-5b62-28746558c11e",
+        "concept": "Tunicata",
+        "height": 62,
+        "observer": "yolov5",
+        "width": 62,
+        "x": 1554,
+        "y": 273,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:36.346Z"
+    },
+    {
+        "uuid": "d5f645a4-07fb-4bd6-a74d-94576928c429",
+        "userDefinedKey": "5e9aeace-8acb-4076-5962-28746558c11e",
+        "concept": "Ophiuroidea",
+        "height": 133,
+        "observer": "yolov5",
+        "width": 97,
+        "x": 1694,
+        "y": 517,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:36.346Z"
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "cbdc238c-50fd-42e0-9a07-b575cba5b6b1",
+        "userDefinedKey": "a62fce35-bc99-46d6-c263-6b16b577d91e",
+        "concept": "Ophiuroidea",
+        "height": 84,
+        "observer": "lonny",
+        "width": 90,
+        "x": 715,
+        "y": 859,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:02.462Z"
+    },
+    {
+        "uuid": "428a53db-7db4-43c9-ba1d-146cc6d0b16a",
+        "userDefinedKey": "fecbf6f9-edec-4934-c463-6b16b577d91e",
+        "concept": "Ophiuroidea",
+        "height": 56,
+        "observer": "lonny",
+        "width": 65,
+        "x": 315,
+        "y": 852,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:02.462Z"
+    },
+    {
+        "uuid": "b69eaee9-e029-4c09-b2f3-bedaeb68bd3a",
+        "userDefinedKey": "e3393f73-87b3-43ea-c063-6b16b577d91e",
+        "concept": "Antedonoidea",
+        "height": 79,
+        "observer": "lemon",
+        "width": 75,
+        "x": 668,
+        "y": 305,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:20:02.462Z"
+    }
+]

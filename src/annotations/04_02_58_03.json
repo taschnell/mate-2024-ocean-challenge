@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "72eec2d7-b6a2-4693-bb28-e191045b3645",
+        "userDefinedKey": "563a3d7c-9c1b-4d9d-8f65-45ac3958c11e",
+        "concept": "Ophiuroidea",
+        "height": 54,
+        "observer": "yolov5",
+        "width": 54,
+        "x": 1209,
+        "y": 998,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:41.493Z"
+    },
+    {
+        "uuid": "ee3f1c29-ea2e-4513-a338-f15961628838",
+        "userDefinedKey": "0dbed7c9-68e2-41f2-9965-45ac3958c11e",
+        "concept": "Asteroidea",
+        "height": 26,
+        "observer": "yolov5",
+        "width": 29,
+        "x": 1636,
+        "y": 521,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:41.493Z"
+    },
+    {
+        "uuid": "8ddf5d1f-dc7f-46a8-9f51-157ef19bd2d5",
+        "userDefinedKey": "11190206-15c3-477c-9165-45ac3958c11e",
+        "concept": "Ophiuroidea",
+        "height": 48,
+        "observer": "yolov5",
+        "width": 59,
+        "x": 1339,
+        "y": 447,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:41.493Z"
+    },
+    {
+        "uuid": "eb22fdf3-0800-472f-99ef-bf27756f800c",
+        "userDefinedKey": "fcd13256-b276-4f1b-9565-45ac3958c11e",
+        "concept": "Ophiuroidea",
+        "height": 84,
+        "observer": "yolov5",
+        "width": 104,
+        "x": 1641,
+        "y": 987,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:41.493Z"
+    },
+    {
+        "uuid": "244685df-9311-42a4-94ff-6566bad3e9db",
+        "userDefinedKey": "235f8e1a-d48e-4b1f-9365-45ac3958c11e",
+        "concept": "Corallimorphus pilatus",
+        "height": 30,
+        "observer": "gsainz",
+        "width": 44,
+        "x": 1710,
+        "y": 486,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:41.496Z"
+    }
+]

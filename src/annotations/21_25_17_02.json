@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "ed6fde3d-a274-4592-813a-3bb101f25d9d",
+        "userDefinedKey": "126bfb37-b6ba-4ba7-8d68-6f21423abd1e",
+        "concept": "Peniagone gracilis",
+        "height": 71,
+        "observer": "linda",
+        "width": 88,
+        "x": 1539,
+        "y": 709,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:25:20.351Z"
+    },
+    {
+        "uuid": "a9806f94-bb8f-4657-b53e-1abbd7cd8d15",
+        "userDefinedKey": "bbc2d9d0-484d-4991-5f6e-d7ee413abd1e",
+        "concept": "Ophiuroidea",
+        "height": 70,
+        "observer": "linda",
+        "width": 107,
+        "x": 1241,
+        "y": 559,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:25:20.351Z"
+    },
+    {
+        "uuid": "e83c2020-51c7-41a2-8eaf-fb61f9995284",
+        "userDefinedKey": "ea0b3863-d06d-4501-c96f-d0b7413abd1e",
+        "concept": "Smithsonius dorothea",
+        "height": 173,
+        "observer": "linda",
+        "width": 224,
+        "x": 1126,
+        "y": 382,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:25:20.351Z"
+    }
+]

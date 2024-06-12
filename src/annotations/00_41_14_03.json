@@ -1,0 +1,93 @@
+[
+    {
+        "uuid": "f1959637-9027-477c-8db5-9ef38b122564",
+        "userDefinedKey": "80ecadab-c668-4cba-1868-dcf62658c11e",
+        "concept": "Scotoplanes",
+        "height": 74,
+        "observer": "yolov5",
+        "width": 63,
+        "x": 289,
+        "y": 486,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:41.274Z"
+    },
+    {
+        "uuid": "0508cfe5-fce8-4374-a06b-93871e87d79c",
+        "userDefinedKey": "f45ef12e-cf4a-49c2-1268-dcf62658c11e",
+        "concept": "Asteroidea",
+        "height": 26,
+        "observer": "yolov5",
+        "width": 48,
+        "x": 517,
+        "y": 3,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:41.274Z"
+    },
+    {
+        "uuid": "a9ffd112-e486-473a-b54e-136e6cd3d87b",
+        "userDefinedKey": "9a104175-8601-4296-1468-dcf62658c11e",
+        "concept": "Ophiuroidea",
+        "height": 57,
+        "observer": "yolov5",
+        "width": 71,
+        "x": 308,
+        "y": 261,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:41.274Z"
+    },
+    {
+        "uuid": "73bc6672-47a4-4915-84b6-fe44eb5cc045",
+        "userDefinedKey": "eb07ed8f-8a64-4287-1e68-dcf62658c11e",
+        "concept": "Asteroidea",
+        "height": 75,
+        "observer": "yolov5",
+        "width": 91,
+        "x": 102,
+        "y": 566,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:41.274Z"
+    },
+    {
+        "uuid": "d3df5fd9-cb61-4c70-882b-8a90ed3a5c1d",
+        "userDefinedKey": "c91deeaf-c7b0-48ee-2068-dcf62658c11e",
+        "concept": "Scotoplanes",
+        "height": 111,
+        "observer": "yolov5",
+        "width": 100,
+        "x": 1251,
+        "y": 561,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:41.274Z"
+    },
+    {
+        "uuid": "528586ed-a350-4812-93c3-b33c0b1555ac",
+        "userDefinedKey": "e5b93877-b3ec-4417-1c68-dcf62658c11e",
+        "concept": "Scotoplanes",
+        "height": 85,
+        "observer": "yolov5",
+        "width": 78,
+        "x": 1244,
+        "y": 160,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:41.274Z"
+    },
+    {
+        "uuid": "d5add6fb-fd2d-4f8e-8887-652dc611cff3",
+        "userDefinedKey": "e1992e7f-f43a-4bad-1a68-dcf62658c11e",
+        "concept": "Asteroidea",
+        "height": 59,
+        "observer": "yolov5",
+        "width": 82,
+        "x": 1263,
+        "y": 259,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:41.274Z"
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "3e28605d-d50d-4395-a9fe-909c974d821d",
+        "userDefinedKey": "ccd2f678-dae6-4cd6-b162-03207f58c11e",
+        "concept": "Ophiuroidea",
+        "height": 167,
+        "observer": "yolov5",
+        "width": 197,
+        "x": 545,
+        "y": 678,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:41.637Z"
+    },
+    {
+        "uuid": "d2aacae1-90f7-4c6b-b05c-851835e166e8",
+        "userDefinedKey": "7d7bc59b-744d-4081-b362-03207f58c11e",
+        "concept": "Asteroidea",
+        "height": 165,
+        "observer": "yolov5",
+        "width": 119,
+        "x": 1136,
+        "y": 768,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:41.637Z"
+    },
+    {
+        "uuid": "697e8127-61a5-4ae2-bd31-f5fff9307c1c",
+        "userDefinedKey": "bf0dcc64-8f45-4c55-ad62-03207f58c11e",
+        "concept": "Paralomis multispina",
+        "height": 200,
+        "observer": "yolov5",
+        "width": 186,
+        "x": 968,
+        "y": 208,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:41.637Z"
+    }
+]

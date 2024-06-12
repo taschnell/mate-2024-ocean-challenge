@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "75e0047d-9160-4112-852f-8bef82f0d521",
+        "userDefinedKey": "70d201f8-767b-43f0-1f69-c7643478d91e",
+        "concept": "Ophiuroidea",
+        "height": 144,
+        "observer": "lonny",
+        "width": 155,
+        "x": 1658,
+        "y": 569,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:36.203Z"
+    },
+    {
+        "uuid": "3e3d550e-2a37-4a16-9378-a847efcbf63f",
+        "userDefinedKey": "6e1e91f1-5300-4d02-2169-c7643478d91e",
+        "concept": "Caridea",
+        "height": 82,
+        "observer": "lonny",
+        "width": 78,
+        "x": 1542,
+        "y": 788,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:36.203Z"
+    },
+    {
+        "uuid": "7ac83f78-3edc-4036-938e-f18fdfe38c8d",
+        "userDefinedKey": "0c7dae52-67be-4cf3-1d69-c7643478d91e",
+        "concept": "Hymenaster",
+        "height": 81,
+        "observer": "lonny",
+        "width": 96,
+        "x": 795,
+        "y": 455,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:36.203Z"
+    }
+]

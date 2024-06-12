@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "78a6429c-3b3c-4a13-80e6-837b6519e7a0",
+        "userDefinedKey": "dcaa664e-0c5f-4705-dc68-51494d58c11e",
+        "concept": "Ophiuroidea",
+        "height": 59,
+        "observer": "yolov5",
+        "width": 62,
+        "x": 1453,
+        "y": 741,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:00.087Z"
+    },
+    {
+        "uuid": "8cb8bd99-315b-4d6f-a794-94dc766abf2f",
+        "userDefinedKey": "8e71411e-3260-4564-b66b-824a4d58c11e",
+        "concept": "Ophiuroidea",
+        "height": 86,
+        "observer": "yolov5",
+        "width": 116,
+        "x": 1017,
+        "y": 137,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:00.087Z"
+    },
+    {
+        "uuid": "9a41577a-58e4-48a5-a600-4da24739bfa9",
+        "userDefinedKey": "8cb858a4-250f-4a13-da68-51494d58c11e",
+        "concept": "Bathypterois",
+        "height": 48,
+        "observer": "lonny",
+        "width": 114,
+        "x": 1648,
+        "y": 387,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:00.090Z"
+    },
+    {
+        "uuid": "e559bb2f-e89e-47ef-a7c9-68426a665e8f",
+        "userDefinedKey": "78d19261-7c12-47c1-e068-51494d58c11e",
+        "concept": "Glyphocrangon vicaria",
+        "height": 43,
+        "observer": "lonny",
+        "width": 76,
+        "x": 1806,
+        "y": 93,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:21:00.090Z"
+    }
+]

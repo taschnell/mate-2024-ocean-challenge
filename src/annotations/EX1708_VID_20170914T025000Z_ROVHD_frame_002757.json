@@ -1,0 +1,68 @@
+[
+    {
+        "uuid": "c1b00853-c9db-4422-b652-ad3ba87ea256",
+        "concept": "narella sp.",
+        "height": 240,
+        "width": 171,
+        "x": 1389,
+        "y": 383,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-30T14:50:04.261Z"
+    },
+    {
+        "uuid": "ec1a4970-8dfb-44d5-95a2-2dec45b8810e",
+        "concept": "narella sp.",
+        "height": 151,
+        "width": 159,
+        "x": 1358,
+        "y": 327,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-30T14:50:04.261Z"
+    },
+    {
+        "uuid": "be3ae35a-af1c-4bd5-9c64-7834e7a5b605",
+        "concept": "narella sp.",
+        "height": 325,
+        "width": 266,
+        "x": 1110,
+        "y": 147,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-30T14:50:04.261Z"
+    },
+    {
+        "uuid": "e717b3a6-723d-41bc-8a69-06bffe497806",
+        "concept": "narella sp.",
+        "height": 422,
+        "width": 338,
+        "x": 161,
+        "y": 27,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-30T14:50:04.261Z"
+    },
+    {
+        "uuid": "12128be5-378b-4c0f-aeb1-296d26f9faff",
+        "concept": "Ophiuroidea",
+        "height": 63,
+        "width": 43,
+        "x": 334,
+        "y": 272,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-30T14:50:04.261Z"
+    },
+    {
+        "uuid": "6c1256b1-7ddd-468e-bef6-a26973f6e018",
+        "concept": "Uroptychus sp.",
+        "height": 85,
+        "width": 49,
+        "x": 1584,
+        "y": 395,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-30T14:50:04.261Z"
+    }
+]

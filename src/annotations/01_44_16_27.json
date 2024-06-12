@@ -1,0 +1,28 @@
+[
+    {
+        "uuid": "2e6414f2-b4e5-4391-9dfb-1cc67fd27427",
+        "userDefinedKey": "a3c893aa-b2c4-40b5-ec6c-35e13758c11e",
+        "concept": "Ophiuroidea",
+        "height": 90,
+        "observer": "yolov5",
+        "width": 155,
+        "x": 763,
+        "y": 194,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:34.042Z"
+    },
+    {
+        "uuid": "3f92c8e1-862b-4114-8ccd-ab882e56fb9a",
+        "userDefinedKey": "27548728-536b-4718-ee6c-35e13758c11e",
+        "concept": "Coryphaenoides",
+        "height": 113,
+        "observer": "gsainz",
+        "width": 373,
+        "x": 1405,
+        "y": 315,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:19:34.042Z"
+    }
+]

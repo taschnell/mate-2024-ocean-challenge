@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "7605e4f9-0c57-46d4-9889-00df4f34366a",
+        "userDefinedKey": "6905ab51-d5f2-4158-4b65-6db35258c11e",
+        "concept": "Porifera",
+        "height": 55,
+        "observer": "yolov5",
+        "width": 58,
+        "x": 1501,
+        "y": 1018,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:26.186Z"
+    },
+    {
+        "uuid": "83d431a8-b08e-4254-834d-f5dc25653164",
+        "userDefinedKey": "d18333df-b397-42fd-4d65-6db35258c11e",
+        "concept": "Ophiuroidea",
+        "height": 87,
+        "observer": "yolov5",
+        "width": 84,
+        "x": 910,
+        "y": 790,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:26.186Z"
+    },
+    {
+        "uuid": "744fb0c5-e77e-4b36-8af6-eb90121802bd",
+        "userDefinedKey": "1a03b887-bb3a-488b-4f65-6db35258c11e",
+        "concept": "Caridea",
+        "height": 84,
+        "observer": "yolov5",
+        "width": 79,
+        "x": 1394,
+        "y": 107,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:26.186Z"
+    },
+    {
+        "uuid": "bb1c421a-a989-4163-8be3-96d4e4b1b9ea",
+        "userDefinedKey": "c62d6109-a1ec-42de-5165-6db35258c11e",
+        "concept": "Ophiuroidea",
+        "height": 96,
+        "observer": "yolov5",
+        "width": 94,
+        "x": 1035,
+        "y": 744,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:15:26.186Z"
+    }
+]

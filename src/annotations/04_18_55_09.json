@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "4a00dde7-4acf-4ff3-b8fe-573bcb3e7594",
+        "userDefinedKey": "5dfb2cd2-e7b0-44b2-4b62-0bacdab4b81e",
+        "concept": "Heterocarpus sp. 1",
+        "height": 94,
+        "observer": "linda",
+        "width": 111,
+        "x": 1026,
+        "y": 939,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:19:35.007Z"
+    },
+    {
+        "uuid": "33e566cd-face-4596-9260-bf8301358206",
+        "userDefinedKey": "8ca04700-22a8-4308-c364-e3f6dab4b81e",
+        "concept": "Physiculus rastrelliger",
+        "height": 121,
+        "observer": "linda",
+        "width": 48,
+        "x": 791,
+        "y": 512,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:19:35.007Z"
+    },
+    {
+        "uuid": "7189b79e-4cda-416c-ba48-b8b441ceddb1",
+        "userDefinedKey": "4bfa918a-e207-41f0-8b68-ed4468b5b81e",
+        "concept": "Heterocarpus sp. 1",
+        "height": 90,
+        "observer": "linda",
+        "width": 119,
+        "x": 306,
+        "y": 715,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:19:35.007Z"
+    },
+    {
+        "uuid": "8710577d-c294-4b0c-b9a0-a1ef1ade0799",
+        "userDefinedKey": "fecfe262-8f36-4d3c-f660-7df8deb4b81e",
+        "concept": "Ophiuroidea",
+        "height": 72,
+        "observer": "linda",
+        "width": 64,
+        "x": 586,
+        "y": 285,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:19:35.007Z"
+    },
+    {
+        "uuid": "7f3d80da-9f80-4507-bff0-f50372749bcf",
+        "userDefinedKey": "49a04c3f-0167-40e9-8962-eb4fdab4b81e",
+        "concept": "Heterocarpus sp. 1",
+        "height": 78,
+        "observer": "linda",
+        "width": 117,
+        "x": 296,
+        "y": 641,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:19:35.007Z"
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "uuid": "24a815e7-85d3-4f78-91f0-0485df99ab8f",
+        "userDefinedKey": "c5331c2d-458e-4b3d-2061-9b901bc5aa1e",
+        "concept": "Sebastolobus",
+        "height": 90,
+        "observer": "master@mbari.org",
+        "width": 85,
+        "x": 179,
+        "y": 172,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T16:51:27.032Z"
+    },
+    {
+        "uuid": "f8c80e5a-1b0c-4fc7-a757-eca7bfa396a9",
+        "userDefinedKey": "b16ef85e-7cf9-4ff2-c96d-59921bc5aa1e",
+        "concept": "Ophiuroidea",
+        "height": 79,
+        "observer": "master@mbari.org",
+        "width": 75,
+        "x": 318,
+        "y": 18,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T16:51:27.044Z"
+    },
+    {
+        "uuid": "fbfa9b96-574e-4867-b8d7-980f468248e6",
+        "userDefinedKey": "67450a77-b36e-43a0-4565-46921bc5aa1e",
+        "concept": "Ophiuroidea",
+        "height": 35,
+        "observer": "master@mbari.org",
+        "width": 41,
+        "x": 614,
+        "y": 121,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T16:51:27.043Z"
+    },
+    {
+        "uuid": "814fbf9f-a481-4b0c-8783-88fed6075a6d",
+        "userDefinedKey": "52ca490e-be66-47a6-a16e-2d921bc5aa1e",
+        "concept": "Ophiuroidea",
+        "height": 37,
+        "observer": "master@mbari.org",
+        "width": 52,
+        "x": 544,
+        "y": 348,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-11-01T16:51:27.045Z"
+    }
+]

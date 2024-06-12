@@ -1,0 +1,80 @@
+[
+    {
+        "uuid": "73e37330-2f9f-4022-a3b0-d9e2609b87e4",
+        "userDefinedKey": "1d26d22c-863c-4306-b365-b4a2c8b1b61e",
+        "concept": "Ophiuroidea",
+        "height": 99,
+        "observer": "gsainz",
+        "width": 166,
+        "x": 791,
+        "y": 228,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:17:28.816Z"
+    },
+    {
+        "uuid": "e7a29476-8efa-4889-8985-6cdee7607860",
+        "userDefinedKey": "fd0260bc-5549-486d-9566-9a1cc9b1b61e",
+        "concept": "Ophiuroidea",
+        "height": 114,
+        "observer": "gsainz",
+        "width": 143,
+        "x": 618,
+        "y": 815,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:17:28.816Z"
+    },
+    {
+        "uuid": "11872252-b67f-4f07-997d-faf8de7d6b32",
+        "userDefinedKey": "9b35c4b5-a7f7-4199-696a-69e4c8b1b61e",
+        "concept": "Ophiuroidea",
+        "height": 112,
+        "observer": "gsainz",
+        "width": 84,
+        "x": 490,
+        "y": 403,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:17:28.816Z"
+    },
+    {
+        "uuid": "832381e0-7d71-4f63-b4c8-0b11d3ab51f3",
+        "userDefinedKey": "76fa665a-2fbf-45a6-276b-4e3fc9b1b61e",
+        "concept": "Ophiuroidea",
+        "height": 107,
+        "observer": "gsainz",
+        "width": 154,
+        "x": 757,
+        "y": 972,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:17:28.816Z"
+    },
+    {
+        "uuid": "a63c8abc-9cad-4c57-ae66-eb43a04025f6",
+        "userDefinedKey": "865052ab-b4a1-499d-976e-097dc9b1b61e",
+        "concept": "Ophiuroidea",
+        "height": 92,
+        "observer": "gsainz",
+        "width": 169,
+        "x": 1006,
+        "y": 527,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:17:28.816Z"
+    },
+    {
+        "uuid": "bf657d75-9bbb-4cb5-9c8c-6a3984991d77",
+        "userDefinedKey": "41ad075c-520a-42a6-c16e-8126c8b1b61e",
+        "concept": "Sebastidae",
+        "height": 105,
+        "observer": "gsainz",
+        "width": 266,
+        "x": 1207,
+        "y": 29,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:17:28.817Z"
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "uuid": "e9e25ee5-b164-4529-94ce-0b17946251ae",
+        "userDefinedKey": "49b0de5a-4df7-434f-b466-30b63958c11e",
+        "concept": "Ophiuroidea",
+        "height": 143,
+        "observer": "yolov5",
+        "width": 162,
+        "x": 296,
+        "y": 487,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:13.421Z"
+    },
+    {
+        "uuid": "7d63f47b-fb2a-4b50-a7db-fb500202f459",
+        "userDefinedKey": "08868374-7b3c-410b-b066-30b63958c11e",
+        "concept": "Saxipendium implicatum",
+        "height": 119,
+        "observer": "lonny",
+        "width": 67,
+        "x": 609,
+        "y": 122,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:13.421Z"
+    },
+    {
+        "uuid": "085d4c94-30f9-4ce9-8dc1-779f4c3181ed",
+        "userDefinedKey": "8814860d-9d04-40ad-b266-30b63958c11e",
+        "concept": "Ophiuroidea",
+        "height": 169,
+        "observer": "yolov5",
+        "width": 122,
+        "x": 1069,
+        "y": 671,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:17:13.421Z"
+    }
+]

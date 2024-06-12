@@ -1,0 +1,80 @@
+[
+    {
+        "uuid": "8aeda32a-b77c-4bda-8a78-53aa42df1613",
+        "userDefinedKey": "3b9f792b-f1ec-42ef-7764-187a06ccda1e",
+        "concept": "Ophiuroidea",
+        "height": 81,
+        "observer": "lonny",
+        "width": 99,
+        "x": 949,
+        "y": 430,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:16.316Z"
+    },
+    {
+        "uuid": "9b2e98ff-60f5-451c-b561-40ef227a0045",
+        "userDefinedKey": "d65b2d59-b4cf-4528-7364-187a06ccda1e",
+        "concept": "Munnopsidae",
+        "height": 96,
+        "observer": "lonny",
+        "width": 93,
+        "x": 16,
+        "y": 296,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:16.316Z"
+    },
+    {
+        "uuid": "c95578f8-525b-4c30-bcb5-a928e8505f3e",
+        "userDefinedKey": "ab64bec9-82ea-4db4-7564-187a06ccda1e",
+        "concept": "Ophiuroidea",
+        "height": 138,
+        "observer": "lonny",
+        "width": 79,
+        "x": 1841,
+        "y": 444,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:16.316Z"
+    },
+    {
+        "uuid": "63200b4b-0304-4e71-b0ed-33f05dc3d61a",
+        "userDefinedKey": "dc6e0b6d-7ff4-4b72-7164-187a06ccda1e",
+        "concept": "Crinoidea",
+        "height": 119,
+        "observer": "lonny",
+        "width": 127,
+        "x": 121,
+        "y": 684,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:16.316Z"
+    },
+    {
+        "uuid": "43489274-1df9-4afe-804d-63fa825f8686",
+        "userDefinedKey": "bdde89bf-3e6d-4b10-6d64-187a06ccda1e",
+        "concept": "Abyssocucumis abyssorum",
+        "height": 152,
+        "observer": "lonny",
+        "width": 285,
+        "x": 108,
+        "y": 914,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:16.316Z"
+    },
+    {
+        "uuid": "97405cde-3f3d-4537-83e2-f509728a1c84",
+        "userDefinedKey": "e8a50dae-bf7d-44f0-6f64-187a06ccda1e",
+        "concept": "Cerianthidae",
+        "height": 101,
+        "observer": "lonny",
+        "width": 123,
+        "x": 473,
+        "y": 58,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:13:16.316Z"
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "uuid": "ed20bc48-07c7-4a12-afb5-7f5dd137162c",
+        "userDefinedKey": "877f0250-ccf0-43f9-7560-0f869ac3aa1e",
+        "concept": "Ophiuroidea",
+        "height": 86,
+        "observer": "expert-observer",
+        "width": 89,
+        "x": 1188,
+        "y": 646,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:15:59.212Z"
+    },
+    {
+        "uuid": "58b2ba66-b99f-4198-99de-d21d7181087a",
+        "userDefinedKey": "13f5e639-8dbb-46f6-5c69-aa849ac3aa1e",
+        "concept": "Bathyraja trachura",
+        "height": 216,
+        "observer": "linda",
+        "width": 259,
+        "x": 347,
+        "y": 480,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:15:59.212Z"
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "uuid": "ef8edbe4-d203-487a-ae7b-235fc6404687",
+        "userDefinedKey": "079fca2d-31de-42cc-b16a-61721878d91e",
+        "concept": "Ophiuroidea",
+        "height": 135,
+        "observer": "lonny",
+        "width": 118,
+        "x": 1802,
+        "y": 886,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:08.589Z"
+    },
+    {
+        "uuid": "61a9cce1-d8ea-4f51-ae5d-1f3c46cf0171",
+        "userDefinedKey": "9ca5a33b-dbbb-4c47-c361-64721878d91e",
+        "concept": "Paelopatides confundens",
+        "height": 52,
+        "observer": "lonny",
+        "width": 71,
+        "x": 1047,
+        "y": 494,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:08.589Z"
+    },
+    {
+        "uuid": "7024c1e7-0cee-454e-9db2-c9874ceee7fb",
+        "userDefinedKey": "bbfb3422-b129-4f0b-ad6a-61721878d91e",
+        "concept": "Ophiuroidea",
+        "height": 87,
+        "observer": "lonny",
+        "width": 103,
+        "x": 802,
+        "y": 926,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:08.593Z"
+    },
+    {
+        "uuid": "95de29ec-7a4a-440c-b13e-1bd466b339a5",
+        "userDefinedKey": "913a1270-ea17-4d7a-c561-64721878d91e",
+        "concept": "Paelopatides confundens",
+        "height": 78,
+        "observer": "lonny",
+        "width": 48,
+        "x": 901,
+        "y": 502,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:08.593Z"
+    },
+    {
+        "uuid": "798294b9-7b7f-481c-9351-a056b1e67f65",
+        "userDefinedKey": "3a65a35b-77c8-4149-af6a-61721878d91e",
+        "concept": "Ophiuroidea",
+        "height": 108,
+        "observer": "lonny",
+        "width": 115,
+        "x": 622,
+        "y": 951,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2023-09-14T20:18:08.593Z"
+    }
+]

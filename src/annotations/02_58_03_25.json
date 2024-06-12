@@ -1,0 +1,28 @@
+[
+    {
+        "uuid": "3b40c8db-26a3-41e5-8a8e-4f42604c8b6e",
+        "userDefinedKey": "e1024db2-9497-4020-976c-51593a64b91e",
+        "concept": "Beringraja rhina",
+        "height": 378,
+        "observer": "linda",
+        "width": 817,
+        "x": 272,
+        "y": 232,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:20:45.119Z"
+    },
+    {
+        "uuid": "169445ad-d504-4e42-a8c2-b473424a9006",
+        "userDefinedKey": "95a82739-3f9a-4485-aa6d-5b138c7cb91e",
+        "concept": "Ophiuroidea",
+        "height": 220,
+        "observer": "lemon",
+        "width": 328,
+        "x": 1210,
+        "y": 620,
+        "rejected": false,
+        "verified": false,
+        "lastUpdatedTimestamp": "2021-09-29T21:20:45.119Z"
+    }
+]
